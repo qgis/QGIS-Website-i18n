@@ -1,0 +1,205 @@
+# 
+# Translators:
+# James Dyer <james.p.dyer15.mil@mail.mil>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: James Dyer <james.p.dyer15.mil@mail.mil>, 2018\n"
+"Language-Team: Arabic (http://www.transifex.com/qgis/qgis-website/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
+msgid "Using the processing toolbox to automate snow classification"
+msgstr "استخدام مربع أدوات المعالجة لأتمتة تصنيف الثلج"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:6
+msgid ""
+"Snowy Hydro Limited (SHL) is a peak electricity generator based in the Snowy"
+" Mountains of New South Wales, Australia. Despite owning a variety of "
+"generation assets across the country, Snowy Hydro Limited is best known for "
+"the custodianship of an iconic piece of Australian infrastructure, the Snowy"
+" Mountains Hydro Electric Scheme."
+msgstr "ثلجي هيدرو المحدودة (SHL) هو مولد الكهرباء الذروة في الجبال الثلجية في شمال ويلز الجديدة ، أستراليا. على الرغم من امتلاك مجموعة متنوعة من أصول التوليد في جميع أنحاء البلاد ، إلا أن شركة هيدرو المحدودة ذات المياه الثلجية تشتهر باحتفاظها بقطعة بارزة من البنية التحتية الأسترالية ، وهي مخطط الطاقة الكهرمائية للجبال الثلجية."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:9
+msgid ""
+"The Snowy Mountains Hydro Electric Scheme, is made possible by seasonal snow"
+" falls in the New South Wales alpine region. Water from the spring snow melt"
+" is used to generate electricity addressing peak demand in the national "
+"electricity market, while also diverting water to the drier inland areas of "
+"South Eastern Australia for irrigation and agriculture."
+msgstr "يتم جعل مخطط الطاقة الكهرمائية للجبال الثلجية ممكنًا بسبب تساقط الثلوج الموسمية في منطقة جبال الألب في شمال ويلز الجديدة. يتم استخدام المياه المتولدة من ذوبان الثلوج الربيعي لتوليد الكهرباء التي تعالج ذروة الطلب في سوق الكهرباء الوطني ، بينما تقوم أيضًا بتحويل المياه إلى المناطق الداخلية الأكثر جفافاً في جنوب شرق أستراليا لأغراض الري والزراعة."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:12
+msgid ""
+"Classifying snow cover over the winter months allows SHL to monitor the life"
+" cycle of the snow covered area, archive coverage areas for historical "
+"records, and provide coverage statistics to the hydrographic services team "
+"for water yield and storage forecasts."
+msgstr "إن تصنيف الغطاء الثلجي خلال أشهر الشتاء يتيح لشركة SHL مراقبة دورة حياة المنطقة المغطاة بالثلوج ، ومناطق التغطية الأرشيفية للسجلات التاريخية ، وتوفير إحصاءات التغطية لفريق الخدمات الهيدروغرافية من أجل توقعات إنتاجية المياه وتخزينها."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
+msgid "Map 1.1 Snowy Water Catchment Map"
+msgstr "خريطة 1.1 خريطة مستجمعات المياه الثلجية"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
+msgid "Background"
+msgstr "خلفية"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:25
+msgid ""
+"Each year during the winter months (1st June to the 31st October) SHL "
+"obtains as many cloud free images as possible from the MODIS Terra (EOS AM) "
+"satellite. These images are then ingested into an algorithm known as the "
+"Normalised Difference Snow Index (NDSI), which is used to indicate areas "
+"where snow is present. While this algorithm is not unique to any one "
+"particular sensor, the MODIS instrument was chosen due to its adequate "
+"spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
+"Water Catchment)."
+msgstr "في كل عام خلال أشهر الشتاء (من 1 يونيو إلى 31 أكتوبر) تحصل شركة SHL على أكبر عدد ممكن من الصور السحابية من القمر الصناعي MODIS Terra (EOS AM). يتم بعد ذلك استيعاب هذه الصور في خوارزمية تُعرف باسم مؤشر فرق الثلوج  (NDSI) ، والذي يستخدم للإشارة إلى المناطق التي يوجد بها الثلج. في حين أن هذه الخوارزمية ليست فريدة من نوعها لأي مستشعر معين ، فقد تم اختيار أداة MODIS بسبب الدقة المكانية الكافية لها والتغطية اليومية لمنطقة المشروع (خريطة 1.1 خريطة مستجمعات المياه الثلجية)."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
+msgid "Aim"
+msgstr "تصويب"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:31
+msgid ""
+"The aim of this project is to automate the NDSI workflow as a model in the "
+"QGIS processing toolbox. The required output is a vector polygon showing the"
+" snow covered extent within the Snowy Water Catchment, along with "
+"attribution describing the total area covered in square kilometres."
+msgstr "الهدف من هذا المشروع هو أتمتة سير عمل NDSI كنموذج في صندوق أدوات معالجة QGIS. الناتج المطلوب هو عبارة عن مضلع متجه يظهر المدى المغطى بالثلج داخل مستجمعات المياه الثلجية ، بالإضافة إلى الإسناد الذي يصف المساحة الكلية التي تغطيها الكيلومترات المربعة."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
+msgid "Method"
+msgstr "طريقة"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:37
+msgid ""
+"The NDSI algorithm itself is quite simple (show below in Formula 1.1 - "
+"Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
+"to extract snow cover in a vector format also lends itself nicely to a "
+"processing toolbox model."
+msgstr "خوارزمية NDSI نفسها بسيطة جداً (تظهر أدناه في معادلة 1.1 - عادي مؤشر فرق الثلوج (NDSI)) والخطوات اللاحقة المطلوبة لاستخراج الغطاء الثلجي في تنسيق متجه ، تفسح المجال بشكل جيد لطراز صندوق أدوات المعالجة."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
+msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
+msgstr "المعادلة 1.1 - الفرق المقسوم مؤشر الثلج (NDSI)"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:47
+msgid ""
+"This NDSI algorithm will return results between -1 and 1, with the threshold"
+" for snow typically being values greater than 0.4. An example of the NDSI "
+"output is shown below (Map 1.3 - NDSI output), alongside a natural colour "
+"image (Map 1.2 - MODIS true colour) for the 13th July 2014. As seen from "
+"these images the NDSI output is very good at discriminating snow covered "
+"areas from other land cover types and clouds. It can however misclassify "
+"portions of large water bodies as snow, caused by water having absorption "
+"characteristics in the Near Infrared part of the spectrum. This "
+"characteristic of the NDSI indicates the need to incorporate a water mask at"
+" some stage in the model."
+msgstr "ستعطي خوارزمية NDSI هذه نتائج بين -1 و 1 ، مع كون قيمة الحد الأدنى للثلج عادةً قيم أكبر من 0.4. يظهر مثال لخرج NDSI أدناه (خريطة 1.3 - ناتج NDSI) ، إلى جانب صورة طبيعية ملونة (خريطة 1.2 - MODIS لون حقيقي) في 13 يوليو 2014. كما يتضح من هذه الصور ، فإن خرج NDSI جيد جدًا في التمييز بين الثلج المناطق المغطاة من أنواع الغطاء الأرضي والغيوم الأخرى. ومع ذلك ، يمكن تصنيف أجزاء كبيرة من المسطحات المائية على أنها تساقط الثلوج ، بسبب المياه التي لها خصائص امتصاص في الجزء القريب من الأشعة تحت الحمراء في الطيف. تشير هذه الخاصية في NDSI إلى الحاجة إلى دمج قناع مائي في مرحلة ما في النموذج."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
+msgid "Map 1.2 - MODIS true colour"
+msgstr "خريطة 1.2 - MODIS اللون الحقيقي"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:62
+msgid "Map 1.3 - NDSI output"
+msgstr "خريطة 1.3 - ناتج NDSI"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:69
+msgid "Map 1.4 - Recoded \"Snow\" vs \"Non snow\""
+msgstr "خريطة 1.4 - مشفر \"الثلج\" مقابل \"غير الثلج\""
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:72
+msgid ""
+"The NDSI output is created with some very simple band map by using the GRASS"
+" module \"r.mapcalculator\". Once the NDSI grid was available the NDSI "
+"threshold of 0.4 needed to be applied and this would result in a boolean "
+"grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
+"another GRASS module \"r.recode\" was used and produced the result shown "
+"above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
+msgstr "يتم إنشاء مخرجات NDSI باستخدام خريطة نطاق بسيطة جدًا باستخدام \"r.mapcalculator\" لنموذج GRASS. وبمجرد توفر شبكة NDSI ، يجب تطبيق حد NDSI البالغ 0.4 والذي سيؤدي إلى وجود شبكة منطقية تعرض مناطق \"الثلج\" و \"غير الثلج\". وللحصول على هذا التصنيف ، تم استخدام وحدة أخرى من نوع GRASS \"r.recode\" وأنتجت النتيجة الموضحة أعلاه في الخريطة 1.4 \"الثلج\" مقابل \"غير الثلج\"."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
+msgid ""
+"The recoded grid was then converted to a vector polygon dataset and the snow"
+" covered areas were extracted (shown below, Map 1.5 - Extracted snow). The "
+"snow covered areas were then clipped to the Snowy Water Catchment  (shown "
+"below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
+"masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
+" area statistics for the snow covered area is generated."
+msgstr "ثم تم تحويل الشبكة المعاد تدويرها إلى مجموعة بيانات مضلع ناقلات وتم استخراج المناطق المغطاة بالثلوج (كما هو موضح أدناه ، خريطة 1.5 - الثلج المستخرج). ثم تم قص المناطق المغطاة بالثلج إلى مستجمعات المياه الثلجية (كما هو موضح أدناه ، خريطة - 1.6 الثلج داخل SWC) ، ثم يتم إخفاء المسطحات المائية الكبيرة (كما هو موضح أدناه ، خريطة 1.7 - منطقة مغطاة بالثلج النهائي) ، وأخيرًا المنطقة يتم إنشاء إحصاءات للمنطقة المغطاة بالثلوج."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
+msgid "Map 1.5 - Extracted Snow"
+msgstr "خريطة 1.5 - مستخلص الثلج"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:90
+msgid "Map 1.6 - Snow inside the SWC"
+msgstr "خريطة 1.6 - الثلج داخل SWC"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
+msgid "Map 1.7 - Final snow covered area"
+msgstr "الخريطة 1.7 - منطقة مغطاة بالثلج"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
+msgid ""
+"The output from the model is a vector polygon showing the snow covered area "
+"within the Snowy Water Catchment. The attributes of the polygon include the "
+"area covered by the snow and the percentage of the catchment that is "
+"covered. The model in its entirety can be seen below in \"Image 1.1 - "
+"Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
+msgstr "الناتج من النموذج هو مضلع متجه يظهر المنطقة المغطاة بالثلج داخل مستجمعات المياه الثلجية. تشتمل سمات المضلع على المساحة المغطاة بالثلج ونسبة المستودع التي يتم تغطيتها. يمكن رؤية النموذج في مجمله أدناه في \"صورة 1.1 - نموذج صندوق الأدوات لمعالجة بيانات QGIS المعيارية للفهرسة (NDSI)\"."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
+msgid ""
+"Image 1.1 - Normalised Difference Snow Index (NDSI) QGIS processing toolbox "
+"model"
+msgstr "صورة 1.1 - نموذج صندوق أدوات معالجة QGIS المعياري لفرق الثلج (NDSI)"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:112
+msgid "Results/Conclusion"
+msgstr "النتائج / اختتام"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:114
+msgid ""
+"The QGIS processing toolbox is a powerful way to automate a workflow such as"
+" this snow classification. The model shown above successfully automates the "
+"snow classification process, and delivers a GIS dataset that can be used for"
+" visualisation and input into further statistical applications. It "
+"successfully removes subjective user error associated with previous methods "
+"used by SHL, while providing a repeatable and consistent classification "
+"tool. Some seasonal results can be viewed here."
+msgstr "يعد صندوق أدوات معالجة QGIS طريقة فعالة لأتمتة سير العمل مثل تصنيف الثلج هذا. يعمل النموذج المبين أعلاه على أتمتة عملية تصنيف الثلوج تلقائيًا ، ويقدم مجموعة بيانات GIS يمكن استخدامها للتصور والمدخلات في مزيد من التطبيقات الإحصائية. ينجح في إزالة الخطأ الذاتي للمستخدم المرتبط بالطرق السابقة المستخدمة من قبل SHL ، مع توفير أداة تصنيف متكررة ومتسقة. يمكن الاطلاع على بعض النتائج الموسمية هنا."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
+msgid "Author"
+msgstr "مؤلف"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:120
+msgid ""
+"Andrew Jeffrey is a GIS Analyst with Snowy Hydro Limited based in Cooma NSW,"
+" Australia. He graduated from Charles Sturt University in Wagga Wagga with a"
+" Bachelor of Science (Bsc) majoring in Spatial Information Systems in 2004. "
+"While at Snowy Hydro Limited he has been able to provide spatial support to "
+"exciting projects such as the Cloud Seeding experiment, and day to day "
+"operations within the organisation."
+msgstr "أندرو جيفري هو محلل نظم معلومات جغرافية مع هيدرو ثلجي محدود مقرها في كوما نيو ساوث ويلز ، أستراليا. تخرج من جامعة تشارلز ستورت في Wagga Wagga مع بكالوريوس العلوم (Bsc) تخصص في أنظمة المعلومات المكانية في عام 2004. بينما كان في مجال الطاقة المائية الثلجية محدودة تمكن من تقديم الدعم المكاني للمشاريع المثيرة مثل تجربة السحب السحاب ، واليوم لعمليات اليوم داخل المنظمة."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

@@ -1,0 +1,30 @@
+# 
+# Translators:
+# KIG Team <info@khagolam.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-05-25 15:59+0000\n"
+"Last-Translator: KIG Team <info@khagolam.com>, 2017\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:5
+msgid "Developing Python plugins"
+msgstr "Python प्लगइन विकसित करणे"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:7
+msgid "Easiest way to start is using the Plugin Builder plugin in QGIS."
+msgstr "प्रारंभ करण्याचा सर्वात सोपा मार्ग म्हणजे प्लगइन बिल्डरचा प्लगइन QGIS मध्ये आहे."
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:9
+msgid ""
+"Search for 'Plugin Builder' in the plugin manager of QGIS, or read up here: "
+"http://plugins.qgis.org/plugins/pluginbuilder/"
+msgstr "QGIS च्या प्लगइन व्यवस्थापकात 'प्लगइन बिल्डर' शोधा किंवा येथे वाचा: http://plugins.qgis.org/plugins/pluginbuilder/"

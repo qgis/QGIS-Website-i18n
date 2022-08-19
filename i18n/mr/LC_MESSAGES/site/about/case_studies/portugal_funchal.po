@@ -1,0 +1,206 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:3
+msgid "Using a free GIS at Jaime Moniz Secondary School: QGIS"
+msgstr "जैमे मोनिझ माध्यमिक विद्यालयात विनामूल्य जीआयएस वापरणे: क्यूजीआयएस"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:5
+msgid ""
+"There will be democratic teaching in our schools or education communities "
+"when we generalize the use of Open Source software. This demands not only a "
+"change in people's way of thinking (sometimes molded by advertising), but "
+"also a sustainable management of expenses and, indirectly, fighting against "
+"software piracy. These advantages which are inherent to the philosophy of "
+"the Open Source software will be the model to follow if we want a quality "
+"education without boundaries or dependencies of any kind. From this "
+"perspective, class 35 of the 12th grade belonging to the technological "
+"course of territory and environment at Jaime Moniz Secondary School, uses "
+"QGIS to develop activities proposed in Geographical Information Systems, "
+"Applied Information Systems and during their training period. Within the "
+"range of options of free GIS, there were three underlying reasons for the "
+"choice of Open Source selection: the user friendly and intuitive approach, "
+"supported by online information provided by forums; the several software "
+"plug-ins and the quality of the product in its final stage. (One should bear"
+" in mind that these academic works were done by students who belong to a "
+"very young age group.)"
+msgstr "जेव्हा आम्ही ओपन सोर्स सॉफ्टवेअरचा सामान्य वापर करतो तेव्हा आमच्या शाळा किंवा शैक्षणिक समुदायांमध्ये लोकशाही शिकवण असेल. हे केवळ लोकांच्या विचार करण्याच्या पद्धतीमध्ये बदल करण्याची मागणी करीत नाही (काहीवेळा जाहिरातींद्वारे आकार दिले जातात), परंतु खर्चांचे शाश्वत व्यवस्थापन आणि अप्रत्यक्षपणे सॉफ्टवेअर चाच्याविरूद्ध संघर्ष करणे देखील आवश्यक आहे. ओपन सोर्स सॉफ्टवेअरच्या तत्वज्ञानाचे अंतर्निहित असे फायदे आम्हाला कोणत्याही प्रकारच्या सीमारेषा किंवा अवलंबनांशिवाय दर्जेदार शिक्षण हवे असल्यास त्याचे अनुसरण करण्याचे मॉडेल असेल. या दृष्टीकोनातून, जैम मोनिझ माध्यमिक विद्यालयाच्या प्रदेश आणि वातावरणाच्या तांत्रिक कोर्सशी संबंधित 12 वी इयत्तेतील वर्ग 35, भौगोलिक माहिती प्रणाली, उपयोजित माहिती प्रणाली आणि त्यांच्या प्रशिक्षण कालावधीत प्रस्तावित क्रियाकलाप विकसित करण्यासाठी क्यूजीआयएस वापरतो. मुक्त जीआयएसच्या पर्यायांच्या श्रेणीमध्ये ओपन सोर्स निवडीच्या निवडीची तीन मूलभूत कारणे होती: वापरकर्त्याद्वारे अनुकूल आणि अंतर्ज्ञानी दृष्टिकोन, मंचाद्वारे प्रदान केलेल्या ऑनलाइन माहितीद्वारे समर्थित; बर्‍याच सॉफ्टवेअर प्लगइन आणि त्याच्या अंतिम टप्प्यात उत्पादनाची गुणवत्ता. (एखाद्याने हे लक्षात घेतले पाहिजे की ही शैक्षणिक कामे अगदी तरूण वयोगटातील विद्यार्थ्यांनी केली होती.)"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:8
+msgid "The Project --- Expectation"
+msgstr "प्रकल्प --- अपेक्षा"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:10
+msgid ""
+"Expectation was the most dominating feeling in the firth lessons! The group "
+"of students had only a theoretical and somewhat vague knowledge about the "
+"issue of GIS. It was, therefore, necessary to link practical activities to "
+"that theoretical knowledge - at first, through the gathering of geographical"
+" information by using a support map, within the school's perimeter, and "
+"later, by using a GPS, concerning the area surrounding the school. In "
+"figures 1 and 2 it is possible to view some of the activities developed in "
+"class."
+msgstr "उत्सुकतेच्या धड्यांमधील अपेक्षा ही सर्वात प्रबळ भावना होती! विद्यार्थ्यांच्या गटाकडे जीआयएसच्या समस्येबद्दल केवळ एक सैद्धांतिक आणि काहीसे अस्पष्ट ज्ञान होते. म्हणूनच, व्यावहारिक क्रियाकलापांना त्या सैद्धांतिक ज्ञानाशी जोडणे आवश्यक होते - प्रथम शाळेच्या परिघाच्या आत आधार नकाशाचा वापर करून भौगोलिक माहिती एकत्रित करून आणि नंतर, शाळेच्या आजूबाजूच्या क्षेत्राबद्दल जीपीएस वापरुन. आकडेवारी 1 आणि 2 मध्ये वर्गात विकसित केलेल्या काही क्रियाकलाप पाहणे शक्य आहे."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:18
+msgid "Distribution of dustbins (green) and garden benches (yellow)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:18
+msgid ""
+"Distribution of dustbins (green) and garden benches (yellow) at Jaime Moniz "
+"Secondary School"
+msgstr "जैमे मोनिझ माध्यमिक विद्यालयात डस्टबीन (ग्रीन) आणि गार्डन बेंचचे (पिवळे) वितरण"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:20
+msgid ""
+"At present, some students are still using the QGIS to make different work "
+"plans during their training period. In figure 3, a student's work stands "
+"out: it is related to the distribution regarding the number of the "
+"inhabitants of Santo António, including a placement proposal for recycle "
+"containers, in a parish of Funchal."
+msgstr "सध्या, काही विद्यार्थी त्यांच्या प्रशिक्षण कालावधीत वेगवेगळ्या कामाच्या योजना तयार करण्यासाठी QGIS वापरत आहेत. आकृती 3 मध्ये, एका विद्यार्थ्याचे कार्य स्पष्टपणे सांगतेः फंचॅलच्या तेथील रहिवासी कंटेनरसाठी प्लेसमेंट प्रस्तावासह, सॅंटो अँटोनियोमधील रहिवाशांच्या संख्येसह वितरणाशी संबंधित आहे."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:27
+msgid "Functional map of an area in the old part of the town of Funchal"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:27
+msgid ""
+"Functional map of an area in the old part of the town of Funchal, "
+"surrounding Jaime Moniz Secondary School"
+msgstr "जैम मोनिझ सेकंडरी स्कूलच्या सभोवताल, फंचल शहराच्या जुन्या भागाच्या क्षेत्राचा कार्यात्मक नकाशा"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:31
+msgid "Decision for QGIS"
+msgstr "QGIS साठी निर्णय"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:33
+msgid ""
+"Generally speaking, QGIS allured the students: “to accomplish basic "
+"functions of GIS through exercise associations of graphic and non-graphic "
+"elements”; “to upload alphanumeric data”; “use functions of spacial "
+"analysis”; “to make thematic maps”; “to make a Digital Elevation Model” and,"
+" last but not least, “to recognize the relevance of a free GIS for the "
+"analysis of geographical  information, as well for the sustainable "
+"management of the territory”. These theoretical and practical purposes are "
+"achieved together along with other goals, extremely important in the "
+"education context, such as: “creating a diversified educational experience”;"
+" “being in contact with local reality” and “developing a constructive, "
+"positive and critical mind”."
+msgstr "सर्वसाधारणपणे बोलताना, क्यूजीआयएसने विद्यार्थ्यांना आकर्षित केले: \"ग्राफिक आणि नॉन-ग्राफिक घटकांच्या व्यायाम संघटनांद्वारे जीआयएसची मूलभूत कार्ये पूर्ण करणे\"; “अल्फान्यूमेरिक डेटा अपलोड करण्यासाठी”; \"स्पेसियल विश्लेषणाची कार्ये वापरा\"; “थीमॅटिक नकाशे तयार करण्यासाठी”; \"डिजिटल एलिव्हेशन मॉडेल बनविणे\" आणि, शेवटचे परंतु किमान \"भौगोलिक माहितीच्या विश्लेषणासाठी तसेच प्रदेशाच्या शाश्वत व्यवस्थापनासाठी विनामूल्य जीआयएसची प्रासंगिकता ओळखणे\". हे सैद्धांतिक आणि व्यावहारिक उद्दीष्ट इतर उद्दीष्टांसह एकत्र साधले जातात, शैक्षणिक संदर्भात अत्यंत महत्वाचे, जसे की: “एक वैविध्यपूर्ण शैक्षणिक अनुभव निर्माण करणे”; \"स्थानिक वास्तवाशी संपर्क साधणे\" आणि \"विधायक, सकारात्मक आणि समालोचनशील विचार विकसित करणे\"."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:36
+msgid "From the class room to the education community"
+msgstr "वर्ग कक्षापासून शिक्षण समुदायापर्यंत"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:38
+msgid ""
+"The idea of creating a website: http://www.sig-na-jaime-moniz.webnode.pt "
+"implied two main purposes: “spreading the word about project works done by "
+"the students” and, simultaneously, “show the importance of Open Source QGIS "
+"for the accomplishment of these school works”. At present, the website is a "
+"motivation source for the follow up of the whole teaching process."
+msgstr "वेबसाइट तयार करण्याच्या कल्पनेत: http://www.sig-na-jaime-moniz.webnode.pt दोन मुख्य उद्दीष्टे सूचित करतात: “विद्यार्थ्यांनी केलेल्या प्रकल्पांच्या कामांविषयी माहिती पोहोचवणे” आणि एकाच वेळी “त्याचे महत्त्व दाखवा. या शालेय कामे पूर्ण करण्यासाठी ओपन सोर्स क्यूजीआयएस. सध्या, संपूर्ण अध्यापन प्रक्रियेचा पाठपुरावा करण्यासाठी वेबसाइट एक प्रेरणा स्त्रोत आहे."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:45
+msgid ""
+"Placement proposal for recycle containers in the parish of Santo António "
+"Funchal"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:45
+msgid ""
+"Placement proposal for recycle containers in the parish of Santo António"
+msgstr "सॅन्टो अँटोनियोच्या तेथील रहिवासी ठिकाणी रिसायकल कंटेनरसाठी प्लेसमेंट प्रस्ताव"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:48
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:50
+msgid ""
+"In a flashback analysis of the whole process, I feel that the idea of using "
+"QGIS, as a tool, to accomplish some teaching purposes, was an excellent "
+"choice. At first, its use involved a lot of expectation. I had never used "
+"GIS before and, therefore, I was learning and teaching at the same time. The"
+" fact that the GIS turned out to be extremely user friendly together, with "
+"the information available online, was a blessing for me. Moreover, the "
+"school did not have to pay for another software license nor it was dependent"
+" on license renewals, which substantially improved the teaching quality, "
+"without any extra expenses. At present, students use QGIS almost on their "
+"own to accomplish their different work plans. I hope the final result shows "
+"the amount of effort involved in the whole learning process."
+msgstr "संपूर्ण प्रक्रियेच्या फ्लॅशबॅक विश्लेषणामध्ये मला असे वाटते की काही शिक्षण उद्देशाने साध्य करण्यासाठी, एक साधन म्हणून, क्यूजीआयएस वापरण्याची कल्पना एक उत्कृष्ट निवड होती. सुरुवातीला, याच्या वापरामध्ये बरीच अपेक्षा होती. मी पूर्वी कधीही जीआयएस वापरलेला नव्हता आणि म्हणूनच मी त्याच वेळी शिकत आणि शिकवत होतो. ऑनलाइन उपलब्ध माहितीसह जीआयएस एकत्रितपणे अत्यंत वापरकर्त्यांसाठी उपयुक्त ठरले ही वस्तुस्थिती माझ्यासाठी एक आशीर्वाद होती. शिवाय शाळेला दुसर्‍या सॉफ्टवेअर परवान्यासाठी पैसे द्यावे लागणार नाहीत किंवा परवाना नूतनीकरणावर अवलंबून नव्हते, ज्याने कोणत्याही अतिरिक्त खर्चाविना शिक्षणाची गुणवत्ता सुधारली. सध्या विद्यार्थी त्यांच्या वेगवेगळ्या कामाच्या योजना साध्य करण्यासाठी क्यूजीआयएस जवळजवळ स्वतःच वापरतात. मला आशा आहे की अंतिम निकालाने संपूर्ण शिक्षण प्रक्रियेमध्ये किती मेहनत घेतली आहे हे दर्शविते."
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:53
+msgid "References"
+msgstr "संदर्भ"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:55
+msgid "http://sitio.dgidc.min-edu.pt"
+msgstr "http://sitio.dgidc.min-edu.pt"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:56
+msgid "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
+msgstr "http://www.sres.pt/?page=drgc_loc_atend&separador=6&buttons=1"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:57
+msgid "http://www.sig-na-jaime-moniz.webnode.pt"
+msgstr "http://www.sig-na-jaime-moniz.webnode.pt"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:61
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:68
+msgid "Fátima Vale"
+msgstr "फॅटिमा वझे"
+
+#: ../../source/site/about/case_studies/portugal_funchal.rst:70
+msgid ""
+"This article was elaborated in March 2011 by Fátima Vale with the support of"
+" Luís Antunes (supervisor of the students in the DRIGOT). In that moment, "
+"she is teacher in the Jaime Moniz Secondary School and supervisor teacher "
+"during the training period of students in the different Institutions."
+msgstr "मार्च 2011 मध्ये लुटीस अँट्यूनेस (डीआरआयजीजीटी मधील विद्यार्थ्यांचे पर्यवेक्षक) यांच्या पाठिंब्याने फॅटिमा वझे यांनी हा लेख विस्तृत केला होता. त्या क्षणी, ती जैम मोनिझ माध्यमिक विद्यालयात शिक्षिका आणि निरनिराळ्या संस्थांच्या विद्यार्थ्यांच्या प्रशिक्षण कालावधीत पर्यवेक्षक शिक्षक."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "The Project - Expectation"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Number of the inhabitants (example) Generally speaking, QGIS allured the "
+#~ "students: “to accomplish basic functions of GIS through exercise "
+#~ "associations of graphic and non-graphic elements”; “to upload alphanumeric "
+#~ "data”; “use functions of spacial analysis”; “to make thematic maps”; “to "
+#~ "make a Digital Elevation Model” and, last but not least, “to recognize the "
+#~ "relevance of a free GIS for the analysis of geographical  information, as "
+#~ "well for the sustainable management of the territory”. These theoretical and"
+#~ " practical purposes are achieved together along with other goals, extremely "
+#~ "important in the education context, such as: “creating a diversified "
+#~ "educational experience”; “being in contact with local reality” and "
+#~ "“developing a constructive, positive and critical mind”."
+#~ msgstr ""

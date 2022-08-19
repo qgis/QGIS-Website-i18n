@@ -1,0 +1,198 @@
+# 
+# Translators:
+# James Dyer <james.p.dyer15.mil@mail.mil>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: James Dyer <james.p.dyer15.mil@mail.mil>, 2018\n"
+"Language-Team: Arabic (http://www.transifex.com/qgis/qgis-website/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:3
+msgid "QGIS and Forest Fire Risk Mapping in Portugal"
+msgstr "QGIS ورسم خرائط مخاطر حرائق الغابات في البرتغال"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:5
+msgid ""
+"Portugal has been affected by large wildfires causing huge losses, not only "
+"environmental, but also economic and social losses. To face this risk, the "
+"portuguese government, through the National Forest Authority (AFN), decided,"
+" a few years ago, to create technical offices allocated to local governments"
+" which, among other skills, must prepare Municipal Plans for Forest Fire "
+"Protection and Operational Response."
+msgstr "لقد تضررت البرتغال من حرائق الغابات الكبيرة التي تسببت في خسائر فادحة ، ليس فقط من الناحية البيئية ، ولكن أيضا خسائر اقتصادية واجتماعية. لمواجهة هذا الخطر ، قررت الحكومة البرتغالية ، من خلال الهيئة القومية للغابات (AFN) ، قبل بضع سنوات ، إنشاء مكاتب فنية مخصصة للحكومات المحلية ، والتي ، من بين مهارات أخرى ، يجب إعداد خطط البلدية لحماية الغابات من الغابات والاستجابة التشغيلية ."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:7
+msgid ""
+"In order to support the elaboration of these documents, the AFN provided "
+"technical guides with a methodology for calculating and mapping the Forest "
+"Fire Hazard and Risk. Moreover, tutorials have been offered to follow this "
+"methodology, using Proprietary Software. However, the acquisition and "
+"licensing costs of that software are unaffordable for most of the smaller "
+"local administrations and so, it was decided to create and make available a "
+"guide with a methodology for developing Hazard and Risk cartography using "
+"only Free and Open Source Software [http://goo.gl/TSv2E]."
+msgstr "من أجل دعم وضع هذه الوثائق ، قدم AFN أدلة تقنية بمنهجية لحساب ورصد مخاطر ومخاطر حرائق الغابات. وعلاوة على ذلك ، تم تقديم برامج تعليمية لمتابعة هذه المنهجية ، وذلك باستخدام البرمجيات الاحتكارية. ومع ذلك ، فإن تكاليف الاستحواذ والترخيص الخاصة بهذا البرنامج لا يمكن تحملها بالنسبة لمعظم الإدارات المحلية الأصغر ، ولذلك ، تقرر إنشاء وإتاحة دليل بمنهجية لتطوير رسم خرائط الأخطار والمخاطر باستخدام البرامج المجانية والمفتوحة المصدر [http : //goo.gl/TSv2E]."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:9
+msgid ""
+"It was proposed to use the following set of software: QGIS, GRASS GIS, gvSIG"
+" and GDAL/OGR libraries. That guide describes all the geoprocessing tasks "
+"necessary for the elaboration of the plans for Forest Fire Protection and "
+"Operational Response, according to the AFN methodology. A large part of the "
+"tasks were developed with QGIS, and spatial analysis in raster model was "
+"developed with GRASS. gvSIG was used for network analysis, with its Network "
+"Analysis extension, and GDAL/OGR libraries were used for transformations "
+"between coordinate reference systems."
+msgstr "تم اقتراح استخدام مجموعة البرامج التالية: مكتبات QGIS و GRASS GIS و gvSIG و GDAL / OGR. يصف هذا الدليل جميع مهام المعالجة الجيولوجية اللازمة لوضع خطط لحماية الغابات من الحرائق والاستجابة التشغيلية ، وفقًا لمنهجية AFN. تم تطوير جزء كبير من المهام باستخدام QGIS ، وتم تطوير التحليل المكاني في نموذج البيانات النقطية باستخدام GRASS. تم استخدام gvSIG لتحليل الشبكة ، مع ملحق تحليل الشبكة ، واستخدمت مكتبات GDAL / OGR للتحويلات بين الأنظمة المرجعية المنسقة."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:11
+msgid ""
+"After an extensive suite of tests to the methodology, and three years of "
+"real application in the preparation of the Operational Plan for the "
+"municipality of Pinhel, it can be said that the proposed alternatives allow "
+"to replace, with many advantages, Proprietary Software that is usually used "
+"to carry out this task. The validation of the results shows that, despite "
+"the relative simplicity of the conceptual model, its predictive ability is "
+"quite good, and that the model implementation in Open Source Software does "
+"not interfere negatively with the results, quite the opposite."
+msgstr "بعد مجموعة واسعة من الاختبارات للمنهجية ، وثلاث سنوات من التطبيق الفعلي في إعداد الخطة التشغيلية لبلدية Pinhel ، يمكن القول أن البدائل المقترحة تسمح باستبدال ، مع العديد من المزايا ، البرمجيات الاحتكارية التي عادة ما تكون تستخدم لتنفيذ هذه المهمة. يظهر إثبات صحة النتائج أنه على الرغم من البساطة النسبية للنموذج المفاهيمي ، فإن قدرته التنبؤية جيدة إلى حد كبير ، وأن تطبيق النموذج في برامج المصدر المفتوح لا يتدخل سلبًا في النتائج ، بل على العكس تمامًا."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid "Forest Fire Hazard and Risk Maps of Pinhel"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid ""
+"Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
+"Software."
+msgstr "خرائط حرائق الغابات والمخاطر من Pinhel ، تنفذ مع البرمجيات مفتوحة المصدر."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:25
+msgid ""
+"In a second phase, it was tried to speed up this process, using models to "
+"establish a workflow that perform a wide set of tasks, almost without human "
+"intervention. This second stage consisted essentially in the automation of "
+"the entire procedure described in practical guide which resulted from the "
+"first phase. Such automation could mean a reduction of several hours of "
+"intense work on the part of the technician who intends to produce annually "
+"Forest Defense Plans, for just a few minutes, in which the human "
+"intervention boils down to the selection of input data and the indication of"
+" the place where we intend to keep the output data."
+msgstr "في المرحلة الثانية ، تمت محاولة تسريع هذه العملية ، باستخدام نماذج لإنشاء سير عمل يقوم بمجموعة كبيرة من المهام ، دون تدخل بشري. تتكون هذه المرحلة الثانية بشكل أساسي في أتمتة الإجراء بأكمله الموضح في الدليل العملي والذي نتج عن المرحلة الأولى. قد تعني هذه الأتمتة تخفيض ساعات عديدة من العمل المكثف من جانب الفني الذي ينوي إنتاج خطط الدفاع عن الغابات سنويًا ، لبضع دقائق فقط ، حيث يتدخل التدخل البشري في اختيار بيانات الإدخال والإشارة إلى المكان الذي نعتزم الحفاظ على بيانات الإخراج."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid "Interface of the Sextante Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid ""
+"Interface of the Sextante Model to calculate the Probability of the Forest "
+"Fire Hazard."
+msgstr "واجهة نموذج Sextante لحساب احتمالية مخاطر حرائق الغابات."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:34
+msgid ""
+"In furtherance of this second phase, we used the Python version of Sextante "
+"software, that works integrated into QGIS and adds a broad set of "
+"independent applications (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, "
+"LASTools, Python scrips, etc..) in a single interface, providing a huge "
+"geoprocessing toolbox to QGIS users. Besides the integration of these "
+"applications in QGIS, Sextante has a tool for creating models, taking "
+"advantage of the modules offered by any of those softwares which aggregates."
+" So, we've created a model to automate the process of producing Forest Fire "
+"Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
+msgstr "تعزيزًا لهذه المرحلة الثانية ، استخدمنا إصدار Python من برنامج Sextante ، الذي يعمل معًا في QGIS ويضيف مجموعة واسعة من التطبيقات المستقلة (GRASS GIS و SAGA GIS و OTB و R و GDAL / OGR و Pymorph و LASTOLS ومخططات بيثون ، وما إلى ذلك.) في واجهة واحدة ، وتوفير مجموعة أدوات المعالجة الجغرافية الضخمة لمستخدمي QGIS. بالإضافة إلى دمج هذه التطبيقات في QGIS ، فإن Sextante لديها أداة لإنشاء نماذج ، مع الاستفادة من الوحدات التي تقدمها أي من تلك البرامج التي تتجمع. لذلك ، قمنا بإنشاء نموذج لأتمتة عملية إنتاج خرائط مخاطر الغابات والأخطار ، باستخدام أدوات GRASS و SAGA و fTools و MMQGIS."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid "Part of the model developed for automation of the production"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid ""
+"Part of the model developed for automation of the production of cartography "
+"for Forest Fire Hazard and Risk."
+msgstr "جزء من النموذج المطور لأتمتة إنتاج رسم الخرائط لمخاطر حرائق الغابات والمخاطر."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:43
+msgid ""
+"The results obtained so far are very promising, as already can be "
+"automatically achieved the creation of the Hazard and Risk Maps [2]. Taking "
+"into account that the Python version of Sextante is still very recent and is"
+" in heavy construction, there are some problems that must be corrected so "
+"that the models may be completed, which certainly will happen very soon, "
+"given the momentum that Sextante project presents. As future work, we intend"
+" to apply, also automatically, the symbology to the results as well as "
+"provide the final layouts in QGIS Composer, ready for export and/or print. "
+"Upon completion of the second phase and the realization of a sufficient set "
+"of tests that can validate the results obtained, it is our intention to "
+"provide the model free and openly."
+msgstr "النتائج التي تم الحصول عليها حتى الآن واعدة جدا ، حيث يمكن أن يتحقق تلقائيا إنشاء خرائط المخاطر والمخاطر [2]. مع الأخذ بعين الاعتبار أن إصدار بايثون من Sextante لا يزال حديث العهد للغاية ، وهو في حالة بناء ثقيلة ، هناك بعض المشاكل التي يجب تصحيحها حتى يمكن استكمال النماذج ، والتي ستحدث بالتأكيد في القريب العاجل ، بالنظر إلى الزخم الذي يقدمه مشروع Sextante. كعمل مستقبلي ، نعتزم تطبيق ، تلقائيا أيضا ، على symbology للنتائج وكذلك تقديم التصاميم النهائية في ملقط QGIS ، جاهزة للتصدير و / أو الطباعة. عند الانتهاء من المرحلة الثانية وتحقيق مجموعة كافية من الاختبارات التي يمكن التحقق من صحة النتائج التي تم الحصول عليها ، فإننا نعتزم توفير النموذج المجاني والمفتوح."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:46
+msgid "Conclusions"
+msgstr "الخاتمة"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:48
+msgid ""
+"The alternatives studied proved to be of enormous quality, allowing all "
+"operations recommended in the National Forest Authority technical guides, in"
+" many ways, more efficiently than with Proprietary Software. In terms of "
+"ease of use, it was observed that this type of software is not, in any way, "
+"more complex than the proprietary software, requiring only more technical "
+"knowledge of the models and algorithms implemented which, however, allow a "
+"higher degree of freedom, making possible to explore and fine tune the "
+"models to each particular situation. The process of producing Forest Fire "
+"Hazard and Risk cartography using, exclusively, Open Source Software is "
+"fully consolidated, after several years of testing and application in the "
+"municipality of Pinhel."
+msgstr "أثبتت البدائل أنها ذات جودة هائلة ، مما يسمح لجميع العمليات الموصى بها في الأدلة الفنية لهيئة الغابات القومية ، بأكثر من طريقة ، بكفاءة أكثر من البرامج الاحتكارية. من حيث سهولة الاستخدام ، لوحظ أن هذا النوع من البرامج ليس ، بأي حال ، أكثر تعقيدًا من البرمجيات الاحتكارية ، ولا يتطلب سوى معرفة تقنية أكثر للنماذج والخوارزميات التي يتم تنفيذها والتي تسمح ، مع ذلك ، بدرجة أعلى من الحرية. ، مما يجعل من الممكن استكشاف وصقل النماذج لكل حالة معينة. يتم دمج عملية إنتاج مخاطر حرائق الغابات ومخاطرها باستخدام برامج المصدر المفتوح بشكل حصري ، بعد عدة سنوات من الاختبار والتطبيق في بلدية بينيل."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:50
+msgid ""
+"The fact that Open Source Software is based on standards and support most of"
+" the open data formats, allows the complete interoperability between "
+"software, allowing the user to opt for the most suitable in each moment. "
+"Despite our proposal point to a specific set of software, nothing prevents "
+"to be replaced by any of the existing alternatives in the wide range of "
+"proposals for Free and Open Source Software for Geospatial. However, QGIS "
+"increasingly presents itself as the most complete, stable and easy to use "
+"FOSS4G solution, and whose project is more dynamic, with rapid correction of"
+" bugs and with almost daily implementation of new plugins that adds specific"
+" functionalities to the most diverse areas of activities."
+msgstr "إن حقيقة أن البرامج مفتوحة المصدر تعتمد على المعايير وتدعم معظم تنسيقات البيانات المفتوحة ، تسمح بإمكانية التشغيل الكامل بين البرامج ، مما يسمح للمستخدم باختيار الأنسب في كل لحظة. على الرغم من أن اقتراحنا يشير إلى مجموعة محددة من البرامج ، فلا شيء يمنع استبداله بأي من البدائل الموجودة في مجموعة واسعة من المقترحات الخاصة بالبرمجيات الحرة والمفتوحة المصدر من أجل Geospatial. ومع ذلك ، تقدم QGIS نفسها بشكل متزايد على أنها حل FOSS4G الأكثر اكتمالا واستقرارا وسهولة الاستخدام ، ومشروعه أكثر ديناميكية ، مع تصحيح سريع للحشرات ومع التنفيذ اليومي تقريبا للمكونات الإضافية الجديدة التي تضيف وظائف محددة إلى أكثر مجالات الأنشطة تنوعا ."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:53
+msgid "Author"
+msgstr "المؤلف"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:60
+msgid "Pedro Venâncio"
+msgstr "Pedro Venâncio"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:62
+msgid ""
+"Pedro Venâncio B.Sc. in Geology, Postgraduate in Free Software and M.Sc. in "
+"Geographic Information Systems. He was a researcher at the Centre for "
+"Geophysics of the University of Coimbra, at the National Laboratory for "
+"Civil Engineering and is currently responsible for the service of "
+"Cartography and Geographic Information Systems at the Municipality of "
+"Pinhel."
+msgstr "بيدرو فينانيسيو في الجيولوجيا ، دراسات عليا في البرمجيات الحرة و ماجستير. في نظم المعلومات الجغرافية. كان باحثًا في مركز الجيوفيزياء بجامعة كويمبرا ، في المختبر الوطني للهندسة المدنية وهو حاليًا مسؤول عن خدمة رسم الخرائط ونظم المعلومات الجغرافية في بلدية بينيل."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

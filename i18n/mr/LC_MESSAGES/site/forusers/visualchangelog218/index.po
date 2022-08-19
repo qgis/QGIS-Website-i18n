@@ -1,0 +1,1590 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2016-11-06 13:06+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (https://www.transifex.com/qgis/teams/6144/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:5
+msgid "Changelog for QGIS 2.18"
+msgstr "क्यूजीआयएस 2.18 चा चेंजलॉग"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:7
+msgid "|image1|"
+msgstr "| प्रतिमा 1 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:558
+msgid "image1"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:10
+msgid ""
+"This is the last release in the 2.x series. The current Long Term Release "
+"(LTR) remains version 2.14.x. This release provides incremental improvements"
+" over our previous release. The majority of activity is currently focussed "
+"towards the development of QGIS 3.0 which is our next generation release "
+"planned for the end of the first quarter of 2017."
+msgstr ""
+"2.x मालिकेतील हे शेवटचे प्रकाशन आहे. सद्य लाँग टर्म रीलिझ (एलटीआर) आवृत्ती "
+"2.14.x. हे रीलिझ आमच्या मागील रिलीझपेक्षा वाढीव सुधारणा प्रदान करते. बहुतेक "
+"क्रियाकलाप सध्या क्यूजीआयएस of 3.0 च्या विकासाकडे केंद्रित आहेत जे 2017 next"
+" च्या पहिल्या तिमाहीत अखेरीस नियोजित आमची पुढील पिढी रिलीझ आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:15
+msgid "**Thanks**"
+msgstr "**धन्यवाद**"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:17
+msgid ""
+"We would like to thank the developers, documenters, testers and all the many"
+" folks out there who volunteer their time and effort (or fund people to do "
+"so). From the QGIS community we hope you enjoy this release! If you wish to "
+"donate time, money or otherwise get involved in making QGIS more awesome, "
+"please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
+msgstr ""
+"आम्ही विकसक, दस्तऐवजकार, परीक्षक आणि तेथील सर्व लोकांना त्यांचे आभार मानू "
+"इच्छितो जे आपला वेळ आणि मेहनत स्वयंसेवक करतात (किंवा लोकांना यासाठी पैसे "
+"देतात). QGIS समुदायाकडून आम्हाला आशा आहे की आपण या प्रकाशनाचा आनंद घ्याल! "
+"आपणास वेळ, पैसे दान करण्याची इच्छा असल्यास किंवा क्यूजीआयएसला अधिक छान "
+"बनविण्यात गुंतलेले असल्यास, कृपया `qgis.org <https://qgis.org>` __ वर फिरा "
+"आणि एक हात द्या!"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:19
+msgid ""
+"QGIS is supported by donors and sponsors. A current list of donors who have "
+"made financial contributions large and small to the project can be seen on "
+"our `donors list <https://qgis.org/en/site/about/sponsorship.html#list-of-"
+"donors>`__. If you would like to become and official project sponsor, please"
+" visit `our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. Sponsoring QGIS helps us to fund our six monthly developer "
+"meetings, maintain project infrastructure and fund bug fixing efforts. A "
+"complete list of current sponsors is provided below - our very great thank "
+"you to all of our sponsors!"
+msgstr ""
+"क्यूजीआयएस देणगीदार आणि प्रायोजकांद्वारे समर्थित आहे. या प्रकल्पासाठी आर्थिक"
+" आणि मोठे योगदान देणार्‍यांची सद्य यादी आमच्या `देणगीदारांच्या यादी "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors> on वर "
+"पाहिली जाऊ शकते __. आपण अधिकृत प्रकल्प प्रायोजक होऊ इच्छित असल्यास, कृपया "
+"तपशिलासाठी `आमच्या प्रायोजक पृष्ठ "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>` __ वर भेट "
+"द्या. क्यूजीआयएस प्रायोजित केल्यामुळे आमच्या सहा मासिक विकसकांच्या संमेलनास "
+"वित्तपुरवठा करण्यास, प्रकल्पांची पायाभूत सुविधा राखण्यास आणि निधी निर्धारण "
+"प्रयत्नांना मदत करण्यात मदत होते. सद्य प्रायोजकांची संपूर्ण यादी खाली दिली "
+"आहे - आमच्या सर्व प्रायोजकांचे आभारी आहोत!"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:21
+msgid ""
+"QGIS is Free software and you are under no obligation to pay anything to use"
+" it - in fact we want to encourage people far and wide to use it regardless "
+"of what your financial or social status is - we believe empowering people "
+"with spatial decision making tools will result in a better society for all "
+"of humanity."
+msgstr ""
+"क्यूजीआयएस हे एक विनामूल्य सॉफ्टवेअर आहे आणि आपण ते वापरण्यासाठी काहीही "
+"देण्याचे बंधन नाही - खरं तर आम्ही आपली आर्थिक किंवा सामाजिक स्थिती काय आहे "
+"याची पर्वा न करता दूरदूरच्या लोकांना याचा वापर करण्यास प्रोत्साहित करू "
+"इच्छितो - आमचा विश्वास आहे की स्थानिक निर्णय घेण्याच्या साधनांसह लोकांना "
+"सक्षम बनविणे संपूर्ण मानवतेसाठी एक चांगल्या समाजाचा परिणाम."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:28
+msgid "Sponsors for QGIS version 2.18.0"
+msgstr "क्यूजीआयएस आवृत्ती 2.18.0 साठी प्रायोजक"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:30
+msgid ""
+"Annually we also receive support from various organisations who appreciate "
+"the work we do and would like to facilitate the sustained development effort"
+" that goes into the project. These sponsors are listed below with our "
+"thanks!"
+msgstr ""
+"दरवर्षी आम्हाला आमच्याकडून केलेल्या कार्याचे कौतुक करणा various्या विविध "
+"संस्थांकडून पाठिंबा देखील मिळतो आणि प्रकल्पात जाणार्‍या सततच्या प्रयत्नांना "
+"मदत करणे आवडेल. हे प्रायोजक आमच्या आभारासह खाली सूचीबद्ध आहेत!"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:37
+msgid "bronze"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:40
+msgid "silver"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:43
+msgid "gold"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:47
+msgid "Gold sponsors ( 9000 EUR )"
+msgstr "सुवर्ण प्रायोजक (9000 EUR)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:49
+msgid ""
+"|gold| |qgis-ch| `QGIS Usergroup Switzerland <https://www.qgis.ch/>`_, "
+"Switzerland"
+msgstr ""
+"| सोने | | क्विगिस-सीएच | `क्यूजीआयएस यूजर ग्रुप स्वित्झर्लंड "
+"<https://www.qgis.ch/>` _, स्वित्झर्लंड"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:52
+msgid "qgis-ch"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:58
+msgid "Silver sponsors ( 3000 EUR )"
+msgstr "चांदी प्रायोजक (3000 EUR)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:60
+msgid ""
+"|silver| |Land Vorarlberg| `State of Vorarlberg "
+"<http://www.vorarlberg.at/>`_, Austria"
+msgstr ""
+"| चांदी | | जमीन व्होरालबर्ग | V व्होरालबर्ग स्टेट "
+"<http://www.vorarlberg.at/> `_, ऑस्ट्रिया"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:565
+msgid "Land Vorarlberg"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:63
+msgid ""
+"|silver| |Office of Public Works, Flood Risk Management and Data Management "
+"Section| `Office of Public Works, Ireland <http://www.opw.ie/>`_, Ireland"
+msgstr ""
+"| चांदी | | सार्वजनिक बांधकाम कार्यालय, पूर जोखीम व्यवस्थापन आणि डेटा "
+"व्यवस्थापन विभाग | Public सार्वजनिक बांधकाम कार्यालय, आयर्लँड "
+"<http://www.opw.ie/> `_, आयर्लंड"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:564
+msgid ""
+"Office of Public Works, Flood Risk Management and Data Management Section"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:66
+msgid "|silver| |GAIA mbH| `GAIA mbh <http://www.gaia-mbh.de>`_, Germany"
+msgstr ""
+"| चांदी | | GAIA mbH | `जीएआयए एमबीएच <http://www.gaia-mbh.de>` _, जर्मनी"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:562
+msgid "GAIA mbH"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:69
+msgid ""
+"|silver| |sourcepole| `Sourcepole AG <http://www.sourcepole.com/>`_, "
+"Switzerland"
+msgstr ""
+"| चांदी | | सोर्सपॉल | `सोर्सपोल एजी <http://www.sourcepole.com/>` _, "
+"स्वित्झर्लंड"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:621
+msgid "sourcepole"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:72
+msgid ""
+"|silver| |QGISusergroupGermany| `QGIS user group Germany "
+"<http://www.qgis.de/>`_, Germany"
+msgstr ""
+"| चांदी | | QGISusergroupGرمy | `क्यूजीआयएस वापरकर्ता गट जर्मनी "
+"<http://www.qgis.de/>` _, जर्मनी"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:567
+msgid "QGISusergroupGermany"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:77
+msgid "Bronze sponsors ( 500 EUR )"
+msgstr "कांस्य प्रायोजक (500 EUR)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:79
+msgid "|bronze| |2D3D.GIS|"
+msgstr "| कांस्य | | | 2 डी 3 डी.जीआयएस |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:569
+msgid "2D3D.GIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:81
+msgid "`2D3D.GIS <http://www.2d3d-gis.com/>`_"
+msgstr "`2D3D.GIS <http://www.2d3d-gis.com/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:82
+msgid "|bronze| |Lutra Consulting|"
+msgstr "| कांस्य | | | लुथ्रा कन्सल्टिंग |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:570
+msgid "Lutra Consulting"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:84
+msgid "`Lutra Consulting <http://www.lutraconsulting.co.uk/>`_"
+msgstr "`ल्युट्रा कन्सल्टिंग <http://www.lutraconsulting.co.uk/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:86
+msgid "|bronze| |Ager Technology|"
+msgstr "| कांस्य | | | एजर टेक्नॉलॉजी |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:571
+msgid "Ager Technology"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:88
+msgid "`Ager Technology <http://www.agertechnology.com/>`_"
+msgstr "Ger एजेर टेक्नॉलॉजी <http://www.agertechnology.com/> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:89
+msgid "|bronze| |MappingGIS|"
+msgstr "| कांस्य | | | मॅपिंगजीआयएस |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:572
+msgid "MappingGIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:91
+msgid "`MappingGIS <http://www.mappinggis.com/>`_"
+msgstr "`मॅपिंगGIS <http://www.mappinggis.com/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:93
+msgid "|bronze| |Asociación Geoinnova|"
+msgstr "| कांस्य | | | Asociación Geoinnova |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:573
+msgid "Asociación Geoinnova"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:95
+msgid "`Asociación Geoinnova <http://geoinnova.org/>`_"
+msgstr "`Asociación Geoinnova <http://geoinnova.org/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:96
+msgid "|bronze| |Molitec|"
+msgstr "| कांस्य | | | मोलिटेक |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:574
+msgid "Molitec"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:98
+msgid "`Molitec <http://www.molitec.it/>`_"
+msgstr "Ol मोलिटेक <http://www.molitec.it/> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:100
+msgid "|bronze| |BGEO Open GIS, SL|"
+msgstr "| कांस्य | | | बीजीओओ ओपन जीआयएस, एसएल |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:575
+msgid "BGEO Open GIS, SL"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:102
+msgid "`BGEO Open GIS, SL <http://www.bgeo.es>`_"
+msgstr "`बीजीओ ओपन जीआयएस, एसएल <http://www.bgeo.es>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:103
+msgid "|bronze| |NCC Roads AB|"
+msgstr "| कांस्य | | | एनसीसी रोड एबी |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:576
+msgid "NCC Roads AB"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:105
+msgid "`NCC Roads AB <http://www.ncc.se/en/>`_"
+msgstr "`एनसीसी रोड एबी <http://www.ncc.se/en/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:107
+msgid "|bronze| |Cawdor Forestry|"
+msgstr "| कांस्य | | | कावडोर वनीकरण |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:577
+msgid "Cawdor Forestry"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:109
+msgid "`Cawdor Forestry <http://www.cawdorforestry.com/>`_"
+msgstr "Aw कावडोर वनीकरण <http://www.cawdorforestry.com/> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:110
+msgid "|bronze| |National Parks UK|"
+msgstr "| कांस्य | | | राष्ट्रीय उद्याने यूके |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:578
+msgid "National Parks UK"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:112
+msgid "`National Parks UK <http://www.nationalparks.gov.uk/>`_"
+msgstr "`राष्ट्रीय उद्याने यूके <http://www.nationalparks.gov.uk/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:114
+msgid "|bronze| |Urbsol|"
+msgstr "| कांस्य | | | अर्बसोल |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:597
+msgid "Urbsol"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:116
+msgid "`Urbsol <http://www.urbsol.com.au/>`_"
+msgstr "`अर्बसोल <http://www.urbsol.com.au/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:117
+msgid "|bronze| |QGIS user group Denmark|"
+msgstr "| कांस्य | | | क्यूजीआयएस वापरकर्ता गट डेन्मार्क |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:580
+msgid "QGIS user group Denmark"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:119
+msgid "`QGIS user group Denmark <http://www.qgis.dk/>`_"
+msgstr "`क्यूजीआयएस वापरकर्ता गट डेन्मार्क <http://www.qgis.dk/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:121
+msgid "|bronze| |Dr. Kerth + Lampe Geo-Infometric GmbH|"
+msgstr "| कांस्य | | | डॉ. केरथ + लॅम्प जिओ-इन्फोमेट्रिक जीएमबीएच |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:581
+msgid "Dr. Kerth + Lampe Geo-Infometric GmbH"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:123
+msgid ""
+"`Dr. Kerth + Lampe Geo-Infometric GmbH <http://www.dr-kerth-lampe.de/>`_"
+msgstr ""
+"डॉ. केरथ + लॅम्प जियो-इन्फोमेट्रिक जीएमबीएच <http://www.dr-kerth-lampe.de/> "
+"`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:124
+msgid "|bronze| |QGIS user group Portugal|"
+msgstr "| कांस्य | | | क्यूजीआयएस वापरकर्ता गट पोर्तुगाल |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:582
+msgid "QGIS user group Portugal"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:126
+msgid "`QGIS user group Portugal <http://www.qgis.pt/>`_"
+msgstr "`क्यूजीआयएस वापरकर्ता गट पोर्तुगाल <http://www.qgis.pt/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:128
+msgid "|bronze| |FORNAT AG|"
+msgstr "| कांस्य | | | फॉर्नेट एजी |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:583
+msgid "FORNAT AG"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:130
+msgid "`FORNAT AG <http://www.fornat.ch/>`_"
+msgstr "`फॉर्नेट एजी <http://www.fornat.ch/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:131
+msgid "|bronze| |Royal Borough of Windsor and Maidenhead|"
+msgstr "| कांस्य | | | रॉयल बरो ऑफ विंडसर आणि मेडेनहेड |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:584
+msgid "Royal Borough of Windsor and Maidenhead"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:133
+msgid "`Royal Borough of Windsor and Maidenhead <http://www.rbwm.gov.uk/>`_"
+msgstr "`रॉयल बरो ऑफ विंडसर आणि मेडेनहेड <http://www.rbwm.gov.uk/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:135
+msgid "|bronze| |GEPOL Ltd.|"
+msgstr "| कांस्य | | | जीईपीओएल लि. |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:585
+msgid "GEPOL Ltd."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:137
+msgid "`GEPOL Ltd. <http://www.gepol.com.pl/>`_"
+msgstr "`जीपोल लि.  <http://www.gepol.com.pl/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:138
+msgid ""
+"|bronze| |SOLTIG (Soluciones en Tecnologías de Información Geográfica)|"
+msgstr ""
+"| कांस्य | | | सोल्टिग (सोल्यूशियन्स एन टेक्नोलॉजीस डी इनफॉर्मेशन "
+"जिओग्रिफिका) |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:586
+msgid "SOLTIG (Soluciones en Tecnologías de Información Geográfica)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:140
+msgid ""
+"`SOLTIG (Soluciones en Tecnologías de Información Geográfica) "
+"<http://www.soltig.net/>`_"
+msgstr ""
+"OL सोल्टिग (सोल्यूशियन्स एन टेकनोलोगेस डी इनफॉर्मेशियन जिओग्रिफीका) "
+"<http://www.soltig.net/> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:142
+msgid "|bronze| |GFI - Gesellschaft für Informationstechnologie mbH|"
+msgstr ""
+"| कांस्य | | | जीएफआय - गेसेल्सशाफ्ट फॉर इनफॉर्मेशनस्टेक्नोलॉजी एमबीएच |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:587
+msgid "GFI - Gesellschaft für Informationstechnologie mbH"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:144
+msgid ""
+"`GFI - Gesellschaft für Informationstechnologie mbH <http://www.gfi-"
+"gis.de/>`_"
+msgstr ""
+"F जीएफआय - गेसेल्सशाफ्ट फॉर इनफॉरमेशनस्टेक्नोलॉजी एमबीएच <http://www.gfi-"
+"gis.de/> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:145
+msgid "|bronze| |Septima|"
+msgstr "| कांस्य | | | सेप्टिमा |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:588
+msgid "Septima"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:147
+msgid "`Septima <http://www.septima.dk/>`_"
+msgstr "`सेप्टिमा <http://www.septima.dk/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:149
+msgid "|bronze| |GIS Support Sp. z o.o.|"
+msgstr "| कांस्य | | | जीआयएस समर्थन एसपी z ओ.ओ. |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:589
+msgid "GIS Support Sp. z o.o."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:151
+msgid "`GIS Support Sp. z o.o. <http://www.gis-support.com/>`_"
+msgstr "`जीआयएस सपोर्ट एसपी प्राणीसंग्रहालय. <http://www.gis-support.com/> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:152
+msgid "|bronze| |TYC GIS|"
+msgstr "| कांस्य | | | टीवायसी जीआयएस |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:590
+msgid "TYC GIS"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:154
+msgid "`TYC GIS <http://tycgis.com/>`_"
+msgstr "`TYC GIS <http://tycgis.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:156
+msgid "|bronze| |GKG Kassel, (Dr.-Ing. Claas Leiner)|"
+msgstr "| कांस्य | | | जीकेजी कॅसल, (डॉ. इंजि. क्लॅस लेनर) |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:591
+msgid "GKG Kassel, (Dr.-Ing. Claas Leiner)"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:158
+msgid "`GKG Kassel, (Dr.-Ing. Claas Leiner) <http://www.gkg-kassel.de/>`_"
+msgstr "`जीकेजी कॅसल, (डॉ. इं. क्लॅस लेनर) <http://www.gkg-kassel.de/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:159
+msgid "|bronze| |Teaching Jobs with Footprints|"
+msgstr "| कांस्य | | | पदचिन्हांसह नोकरी शिकवणे |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:592
+msgid "Teaching Jobs with Footprints"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:161
+msgid ""
+"`Teaching Jobs with Footprints "
+"<http://www.footprintsrecruiting.com/teaching-jobs-abroad>`_"
+msgstr ""
+"Foot पदचिन्हांसह नोकरी शिकवणे <http://www.footprintsrecruiting.com/teaching-"
+"jobs-abroad> `_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:163
+msgid "|bronze| |Gaia3D, Inc.|"
+msgstr "| कांस्य | | | गायया 3 डी, इंक. |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:593
+msgid "Gaia3D, Inc."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:165
+msgid "`Gaia3D, Inc. <http://www.gaia3d.com/>`_"
+msgstr "`गायया 3 डी, इंक. <http://www.gaia3d.com/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:166
+msgid "|bronze| |TerreLogiche|"
+msgstr "| कांस्य | | | टेरेलॉगीचे |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:594
+msgid "TerreLogiche"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:168
+msgid "`TerreLogiche <http://www.terrelogiche.com/>`_"
+msgstr "`TerreLogiche <http://www.terrelogiche.com/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:170
+msgid "|bronze| |Gis3W|"
+msgstr "| कांस्य | | | Gis3W |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:595
+msgid "Gis3W"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:172
+msgid "`Gis3W <http://www.gis3w.it/>`_"
+msgstr "`Gis3W <http://www.gis3w.it/>`_"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:173
+msgid "|bronze| |Trage Wegen vzw|"
+msgstr "| कांस्य | | | ट्रॅज वेगेन व्हीडब्ल्यूडब्ल्यू |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:596
+msgid "Trage Wegen vzw"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:175
+msgid "`Trage Wegen vzw <http://www.tragewegen.be/>`_"
+msgstr "`ट्रॅज वेगेन व्हीडब्ल्यूडब्ल्यू <http://www.tragewegen.be/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:177
+msgid "|bronze| |KBB Underground Technologies GmbH|"
+msgstr "| कांस्य | | | केबीबी अंडरग्राउंड टेक्नोलॉजीज जीएमबीएच |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:598
+msgid "KBB Underground Technologies GmbH"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:179
+msgid "`KBB Underground Technologies GmbH <http://www.kbbnet.de/>`_"
+msgstr "`केबीबी अंडरग्राउंड टेक्नोलॉजीज जीएमबीएच <http://www.kbbnet.de/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:180
+msgid "|bronze| |WhereGroup GmbH & Co. KG|"
+msgstr "| कांस्य | | | जिथे ग्रुप जीएमबीएच आणि कंपनी केजी |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:599
+msgid "WhereGroup GmbH & Co. KG"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:182
+msgid "`WhereGroup GmbH & Co. KG <http://wheregroup.com/>`_"
+msgstr "`जिथे ग्रुप जीएमबीएच आणि कंपनी केजी <http://wheregroup.com/>` _"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:186
+msgid "General"
+msgstr "सामान्य"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:189
+msgid "Feature: Automatic links in identify results"
+msgstr "वैशिष्ट्य: परिणामांमध्ये स्वयंचलित दुवे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:191
+msgid ""
+"Any ``http`` or ``mailto`` links within attribute values will now "
+"automatically be converted to clickable links within the identify results "
+"panel."
+msgstr ""
+"विशेषता मूल्यांमधील कोणतेही `` http`` किंवा `` `मेल्टो `` दुवे आता "
+"स्वयंचलितपणे ओळख परिणाम पॅनेलमधील क्लिक करण्यायोग्य दुव्यांमध्ये रुपांतरित "
+"केले जातील."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:193
+msgid "|image58|"
+msgstr "|image58|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:616
+msgid "image58"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:195
+msgid ""
+"This feature was developed by `Sandro Mani (Sourcepole) "
+"<https://sourcepole.ch/>`__"
+msgstr ""
+"हे वैशिष्ट्य `सँड्रो मॅनी (स्त्रोतपोल) <https://sourcepole.ch/> __ __ द्वारा"
+" विकसित केले गेले"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:200
+msgid "Feature: Mouse wheel over color dialog sliders"
+msgstr "वैशिष्ट्य: माउस व्हील ओव्हर कलर डायलॉग स्लाइडर"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:202
+msgid ""
+"In QGIS 2.18 you can now scroll the mouse wheel over any of the sliders "
+"within the color picker dialog to increment the value by small amounts. This"
+" is a handy shortcut for small tweaks to color components."
+msgstr ""
+"क्यूजीआयएस 2.18 मध्ये आपण व्हॉल्यूम कमी प्रमाणात वाढविण्यासाठी कलर पिकर "
+"डायलॉगमधील स्लाइडर्सपैकी कुठल्याही स्लाइडरवर माउस व्हील स्क्रोल करू शकता. "
+"रंगीत घटकांना चिमटा काढण्यासाठी हा एक सोपा शॉर्टकट आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:205
+msgid "|image59|"
+msgstr "| इमेज 59 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:617
+msgid "image59"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:207
+msgid ""
+"This feature was funded by `Nyall Dawson (North Road) <http://north-"
+"road.com>`__"
+msgstr ""
+"या वैशिष्ट्यास `न्याल डॉसन (उत्तर रोड) <http://north-road.com> __ __ द्वारा "
+"अनुदान दिले होते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:209
+#: ../../source/site/forusers/visualchangelog218/index.rst:220
+#: ../../source/site/forusers/visualchangelog218/index.rst:235
+#: ../../source/site/forusers/visualchangelog218/index.rst:252
+#: ../../source/site/forusers/visualchangelog218/index.rst:264
+#: ../../source/site/forusers/visualchangelog218/index.rst:276
+#: ../../source/site/forusers/visualchangelog218/index.rst:360
+#: ../../source/site/forusers/visualchangelog218/index.rst:374
+#: ../../source/site/forusers/visualchangelog218/index.rst:388
+#: ../../source/site/forusers/visualchangelog218/index.rst:400
+#: ../../source/site/forusers/visualchangelog218/index.rst:422
+#: ../../source/site/forusers/visualchangelog218/index.rst:434
+#: ../../source/site/forusers/visualchangelog218/index.rst:446
+#: ../../source/site/forusers/visualchangelog218/index.rst:458
+#: ../../source/site/forusers/visualchangelog218/index.rst:521
+#: ../../source/site/forusers/visualchangelog218/index.rst:555
+msgid ""
+"This feature was developed by `Nyall Dawson (North Road) <http://north-"
+"road.com>`__"
+msgstr ""
+"हे वैशिष्ट्य `न्याल डॉसन (उत्तर रोड) <http://north-road.com> __ __ यांनी "
+"विकसित केले आहे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:212
+msgid "Feature: Add custom color schemes to color button drop down menu"
+msgstr "वैशिष्ट्य: रंग बटण ड्रॉप डाऊन मेनूमध्ये सानुकूल रंग योजना जोडा"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:214
+msgid ""
+"QGIS 2.18 adds the ability for users to set whether a user created color "
+"scheme should show up in the color button drop-down menus. This setting is "
+"controlled through the color picker dialog, on the lists tab. Just add a new"
+" color scheme, then from the scheme menu tick the new \"show in buttons\" "
+"option. It's a handy shortcut if you have sets of common palettes and want "
+"them to be instantly available through the color menu."
+msgstr ""
+"क्यूजीआयएस 2.18  वापरकर्त्याने तयार केलेली रंगसंगती कलर बटण ड्रॉप-डाउन "
+"मेनूमध्ये दर्शविली पाहिजे की नाही हे सेट करण्याची क्षमता वापरकर्त्यांना "
+"जोडली आहे. या सेटिंग्‍ज याद्या टॅबवर कलर पिकर डायलॉगद्वारे नियंत्रित केली "
+"जाते. फक्त एक नवीन रंगसंगती जोडा, नंतर योजने मेनूमधून नवीन \"शो इन बटणे\" "
+"पर्यायावर क्लिक करा. आपल्याकडे सामान्य पॅलेटचे संच असल्यास आणि ते रंग "
+"मेनूद्वारे त्वरित उपलब्ध व्हावे अशी इच्छा असल्यास हा एक सोपा शॉर्टकट आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:216
+msgid "|image60|"
+msgstr "| प्रतिमा 60 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:618
+msgid "image60"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:218
+#: ../../source/site/forusers/visualchangelog218/index.rst:233
+#: ../../source/site/forusers/visualchangelog218/index.rst:250
+#: ../../source/site/forusers/visualchangelog218/index.rst:274
+#: ../../source/site/forusers/visualchangelog218/index.rst:386
+#: ../../source/site/forusers/visualchangelog218/index.rst:398
+#: ../../source/site/forusers/visualchangelog218/index.rst:420
+#: ../../source/site/forusers/visualchangelog218/index.rst:432
+#: ../../source/site/forusers/visualchangelog218/index.rst:444
+#: ../../source/site/forusers/visualchangelog218/index.rst:456
+#: ../../source/site/forusers/visualchangelog218/index.rst:519
+msgid "This feature was funded by `North Road <http://north-road.com>`__"
+msgstr ""
+"या वैशिष्ट्यास `उत्तर रोड <http://north-road.com>` __ द्वारा अनुदान दिले "
+"होते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:224
+msgid "Symbology"
+msgstr "प्रतीकशास्त्र"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:227
+msgid "Feature: Color picker is now embedded in layer style panel"
+msgstr "वैशिष्ट्य: रंग निवडक आता स्तर शैली पॅनेलमध्ये एम्बेड केला आहे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:229
+msgid ""
+"In QGIS 2.18 clicking a color button inside the layer style panel causes the"
+" color picker dialog to be opened inside the style panel itself rather than "
+"as a separate dialog. This allows for interactive modification of colors "
+"with immediate preview of the result."
+msgstr ""
+"क्यूजीआयएस 2.18 In मध्ये लेयर स्टाईल पॅनेलमधील कलर बटणावर क्लिक केल्याने रंग"
+" निवडक संवाद स्वतंत्र संवादऐवजी स्वतः शैली पॅनेलमध्ये उघडला जाऊ शकतो. हे "
+"निकालाच्या तत्काळ पूर्वावलोकनासह रंगांच्या परस्पर संवादीकरणास अनुमती देते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:231
+msgid "|image42|"
+msgstr "|image42|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:600
+msgid "image42"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:239
+msgid "Labelling"
+msgstr "लेबलिंग"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:242
+msgid "Feature: Substitution list support for labeling"
+msgstr "वैशिष्ट्य: लेबलिंगसाठी प्रतिस्थापन सूची समर्थन"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:244
+msgid ""
+"Adds the ability to specify a list of text substitutes to make which apply "
+"to label text. Eg abbrevating street types."
+msgstr ""
+"लेबल मजकूरास लागू असलेल्या मजकूराची सूची निर्दिष्ट करण्याची क्षमता जोडते. "
+"उदा. रस्त्याचे प्रकार संक्षिप्त."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:246
+msgid ""
+"Users can export and import lists of substitutes to make reuse and sharing "
+"easier."
+msgstr ""
+"पुनर्वापर आणि सामायिकरण सुलभ करण्यासाठी वापरकर्ते पर्यायांच्या याद्या "
+"निर्यात आणि आयात करू शकतात."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:248
+msgid "|image43|"
+msgstr "|image43|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:601
+msgid "image43"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:256
+msgid "Feature: Improved line label placement algorithm"
+msgstr "वैशिष्ट्य: सुधारित लाइन लेबल प्लेसमेंट अल्गोरिदम"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:258
+msgid ""
+"The parallel labeling mode for line layers has been greatly improved, with a"
+" new algorithm which avoids placing labels over jagged parts of the feature "
+"geometries."
+msgstr ""
+"लाईन लेयर्ससाठी समांतर लेबलिंग मोडमध्ये मोठ्या प्रमाणात सुधारणा केली गेली "
+"आहे, एक नवीन अल्गोरिदम जो वैशिष्ट्य भूमितीच्या कडक भागांवर लेबल ठेवणे टाळतो."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:260
+msgid "|image44|"
+msgstr "| प्रतिमा 44 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:602
+msgid "image44"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:262
+#: ../../source/site/forusers/visualchangelog218/index.rst:493
+#: ../../source/site/forusers/visualchangelog218/index.rst:553
+msgid "This feature was funded by Andreas Neumann"
+msgstr "या वैशिष्ट्यास अँड्रियास न्युमन यांनी अनुदान दिले"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:268
+msgid "Feature: Label polygons using curved labels along perimeter"
+msgstr "वैशिष्ट्यः परिघासह वक्र लेबले वापरुन बहुभुज लेबल"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:270
+msgid ""
+"This adds a new mode for labeling polygons where the perimeter of the "
+"polygon is labeled using curved labeling."
+msgstr ""
+"हे बहुभुजांच्या लेबलिंगसाठी एक नवीन मोड जोडते जेथे वक्र लेबलिंगचा वापर करून "
+"बहुभुजाच्या परिमितीचे लेबल लावले जाते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:272
+msgid "|image45|"
+msgstr "| प्रतिमा 45 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:603
+msgid "image45"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:280
+msgid "Rendering"
+msgstr "प्रस्तुत करणे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:284
+msgid "Feature: Preview of raster tiles (WMTS and XYZ layers)"
+msgstr ""
+"वैशिष्ट्य: रास्टर टाईलचे पूर्वावलोकन (डब्ल्यूएमटीएस आणि एक्सवायझेड थर)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:286
+msgid ""
+"In previous versions of QGIS, users had to wait until download of all tiles "
+"of a layer has finished in order to view the resulting map. This has now "
+"been fixed and the tiles show up in map canvas immediately as they get "
+"downloaded, improving the user experience by greatly lowering the time until"
+" something is shown. Moreover, previously downloaded tiles from lower or "
+"higher resolutions may be used for the preview functionality in the areas "
+"where the tiles with correct resolution have not been downloaded yet."
+msgstr ""
+"क्यूजीआयएसच्या मागील आवृत्त्यांमध्ये, परिणामी नकाशा पाहण्यासाठी "
+"वापरकर्त्याने स्तरातील सर्व टाइल डाउनलोड पूर्ण होईपर्यंत प्रतीक्षा करावी "
+"लागली. हे आता निश्चित केले गेले आहे आणि टाईल डाउनलोड होताच नकाशा "
+"कॅनव्हासमध्ये त्वरित दर्शविल्या जातील, जेणेकरून काहीतरी दर्शविले जात नाही "
+"तोपर्यंत वेळ कमी करून वापरकर्त्याचा अनुभव सुधारला. शिवाय, खाली किंवा उच्च "
+"रिजोल्यूशनवरून पूर्वी डाउनलोड केलेल्या फरशा ज्या भागात योग्य रिजोल्यूशनसह "
+"फरशा अद्याप डाउनलोड केलेल्या नाहीत त्या भागात पूर्वावलोकन कार्यक्षमतेसाठी "
+"वापरल्या जाऊ शकतात."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:288
+msgid "|image46|"
+msgstr "| प्रतिमा 46 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:604
+msgid "image46"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:290
+#: ../../source/site/forusers/visualchangelog218/index.rst:300
+msgid ""
+"This feature was funded by `Land Information New Zealand "
+"<http://www.linz.govt.nz/>`__"
+msgstr ""
+"या वैशिष्ट्यास `भूगोल माहिती न्यूझीलंड <http://www.linz.govt.nz/>` __ द्वारा"
+" अनुदान दिले होते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:292
+#: ../../source/site/forusers/visualchangelog218/index.rst:302
+#: ../../source/site/forusers/visualchangelog218/index.rst:478
+msgid ""
+"This feature was developed by `Martin Dobias (Lutra Consulting) "
+"<http://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"हे वैशिष्ट्य `मार्टिन डोबियस (ल्युट्रा कन्सल्टिंग) "
+"<http://www.lutraconsulting.co.uk/> __ __ यांनी विकसित केले आहे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:296
+msgid ""
+"Feature: Cancellable rendering of rasters (WMS, WMTS, WCS and XYZ layers)"
+msgstr ""
+"वैशिष्ट्य: रास्टर्सचे रद्द करण्यायोग्य प्रस्तुतीकरण (डब्ल्यूएमएस, "
+"डब्ल्यूएमटीएस, डब्ल्यूसीएस आणि एक्सवायझेड स्तर)"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:298
+msgid ""
+"This enhancement improves user experience when working with raster layers "
+"coming from remote servers. Previously one would need to wait until "
+"downloads are fully complete in order to be able to zoom or pan the map "
+"again, because the user interface would stay frozen in the meanwhile. This "
+"is now fixed by the fact that the rendering of raster layers can be "
+"cancelled any time."
+msgstr ""
+"रिमोट सर्व्हरवरून येणाster्या रास्टर लेयर्ससह कार्य करताना हे वर्धन "
+"वापरकर्त्याच्या अनुभवात सुधारते. पूर्वी एखाद्यास नकाशे पुन्हा झूम किंवा पॅन "
+"करण्यास सक्षम होण्यासाठी डाउनलोड पूर्णपणे पूर्ण होईपर्यंत प्रतीक्षा करावी "
+"लागेल, कारण दरम्यानच्या काळात वापरकर्ता इंटरफेस गोठलेला असेल. हे आता रास्टर "
+"थरांचे प्रस्तुतिकरण कधीही रद्द केले जाऊ शकते या तथ्याद्वारे निश्चित केले "
+"गेले आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:306
+msgid "Data Management"
+msgstr "माहिती व्यवस्थापन"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:309
+msgid "Feature: Add flag to only copy selected features"
+msgstr "वैशिष्ट्य: केवळ निवडलेल्या वैशिष्ट्यांची कॉपी करण्यासाठी ध्वज जोडा"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:311
+msgid ""
+"The offline editing plugins is a default plugin that ships with QGIS and "
+"allows you to offline a remote dataset (e.g. from a database), edit it in "
+"the field, and then resynchonise it when you get back to your office. This "
+"extends the offline editing possibilities to only work on subset of large "
+"layers."
+msgstr ""
+"ऑफलाइन संपादन प्लगइन्स हे डीफॉल्ट प्लगइन आहे जे क्यूजीआयएस सह शिप करते आणि "
+"आपल्याला दूरस्थ डेटासेटची ऑफलाइन (उदा. एका डेटाबेसमधून) परवानगी देते, "
+"फील्डमध्ये संपादित करतात आणि नंतर आपल्या कार्यालयात परत येता तेव्हा ते "
+"पुन्हा संकालित करतात. हे केवळ मोठ्या स्तरांच्या सबसेटवर कार्य करण्यासाठी "
+"ऑफलाइन संपादन शक्यता वाढवते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:313
+msgid "|image47|"
+msgstr "| प्रतिमा 47 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:605
+msgid "image47"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:315
+#: ../../source/site/forusers/visualchangelog218/index.rst:358
+msgid "This feature was funded by DB Fahrwegdienste GmbH"
+msgstr "हे वैशिष्ट्य डीबी फहरवेगडीएन्स्टी जीएमबीएचने दिले होते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:317
+#: ../../source/site/forusers/visualchangelog218/index.rst:334
+#: ../../source/site/forusers/visualchangelog218/index.rst:348
+msgid ""
+"This feature was developed by `Matthias Kuhn (OPENGIS.ch) "
+"<http://www.opengis.ch/>`__"
+msgstr ""
+"हे वैशिष्ट्य `मथियास कुहन (OPENGIS.ch) <http://www.opengis.ch/>` __ यांनी "
+"विकसित केले आहे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:321
+msgid "Forms and Widgets"
+msgstr "फॉर्म आणि विजेट्स"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:324
+msgid "Feature: Allow controlling labels for individual edit widgets"
+msgstr "वैशिष्ट्यः स्वतंत्र संपादन विजेटसाठी नियंत्रित लेबलांना अनुमती द्या"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:326
+msgid ""
+"Allow controlling labels for individual edit widgets in a form. In the drag "
+"and drop designer, a double click on an item will allow controlling if the "
+"label should be shown for each item individually."
+msgstr ""
+"फॉर्ममध्ये वैयक्तिकृत विजेट्ससाठी नियंत्रित लेबलांना अनुमती द्या. ड्रॅग अँड "
+"ड्रॉप डिझायनरमध्ये, आयटमवर डबल क्लिक करणे प्रत्येक आयटमसाठी स्वतंत्रपणे लेबल"
+" दर्शविले जावे की नाही हे नियंत्रित करण्यास अनुमती देईल."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:328
+msgid ""
+"In addition it is possible to configure if the link/unlink buttons are shown"
+" in relation reference widget, which is useful to hide in 1:n relations "
+"where a child can't exist without its parents."
+msgstr ""
+"याव्यतिरिक्त दुवा / अनलिंक बटणे संबंध संदर्भ विजेटमध्ये दर्शविली असल्यास ते "
+"कॉन्फिगर करणे शक्य आहे, जे 1: n मध्ये लपविण्यासाठी उपयुक्त आहे ज्यात मूल "
+"त्याच्या पालकांशिवाय असू शकत नाही."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:330
+msgid "|image48|"
+msgstr "| प्रतिमा 48 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:606
+msgid "image48"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:332
+msgid ""
+"This feature was funded by `Kanton Zug, GIS-Fachstelle "
+"<http://geo.zg.ch/>`__"
+msgstr ""
+"या वैशिष्ट्यास `कॅंटन झग, जीआयएस-फॅचस्टेल <http://geo.zg.ch/> __ __ द्वारा "
+"वित्तपुरवठा करण्यात आला"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:338
+msgid "Feature: Conditional visibility for tabs and group boxes"
+msgstr "वैशिष्ट्य: टॅब आणि गट बॉक्ससाठी सशर्त दृश्यमानता"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:340
+msgid ""
+"This adds a new configuration option to conditionally show or hide tabs and "
+"groupboxes in drag and drop designer forms."
+msgstr ""
+"ड्रॅग अँड ड्रॉप डिझाइनर फॉर्ममध्ये टॅब आणि ग्रुपबॉक्स सशर्तपणे "
+"दर्शविण्यासाठी किंवा लपविण्यासाठी हे एक नवीन कॉन्फिगरेशन पर्याय जोडेल."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:342
+msgid ""
+"Configuration is done via a double click in the designer tree in the fields "
+"configuration interface."
+msgstr ""
+"फील्ड कॉन्फिगरेशन इंटरफेसमधील डिझाइनर ट्रीमध्ये डबल क्लिकद्वारे कॉन्फिगरेशन "
+"केले जाते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:344
+msgid ""
+"An expression can be entered to control the visibility. The expression will "
+"be re-evaluated everytime values in the form change and the tab or groupbox "
+"shown/hidden accordingly."
+msgstr ""
+"दृश्यमानता नियंत्रित करण्यासाठी अभिव्यक्ती प्रविष्ट केली जाऊ शकते. फॉर्म "
+"बदलल्याबद्दल आणि त्यानुसार टॅब किंवा ग्रुपबॉक्समध्ये दर्शविलेले / लपविलेले "
+"प्रत्येक मूल्यांचे अभिव्यक्तीचे पुन्हा मूल्यमापन केले जाईल."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:346
+msgid "|image49|"
+msgstr "| प्रतिमा 49 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:607
+msgid "image49"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:352
+msgid "Feature: Client side default field values"
+msgstr "वैशिष्ट्य: क्लायंट साइड डीफॉल्ट फील्ड मूल्य"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:354
+msgid ""
+"Allows an expression to be set for a vector layer field which is used to "
+"evaluate a default value for this field. Default value expressions can "
+"utilise properties of the feature which exist at the time of calling, such "
+"as digitized geometries. Expression variables can also be used in default "
+"value expressions, making it easy to eg insert a user's name, the current "
+"datetime, project path, etc."
+msgstr ""
+"या क्षेत्रासाठी डीफॉल्ट मूल्याचे मूल्यांकन करण्यासाठी वापरल्या जाणार्‍या "
+"वेक्टर लेयर फील्डसाठी अभिव्यक्ती सेट करण्याची अनुमती देते. डीफॉल्ट मूल्य "
+"अभिव्यक्ती कॉलिंगच्या वेळी अस्तित्त्वात असलेल्या वैशिष्ट्याचे गुणधर्म वापरू "
+"शकतात, जसे की डिजिटलाइझ्ड भूमिती. एक्सप्रेशन व्हेरिएबल्स डीफॉल्ट मूल्य "
+"अभिव्यक्तींमध्ये देखील वापरली जाऊ शकतात, उदाहरणार्थ वापरकर्त्याचे नाव, सद्य "
+"तारीख, प्रकल्प पथ इत्यादी घाला."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:356
+msgid "|image50|"
+msgstr "| इमेज 50 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:608
+msgid "image50"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:363
+msgid "Map Composer"
+msgstr "नकाशा संगीतकार"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:366
+msgid "Feature: True North Arrows"
+msgstr "वैशिष्ट्य: खरे उत्तर बाण"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:368
+msgid ""
+"QGIS 2.18 adds support for orienting north arrows in the composer to True "
+"North. Previously all arrows were aligned to grid north, which is unsuitable"
+" for polar regions or non-north up projections (such as some South African "
+"projection systems). Now, you can choose to orient arrows to either grid "
+"north or true north. There's also an optional offset angle, which can be "
+"used to specify a grid convergence to make your arrows orient to magnetic "
+"north!"
+msgstr ""
+"क्यूजीआयएस 2.18 ट्रू उत्तर मध्ये संगीतकारातील उत्तर बाणांना दिशा देण्यास "
+"समर्थन जोडते. पूर्वी सर्व बाण ग्रीडवर संरेखित केले गेले होते, जे ध्रुवीय "
+"क्षेत्रे किंवा उत्तर-नॉर्थ अप प्रोजेक्शनसाठी उपयुक्त नाही (जसे की काही "
+"दक्षिण आफ्रिकन प्रोजेक्शन सिस्टम). आता आपण एकतर ग्रीड उत्तर किंवा ख north्या"
+" उत्तरेकडे बाणांना दिशा देण्यास निवडू शकता. तेथे एक वैकल्पिक ऑफसेट कोन देखील"
+" आहे, जो आपल्या बाणांना चुंबकीय उत्तरेकडे अभिमुख करण्यासाठी ग्रिड अभिसरण "
+"निर्दिष्ट करण्यासाठी वापरला जाऊ शकतो!"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:370
+msgid "|image51|"
+msgstr "| image51 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:609
+msgid "image51"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:372
+msgid ""
+"This feature was funded by `Norwegian Polar Institute's Quantarctica project"
+" <http://quantarctica.npolar.no>`__"
+msgstr ""
+"या वैशिष्ट्यास `नॉर्वेजियन पोलर इन्स्टिट्यूटच्या क्वांटार्टिका प्रकल्प "
+"<http://quantarctica.npolar.no> by __ द्वारा वित्तसहाय्य दिले"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:377
+msgid "Processing"
+msgstr "प्रक्रिया करीत आहे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:380
+msgid "Feature: Point on surface algorithm"
+msgstr "वैशिष्ट्य: पृष्ठभाग अल्गोरिदम वर बिंदू"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:382
+msgid ""
+"This new algorithm is similar to the centroids algorithm, but where a "
+"centroid may fall outside its corresponding feature the 'Point on surface' "
+"algorithm is guaranteed to create a point which is inside the corresponding "
+"polygon feature (or touching the corresponding line feature for line "
+"layers)."
+msgstr ""
+"हे नवीन अल्गोरिदम सेंट्रॉइड अल्गोरिदम प्रमाणेच आहे, परंतु जेथे एक सेन्ट्रॉइड"
+" त्याच्या संबंधित वैशिष्ट्याबाहेर पडेल तेथे 'पॉइंट ऑन पृष्ठभाग' अल्गोरिदम "
+"संबंधित बहुभुज वैशिष्ट्यामध्ये एक बिंदू तयार करण्याची हमी आहे ( किंवा रेखा "
+"स्तरांसाठी संबंधित लाइन वैशिष्ट्यास स्पर्श करते)."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:384
+msgid "|image52|"
+msgstr "|image52|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:610
+msgid "image52"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:392
+msgid "Feature: Processing dissolve algorithm accepts multiple fields"
+msgstr "वैशिष्ट्य: प्रक्रिया विरघळणारे अल्गोरिदम एकाधिक फील्ड स्वीकारते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:394
+msgid ""
+"The dissolve algorithm now allows you to dissolve based on more than one "
+"field value. In previous QGIS versions a dissolve could only group features "
+"by a single field value."
+msgstr ""
+"विसर्जित अल्गोरिदम आता आपल्याला एकापेक्षा जास्त फील्ड मूल्याच्या आधारावर "
+"विरघळण्याची परवानगी देतो. मागील QGIS आवृत्त्यांमध्ये विरघळणे केवळ एका फील्ड "
+"मूल्याद्वारे गट वैशिष्ट्ये समाविष्ट करू शकते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:396
+msgid "|image53|"
+msgstr "|image53|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:611
+msgid "image53"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:404
+msgid "Feature: Optimised processing clip algorithm"
+msgstr "वैशिष्ट्य: ऑप्टिमाइझ्ड प्रोसेसिंग क्लिप अल्गोरिदम"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:406
+msgid ""
+"The processing clip algorithm has been optimised for common use scenarios, "
+"resulting in dramatic speedups for clipping operations. For example:"
+msgstr ""
+"प्रक्रिया क्लिप अल्गोरिदम सामान्य वापर परिस्थितीसाठी ऑप्टिमाइझ केले गेले "
+"आहे, परिणामी क्लिपिंग ऑपरेशन्ससाठी नाटकीय वेग वाढविला जातो. उदाहरणार्थ:"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:408
+msgid "**Clipping a roads layer with 1 million lines against 2 polygons**"
+msgstr "** 2 बहुभुज विरूद्ध 1 दशलक्ष रेषांसह रस्ता थर कापणे **"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:410
+msgid "**Earlier versions:** 5 mins 30 seconds"
+msgstr "** पूर्वीची आवृत्ती: ** 5 मिनिटे 30 सेकंद"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:411
+msgid "**QGIS 2.18:** 10 seconds"
+msgstr "** QGIS 2.18: ** 10 सेकंद"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:413
+msgid "**Clipping a 5 million point address layer against 2 polygons**"
+msgstr "** 2 बहुभुज विरूद्ध 5 दशलक्ष पॉईंट पत्त्याची थर कापणे **"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:415
+msgid "**Earlier versions:** 50 minutes"
+msgstr "** पूर्वीच्या आवृत्त्या: ** 50 मिनिटे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:416
+msgid "**QGIS 2.18:** 30 seconds"
+msgstr "** QGIS 2.18: ** 30 सेकंद"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:418
+msgid "|image54|"
+msgstr "|image54|"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:612
+msgid "image54"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:426
+msgid "Feature: Bounding boxes algorithm"
+msgstr "वैशिष्ट्य: बाउंडिंग बॉक्स अल्गोरिदम"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:428
+msgid ""
+"This new algorithm calculates the bounding box (envelope) of each feature in"
+" the input layer."
+msgstr ""
+"हे नवीन अल्गोरिदम इनपुट लेयरमधील प्रत्येक वैशिष्ट्याच्या बाउंडिंग बॉक्स "
+"(लिफाफा) ची गणना करते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:430
+msgid "|image55|"
+msgstr "| इमेज 55 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:613
+msgid "image55"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:438
+msgid "Feature: Merge connected lines algorithm"
+msgstr "वैशिष्ट्य: कनेक्ट केलेल्या ओळी अल्गोरिदम विलीन करा"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:440
+msgid ""
+"This algorithm joins all the connected parts of MultiLineString geometries "
+"into single LineString geometries. If any parts of the input MultiLineString"
+" geometries are not connected, the resultant geometry will be a "
+"MultiLineString containing any lines which could be merged and any non-"
+"connected line parts."
+msgstr ""
+"हा अल्गोरिदम मल्टीलाइनस्ट्रिंग भूमितीच्या सर्व कनेक्ट भागांमध्ये एकल "
+"लाइनस्ट्रिंग भूमितीमध्ये सामील होतो. जर मल्टीलाइनस्ट्रिंग भूमिती इनपुटचा "
+"कोणताही भाग कनेक्ट केलेला नसेल तर परिणामी भूमिती एक मल्टिलाइनस्ट्रिंग असेल "
+"ज्यामध्ये कोणतीही लाइन विलीन केली जाऊ शकते आणि कोणतेही जोडलेले नसलेले रेखा "
+"भाग असतील."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:442
+msgid "|image56|"
+msgstr "| image56 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:614
+msgid "image56"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:450
+msgid "Feature: Geometry boundary algorithm"
+msgstr "वैशिष्ट्य: भूमिती सीमा अल्गोरिदम"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:452
+msgid ""
+"This new algorithm returns the closure of the combinatorial boundary of the "
+"input geometries (ie the topological boundary of the geometry). For "
+"instance, a polygon geometry will have a boundary consisting of the "
+"linestrings for each ring in the polygon, and a line geometry will have a "
+"boundary consisting of the start and end points of the line. This algorithm "
+"is only valid for polygon or line layers."
+msgstr ""
+"हे नवीन अल्गोरिदम इनपुट भूमिती (म्हणजे भूमितीच्या टोपोलॉजिकल सीमा) च्या "
+"संयोजी सीमेचे बंदी परत करते. उदाहरणार्थ, बहुभुज भूमितीमध्ये बहुभुजातील "
+"प्रत्येक अंगठीसाठी लिनेस्टिंग्जची एक सीमा असेल आणि रेखा भूमितीस रेषाच्या "
+"सुरूवातीस आणि शेवटच्या बिंदूंसह एक सीमा असेल. हे अल्गोरिदम फक्त बहुभुज किंवा"
+" रेखा स्तरांसाठी वैध आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:454
+msgid "|image57|"
+msgstr "| image57 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:615
+msgid "image57"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:462
+msgid "Data Providers"
+msgstr "डेटा प्रदात्या"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:465
+msgid "Feature: Native support of XYZ tile layers"
+msgstr "वैशिष्ट्य: एक्सवायझेड टाइल थरांचे मूळ समर्थन"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:467
+msgid ""
+"Raster tiles in XYZ format are now natively supported within WMS data "
+"providers, allowing users to display basemaps from other sources without "
+"requiring third-party plugins like QuickMapServices or OpenLayers anymore."
+msgstr ""
+"एक्सवायझेड स्वरूपातील रास्टर फरशा आता डब्ल्यूएमएस डेटा प्रदात्यामध्ये मूळपणे"
+" समर्थित आहेत, ज्यामुळे वापरकर्त्यांना आता क्विकॅपॅप सर्व्हिसेस किंवा "
+"ओपनलायर्स सारख्या तृतीय-पक्षाच्या प्लगइनची आवश्यकता न पडता इतर स्त्रोतांकडून"
+" बेसमॅप्स प्रदर्शित करण्यास अनुमती दिली जाते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:469
+msgid ""
+"To add connections to XYZ layers, just open browser dock widget, look for "
+"item called \"Tile Server (XYZ)\" and right click it to get a popup menu "
+"with \"New connection\" action. You will be asked for URL, in which ``{x}``,"
+" ``{y}``, ``{z}`` will be replaced by the actual tile numbers according to "
+"the current map view. For example, to add OpenStreetMap base map, one may "
+"use this URL: ``http://c.tile.openstreetmap.org/{z}/{x}/{y}.png``"
+msgstr ""
+"एक्सवायझेड स्तरांवर कनेक्शन जोडण्यासाठी, फक्त ब्राउझर डॉक विजेट उघडा, \"टाइल"
+" सर्व्हर (एक्सवायझेड)\" नावाची आयटम पहा आणि \"नवीन कनेक्शन\" क्रियेसह पॉपअप "
+"मेनू मिळविण्यासाठी उजवे क्लिक करा. आपणास URL विचारण्यात येईल, ज्यामध्ये "
+"वर्तमान नकाशा दृश्यानुसार वास्तविक टाइल क्रमांकासह  ``{x}``, ``{y}``, "
+"``{z}``  be पुनर्स्थित केले जाईल. उदाहरणार्थ, ओपनस्ट्रिटमॅप बेस नकाशा "
+"जोडण्यासाठी, ही यूआरएल वापरू शकता: `` "
+"http://c.tile.openstreetmap.org/{z}/{x}/{y}.png``"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:472
+msgid ""
+"The data provider also supports encoding of XYZ tile numbers into "
+"\"quadkeys\" used by Bing. Simply use ``{q}`` instead of ``{x}``, ``{y}`` "
+"and ``{z}`` in the URL."
+msgstr ""
+"बिंग द्वारे वापरलेल्या \"क्वाडकीज\" मध्ये एक्सवायझेड टाइल क्रमांकाचे "
+"एन्कोडिंग देखील डेटा प्रदाता समर्थन देते. यूआरएलमध्ये `` {x} ``, `` {y} `` "
+"आणि ``} z} `of ऐवजी फक्त` `{q}` use वापरा."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:474
+msgid "|image61|"
+msgstr "| प्रतिमा 61 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:619
+msgid "image61"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:476
+msgid ""
+"This feature was funded by `Lutra Consulting "
+"<http://www.lutraconsulting.co.uk/>`__"
+msgstr ""
+"या वैशिष्ट्यास `लुथ्रा कन्सल्टिंग <http://www.lutraconsulting.co.uk/> __ __ "
+"द्वारा अनुदान दिले होते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:482
+msgid "QGIS Server"
+msgstr "QGIS सर्व्हर"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:485
+msgid "Feature: Possibility to segmentize feature info geometry in server"
+msgstr ""
+"वैशिष्ट्य: सर्व्हरमधील वैशिष्ट्य माहिती भूमिती एकत्रीकरण करण्याची शक्यता"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:487
+msgid ""
+"Necessary for geometries that contain curves (CircularArc, CompoundCurve, "
+"CurvePolygon), but the web client (e.g. QGIS Web Client) can't handle the "
+"display of these geometry types."
+msgstr ""
+"भूमितीसाठी आवश्यक आहे ज्यात वक्र (सर्क्युलरअर्क, कंपाऊंड करव्ह्यू, "
+"कर्व्हपॉलीगॉन) असतात परंतु वेब क्लायंट (उदा. क्यूजीआयएस वेब क्लायंट) या "
+"भूमिती प्रकारांचे प्रदर्शन हाताळू शकत नाहीत."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:489
+msgid ""
+"This feature can be enabled in the \"OWS server\" tab in the \"Project "
+"Properties\" dialogue."
+msgstr ""
+"\"प्रोजेक्ट गुणधर्म\" संवादातील \"ओडब्ल्यूएस सर्व्हर\" टॅबमध्ये हे वैशिष्ट्य"
+" सक्षम केले जाऊ शकते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:491
+msgid "|image62|"
+msgstr "| प्रतिमा 62 |"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:620
+msgid "image62"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:495
+msgid ""
+"This feature was developed by `Marco Hugentobler (Sourcepole) "
+"<http://www.sourcepole.ch/>`__"
+msgstr ""
+"हे वैशिष्ट्य `मार्को हूजेन्टोबलर (स्त्रोतपोल) <http://www.sourcepole.ch/> __"
+" __ यांनी विकसित केले आहे"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:499
+msgid "Plugins"
+msgstr "प्लगइन्स"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:502
+msgid "Feature: DB Manager: Add the ability to update SQL Layer"
+msgstr ""
+"वैशिष्ट्य: डीबी व्यवस्थापक: एसक्यूएल लेअर अद्यतनित करण्याची क्षमता जोडा"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:504
+msgid ""
+"With this feature the user can update the layer datasource if it's based on "
+"an SQL request."
+msgstr ""
+"या वैशिष्ट्यासह वापरकर्ता लेयर डेटासोर्स एसक्यूएल विनंतीवर आधारित असल्यास "
+"अद्यतनित करू शकतो."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:506
+msgid "This feature was funded by `Ifremer <http://wwz.ifremer.fr>`__"
+msgstr ""
+"या वैशिष्ट्यास `इफ्रेमर <http://wwz.ifremer.fr>` __ द्वारा अनुदान दिले होते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:508
+msgid "This feature was developed by `3Liz <http://3liz.com>`__"
+msgstr "हे वैशिष्ट्य `3Liz <http://3liz.com>` __ द्वारा विकसित केले गेले"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:512
+msgid "Programmability"
+msgstr "कार्यक्रमक्षमता"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:515
+msgid "Feature: Expose GEOS linear referencing function to QgsGeometry"
+msgstr "वैशिष्ट्यः जीओओएस रेषीय संदर्भ फंक्शन क्यूजीजीमेट्रीमध्ये उघड करा"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:517
+msgid ""
+"A new function ``QgsGeometry::lineLocatePoint()`` has been added for "
+"retrieving the distance along a linestring to the nearest position on the "
+"linestring to a given point."
+msgstr ""
+"दिलेल्या पॉईंटवर लिनेस्टरिंगच्या जवळच्या स्थानावरील एका लाइनरच्या बाजूने "
+"अंतर परत मिळवण्यासाठी एक नवीन फंक्शन `` क्यूजीजमेट्री :: लाइनलोकपॉईंट () "
+"`added समाविष्ट केले गेले आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:525
+msgid "Feature: New PyQGIS classes in 2.18"
+msgstr "वैशिष्ट्यः 2.18 मध्ये नवीन पायक्विजीआयएस वर्ग"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:528
+msgid "New core classes"
+msgstr "नवीन कोर वर्ग"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:530
+msgid ""
+"`QgsAnnotation <https://qgis.org/api/classQgsAnnotation.html>`__ - an "
+"interface for annotation items which are drawn over a map"
+msgstr ""
+"`QgsAnnotation <https://qgis.org/api/classQgsAnnotation.html> __ __ - "
+"नकाशावर काढलेल्या भाष्य वस्तूंसाठी इंटरफेस"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:531
+msgid ""
+"`QgsFeedback <https://qgis.org/api/classQgsFeedback.html>`__ - a base class "
+"for feedback objects to be used for cancellation of something running in a "
+"worker thread"
+msgstr ""
+" क्यूग्सफीडबॅक <https://qgis.org/api/classQgsFeedback.html> __ __ कामगार "
+"थ्रेडमध्ये चालू असलेल्या काहीतरी रद्द करण्यासाठी अभिप्राय ऑब्जेक्ट्सचा वापर "
+"करण्यासाठी एक बेस क्लास"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:532
+msgid ""
+"`QgsOptionalExpression "
+"<https://qgis.org/api/classQgsOptionalExpression.html>`__ - an expression "
+"with an additional enabled flag"
+msgstr ""
+"`QgsOptionalExpression "
+"<https://qgis.org/api/classQgsOptionalExpression.html>` __ - अतिरिक्त सक्षम "
+"ध्वजासह एक अभिव्यक्ति"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:535
+msgid "New GUI classes, Reusable widgets"
+msgstr "नवीन जीयूआय वर्ग, पुन्हा वापरण्यायोग्य विजेट"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:537
+msgid ""
+"`QgsExpressionLineEdit "
+"<https://qgis.org/api/classQgsExpressionLineEdit.html>`__ - includes a line "
+"edit for entering expressions together with a button to open the expression "
+"creation dialog. This widget is designed for use in contexts where no layer "
+"fields are available for use in an expression and space is constrained."
+msgstr ""
+"Gs QgsExpressionLineEdit "
+"<https://qgis.org/api/classQgsExpressionLineEdit.html> __ - - अभिव्यक्ती "
+"निर्माण संवाद उघडण्यासाठी बटणासह अभिव्यक्ती प्रविष्ट करण्यासाठी एक ओळ संपादन"
+" समाविष्ट करते. हे विजेट संदर्भात वापरण्यासाठी डिझाइन केलेले आहे जेथे "
+"अभिव्यक्तीसाठी कोणतेही स्तर फील्ड उपलब्ध नाहीत आणि जागा मर्यादित आहे."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:538
+msgid ""
+"`QgsTabWidget <https://qgis.org/api/classQgsTabWidget.html>`__ - similar to "
+"QTabWidget but with additional methods to temporarily hide/show tabs"
+msgstr ""
+"`QgsTabWidget <https://qgis.org/api/classQgsTabWidget.html> __ __ - क्यूटीब "
+"विजेट प्रमाणेच परंतु टॅब तात्पुरते लपविण्यासाठी / दर्शविण्यासाठी अतिरिक्त "
+"पद्धतींसह"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:541
+msgid "Feature: New expression functions"
+msgstr "वैशिष्ट्य: नवीन अभिव्यक्ती कार्ये"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:543
+msgid ""
+"QGIS 2.18 adds several new expression functions, including functions for "
+"angle/distance interpolation."
+msgstr ""
+"क्यूजीआयएस 2.18 अँगल / डिस्टॉन्स इंटरपोलेशनच्या फंक्शन्ससह अनेक नवीन "
+"एक्सप्रेशन फंक्शन्स समाविष्ट करते."
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:545
+msgid ""
+"``line_merge``: merges a MultiLineString geometry into connected LineStrings"
+msgstr ""
+". `लाइन_ विसर्जन: एकाधिक-लाइनस्ट्रिंग भूमितीला कनेक्ट केलेल्या "
+"लाइनस्ट्रिंगमध्ये विलीन करते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:546
+msgid ""
+"``boundary``: returns a geometry's topological boundary, ie for polygons "
+"this is a MultiLineString representing the polygon's rings"
+msgstr ""
+"`` सीमा``: भूमितीची टोपोलॉजिकल सीमा मिळवते, म्हणजे बहुभुजांसाठी बहुभुजांच्या"
+" रिंगांचे प्रतिनिधित्व करणारी मल्टीलाइनस्ट्रिंग"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:547
+msgid ""
+"``angle_at_vertex``: returns the average (bisector) angle to a geometry at a"
+" specified vertex index"
+msgstr ""
+"`` कोन_एट_वर्टेक्स``: निर्दिष्ट शिरोबिंदू निर्देशांकातील भूमितीला सरासरी "
+"(दुभाजक) कोन परत करते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:548
+msgid ""
+"``distance_to_vertex``: returns distance along geometry to a specified "
+"vertex index"
+msgstr ""
+"``istance_to_vertex``: भूमिती बाजूने निर्दिष्ट शिरोबिंदू अनुक्रमणिकेवर अंतर "
+"मिळवते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:549
+msgid ""
+"``line_interpolate_angle``: calculates the angle parallel to a geometry at "
+"the specified distance along the geometry"
+msgstr ""
+"`` लाइन_इंटरप्लेट_एंगल``: भूमितीसमवेत निर्दिष्ट अंतरावर भूमितीच्या समांतर "
+"कोनाची गणना करते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:550
+msgid "``line_interpolate_point``: returns a point on line at distance"
+msgstr ". `line_interplate_Point``: अंतरावरील रेषेवरील बिंदू मिळवते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:551
+msgid ""
+"``line_locate_point``: returns distance along line to nearest line location "
+"closest to specified point"
+msgstr ""
+". `ओळ_लोक_पॉइंट``: निर्दिष्ट बिंदूच्या सर्वात जवळच्या रेषेच्या स्थानास अंतर "
+"दर्शविते"
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:559
+msgid "image2"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:560
+msgid "QGIS user group Switzerland"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:561
+msgid "image4"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:568
+msgid "image9"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog218/index.rst:579
+msgid "ChameleonJohn"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "|bronze| |ChameleonJohn|"
+#~ msgstr "| कांस्य | | | गिरगिट जॉन |"
+
+#~ msgid "`ChameleonJohn <http://www.chameleonjohn.com/>`_"
+#~ msgstr "`गिरगिट जॉन <http://www.chameleonjohn.com/>` _"
+
+#~ msgid "|bronze| |HostingFacts.com (Online only ou)|"
+#~ msgstr "| कांस्य | | | होस्टिंगफॅक्टस.कॉम (केवळ ऑनलाइन केवळ) |"
+
+#~ msgid "`HostingFacts.com (Online only ou) <https://hostingfacts.com/>`_"
+#~ msgstr ""
+#~ "`होस्टिंगफॅक्टस.कॉम (केवळ ऑनलाईन बाहेर) <https://hostingfacts.com/>` _"

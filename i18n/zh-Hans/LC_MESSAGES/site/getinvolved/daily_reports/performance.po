@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# 严振裕, 2022
+# 徐保才 <1302638819@qq.com>, 2022
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2018-12-19 16:24+0000\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
+"Language-Team: Chinese Simplified (https://www.transifex.com/qgis/teams/6144/zh-Hans/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:2
+msgid "Performance"
+msgstr "性能"
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:4
+msgid ""
+"At the moment, two tools are living together to test and generate "
+"performance reports."
+msgstr "目前，两个工具一起使用来测试和生成性能报告。"
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:7
+msgid ""
+"The first one is `MS-Perfs <https://github.com/camptocamp/ms_perfs>`_ which "
+"allows to compare QGIS Server with other map servers (like GeoServer or "
+"MapServer). Reports are generated weekly and available `here "
+"<http://test.qgis.org/perf_test/ms_perf/>`_."
+msgstr ""
+"第一个是MS-"
+"Perfs(<https://github.com/camptocamp/ms_perfs>)，它允许将QGIS服务器与其他地图服务器(如GeoServer或MapServer)进行比较的，并且每周生成报告，可在http://test.qgis.org/perf_test/ms_perf/这里查看报告。"
+
+#: ../../source/site/getinvolved/daily_reports/performance.rst:12
+msgid ""
+"The second one is `Graffiti <https://github.com/pblottiere/graffiti>`_, "
+"allowing to generate a performance report between several versions of QGIS "
+"Server and/or specific project options (parallel rendering effect, trust "
+"option, and so on). Reports are also generated daily and available `in "
+"<http://test.qgis.org/perf_test/graffiti/>`_. Note that `QGIS-Server-"
+"PerfSuite <http://github.com/Oslandia/QGIS-Server-PerfSuite>`_ project is "
+"the deployment infrastructure to run Graffiti in continuous integration."
+msgstr ""
+"第二个是Graffiti(<https://github.com/camptocamp/ms_perfs>)，它允许在QGIS "
+"Server的多个版本和/或特定项目选项(并行渲染效果、信任选项等)之间生成性能报告。每天生成报告，并可在<http://test.qgis.org/perf_test/graffiti/>进行查看。请注意“QGIS-"
+"Server-PerfSuite”（<http://github.com/Oslandia/QGIS-Server-"
+"PerfSuite>）项目是在持续集成中运行涂鸦的部署基础设施。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

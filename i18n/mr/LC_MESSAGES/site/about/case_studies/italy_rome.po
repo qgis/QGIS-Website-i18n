@@ -1,0 +1,444 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:3
+msgid ""
+"QGIS geoprocessing model to simplify first level seismic microzonation "
+"analysis"
+msgstr "प्रथम स्तरावरील भूकंपाचे सूक्ष्मजीव विश्लेषण सोपे करण्यासाठी क्यूजीआयएस जिओप्रोसेसिंग मॉडेल"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:5
+msgid ""
+"The Institute of Environmental Geology and Geoengineering (IGAG) of the "
+"National Research Council (CNR) is located in Rome, in the Area of Research "
+"\"Roma 1\". It was founded in 2002 by regrouping five former research "
+"Institutes and Centers that had been active for more than 40 years in their "
+"field of expertise. IGAG covers a wide range of scientific topics in the "
+"field of Earth sciences, mainly focusing towards the study of:"
+msgstr "नॅशनल रिसर्च कौन्सिल (सीएनआर) ची इन्स्टिट्यूट ऑफ एनव्हायन्मेंटल जिओलॉजी Geण्ड जिओइंजिनेरिंग (आयजीएजी) रिसर्चच्या क्षेत्रातील \"रोमा 1\" मध्ये रोममध्ये आहे. २००२ मध्ये पाच तज्ञ संशोधन संस्था आणि केंद्रे पुन्हा एकत्रित करून 2002 मध्ये स्थापन केली गेली होती जे त्यांच्या कार्यक्षेत्रात 40 वर्षांहून अधिक काळ कार्यरत आहेत. आयजीएजी मुख्यत: च्या अभ्यासाकडे लक्ष देताना पृथ्वी विज्ञान क्षेत्रातील विविध वैज्ञानिक विषयांचा समावेश करते."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:12
+msgid ""
+"Environmental geochemistry and remediation of contaminated soils and waters;"
+msgstr "पर्यावरणीय भू-रसायनशास्त्र आणि दूषित जमीन आणि पाण्याचे उपाय;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:13
+msgid ""
+"Mineral deposits and mineral processing, including the treatment of waste "
+"waters;"
+msgstr "खनिज साठे आणि खनिज प्रक्रिया, कचरा पाण्याच्या प्रक्रियेसह;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:14
+msgid "Geoengineering and safety of rock excavations;"
+msgstr "जिओनजीनियरिंग आणि रॉक उत्खननाची सुरक्षा;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:15
+msgid "Recent geological evolution;"
+msgstr "अलीकडील भूवैज्ञानिक उत्क्रांती;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:16
+msgid "Mitigation of natural hazards;"
+msgstr "नैसर्गिक धोके कमी करणे;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:17
+msgid "Geoarchaeology and archaeometry."
+msgstr "भूगर्भशास्त्र आणि पुरातत्व."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:18
+msgid "Marine Geology"
+msgstr "सागरी भूविज्ञान"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:19
+msgid "Geomatics, GIS analysis and development."
+msgstr "भूगर्भशास्त्र, जीआयएस विश्लेषण आणि विकास."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:21
+msgid ""
+"The level 1 seismic microzonation study of the Pietramontecorvino area "
+"(Apulia, Southern Italy, located along the Central-Southern Apennine chain) "
+"is part of a project, in collaboration with the Basin Authority of Apulia "
+"(Puglia AdB) and the Department of Geology and Geophysics (DGG) of the "
+"University of Bari, aimed at the seismic microzonation of 63 Municipalities "
+"of the area of Foggia. The activity was promoted by the Italian Department "
+"of Civil Protection (DPC) and financed by the Interministerial Committee for"
+" Economic Planning (CIPE n. 20/2004)."
+msgstr "अपुलिआच्या बेसिन अथॉरिटी (पुगलिया Bडबी) आणि भूविज्ञान आणि भूभौतिकीशास्त्र विभाग यांच्या संयुक्त विद्यमाने पीट्रामॅन्टेकोर्व्हिनो क्षेत्राचा (भूकंप, दक्षिण इटली, मध्य-दक्षिणी enपेनिन साखळीच्या बाजूने स्थित) स्तर 1 भूकंपाचा सूक्ष्मजीव अभ्यास आहे. बरी युनिव्हर्सिटीच्या (डीजीजी) फोगगिया क्षेत्राच्या Municipal 63 नगरपालिकांच्या भूकंपाच्या सूक्ष्मक्षेत्राच्या उद्देशाने. इटालियन नागरी संरक्षण विभाग (डीपीसी) द्वारा या क्रियेस प्रोत्साहन दिले गेले होते आणि आर्थिक नियोजन इंटरमिनिस्टरियल कमेटीद्वारे अर्थसहाय्य दिले गेले आहे (सीआयपीई एन. 20/2004)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:30
+msgid "QGIS geoprocessing tool for first level seismic microzonation studies"
+msgstr "प्रथम स्तरावरील भूकंपाच्या सूक्ष्मजीव अभ्यासासाठी क्यूजीआयएस जिओप्रोसेसिंग साधन"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:32
+msgid ""
+"The seismic microzonation evaluate the seismic hazard at the local scale "
+"proposing to identify areas of territory characterized by homogeneous "
+"seismic behavior. The first level of seismic microzoning has the purpose of "
+"defining the lithological properties and geometry of geological units that "
+"characterize these portions of territory (microzones)."
+msgstr "एकसमान भूकंपाच्या वर्तनाद्वारे वैशिष्ट्यीकृत भूभागाचे क्षेत्र ओळखण्यासाठी स्थानिक पातळीवर भूकंपाच्या सूक्ष्मजीवनाने भूकंपाच्या धोक्याचे मूल्यांकन केले. भूकंपाच्या सूक्ष्मझोनिंगच्या पहिल्या स्तरामध्ये क्षेत्राच्या या भागाचे (मायक्रोझोन) वैशिष्ट्यीकृत भूगर्भीय युनिट्सचे लिथोलॉजिकल गुणधर्म आणि भूमिती परिभाषित करण्याचे उद्दीष्ट आहे."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:38
+msgid ""
+"The observation of the damage caused by an earthquake often shows variations"
+" at local scale caused not only by geological structures but also by "
+"different quality and type of building structures, resulting in different "
+"seismic hazards."
+msgstr "भूकंपामुळे होणा damage्या नुकसानीचे निरीक्षण अनेकदा स्थानिक पातळीवर होणारे बदल केवळ भौगोलिक रचनेमुळेच नव्हे तर भिन्न गुणवत्तेच्या आणि इमारतीच्या संरचनेच्या प्रकारांमुळे देखील दिसून येते ज्यामुळे विविध भूकंपाचे धोके उद्भवू शकतात."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:42
+msgid ""
+"The seismic microzonation evaluates the local seismic hazard, through the "
+"identification of areas of territory characterized by homogeneous seismic "
+"behavior."
+msgstr "एकसमानजन्य भूकंपाच्या वर्तनाद्वारे वैशिष्ट्यीकृत प्रदेशांची ओळख करुन भूकंपाचा सूक्ष्मजोषण स्थानिक भूकंपाच्या धोक्याचे मूल्यांकन करतो."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:45
+msgid ""
+"The Guidelines and Criteria for Seismic microzoning 2008 "
+"(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137) "
+"provide standards for seismic microzoning studies on Italian territory; they"
+" distinguish three levels of increasing depth (from 1 to 3)."
+msgstr "भूकंपशास्त्रीय मायक्रोझोनिंगसाठी मार्गदर्शक तत्त्वे आणि निकष 2008 (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137) इटालियन प्रदेशावरील भूकंपाच्या सूक्ष्मझोनिंग अभ्यासाचे मानके प्रदान करतात; ते वाढणार्‍या खोलीचे तीन स्तर (1 ते 3 पर्यंत) वेगळे करतात."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:49
+msgid ""
+"The first level seismic microzonation consists in the creation of three "
+"thematic maps:"
+msgstr "पहिल्या स्तरावरील भूकंपाचा सूक्ष्मजीवणामध्ये तीन विषयासंबंधी नकाशे तयार करणे समाविष्ट आहे:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:51
+msgid "Survey map containing the surveys for seismic microzonation studies;"
+msgstr "भूकंपाच्या सूक्ष्मजीव अभ्यासासाठी सर्वेक्षण असलेले सर्वेक्षण नकाशा;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:52
+msgid ""
+"Geo-lithological map, obtained from detailed scale geological and "
+"geomorphological maps integrating existing lithological, stratigraphic and "
+"geotechnical data related to surveys;"
+msgstr "भौगोलिक-लिथोलॉजिकल नकाशा, सर्वेक्षणानुसार विद्यमान लिथोलॉजिकल, स्ट्रॅटीग्राफिक आणि भौगोलिक तंत्रज्ञानाचे समाकलित करणार्या विस्तृत भौगोलिक आणि भौगोलिक नकाशेमधून प्राप्त;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:54
+msgid ""
+"Level 1 seismic microzonation map (the principal product of level 1 "
+"microzonation), identifying the microzones into three categories of local "
+"hazards:"
+msgstr "स्तर 1 भूकंपाचा सूक्ष्मझोनेशन नकाशा (स्तर 1 मायक्रोझोनेशनचे मुख्य उत्पादन), स्थानिक धोक्यातील तीन श्रेणींमध्ये मायक्रोझोन ओळखणे:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:57
+msgid "Stable zones;"
+msgstr "स्थिर झोन;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:58
+msgid "Stable zones prone to ground amplification;"
+msgstr "स्थिर प्रक्षोपाय जमीनी प्रवर्धनासाठी प्रवण;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:59
+msgid "Unstable zones."
+msgstr "अस्थिर झोन."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:61
+msgid ""
+"The scope of this work is to contribute to the creation of a methodology for"
+" processing topographical, geological, geophysical and geo-technical data "
+"aimed at level 1 seismic microzonation map drafting, through the use of open"
+" source tools."
+msgstr "ओपन सोर्स टूल्सच्या वापराद्वारे 1 स्तरावरील भूकंपाच्या सूक्ष्मक्षेत्र नकाशा मसुद्याच्या उद्देशाने स्थलाकृतिक, भौगोलिक, भौगोलिक, भौगोलिक आणि भौगोलिक-तांत्रिक डेटा प्रक्रियेसाठी कार्यपद्धती तयार करण्यास या कार्याची संधी आहे."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:65
+msgid ""
+"The Graphical Modeler tool integrated in the latest version of QGIS (2.8.1 "
+"as of writing) has been used for the creation of a simple geoprocessing "
+"model. This tool is useful to automate one of the analysis commonly "
+"performed for the creation of level 1 seismic microzonation maps, in "
+"particular to identify unstable zones as polygon features."
+msgstr "क्यूजीआयएसच्या नवीनतम आवृत्तीत समाकलित केलेले ग्राफिकल मॉडेलर साधन (लेखनानुसार 2.8.1) साध्या जिओप्रोसेसिंग मॉडेलच्या निर्मितीसाठी वापरले गेले आहे. हे साधन बहुतेक वैशिष्ट्ये म्हणून अस्थिर झोन ओळखण्यासाठी लेव्हल 1 भूकंपाच्या सूक्ष्मक्षेत्र नकाशे तयार करण्यासाठी सामान्यतः केलेल्या विश्लेषणापैकी एक स्वयंचलित करण्यासाठी उपयुक्त आहे."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:70
+msgid ""
+"The model makes use of different open source software and libraries (GRASS, "
+"GDAL, QGIS), demonstrating the usefulness of QGIS as a simplified and "
+"unified interface for heterogeneous GFOSS (Geospatial Free and Open Source "
+"Software) tools (Fig. 1)."
+msgstr "हे मॉडेल विविध ओपन सोर्स सॉफ्टवेअर आणि लायब्ररी (जीआरएएसएस, जीडीएएल, क्यूजीआयएस) चा वापर करते, जीजीएफओएस (जिओस्पाटियल फ्री अँड ओपन सोर्स सॉफ्टवेयर) साधने (चित्र 1) साठी एक सोपी आणि युनिफाइड इंटरफेस म्हणून QGIS ची उपयुक्तता दर्शवते."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:79
+msgid "Geoprocessing model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:79
+msgid "(Fig. 1) Screenshot from the geoprocessing model."
+msgstr "(चित्र. 1) जिओप्रोसेसिंग मॉडेलचा स्क्रीनशॉट."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:81
+msgid "The model takes as input (Fig. 2):"
+msgstr "मॉडेल इनपुट म्हणून घेते (चित्र 2):"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:83
+msgid "A shapefile of contour lines containing a field with elevation values;"
+msgstr "एलिव्हेशन व्हॅल्यूज असलेले फील्ड असलेली समोच्च रेषांची एक आकृती;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:84
+msgid "The name of the field  containing elevation values;"
+msgstr "उन्नत मूल्ये असलेल्या फील्डचे नाव;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:85
+msgid ""
+"The desired raster resolution in meters for DEM and Slope (default 10);"
+msgstr "डीईएम आणि उतार (डीफॉल्ट 10) साठी मीटरमध्ये इच्छित रास्टर रेझोल्यूशन;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:86
+msgid ""
+"A polygon shapefile from which features intersecting areas with slope "
+"greater than 15 degrees will be extracted;"
+msgstr "एक बहुभुज आकारफाइल ज्यातून 15 अंशांपेक्षा जास्त उतार असलेले छेदणारे भाग दर्शविले जातील;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:87
+msgid "The name of the resulting polygon layer."
+msgstr "The name of the resulting polygon layer."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:94
+msgid "Model input form (left) and execution log (right)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:94
+msgid "(Fig. 2) Model input form (left) and execution log (right)."
+msgstr "(चित्र. 2) मॉडेल इनपुट फॉर्म (डावीकडे) आणि अंमलबजावणी लॉग (उजवीकडे)."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:96
+msgid "When launched, the model performs the following operations:"
+msgstr "जेव्हा लाँच केले जाईल, तेव्हा मॉडेल खालील ऑपरेशन्स करते:"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:98
+msgid ""
+"The GRASS tool v.to.rast.attribute converts contour elevation lines to "
+"raster, taking the contour shapefile, the name of the z field and the raster"
+" resolution as input;"
+msgstr "समोराची आकारमान आकार, झेड फील्डचे नाव आणि रास्टर रेझोल्यूशन इनपुट म्हणून घेतल्यास ग्रॉस टूल v.to.rast.attribute समोच्च उन्नत रेखांना रास्टरमध्ये रुपांतरीत करते;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:100
+msgid ""
+"The GRASS tool r.surf.contour generates the elevation model taking as input "
+"the rasterized temporary output from previous step and the raster "
+"resolution;"
+msgstr "मागील टप्प्यातुन रास्टरराइज्ड तात्पुरते आउटपुट आणि रास्टर रेझोल्यूशनद्वारे इनपुट म्हणून ग्रहस टूल आर.सुरफ कॉन्टोर एलिव्हेशन मॉडेल व्युत्पन्न करते;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:102
+msgid ""
+"The GDAL tool “gdaldem” generates the slope expressed as degrees from the "
+"elevation model;"
+msgstr "जीडीएएल साधन “जीडीएल्डेम” लिफ्ट मॉडेलवरून अंश म्हणून व्यक्त केलेला उतार निर्माण करते;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:103
+msgid ""
+"The GRASS tool r.mapcalculator is used to generate a 1 bit raster "
+"identifying areas with slope greater than 15 degrees (this value is coded in"
+" the microzonation guidelines, and so it is fixed), using the expression:"
+msgstr "जीआरएएसएस टूल आर.मैपकॅल्क्युलेटरचा वापर 15 डिग्रीपेक्षा जास्त उतार असलेले एक बीट रास्टर व्युत्पन्न करण्यासाठी केला जातो (हे मूल्य मायक्रोझोनेशन मार्गदर्शकतत्त्वात कोड केलेले आहे आणि म्हणून ते निश्चित केले गेले आहे)"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:107
+msgid "if(A>15,1,null())"
+msgstr "जर (ए> 15,1, शून्य ())"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:109
+msgid "where A is the temporary slope raster generated by gdaldem;"
+msgstr "जिथे ए जी जीडील्डेमद्वारे निर्माण केलेला तात्पुरता उतार रास्टर आहे;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:111
+msgid "The GDAL tool “gdal_polygonize” converts the 1 bit raster to polygons;"
+msgstr "GDAL साधन “gdal_polygonize” 1 बिट रास्टरला बहुभुजमध्ये रुपांतरीत करते;"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:112
+msgid ""
+"The QGIS tool “Intersection” is used to overlay the areas with slope greater"
+" than 15 degrees with the chosen intersection layer."
+msgstr "क्यूजीआयएस साधन “छेदनबिंदू” निवडलेल्या प्रतिच्छेदन लेयरसह 15 अंशांपेक्षा जास्त उतार असलेल्या भागात आच्छादित करण्यासाठी वापरले जाते."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:115
+msgid ""
+"The result is a polygon layer with areas prone to instability due to a slope"
+" value greater than 15 degrees, automatically extracted from a thematic map "
+"such as a landslides polygon layer (Fig. 3) or a lithological map."
+msgstr "याचा परिणाम बहुभुज स्तर असून तो १ 15 अंशांपेक्षा जास्त उतार असलेल्या अस्थिरतेमुळे ग्रस्त भागात भूस्खलन बहुभुज थर (चित्र 3) किंवा लिथोलॉजिकल नकाशासारख्या विषयासंबंधी नकाशावर आपोआप काढला जातो."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:124
+msgid ""
+"The model output (in red) shows highly unstable areas extracted from a "
+"landslides layer (orange)"
+msgstr ""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:124
+msgid ""
+"(Fig. 3) The model output (in red) shows highly unstable areas extracted "
+"from a landslides layer (orange)."
+msgstr "(चित्र 3) मॉडेल आउटपुट (लाल रंगात) भूस्खलन थर (संत्रा) पासून काढलेले अत्यंत अस्थिर क्षेत्र दर्शविते."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:127
+msgid "Conclusions"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:129
+msgid ""
+"This work clearly demonstrates that open source GIS tools like QGIS, GRASS, "
+"GDAL/OGR, can successfully be used for spatial analysis and data processing "
+"aimed at first level seismic microzonation  studies. In this example work, "
+"QGIS has been used as a simplified and unified interface for different high "
+"quality GFOSS tools; the Graphical Modeler allows to intuitively construct "
+"geoprocessing models that can be easily shared as portable and cross-"
+"platform tools that doesn't require expensive software licenses. The tool "
+"leverages the QGIS modeling capabilities to graphically chain different "
+"algorithms, defining input and output parameters and leaving to the software"
+" the task of managing intermediate data output. The use of GRASS algorithms "
+"does not require defining and using a GRASS database and mapset, greatly "
+"simplifying the design of the model. Future developments include the "
+"creation of a package of tools and models, based on open source software, "
+"that can be used to simplify and speed up spatial analysis tasks necessary "
+"for seismic microzonation studies."
+msgstr "हे कार्य स्पष्टपणे दर्शविते की क्यूजीआयएस, ग्रास, जीडीएएल / ओजीआर सारख्या मुक्त स्त्रोत जीआयएस साधने स्थानिक पातळीवरील विश्लेषण आणि डेटा प्रोसेसिंगसाठी प्रथम स्तरावरील भूकंपाच्या सूक्ष्मजीव अभ्यासासाठी यशस्वीरित्या वापरल्या जाऊ शकतात. या उदाहरणाच्या कार्यामध्ये, क्यूजीआयएस भिन्न उच्च गुणवत्तेच्या जीएफओएसएस साधनांसाठी सरलीकृत आणि एकसंध इंटरफेस म्हणून वापरले गेले आहे; ग्राफिकल मॉडेलर जिओप्रोसेसिंग मॉडेल अंतर्ज्ञानाने तयार करण्याची परवानगी देते जे सहजपणे पोर्टेबल आणि क्रॉस-प्लॅटफॉर्म साधने म्हणून सामायिक केले जाऊ शकतात ज्यांना महाग सॉफ्टवेअर परवान्यांची आवश्यकता नाही. साधन वेगवेगळ्या अल्गोरिदमांना ग्राफिक चेन करण्यासाठी, इनपुट आणि आउटपुट मापदंड परिभाषित करण्यासाठी आणि इंटरमीडिएट डेटा आउटपुट व्यवस्थापित करण्याचे कार्य सॉफ्टवेअरवर सोडण्यासाठी QGIS मॉडेलिंग क्षमतांचा फायदा करते. ग्रॅस अल्गोरिदमचा वापर करण्यासाठी मॉडेलचे डिझाइन सरलीकृत करणे, ग्रॅस डाटाबेस व मॅपसेट निश्चित करणे आणि वापरणे आवश्यक नाही. भविष्यातील घडामोडींमध्ये मुक्त स्रोत सॉफ्टवेअरवर आधारित साधने आणि मॉडेल्सच्या पॅकेजची निर्मिती समाविष्ट आहे, ज्याचा उपयोग भूकंपाच्या सूक्ष्मजीव अभ्यासासाठी आवश्यक स्थानिक विश्लेषण कार्य सुलभ आणि वेगवान करण्यासाठी केला जाऊ शकतो."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:142
+msgid "References"
+msgstr "संदर्भ"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:144
+msgid ""
+"G. Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
+"Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
+"della Provincia di Foggia Dipartimento di Geologia e Geofisica "
+"dell'Università di Bari, 2011\""
+msgstr "जी. बाल्डसॅरे; गॅलॅचिओ, एस.; ग्यानानंद्रिया, पी. आणि ट्रोपेनो, एम .: \"रेलाझिओन फिनाले जिओलिटोलिका प्रति ला मायक्रोझोनॅझिओन सिस्मिका डाय लाइलो 1 डी कोईनी डेला प्रोव्हिनिया डाय फोगिया दिपर्टीमेंटो डाय जियोलोगिया ई जिओफिसिका डेल'इनिव्हर्सिट डाय बारी, 2011\""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:147
+msgid ""
+"Cavinato,G.P.; Cavuoto, G.; Coltella, M.; Cosentino, G.; Paolucci, E.; "
+"Peronace, E. & Simionato, M.: \"Studio di fattibilità per il monitoraggio e "
+"la messa in sicurezza delle aree urbane a rischio di stabilità statica e "
+"vulnerabilità strutturale del Comune e della Provincia di Foggia - CIPE "
+"20/2004 Consiglio Nazionale delle Ricerche - Istituto di Geologia Ambientale"
+" e Geoingegneria, 2013, 526\""
+msgstr "कॅविनाटो, जीपी ;; कॅव्होटो, जी ;; कोटेला, एम.; कोसेन्टिनो, जी ;; पाओलुची, ई.; पेरोनेस, ई. आणि सिमिआनाटो, एम .: \"स्टुडिओ डाय फॅटीबिलीट प्रति इल मॉनिटोरागिओ ई ला मेसेज इन सिक्युरिझा डेले अरे यूबेन ए रिस्चिओ दि स्टेबिलिटि स्टॅटिका ई एनस्राबिलिटि डेल कॉम्यून ई डेला प्रोव्हिनिआ डाय फोगिया - सीआयपीई 20/2004 कॉलिझिक इस्टिटो डि जियोलिया अंबिएन्टेल ई जियोजगेनेरिया, 2013, 526 \""
+
+#: ../../source/site/about/case_studies/italy_rome.rst:151
+msgid ""
+"Contributi per l'aggiornamento degli \"Indirizzi e criteri per la "
+"microzonazione sismica \" 2008. Ingegneria sismica, Pàtron Editore Bologna, "
+"2011 "
+"(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083)"
+msgstr "2008 l मध्ये इंदिरिझी सिस्मिका, पेटरॉन Editडिटोर बोलोग्ना, 2011 (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB28083)प्रति लि 'गॅगीर्नमेन्टो डिगली कॉन्ट्रिब्युटी"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:153
+msgid ""
+"Gruppo di lavoro MS, 2008. Indirizzi e criteri per la microzonazione "
+"sismica. Conferenza delle Regioni e delle Province autonome - Dipartimento "
+"della protezione civile, Roma, 3 vol. e Dvd, Presidenza del Consiglio dei "
+"Ministri, Dipartimento di Protezione Civile, 2008, 424. "
+"(http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)"
+msgstr "ग्रुप्पो दि लाव्होरो एमएस, २००8.. इंदिरिझी ई सिटरी फॉर ला मायक्रोझोनाझिओन सिस्मिका. कॉन्फरन्झा डेले रीझीनी ई डेले प्रांत स्वायत्त - दिपर्टीमेंटो डेला प्रोटीझिओन सिव्हिल, रोमा, 3 खंड. ई डीव्हीडी, प्रेसिडेन्झा डेल कॉन्सिग्लिओ दे मिनीस्ट्री, दिपर्टीमेंटो दि प्रोटीझिओन सिव्हिल, 2008, 424. (http://www.protezionecivile.gov.it/jcms/it/view_pub.wp?contentId=PUB1137)"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:159
+msgid "Authors"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:161
+msgid ""
+"This article was contributed March 2015 by Giuseppe Cosentino and Francesco "
+"Pennica (www.igag.cnr.it)."
+msgstr "या लेखाचे योगदान ज्युसेप्पे कोसेन्टीनो आणि फ्रान्सिस्को पेनिका (www.igag.cnr.it). मार्च 2015 contrib मध्ये देण्यात आले."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:168
+msgid "Giuseppe Cosentino"
+msgstr "ज्युसेप्पे कोसेन्टिनो"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:170
+msgid ""
+"Giuseppe Cosentino <g.cosentino@igag.cnr.it> is geologist and technologist "
+"specializied in Geographic Information Systems for the management of "
+"geological and engineering hazards. Currently working in the field of "
+"seismic microzonation and environmental characterization of the lands in "
+"contaminated sites. Areas of interest: geological and environmental hazards,"
+" cartography, structural geology, explorative drillings."
+msgstr "ज्युसेप्पे कोसेन्टिनो <g.cosentino@igag.cnr.it> भौगोलिक आणि अभियांत्रिकीच्या धोके व्यवस्थापित करण्यासाठी भौगोलिक माहिती प्रणाल्यांमध्ये तज्ञशास्त्रज्ञ आणि तंत्रज्ञ आहेत. सध्या भूकंपातील मायक्रोझोनेशन आणि दूषित स्थळांमधील जमिनींचे पर्यावरण वैशिष्ट्य या क्षेत्रात काम करत आहे. आवडीची क्षेत्रे: भौगोलिक आणि पर्यावरणीय धोके, कार्टोग्राफी, स्ट्रक्चरल भूविज्ञान, शोषक ड्रिलिंग."
+
+#: ../../source/site/about/case_studies/italy_rome.rst:181
+msgid "Francesco Pennica"
+msgstr "फ्रान्सिस्को पेनिका"
+
+#: ../../source/site/about/case_studies/italy_rome.rst:183
+msgid ""
+"Francesco Pennica provides GIS and  WebGIS software development and data "
+"management: GeoServer, MapServer, ArcGIS Server, GeoNetwork OGC standard "
+"based webgis services, Java, HTML, CSS, Javascript, Python, PHP languages "
+"and frameworks, WebGIS front-end development with OpenLayers, ExtJS, GeoExt,"
+" JQuery, GWT, Ext-GWT, Google Maps API SQL, geodatabase management, "
+"PostgreSQL, PostGIS, GIS desktop software based analysis and scripting "
+"(ArcGIS, GRASS, GFOSS tools), Software configuration and management in Linux"
+" and Windows based servers and desktops."
+msgstr "फ्रान्सिस्को पेनिका जीआयएस आणि वेबजीआयएस सॉफ्टवेअर डेव्हलपमेंट आणि डेटा व्यवस्थापन प्रदान करते: जिओसर्व्हर, मॅप सर्व्हर, आर्कजीआयएस सर्व्हर, जिओनेटवर्क ओजीसी मानक आधारित वेबगिस सेवा, जावा, एचटीएमएल, सीएसएस, जावास्क्रिप्ट, पायथन, पीएचपी भाषा आणि फ्रेमवर्क, ओपनलायर्स, एक्स्टजेएससह वेबजीआयएस फ्रंट-एंड डेव्हलपमेंट , जिओक्स्ट, जेक्यूरी, जीडब्ल्यूटी, एक्स्ट-जीडब्ल्यूटी, गूगल मॅप्स एपीआय एसक्यूएल, जिओडॅटाबेस मॅनेजमेन्ट, पोस्टग्रेएसक्यूएल, पोस्टजीआयएस, जीआयएस डेस्कटॉप सॉफ्टवेयर आधारित विश्लेषण आणि स्क्रिप्टिंग (आर्केजीआयएस, जीआरएएसएस, जीएफओएसएस टूल्स), लिनक्स आणि विंडोज आधारित सर्व्हर्स आणि सॉफ्टवेअरमध्ये कॉन्फिगरेशन आणि व्यवस्थापन. डेस्कटॉप."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "The Institute of Environmental Geology and Geoengineering (IGAG) of the "
+#~ "National Research Council (CNR) is located in Rome, in the Area of Research "
+#~ "“Roma 1”. It was founded in 2002 by regrouping five former research "
+#~ "Institutes and Centers that had been active for more than 40 years in their "
+#~ "field of expertise. IGAG covers a wide range of scientific topics in the "
+#~ "field of Earth sciences, mainly focusing towards the study of:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "# Survey map containing the surveys for seismic microzonation studies; # "
+#~ "Geo-lithological map, obtained from detailed scale geological and "
+#~ "geomorphological maps integrating existing lithological, stratigraphic and "
+#~ "geotechnical data related to surveys; # Level 1 seismic microzonation map "
+#~ "(the principal product of level 1 microzonation), identifying the microzones"
+#~ " into three categories of local hazards: * Stable zones; * Stable zones "
+#~ "prone to ground amplification; * Unstable zones."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The GRASS tool v.to.rast.attribute convert contour elevation lines to "
+#~ "raster, taking the coutour shapefile, the name of the z field and the raster"
+#~ " resolution as input;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The GRASS tool r.surf.contour generate the elevation model taking as input "
+#~ "the rasterized temporary output from previous step and the raster "
+#~ "resolution;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The GDAL tool “gdaldem” generate the slope expressed as degrees from the "
+#~ "elevation model;"
+#~ msgstr ""
+
+#~ msgid "The GDAL tool “gdal_polygonize” convert the 1 bit raster to polygons;"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Baldassarre; Gallicchio, S.; Giannandrea, P. & Tropeano, M.: \"Relazione "
+#~ "Finale Geolitologica per la microzonazione sismica di livello 1dei Comuni "
+#~ "della Provincia di Foggia Dipartimento di Geologia e Geofisica "
+#~ "dell'Università di Bari, 2011\""
+#~ msgstr ""

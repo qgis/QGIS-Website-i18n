@@ -1,0 +1,207 @@
+# 
+# Translators:
+# KIG Team <info@khagolam.com>, 2017
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2022
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2022\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:3
+msgid "Danish Demining Group using QGIS in Afghanistan"
+msgstr "अफगाणिस्तानमध्ये डॅनिश डिमाइनिंग ग्रुप क्यूजीआयएस वापर करतो. "
+
+#: ../../source/site/about/case_studies/afghanistan.rst:5
+msgid ""
+"The Danish Demining Group (DDG), the specialised mine action unit of the "
+"Danish Refugee Council, has been working in Afghanistan since 1999, "
+"undertaking humanitarian mineclearance, unexploded ordnance (UXO) disposal "
+"and mine risk education. DDG Afghanistan delivers humanitarian mine action "
+"to save life, strengthen the sense of safety through risk education and help"
+" remove obstacles to the productive use of resources, helping to realise "
+"Afghanistan’s development potential. Since the start of operations in "
+"Afghanistan, DDG has removed over 24,000 landmines and over 940,000 pieces "
+"of UXO. Currently, DDG is working in the northern provinces of Balkh and "
+"Samangan, and the central provinces of Kabul, Parwan and Panjshir."
+msgstr "दानिश डिमिंग ग्रुप (डीडीजी), दानिश रेफ्यूजी कॉऊंसिलचे विशेष खाण क्रिएशन युनिट, 1999 पासून अफगाणिस्तानमध्ये कार्यरत आहे, मानवीय खतखोरपणा, अनपेक्षित ऑर्डनन्स (यूएक्सओ) डिस्पोजल आणि माय झोनिकल एजुकेशन हाती आहे. डीडीजी अफगाणिस्तान जीवनावश्यक जीवन वाचविण्यासाठी मानवी हक्क आणते, जोखीम शिक्षणाद्वारे सुरक्षिततेची भावना मजबूत करते आणि स्त्रोतांच्या उत्पादक वापरासाठी अडथळे दूर करण्यास मदत करते, ज्यामुळे अफगाणिस्तानच्या विकासाची क्षमता लक्षात येते. अफगाणिस्तान मध्ये ऑपरेशन सुरू असल्याने, डीडीजी 24,000 जमिनीच्या खाणी  काढून आणि यूएक्सओ पेक्षा जास्त 940,000 तुकडे काढला आहे. सध्या, डीडीजी बल्ह आणि समांगणच्या उत्तरी प्रांतांमध्ये काम करत आहे, आणि काबुलचे केंद्रीय प्रांत, परवान आणि पानज्शीर"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:7
+msgid ""
+"In Afghanistan, mineclearance activities are coordinated through the Mine "
+"Action Coordination Centre for Afghanistan (MACCA), who collect and "
+"disseminate geospatial information on known hazards (minefields, "
+"battlefields, ‘spot’ UXO tasks), and update this information as clearance "
+"progresses. New shapefiles of these ‘hazard polygons’ are issued by the "
+"MACCA on a regular basis, and mineclearance organisations can use these to "
+"assess the situation of mineclearance in their areas of operation. DDG is "
+"trialling the use of QGIS within the organization to replace the expensive "
+"commercial softwares it has used in the past."
+msgstr "अफगाणिस्तान मध्ये, खाणींचे कामकाज ज्ञात धोका (जंगल क्षेत्रे, युद्धक्षेत्रे, 'स्पॉट' यूएक्सओ  कार्ये) वर भू-स्थानिक माहिती गोळा आणि प्रसारित करणाऱ्या खान अॅक्शन कोऑर्डिनेशन सेंटर फॉर अफ़गानिस्तान (एमएसीसीए) द्वारे समन्वय साधून केले जाते आणि ही माहिती अद्ययावत होण्यासारखी आहे. या 'धोका बहुभुज' ची नवीन आकारफलक एमएसीसीएद्वारा नियमितपणे जारी केली जाते, आणि खाणींचे संगोपन संस्थांनी त्यांच्या ऑपरेशनच्या क्षेत्रातील खटल्यांच्या स्थितीचे मूल्यांकन करण्यासाठी ह्याचा वापर करू शकतात. डीडीजी गेल्या काळात वापरलेल्या महाग व्यावसायिक सॉफ्टवेअर्सची जागा घेण्याकरिता संस्थेमध्ये QGIS च्या वापराची चाचणी करीत आहे."
+
+#: ../../source/site/about/case_studies/afghanistan.rst:14
+msgid ""
+"Digital elevation models allow DDG to get an idea of the location of a "
+"minefield."
+msgstr ""
+
+#: ../../source/site/about/case_studies/afghanistan.rst:14
+msgid ""
+"Digital elevation models allow DDG to get an idea of the location of a "
+"minefield"
+msgstr "डिजिटल एलिवेशन मॉडेल्समुळे डीडीजीला माईनफिल्डच्या ठिकाणाची कल्पना मिळू शकते"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:16
+msgid ""
+"The use of geospatial data is most useful in the planning and survey phases."
+" In Afghanistan, security problems and rugged terrain mean that physical re-"
+"survey of known sites is not always easy. Instead, the use of a mixture of "
+"data --– satellite or aerial photography underlays, digitized Soviet-era "
+"topographic maps, hazard shapefiles and digital elevation models –-- allow "
+"DDG to get an idea of the location of a minefield in relation to the terrain"
+" and surrounding natural and physical features before sending in a survey "
+"team. QGIS plugins add useful capabilities, like the ability to visualise "
+"terrain in 3D. The attached screenshot above –-- made using the plugin "
+"Qgis2threejs --- shows an area just south of the Darulaman Palace in Kabul, "
+"with active minefields (along the ridgelines on the left) shown in red over "
+"a Soviet topographic raster layer combined with SRTM data. Minefields "
+"already cleared show as light green."
+msgstr "नियोजन आणि सर्वेक्षण टप्प्यांमध्ये भूस्थानिक डेटाचा वापर सर्वात उपयुक्त आहे. अफगाणिस्तानमध्ये, सुरक्षितता समस्या आणि खडबडीत भूभाग म्हणजे सामान्यत: ज्ञात साइट्सचे भौतिक पुनः सर्वेक्षण करणे नेहमीच सोपे नसते. त्याऐवजी, डेटाचे मिश्रण- उपग्रह किंवा हवाई फोटोग्राफी अंकेक्षण, डिजिटाइझ्ड सोव्हिएत-युग स्थलांतरण नकाशे, धोका आकारफळा आणि डिजिटल उंचीचे मॉडेल --- डीडीजीला ह्या संबंधात एक खाणच्या क्षेत्राची कल्पना मिळविण्याची परवानगी देते. एक सर्वेक्षण कार्यसंघ पाठविण्यापूर्वी भूप्रदेश आणि सभोवतालच्या नैसर्गिक व भौतिक वैशिष्ट्ये. QGIS प्लगिन उपयुक्त क्षमता जोडतात, जसे की 3D मध्ये भूदृश्य दृश्यमान करण्याची क्षमता. उपरोक्त जोडलेला स्क्रीनशॉट --- प्लगइन क्यूजी 2 थ्रीजेस --- वापरून करण्यात आला --- काबूलच्या दारुलमन पॅलेसच्या दक्षिणेकडे एक क्षेत्र दाखवले आहे, सोवियत स्थलांतरित रेखांशाच्या थरांवर एसआरटीएमसह लाल रंगात दर्शविलेली सक्रिय क्षेत्र (डावीकडच्या बाजूने) डेटा माईलफील्डस्ने शो लाईट हिरवा म्हणून साफ केले आहे"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:23
+msgid ""
+"Active hazardous areas shown in red. Hazardous areas already cleared show as"
+" light green."
+msgstr "लालरंगामध्ये दर्शविलेले घातक जागा आहेत.  घातक जागा विरळ हिरव्या रंगानी अगोदरच दर्शविलेल्या आहेत. "
+
+#: ../../source/site/about/case_studies/afghanistan.rst:26
+msgid ""
+"Kabul University’s campus is still contaminated with suspected hazardous "
+"areas --– thought to comprise of air-dropped bombs or similar ordnance. "
+"While not posing any immediate threat to students or staff, these hazards "
+"will require eventual clearance to allow future construction within an "
+"educational institution vital to Afghanistan’s future development. The "
+"hazards are also notable as among the last significant remaining hazardous "
+"areas in the Kabul metropolitan area. By using QGIS to combine the hazard "
+"polygons from earlier surveys with highly accurate aerial photography "
+"provided by the USGS, discrepancies can be noted –-- e.g. where the polygons"
+" do not match the shape of the buildings, as evident in the northwest part "
+"of the campus --- which can direct survey teams to places to first conduct a"
+" more accurate re-survey."
+msgstr "काबुल युनिर्व्हसिटीचे कॅम्पस अद्याप संशयास्पद घातक भागाशी दूषित झाले आहे - हवाबंद झालेल्या बोम्ब किंवा तत्सम अध्यादेश यांचा समावेश आहे. विद्यार्थ्यांना किंवा कर्मचार्यांना तात्काळ धोका न देताना या धोक्यांना भविष्यात बांधकाम भविष्यात निर्माण करण्यासाठी अफगाणिस्तानच्या भविष्यातील विकासासाठी महत्वपूर्ण शैक्षणिक संस्थेची परवानगी देण्याची अंतिम मंजुरी आवश्यक आहे. काबुल महानगरीय भागात शेवटच्या महत्वाच्या घातक भागात हे धोकादायक आहेत. यूएसजीएसद्वारा प्रदान केलेल्या अत्यंत अचूक हवाई फोटोग्राफीसह पूर्वीच्या सर्वेक्षणांपासून धोका पॉलीगॉन्स एकत्र करण्यासाठी QGIS वापरुन, विसंगती लक्षात घेता --- उदा. जिथे बहुभुज इमारतींच्या आकाराशी जुळत नाहीत तिथे, कॅम्पसच्या वायव्य भागात स्पष्ट दिसतात --- जे सर्वेक्षण स्तरावर स्थानांची दिशाभूल करते ते प्रथम अधिक सखोल री-सर्वेक्षण करतात"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:28
+msgid ""
+"QGIS also syncs well with data collected from field operations using "
+"handheld Garmin GPS, allowing clearance maps to be made with the locations "
+"of mines found and destroyed."
+msgstr "QGIS हेन्डहेल्ड गार्मिन जीपीएस वापरून फिल्ड ऑपरेशनवरून गोळा केलेल्या डेटासह सुध्दा सिंक्रोनाइझ करते, ज्यामुळे मिळालेल्या आणि नष्ट झालेल्या खाणींच्या स्थानांसह क्लिअरन्स नकाशे परवानगी मिळते."
+
+#: ../../source/site/about/case_studies/afghanistan.rst:30
+msgid ""
+"The use of QGIS, along with a renewed interest in data analysis, has spurred"
+" new ways of looking at the data available, and combining it with other data"
+" sources to better target mineclearance activities. It is also driving "
+"improved mapping capabilities within the organisation, and an ability to "
+"better communicate the impact of its work to international donors. In a part"
+" of the world where ‘formal’ GIS training is difficult to acquire, the "
+"collaborative nature of the QGIS user community is greatly appreciated, as "
+"technical problems can often be solved by consulting online forums. In "
+"short, QGIS is playing a role in working towards ridding Afghanistan of "
+"landmines and UXO."
+msgstr "QGIS च्या उपयोगाने, डेटा विश्लेषणात नूतनीकरण करण्यात आलेल्या स्वारस्यासह, उपलब्ध डेटाकडे पाहण्याचा आणि इतर डेटा स्त्रोतांसह यात अधिक चांगले लक्ष केंद्रित करण्याच्या उद्देशाने नवीन मार्ग तयार केले आहेत. हे संस्थेमध्ये सुधारित मॅपिंग क्षमता देखील चालवित आहे आणि आंतरराष्ट्रीय दात्यांना त्याच्या कामाचा प्रभावीपणे संवाद साधण्याची क्षमता. 'औपचारिक' जीआयएस प्रशिक्षण घेणे कठीण आहे अशा जगाच्या एका भागात, QGIS वापरकर्ता समाजाचे सहयोगी स्वरूप खूप कौतुक केले आहे कारण तांत्रिक समस्या ऑनलाइन फोरमवर सल्ला घेऊन अनेकदा निराकरण करता येते. थोडक्यात, QGIS, भूमिपुत्र आणि युक्सएओच्या अफगाणिस्तानला रोखण्याच्या दिशेने काम करण्यासाठी भूमिका बजावत आहे."
+
+#: ../../source/site/about/case_studies/afghanistan.rst:33
+msgid "Link"
+msgstr "दुवा"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:35
+msgid "Danish Demining Group http://www.danishdemininggroup.dk/"
+msgstr "दानिश  दिमिनिंग ग्रुप http://www.danishdemininggroup.dk"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:39
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:46
+msgid "Edward Crowther"
+msgstr "एडवर्ड क्रॉथर"
+
+#: ../../source/site/about/case_studies/afghanistan.rst:48
+msgid ""
+"Edward Crowther is Deputy Country Director at Danish Demining Group "
+"Afghanistan. Prior to joining DDG in Afghanistan, Edward worked with the "
+"humanitarian mineclearance agency The HALO Trust in Angola and Sri Lanka. He"
+" holds an MSc in Development Studies from the University of London’s School "
+"of Oriental and African Studies."
+msgstr "एडवर्ड क्रॉथर डेनिश डिमिनेंग ग्रुप अफगाणिस्तानमधील डेप्युटी कंट्री डायरेक्टर आहेत. अफगाणिस्तानमध्ये डीडीजीमध्ये सामील होण्याआधी एडवर्डने अंगोला आणि श्रीलंकेतील हालो ट्रस्टमधील मानवतावादी खाण तपासणी एजन्सीसह काम केले. लंडन स्कूल ऑफ ओरिएंटल अॅण्ड आफ्रिकन स्टडीजमधून त्यांनी डेव्हलपमेंट स्टडीजमध्ये एमएससी ठेवला आहे."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "The Danish Demining Group (DDG), the specialised mine action unit of the "
+#~ "Danish Refugee Council, has been working in Afghanistan since 1999, "
+#~ "undertaking humanitarian mineclearance, unexploded ordnance (UXO) disposal "
+#~ "and mine risk education. DDG Afghanistan delivers humanitarian mine action "
+#~ "to save life, strengthen the sense of safety through risk education and help"
+#~ " remove obstacles to the productive use of resources, helping to realise "
+#~ "Afghanistan’s development potential. Since the start of operations in "
+#~ "Afghanistan, DDG has removed over 24,000 landmines and over 940,000 pieces "
+#~ "of UXO. Currently, DDG is working in the northern provinces of Balkh and "
+#~ "Samangan, and the central provinces of Kabul, Parwan and Panjshir. In "
+#~ "Afghanistan, mineclearance activities are coordinated through the Mine "
+#~ "Action Coordination Centre for Afghanistan (MACCA), who collect and "
+#~ "disseminate geospatial information on known hazards (minefields, "
+#~ "battlefields, ‘spot’ UXO tasks), and update this information as clearance "
+#~ "progresses. New shapefiles of these ‘hazard polygons’ are issued by the "
+#~ "MACCA on a regular basis, and mineclearance organisations can use these to "
+#~ "assess the situation of mineclearance in their areas of operation. DDG is "
+#~ "trialling the use of QGIS within the organization to replace the expensive "
+#~ "commercial softwares it has used in the past."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The use of geospatial data is most useful in the planning and survey phases."
+#~ " In Afghanistan, security problems and rugged terrain mean that physical re-"
+#~ "survey of known sites is not always easy. Instead, the use of a mixture of "
+#~ "data – satellite or aerial photography underlays, digitized Soviet-era "
+#~ "topographic maps, hazard shapefiles and digital elevation models – allow DDG"
+#~ " to get an idea of the location of a minefield in relation to the terrain "
+#~ "and surrounding natural and physical features before sending in a survey "
+#~ "team. QGIS plugins add useful capabilities, like the ability to visualise "
+#~ "terrain in 3D. The attached screenshot above – made using the plugin "
+#~ "Qgis2threejs - shows an area just south of the Darulaman Palace in Kabul, "
+#~ "with active minefields (along the ridgelines on the left) shown in red over "
+#~ "a Soviet topographic raster layer combined with SRTM data. Minefields "
+#~ "already cleared show as light green."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Kabul University’s campus is still contaminated with suspected hazardous "
+#~ "areas – thought to comprise of air-dropped bombs or similar ordnance. While "
+#~ "not posing any immediate threat to students or staff, these hazards will "
+#~ "require eventual clearance to allow future construction within an "
+#~ "educational institution vital to Afghanistan’s future development. The "
+#~ "hazards are also notable as among the last significant remaining hazardous "
+#~ "areas in the Kabul metropolitan area. By using QGIS to combine the hazard "
+#~ "polygons from earlier surveys with highly accurate aerial photography "
+#~ "provided by the USGS, discrepancies can be noted – e.g. where the polygons "
+#~ "do not match the shape of the buildings, as evident in the northwest part of"
+#~ " the campus - which can direct survey teams to places to first conduct a "
+#~ "more accurate re-survey."
+#~ msgstr ""

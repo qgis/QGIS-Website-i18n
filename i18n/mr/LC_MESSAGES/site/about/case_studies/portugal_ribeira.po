@@ -1,0 +1,214 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:3
+msgid ""
+"QGIS and GRASS for modelling ecological corridors for wolves in North "
+"Portugal"
+msgstr "उत्तर पोर्तुगाल मधील लांडग्यांसाठी इकोलॉजिकल कॉरिडोरचे मॉडेलिंग करण्यासाठी क्यूजीआयएस आणि ग्रास"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:5
+msgid ""
+"The Iberian wolf is a sub-species of the gray wolf that exists only in north"
+" of Portugal and Spain, with small isolated groups in the south of Douro "
+"river. During the last century, it suffered a high regression, being a "
+"“vulnerable” species in Spain and “endangered” in Portugal. Nowadays, there "
+"are only around 300 wolves in Portugal,  due to the high persecution, "
+"destruction and fragmentation of the habitat."
+msgstr "इबेरियन लांडगा राखाडी लांडगाची एक उप-प्रजाती आहे जी केवळ पोर्तुगाल आणि स्पेनच्या उत्तरेकडील भागात आढळते, डोररो नदीच्या दक्षिणेस लहान गट आहेत. गेल्या शतकादरम्यान, त्यास उच्च असुरक्षिततेचा सामना करावा लागला, एक \"असुरक्षित\" प्रजाती स्पेनमध्ये आणि पोर्तुगालमध्ये “संकटात सापडलेले”. आजकाल पोर्तुगालमध्ये केवळ 300 लांडगे आहेत, उच्च छळ, विनाश आणि वस्तीचे खंडन यामुळे."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:12
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:56
+msgid "Study area in Portugal"
+msgstr "पोर्तुगालमधील अभ्यास क्षेत्र"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:14
+msgid ""
+"Ribeira de Pena is a municipality in the Vila Real district in the north of "
+"Portugal. It is a rural municipality, characterized by agriculture, grazing "
+"livestock, forest, mountains, valleys and diverse fauna, along with low "
+"human density, that provides shelter and food for wolves. Located in a zone "
+"of transition between the harsh and mountainous Trás-os-Montes and the "
+"verdant Minho, Ribeira de Pena is one of the municipalities that can work "
+"like an ecological corridor between areas with higher wolf concentration in "
+"the north with lower concentration in the south."
+msgstr "रिबिरा दे पेना ही पोर्तुगालच्या उत्तरेस असलेल्या विला रियल जिल्ह्यातील एक नगरपालिका आहे. ही एक ग्रामीण नगरपालिका आहे, शेती, चरणे पशुधन, वन, पर्वत, दle्या आणि विविध जीवजंतू आणि कमी मानवी घनतेसह, निवारा आणि अन्न पुरवते. कठोर आणि डोंगराळ ट्रायस-ओस-मॉन्टेस आणि हिरवळ मिन्हो यांच्यातील संक्रमण क्षेत्रामध्ये स्थित, रिबिरा डी पेना अशी एक अशी नगरपालिका आहे जी उत्तरेत जास्त लांडग्यांसह एकाग्र असलेल्या भागात पर्यावरणीय कॉरिडॉरप्रमाणे काम करू शकते. दक्षिणेकडील एकाग्रता."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:16
+msgid ""
+"I started using GIS software during my biology course, and more often during"
+" my master thesis. At that time I used mainly proprietary software. After I "
+"finished my master degree, I lost access to the proprietary software."
+msgstr "मी माझ्या जीवशास्त्र अभ्यासक्रमाच्या दरम्यान जीआयएस सॉफ्टवेअरचा वापर करण्यास सुरवात केली आणि बरेचदा मास्टर थीसिस दरम्यान मी त्या वेळी मुख्यतः मालकीचे सॉफ्टवेअर वापरले मी मास्टर पदवी संपल्यानंतर मालकीच्या सॉफ्टवेअरचा प्रवेश गमावला."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:18
+msgid ""
+"Meanwhile, I entered in the new world of Linux. After that I was contacted "
+"to help some researchers to model ecological corridors for wolves in Ribeira"
+" de Pena, using GIS, since they never worked with this kind of software. "
+"Because I was already using Linux instead of windows, my first problem was "
+"which software to use. Then I heard about QGIS and decided to give it a try,"
+" although it seemed very simplistic and incomplete, when compared to what I "
+"already knew. I quickly realized how mistaken I was, and got really "
+"enthusiastic with the analytical capabilities QGIS provided, specially with "
+"GRASS integration."
+msgstr "मी काही संशोधकांना जीआयएस वापरुन रिबिरा डे पेना मधील लांडग्यांसाठी इकोलॉजिकल कॉरिडोरचे मॉडेल तयार करण्यासाठी मदत करण्यासाठी संपर्क साधला आहे कारण त्यांनी या प्रकारच्या सॉफ्टवेअरवर कधीही काम केले नाही. कारण मी आधीच लिनक्स वापरत आहे. विंडोजऐवजी माझी पहिली समस्या कोणती सॉफ्टवेअर होती मग मी क्यूजीआयएस बद्दल ऐकले आणि मी प्रयत्न करण्याचा निर्णय घेतला, जरी मला आधीच माहित असलेल्या गोष्टींच्या तुलनेत हे अगदी सोपी आणि अपूर्ण वाटले. मी किती चुकलो हे मला पटकन समजले आणि मी QGIS ने दिलेल्या विश्लेषणात्मक क्षमतांनी खरोखर उत्साही झाले. , विशेषत: ग्रॅस एकत्रिकरणासह."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:20
+msgid ""
+"To model the ecological corridors, we used the QGIS along with the GRASS "
+"plugin. We used several geographic information along with presence data of "
+"the species to model the ecological corridors. Here are some of the "
+"functions of both QGIS and GRASS used in this case, just to name a few:"
+msgstr "इकोलॉजिकल कॉरिडॉरचे मॉडेल तयार करण्यासाठी आम्ही जीआरएसएस प्लगिनसह क्यूजीआयएसचा उपयोग केला.पर्यावरणाच्या उपस्थितीच्या डेटासह आम्ही अनेक भौगोलिक माहिती वापरली, पर्यावरणीय कॉरिडॉरचे मॉडेल तयार केले.या प्रकरणात वापरल्या जाणार्‍या क्यूजीआयएस आणि ग्रॉस या दोहोंची काही कार्ये येथे आहेत. फक्त काही नावे देण्यासाठीः"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:23
+msgid "plugin Interpolation in QGIS: to create a Digital Elevation Model"
+msgstr "क्यूजीआयएस मधील प्लगइन प्रक्षेप: एक डिजिटल एलिव्हेशन मॉडेल तयार करण्यासाठी"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:24
+msgid "r.watershed in GRASS: to create water streams from DEM"
+msgstr "ग्रासमध्ये आर.पाणी: डीईएममधून पाण्याचे प्रवाह तयार करणे"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:25
+msgid ""
+"r.grow.distance in GRASS: generates a raster map layer of distance to "
+"features in input layer"
+msgstr "ग्रॅस मधील r.grow.distance: इनपुट लेयरमधील वैशिष्ट्यांकरिता अंतराचा रास्टर नकाशा थर व्युत्पन्न करते"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:26
+msgid "r.reclass in GRASS: to reclassify map layers"
+msgstr "ग्रॅसमधील आर. क्लास: नकाशाच्या थरांचे पुन्हा वर्गीकरण करण्यासाठी"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:27
+msgid "r.slope.aspect.slope in GRASS: to calculate the slope from the DEM"
+msgstr "r.slope.aspect.slope मधील ग्रास: DEM पासून उतार मोजण्यासाठी"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:28
+msgid "r.mapcalculator in GRASS: to calculate some simple map algebra"
+msgstr "ग्रॅस मधील आर.माप कॅल्क्युलेटर: काही सोप्या नकाशा बीजगणिताची गणना करण्यासाठी"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:29
+msgid ""
+"r.cost.coord in GRASS: creates a raster map showing the cumulative cost of "
+"moving between different geographic locations on an input raster map whose "
+"cell category values represent cost"
+msgstr "ग्रॅस मधील आर कॉस्ट.कॉर्ड: एक इनपुट रास्टर नकाशावर वेगवेगळ्या भौगोलिक स्थानांदरम्यान फिरण्याची एकूण किंमत दर्शविणारा रास्टर नकाशा तयार करतो ज्याची सेल श्रेणी मूल्ये प्रतिनिधित्व करतात"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:30
+msgid ""
+"r.drain in GRASS: Traces a flow through an elevation model on a raster map "
+"--– the one used to create the corridors"
+msgstr "ग्रॅस मधील आर.ड्रेनः एका रास्टर नकाशावर एलिव्हेशन मॉडेलमधून प्रवाह शोधतो - कॉरीडोर तयार करण्यासाठी वापरलेला एक"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:32
+msgid ""
+"With this work we obtained a map with the potential ecological corridors for"
+" wolf in Ribeira de Pena municipality. These are areas to be considered by "
+"the city council technicians when planning conservation measures for the "
+"species. These corridors are of extreme importance because they can connect "
+"the fragile wolf packs in Vila Real in the south with those in the north, "
+"which are continuous with those from Peneda-Gerês and Spain far more stable."
+" It is from particular importance those corridors that cross human "
+"settlements, like small villages, cities and roads. These areas must be "
+"considered critical for wolf conservation, and applied measures to reduce "
+"human impact in this species."
+msgstr "या कार्याद्वारे आम्हाला रिबिरा दे पेना नगरपालिकेत लांडग्यांसाठी संभाव्य पर्यावरणीय कॉरिडोरचा नकाशा प्राप्त झाला आहे.या प्रजातींसाठी संरक्षणाच्या उपाययोजना करतांना नगर परिषद तंत्रज्ञांनी या क्षेत्राचा विचार केला पाहिजे. या कॉरिडॉरला अत्यंत महत्त्व आहे कारण ते कनेक्ट होऊ शकतात दक्षिणेकडील विला रियल मधील नाजूक लांडगा पॅक-गेरेस आणि स्पेनमधील दक्षिणेकडील उत्तरेकडील देशांसोबत सतत चालू आहे. लहान गावे, शहरे आणि रस्ते यासारख्या मानवी वसाहती ओलांडणार्‍या त्या कॉरिडोरला विशेष महत्त्व आहे. लांडगा संवर्धनासाठी या भागांना गंभीर मानले पाहिजे आणि या प्रजातीतील मानवी प्रभाव कमी करण्यासाठी उपाययोजना लागू केल्या पाहिजेत."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid "Ecological corridors and critical conservation areas for wolves"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:39
+msgid ""
+"Ecological corridors and critical conservation areas for wolves in northern "
+"Portugal."
+msgstr "उत्तरी पोर्तुगालमधील लांडग्यांसाठी पर्यावरणीय कॉरिडोर आणि गंभीर संवर्धन क्षेत्र."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:42
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:44
+msgid ""
+"Both QGIS and plugin GRASS are very intuitive with user-friendly interface, "
+"with all essential functions to perform most analysis. For what I could see,"
+" QGIS and GRASS perform equally as well as the proprietary programs I was "
+"most familiar with from college days, with the big advantage of free open-"
+"source software, usable in every computer or notebook without licenses, "
+"constant upgrades and the ultimate advantage to contribute to it's "
+"improvement and/or tip the developers about some essential function."
+msgstr "क्यूजीआयएस आणि प्लगइन जीआरएसएसएस दोन्ही वापरकर्त्यांसाठी अनुकूल इंटरफेससह अत्यंत अंतर्ज्ञानी आहेत ज्यात बहुतेक विश्लेषण करण्यासाठी सर्व आवश्यक कार्ये आहेत.आपण जे पाहू शकत होतो त्याकरिता, मी महाविद्यालयीन काळापासून मालकीच्या कार्यक्रमांसह परिचित असलेल्या मालकीच्या कार्यक्रमांसह क्यूजीआयएस आणि ग्रॅस समान कामगिरी करतो. विनामूल्य मुक्त-स्त्रोत सॉफ्टवेअरचा मोठा फायदा, परवाना नसलेल्या प्रत्येक कॉम्प्यूटरमध्ये किंवा नोटबुकमध्ये वापरण्यायोग्य, सतत सुधारणे आणि त्यात सुधारणा करण्यासाठी योगदान देण्याचा अंतिम फायदा आणि / किंवा विकसकांना काही आवश्यक कार्येबद्दल टिप्स."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:46
+msgid ""
+"Changing to Linux and then to QGIS and GRASS was one of my best calls, and "
+"although there can be some missing issues, easily resolved in the future "
+"with the developers, I don't regret my decision and advise everyone to use "
+"them."
+msgstr "लिनक्समध्ये बदलणे आणि नंतर क्यूजीआयएस आणि ग्रॅसमध्ये बदल करणे हा माझा एक चांगला कॉल होता आणि जरी काही गहाळ समस्या उद्भवू शकतात, तरीही विकसकांसह भविष्यात सहजपणे निराकरण केल्या गेल्या तरी, मी माझ्या निर्णयाबद्दल दिलगीर नाही आणि प्रत्येकाला त्यांचा वापर करण्याचा सल्ला देतो."
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:49
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:56
+msgid "Monica Almeida"
+msgstr "मोनिका अल्मेडा"
+
+#: ../../source/site/about/case_studies/portugal_ribeira.rst:58
+msgid ""
+"This article was contributed in July 2012 by Monica Almeida. She is "
+"conservation biologist working in an non-governmental organization in the "
+"preservation of wolf in Portugal."
+msgstr "या लेखाचे योगदान मोनिका अल्मेडा यांनी जुलै 2012 मध्ये केले होते. पोर्तुगाल मधील लांडगाच्या संवर्धनात एका स्वयंसेवी संस्थेत काम करणारे ती संवर्धन जीवशास्त्रज्ञ आहेत."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "To model the ecological corridors, we used the QGIS along with the GRASS "
+#~ "plugin. We used several geographic information along with presence data of "
+#~ "the species to model the ecological corridors. Here are some of the "
+#~ "functions of both QGIS and GRASS used in this case, just to name a few: * "
+#~ "plugin Interpolation in QGIS: to create a Digital Elevation Model * "
+#~ "r.watershed in GRASS: to create water streams from DEM * r.grow.distance in "
+#~ "GRASS: generates a raster map layer of distance to features in input layer *"
+#~ " r.reclass in GRASS: to reclassify map layers * r.slope.aspect.slope in "
+#~ "GRASS: to calculate the slope from the DEM * r.mapcalculator in GRASS: to "
+#~ "calculate some simple map algebra * r.cost.coord in GRASS: creates a raster "
+#~ "map showing the cumulative cost of moving between different geographic "
+#~ "locations on an input raster map whose cell category values represent cost *"
+#~ " r.drain in GRASS: Traces a flow through an elevation model on a raster map "
+#~ "– the one used to create the corridors With this work we obtained a map with"
+#~ " the potential ecological corridors for wolf in Ribeira de Pena "
+#~ "municipality. These are areas to be considered by the city council "
+#~ "technicians when planning conservation measures for the species. These "
+#~ "corridors are of extreme importance because they can connect the fragile "
+#~ "wolf packs in Vila Real in the south with those in the north, which are "
+#~ "continuous with those from Peneda-Gerês and Spain far more stable. It is "
+#~ "from particular importance those corridors that cross human settlements, "
+#~ "like small villages, cities and roads. These areas must be considered "
+#~ "critical for wolf conservation, and applied measures to reduce human impact "
+#~ "in this species."
+#~ msgstr ""

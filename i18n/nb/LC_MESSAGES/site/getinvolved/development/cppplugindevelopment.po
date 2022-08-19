@@ -1,0 +1,59 @@
+# 
+# Translators:
+# heskjestad <cato@heskjestad.xyz>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-05-25 15:59+0000\n"
+"Last-Translator: heskjestad <cato@heskjestad.xyz>, 2020\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/qgis/qgis-website/language/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:7
+msgid "Preparing the Environment and Setting up the Repo"
+msgstr "Klargjøre miljøet og oppsett av kodelageret"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:9
+msgid ""
+"Go to the QGIS repository in Github at https://github.com/qgis/QGIS/ Make a "
+"Fork for yourself. Learn more about forking and keeping your repo in sync "
+"with the main development repo at http://help.github.com/fork-a-repo/ Clone "
+"your personal copy of the repository to your system, and add upstream as "
+"mentioned in above provided link Read the "
+"https://github.com/qgis/QGIS/blob/master/INSTALL about setting up the "
+"installation environment and make a compilation with ccache enabled."
+msgstr "Besøk QGIS-kodelageret i Github på https://github.com/qgis/QGIS/ . Lag så din egen forgreining. Les mer om forgreining og synkronisering med hovedkodelageret på http://help.github.com/fork-a-repo/ . Klon den personlige kopien av kodelageret til systemet ditt og legg til «upstream» som beskrevet i forannevnte lenke. Les https://github.com/qgis/QGIS/blob/master/INSTALL som handler om oppsett av installasjonsmiljøet, og kompiler med ccache aktivert."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:14
+msgid "Setting up the Plugin Directory"
+msgstr "Oppsett av mappe for programtillegg"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:16
+msgid "Inside the QGIS folder::"
+msgstr "Inni QGIS-mappa::"
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:22
+msgid ""
+"Now follow the instructions in the screen wizard to create a folder for your"
+" plugin. After the required input is given, a folder for the plugin is "
+"created. Read the README inside the plugin folder to create a plugin."
+msgstr "Følg nå instruksjonene i veiviseren for å lage ei mappe til programtillegget ditt. Den vil opprettes i henhold til oppgitt informasjon. Les README-fila i mapppa for å lage et programtillegg."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:26
+msgid ""
+"Building QGIS now will also build your plugin. After starting QGIS enable "
+"the plugin to see it and show it's dialog."
+msgstr "Bygging av QGIS vil også bygge programtillegget ditt. Aktiver programtillegget etter oppstart av QGIS for å se dets dialogvindu."
+
+#: ../../source/site/getinvolved/development/cppplugindevelopment.rst:5
+msgid "Developing C++ plugins"
+msgstr "Utvikle C++-tillegg"
+
+#~ msgid "Developing CPP plugins"
+#~ msgstr ""

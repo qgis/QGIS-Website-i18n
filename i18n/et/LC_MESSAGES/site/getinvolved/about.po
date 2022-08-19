@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Katre K <katrekasemagi@gmail.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: Katre K <katrekasemagi@gmail.com>, 2020\n"
+"Language-Team: Estonian (http://www.transifex.com/qgis/qgis-website/language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "Kontakt"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr "Võta meiega ühendust :ref:`QGIS-mailinglists` kaudu"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "Ülevaade"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "See leht on ehitatud kasutades Sphinx'i ja nii ressursid kui ka juhendid on leitavad siit: https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "Kui leidad probleeme või saad veateateid, siis saad luua pileti siin https://github.com/qgis/QGIS-Website/issues või saata QGIS-i kogukonna maililisti kirja qgis-community-team@lists.osgeo.org"

@@ -1,0 +1,47 @@
+# 
+# Translators:
+# 66859fee59d069133df9df4969ac9b8f, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: 66859fee59d069133df9df4969ac9b8f, 2015\n"
+"Language-Team: Swedish (http://www.transifex.com/qgis/qgis-website/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/documentation.rst:2
+msgid "QGIS Documentation"
+msgstr "QGIS Dokumentation"
+
+#: ../../source/site/forusers/documentation.rst:6
+msgid "Users Manual"
+msgstr "Användarmanual"
+
+#: ../../source/site/forusers/documentation.rst:8
+msgid ""
+"The Manual of current stable version can be found in the documentation "
+"section: :ref:`QGIS-manual-index-reference`"
+msgstr "Manualen för nuvarande stabila version finns i dokumentationssektionen: :ref:`QGIS-manual-index-reference`"
+
+#: ../../source/site/forusers/documentation.rst:12
+msgid "PyQGIS Manual"
+msgstr "PyQGIS Manual"
+
+#: ../../source/site/forusers/documentation.rst:14
+msgid ""
+"You can read the PyQGIS dev cookbook here: :ref:`PyQGIS-Developer-Cookbook`"
+msgstr "Man kan läsa PyQGIS dev cookbook här: :ref:`PyQGIS-Developer-Cookbook`"
+
+#: ../../source/site/forusers/documentation.rst:18
+msgid "Workshops"
+msgstr "Studiegrupper"
+
+#: ../../source/site/forusers/documentation.rst:21
+msgid "Developer Manual"
+msgstr "Utvecklarmanual"

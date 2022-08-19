@@ -1,0 +1,144 @@
+# 
+# Translators:
+# 66859fee59d069133df9df4969ac9b8f, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: 66859fee59d069133df9df4969ac9b8f, 2016\n"
+"Language-Team: Swedish (http://www.transifex.com/qgis/qgis-website/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:3
+msgid "Lyon, april 2012"
+msgstr "Lyon, april 2012"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:6
+msgid "Finances"
+msgstr "Finanser"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:9
+msgid "Situation"
+msgstr "Situation"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:11
+msgid "finances moved from **GFOSS.it** to **QGIS-CH**"
+msgstr "finanser flyttade från **GFOSS.it** till **QGIS-CH**"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:12
+msgid "income 2011"
+msgstr "inkomst 2011"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:14
+msgid "donation & sponsor  17,000 € (avg 219 €, median 33 €, stdev 730 €)"
+msgstr "donationer & sponsorer  17,000 € (medel 219 €, median 33 €, stdavv 730 €)"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:18
+msgid "expenses"
+msgstr "utgifter"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:20
+msgid "HF"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:22
+msgid "2011 Lisbon       4,400 €"
+msgstr "2011 Lissabon       4,400 €"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:23
+msgid "2011 Zuerich      6,400 €"
+msgstr "2011 Zurich      6,400 €"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:24
+msgid "2012 Lyon (?)     7,500 €"
+msgstr "2012 Lyon (?)     7,500 €"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:26
+msgid "Japanese gold sponsor"
+msgstr "Japansk guldsponsor"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:29
+msgid "Problems"
+msgstr "Problem"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:31
+msgid "costs are rising more than incomes"
+msgstr "kostnaderna stiger snabbare än inkomsterna"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:33
+msgid "still positive balance though"
+msgstr "fortfarande positiv balansräkning"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:35
+msgid "handling of donations cumbersome (by hand)"
+msgstr "besvärlig hantering av donationer (för hand)"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:36
+msgid "accounting is more complex than we would like"
+msgstr "bokföringen är mer komplex än vad som är önskvärt"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:38
+msgid "some of the expenses are paid directly by local sponsors"
+msgstr "vissa av utgifterna betalas direkt av lokala sponsorer"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:40
+msgid "fiscal requests: sponsoring receipt for tax office"
+msgstr "skatteförfrågningar: sponsringskvitton för skattekontoret"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:43
+msgid "Proposals"
+msgstr "Förslag"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:45
+msgid "split the functions of Treasurer (Horst) and PSC"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:47
+msgid "more formal annual and HF budgets"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:49
+msgid "automatic handling of donations, e.g."
+msgstr "automatisk hantering av donationer, t.ex."
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:51
+msgid "http://www-old.gnome.org/friends/"
+msgstr "http://www-old.gnome.org/friends/"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:52
+msgid "http://documentfreedom.org/donate/"
+msgstr "http://documentfreedom.org/donate/"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:54
+msgid "*QGIS friendly* courses"
+msgstr "*QGIS-vänliga* kurser"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:55
+msgid "money from OSGEO (GSoC)?"
+msgstr "pengar från OSGEO (GSoC)?"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:56
+msgid "from Otto: a wiki page with:"
+msgstr "från Otto: en wiki-sida med:"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:58
+msgid "tasks"
+msgstr "uppgifter"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:59
+msgid "developer (with contact address)"
+msgstr "utvecklare (med kontaktuppgifter)"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:60
+msgid "amount requested"
+msgstr "efterfrågad summa"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:61
+msgid "list of people willing to donate"
+msgstr "lista på personer som vill donera"

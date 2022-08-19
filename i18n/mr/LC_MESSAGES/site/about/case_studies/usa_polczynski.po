@@ -1,0 +1,305 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2018-05-20 14:28+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (https://www.transifex.com/qgis/teams/6144/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:3
+msgid "Historical Gazetteer of the Crimea"
+msgstr "क्रिमियाचा ऐतिहासिक गॅझेटियर"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:5
+msgid ""
+"Every day, Ottomanists around the world generate valuable materials as "
+"components of their scholarly research, but these materials may not be "
+"readily available to scholars with similar interests.  The purpose of the "
+"OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is to stimulate generation"
+" of such materials and provide open and convenient access to these "
+"materials. The OpenOttoman Portal (http:// www.openottoman.org) (OOP) is one"
+" vehicle for accessing these materials.  Materials made available through "
+"the OOP include databases, with a prime example being gazetteers of Ottoman "
+"world places.  Here, we describe the Historical Gazetteer of the Crimea "
+"(HGC), a prototype OOP gazetteer that includes populated places, districts, "
+"and provinces of Crimea in existence at the end of the Crimean Khanate."
+msgstr ""
+"दररोज, जगभरातील तुर्कवादी त्यांच्या अभ्यासपूर्ण संशोधनाचे घटक म्हणून "
+"मौल्यवान साहित्य तयार करतात, परंतु कदाचित ही सामग्री तत्सम रूची असणार्‍या "
+"विद्वानांना सहज उपलब्ध नसू शकते. ओपनऑटोमन (एमी सिंगर, ओपनऑटोमन: डिजिटल "
+"स्कॉलरशिपसाठी एक सहयोगात्मक प्लॅटफॉर्म, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017)चा उद्देश आहे. अशा "
+"साहित्यांची निर्मिती करण्यास उत्तेजन देणे आणि या सामग्रीमध्ये मुक्त आणि "
+"सोयीस्कर प्रवेश प्रदान करणे. ओपनऑटोमन पोर्टल (http: // www.openottoman.org) "
+"(ओओपी) हे या साहित्यामध्ये प्रवेश करण्यासाठी एक वाहन आहे. ओओपीच्या "
+"माध्यमातून उपलब्ध केलेल्या साहित्यात डेटाबेसचा समावेश आहे, ज्याचे मुख्य "
+"उदाहरण ओटोमन जगातील ठिकाणांचे गॅझेटियर्स आहे. येथे, आम्ही क्राइमियाच्या "
+"ऐतिहासिक राजपत्र (एचजीसी) चे वर्णन करतो, एक प्रोटोटाइप ओओपी गॅझेटियर "
+"ज्यामध्ये क्रिमिया खानटेच्या शेवटी अस्तित्त्वात असलेल्या लोकसंख्या असलेली "
+"ठिकाणे, जिल्हे आणि क्रिमिया प्रांत समाविष्ट आहेत."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:7
+msgid ""
+"The primary source of data for the HGC databases is Jankowski’s dictionary "
+"of pre-Russian places in Crimea (Henryk Jankowski, Historical-Etymological "
+"Dictionary of Pre-Russian Habitation Names of the Crimea, Brill, Leiden, "
+"2006). This source contains a map showing the locations of 137 populated "
+"places, 99 of which have been associated with existing places contained in "
+"the GeoNames database.  These are the populated place entries in the HGC, "
+"with latitude and longitude for these entries being taken from the GeoNames "
+"database."
+msgstr ""
+"एचजीसी डेटाबेसचा मुख्य स्त्रोत म्हणजे जानकोव्स्कीचा क्राइमियामधील "
+"पूर्व-रशियन ठिकाणांचा शब्दकोष (हेन्रीक जानकोव्स्की, क्रिमीआच्या प्री-रशियन "
+"हॅबिटेशन नेम्सचा ऐतिहासिक-एटिमोलॉजिकल डिक्शनरी, ब्रिल, लेडेन, 2006). या "
+"स्त्रोतामध्ये 137 लोकसंख्या असलेल्या ठिकाणांची स्थाने दर्शविणारा नकाशा आहे, "
+"त्यापैकी 99 भू-नावे डेटाबेसमध्ये असलेल्या विद्यमान जागांसह संबंधित आहेत. "
+"जिओनाम्स डेटाबेसमधून या नोंदींसाठी अक्षांश आणि रेखांश सह, एचजीसी मधील "
+"लोकसंख्या असलेल्या स्थान प्रविष्ट्या आहेत."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:9
+msgid ""
+"Jankowski’s map also shows boundaries for six provinces and 43 districts.  "
+"HGC locations for these features are region centroids approximated using "
+"boundaries shown on Jankowski’s map.  The HGC contains entries for 14 of the"
+" 16 rivers shown on Jankowski’s map plus 61 additional rivers included to "
+"aid in locating populated places and district and province boundaries."
+msgstr ""
+"जानकोव्स्कीचा नकाशा सहा प्रांत आणि 43 जिल्ह्यांसाठी सीमा देखील दर्शवितो. या "
+"वैशिष्ट्यांकरिता एचजीसी स्थाने जॅनकोव्स्कीच्या नकाशावर दर्शविलेल्या सीमांचा "
+"वापर करून अंदाजे प्रदेशातील सेंट्रोइड आहेत. एचजीसीमध्ये जानकोव्स्कीच्या "
+"नकाशावर दाखविल्या गेलेल्या 16 नद्यांपैकी 14 नद्यांसाठी तसेच जनतेची ठिकाणे "
+"आणि जिल्हा आणि प्रांताच्या सीमा शोधण्यात मदत करण्यासाठी 61 अतिरिक्त नद्यांचा"
+" समावेश आहे."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:11
+msgid ""
+"Terrain elevation data (Shuttle Radar Topography Mission (SRTM) data, "
+"available at https://lta.cr.usgs.gov/SRTM1Arc) was incorporated into a base "
+"map of the region covered by Jankowski’s map.  District and province "
+"boundaries were approximated using Jankowski’s map plus terrain features "
+"such as rivers, ridge lines, and valleys where boundaries on Jankowski’ map "
+"were difficult to trace.  Gazetteer locations for rivers are river mouth "
+"latitude and longitude taken from the GeoNames database. Per Table 1, the "
+"HGC includes three separate sets of databases which can be accessed at "
+"http://epublications.marquette.edu/ottoman_crimea/.  This website also "
+"provides access to a project named HGC-QGIS-Project.qgs.  Opening the "
+"project in QGIS yields the result shown in Figure 1.  For the KML and shape "
+"file rivers databases, rivers were traced in QGIS using the Google Maps "
+"physical map."
+msgstr ""
+"टेरिन एलिव्हेशन डेटा (https://lta.cr.usgs.gov/SRTM1Arc वर उपलब्ध शटल रडार "
+"टोपोग्राफी मिशन (एसआरटीएम) डेटा) जानकोव्स्कीच्या नकाशाने व्यापलेल्या "
+"प्रदेशाच्या बेस नकाशामध्ये समाविष्ट केला होता. जानकोव्स्कीचा नकाशा तसेच "
+"नद्या, नद्या, रेखा आणि दरी जेथे जॅनकोव्स्कीच्या नकाशावरील सीमा शोधणे कठीण "
+"होते अशा भूप्रदेशांचा वापर करून जिल्हा व प्रांताच्या सीमा अंदाजे करण्यात "
+"आल्या. नद्यांसाठी गॅझेटियरची ठिकाणे नदीचे अक्षांश आणि रेखांश आहेत जिओनाम्स "
+"डेटाबेसमधून. प्रति टेबल १ मध्ये, एचजीसीमध्ये डेटाबेसचे तीन स्वतंत्र संच आहेत"
+" ज्यात प्रवेश केला जाऊ शकतो "
+"http://epublications.marquette.edu/ottoman_crimea/. ही वेबसाइट "
+"एचजीसी-क्यूजीआयएस-प्रोजेक्ट.कग्ज नावाच्या प्रकल्पात प्रवेश देखील देते. "
+"क्यूजीआयएसमध्ये प्रकल्प उघडण्यामुळे आकृती 1 मध्ये दर्शविलेले परिणाम प्राप्त "
+"होते. केएमएल आणि आकार फाइल नद्यांच्या डेटाबेससाठी, Google नकाशे भौतिक "
+"नकाशाचा वापर करुन नद्या क्यूजीआयएसमध्ये शोधल्या गेल्या."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Gazetteer databases"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Table 1: Gazetteer databases"
+msgstr "सारणी 1: गॅझेटियर डेटाबेस"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:22
+msgid ""
+"Opening the project in QGIS yields the result shown in Figure 1.  For the "
+"KML and shape file rivers databases, rivers were traced in QGIS using the "
+"Google Maps physical map."
+msgstr ""
+"क्यूजीआयएसमध्ये प्रकल्प उघडण्यामुळे आकृती 1 मध्ये दर्शविलेले परिणाम प्राप्त "
+"होते. केएमएल आणि आकार फाइल नद्यांच्या डेटाबेससाठी, Google नकाशे भौतिक "
+"नकाशाचा वापर करुन नद्या क्यूजीआयएसमध्ये शोधल्या गेल्या."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "HGC-QGIS-Project.qgs opened in QGIS"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "Figure 1: HGC-QGIS-Project.qgs opened in QGIS."
+msgstr "आकृती 1: एचजीसी-क्यूजीआयएस-प्रोजेक्ट.क्यूज क्यूजीआयएसमध्ये उघडले."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:31
+msgid ""
+"Table 2 shows the HGC database fields.  Note the manner in which a unique ID"
+" is assigned to each place in the database.  Since each Jankowski place is "
+"associated with a place in the GeoNames database, and since each place in "
+"the GeoNames database has a unique ID given as a URL, the GeoNames URL for "
+"the place serves as a unique identifier for the HGC place."
+msgstr ""
+"तक्ता 2 एचजीसी डेटाबेस फील्ड दर्शवितो. डेटाबेसमधील प्रत्येक ठिकाणी ज्या "
+"पद्धतीने एक अनन्य आयडी नियुक्त केला आहे त्याची नोंद घ्या. प्रत्येक "
+"जानकोव्स्की ठिकाण जिओनाम्स डेटाबेसमधील जागेशी संबंधित असल्याने आणि जिओनेम्स "
+"डेटाबेसमधील प्रत्येक जागेला यूआरएल म्हणून दिलेला अनोखा आयडी असल्याने, त्या "
+"ठिकाणची जिओनाम्स यूआरएल एचजीसी स्थानासाठी एक अद्वितीय अभिज्ञापक म्हणून काम "
+"करते."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "HGC database fields"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "Table 2: HGC database fields."
+msgstr "तक्ता 2: एचजीसी डेटाबेस फील्ड."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:40
+msgid ""
+"Note that the ID can be opened in a web browser, thereby automatically "
+"displaying a GeoNames map with the populated place at its center, as shown "
+"in Figure 2."
+msgstr ""
+"लक्षात घ्या की आयडी एखाद्या वेब ब्राउझरमध्ये उघडला जाऊ शकतो, त्याद्वारे "
+"आपोआप आकृती 2 मध्ये दाखवल्याप्रमाणे, त्याच्या मध्यभागी असलेल्या लोकसहित एक "
+"भौगोलिक नकाशा प्रदर्शित होईल."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Opening the URL ID for Qarağy in a web browser"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Figure 2: Opening the URL ID for Qarağy in a web browser."
+msgstr "आकृती 2: वेब ब्राउझरमध्ये काराईसाठी URL आयडी उघडत आहे."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:49
+msgid ""
+"Per Table 2, the fields for the district, province, and river databases are "
+"the same as the fields for populated places except that the Page field is "
+"left blank, since districts, provinces, and rivers do not appear as entries "
+"in Jankowski’s dictionary.  Districts, provinces, and rivers are assigned "
+"URL IDs in the same way that they are assigned for populated places.  Thus, "
+"in Table 2 the Part of field for the populated place Qarağy is the GeoNames "
+"URL for Tarɣan, the district in which this place is located. The Code and "
+"Class fields use the nomenclature employed in the GeoNames database.  Per "
+"the example, the P code applies generally to populated places, and the PPLH "
+"class (sub-code) applies to historical populated places that no longer "
+"exists."
+msgstr ""
+"प्रति सारणी २ नुसार, जिल्हा, प्रांत आणि नदी डेटाबेसची फील्ड लोकसंख्या "
+"असलेल्या क्षेत्राप्रमाणेच आहेत, फील्ड रिक्त सोडले आहे, कारण जिल्हा, प्रांत "
+"आणि नद्या जानकोव्स्कीच्या शब्दकोशात नोंदी म्हणून दिसत नाहीत. जिल्हे, प्रांत "
+"आणि नद्यांना युआरएल आयडी ज्या प्रकारे लोकसंख्या असलेल्या जागांसाठी नियुक्त "
+"केल्या आहेत त्याप्रमाणे नियुक्त केल्या आहेत. अशाप्रकारे, टेबल 2 मध्ये, "
+"लोकसंख्या असलेल्या स्थानाचा भाग भाग काराये हे तारानसाठी जिओनाम्स URL आहे, "
+"ज्या जिल्ह्यात हे स्थान आहे. कोड आणि वर्ग फील्ड भू-नावे डेटाबेसमध्ये नियुक्त"
+" केलेले नाम वापरतात. उदाहरणार्थ, पी कोड सामान्यपणे लोकसंख्या असलेल्या ठिकाणी"
+" लागू होतो आणि पीपीएलएच वर्ग (उप-कोड) यापुढे अस्तित्त्वात नसलेल्या ऐतिहासिक "
+"लोकसंख्या असलेल्या ठिकाणी लागू होतो."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:52
+msgid ""
+"The Confidence field reflects the confidence level of the data captured in a"
+" particular database entry.  Because all populated places in the HGC can be "
+"associated with existing places in the GeoNames database, they are assigned "
+"a confidence level of 1.  Rivers are also assigned a confidence level of 1, "
+"since they have been traced directly from Google Maps."
+msgstr ""
+"कॉन्फिडेंस फील्ड विशिष्ट डेटाबेस एंट्रीमध्ये घेतलेल्या डेटाची आत्मविश्वास "
+"पातळी प्रतिबिंबित करते. एचजीसी मधील सर्व लोकसंख्या असलेल्या स्थान जिओनाम्स "
+"डेटाबेसमधील विद्यमान जागांशी संबंधित असू शकतात, त्यांना एक आत्मविश्वास पातळी"
+" 1 दिली गेली आहे. नद्यांना थेट Google नकाशे वरुन शोधल्या गेल्याने ते एक "
+"आत्मविश्वास पातळी 1 देखील दिले गेले आहेत."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:54
+msgid ""
+"While providing a useful gazetteer, a primary purpose of the HGC was to "
+"serve as a test bed and use case for how other Ottoman world gazetteers "
+"could be incorporated into the OOP.  Based on experience gained through this"
+" project, a new project has been initiated to geolocate approximately 3,000 "
+"populated places, rivers, river fords, rapids, islands, forests, mountains, "
+"and valleys found on a set of 17th century maps of Ukraine produced by "
+"Guillaume Le Vasseur, sieur de Beauplan.  This project directly supports one"
+" of the principal investigator’s research on the Polish-Lithuanian "
+"Commonwealth /Ottoman Empire frontier.  More generally, this work responds "
+"to the need for gazetteers of the Ottoman world as expressed by the "
+"OpenOttoman initiative (http://openottoman.org)."
+msgstr ""
+"उपयुक्त गॅझेटिअर प्रदान करताना, एचजीसीचा एक मुख्य हेतू चाचणी बेड म्हणून काम "
+"करणे आणि इतर तुर्क जगातील गॅझेटिअरना ओओपीमध्ये कसे समाविष्ट करता येईल यासाठी"
+" केस वापरणे हा होता. या प्रकल्पाच्या माध्यमातून प्राप्त झालेल्या अनुभवाच्या "
+"आधारे, गिलॉलेम ले निर्मित युक्रेनच्या 17 व्या शतकाच्या नकाशेच्या संचावर "
+"सापडलेल्या अंदाजे 3,000 लोकसंख्या असलेल्या जागा, नद्या, नदीचे किल्ले, "
+"रॅपिड्स, बेट, जंगल, पर्वत आणि द ge्या भौगोलिक स्थानाचा नवीन प्रकल्प सुरू "
+"केला आहे. वासेऊर, सिएर डी बाउपलान. हा प्रकल्प पोलिश-लिथुआनियन कॉमनवेल्थ / "
+"तुर्क साम्राज्य सीमेवरील मुख्य अन्वेषकांच्या संशोधनास थेट समर्थन देतो. "
+"सर्वसाधारणपणे, ओपनऑटोमन पुढाकाराने व्यक्त केल्याप्रमाणे हे काम ओटोमान "
+"जगाच्या गॅझेटिटरच्या आवश्यकतेस प्रतिसाद देते (http://openottoman.org)."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:57
+msgid "Authors"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:59
+msgid "Figure 3: Michael and Mark Polczynski"
+msgstr "आकृती 3: मायकेल आणि मार्क पॉल्झिन्स्की"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:66
+msgid "Michael and Mark Polczynski"
+msgstr "मायकेल आणि मार्क पोलझेंस्की"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:68
+msgid ""
+"Michael Polczynski (Michael.Polczynski@georgetown.edu) lectures at "
+"Georgetown University, where his work focuses on early modern Ottoman and "
+"East/Central European history, frontier history, historical geography, "
+"diplomacy, and intellectual history.  Michael also studies Late Medieval "
+"Eurasian history and 19th century European Emigres in the Ottoman Empire and"
+" works extensively with historical GIS and manage several on-line academic "
+"communities."
+msgstr ""
+"मायकेल पॉल्झेंस्की (Michael.Polczynski@georgetown.edu)जार्जटाऊन "
+"युनिव्हर्सिटी मधील व्याख्याने, जिथे त्यांचे कार्य लवकर आधुनिक तुर्क आणि "
+"पूर्व / मध्य युरोपियन इतिहास, फ्रंटियर इतिहास, ऐतिहासिक भूगोल, मुत्सद्देगिरी"
+" आणि बौद्धिक इतिहास यावर केंद्रित आहे. मायकेल मध्ययुगीन युरेशियन इतिहासाचा "
+"आणि 19 व्या शतकाच्या युरोपियन Emigres चा देखील ऑट्टोमन साम्राज्यात अभ्यास "
+"करतो आणि ऐतिहासिक जीआयएस बरोबर विस्तृत कार्य करतो आणि अनेक ऑनलाईन शैक्षणिक "
+"समुदायांचे व्यवस्थापन करतो."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:70
+msgid ""
+"Mark Polczynski (mark.polczynski@marquette.edu) is retired from Marquette "
+"University’s College of Engineering, and currently provides technical "
+"assistance to the OpenOttoman (openottoman.org), a developing transnational "
+"digital collaborative for scholarship and public history focused on the "
+"Ottoman world."
+msgstr ""
+"मार्क पॉल्झेंस्की (mark.polczynski@marquette.edu) मार्क्वेट युनिव्हर्सिटी ऑफ"
+" कॉलेज ऑफ इंजिनीअरिंगमधून निवृत्त झाले आहेत आणि सध्या ओपन ऑटोमन "
+"(ओपनोट्टोमन.ऑर्ग.) ला तांत्रिक सहाय्य प्रदान करते, शिष्यवृत्ती आणि सार्वजनिक"
+" इतिहासावर लक्ष केंद्रित करणार्‍या ट्रान्सनेशनल डिजिटल सहयोगी."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

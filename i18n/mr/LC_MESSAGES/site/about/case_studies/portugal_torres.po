@@ -1,0 +1,180 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:3
+msgid "QGIS and GRASS applied to paleontological survey in Western Portugal"
+msgstr "क्यूजीआयएस आणि ग्रासने वेस्टर्न पोर्तुगालमधील पॅलेऑन्टोलॉजिकल सर्वेक्षणात अर्ज केला"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:5
+msgid ""
+"The Associação Leonel Trindade – Sociedade de História Natural (ALT-SHN) is "
+"a non profit institution headquarted in Torres Vedras, Portugal, specialized"
+" in paleontology. The institution manages a large fossil collection, mainly "
+"from Upper Jurassic. One of the key issues in paleontological management is "
+"to assess spatial context of the sites from where the fossils are retrieved "
+"– hundreds of sites representing thousands of different specimens."
+msgstr "असोसिएओ लिओनेल ट्रिनाडे - सोसिआडेड डे हिस्ट्रिया नॅचरल (एएलटी-एसएचएन) ही एक नफा संस्था आहे, ज्याचे मुख्यालय टॉरेस वेद्रास, पोर्तुगाल येथे आहे, ज्यात मूलभूत शास्त्र आहे, मुख्यत: अप्पर ज्युरासिकमधील संस्था मोठ्या प्रमाणात जीवाश्म संग्रह सांभाळत आहे. जीवाश्म पुनर्प्राप्त केलेली आहेत त्या साइट्स - हजारो वेगवेगळ्या नमुन्यांचे प्रतिनिधित्व करणार्‍या शेकडो साइट."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:8
+msgid "The Project"
+msgstr "प्रकल्प"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:15
+msgid ""
+"Back in 2008, we came up with the idea of exploring GIS technologies to "
+"support the investigation and get a more holistic perspective on the "
+"heritage we were dealing. This idea boosted SIGAP Project (GIS applied to "
+"paleontology) [2]. The project, supported by public and private entities – "
+"mainly the Municipalty, Digiterra.hu and the Army's Geographic Institute "
+"(IGeoE), aimed three goals:"
+msgstr " 2008 मध्ये, आम्ही जीआयएस तंत्रज्ञानाचा अन्वेषण करण्याच्या उद्देशाने अन्वेषण करण्यास आणि आम्ही ज्या वारसा आहोत त्याबद्दल अधिक समग्र दृष्टीकोन मिळविण्याच्या कल्पनेने विचार केला. या कल्पनेने सिग्प प्रोजेक्टला (जीआयएस ने पॅलेओन्टोलॉजीला लागू केले) [२] प्रकल्प वाढविला. , सार्वजनिक आणि खाजगी संस्थांद्वारे समर्थित - मुख्यत: नगरपालिका, डिजिटेर.हा आणि लष्कराची भौगोलिक संस्था (आयजीओई), तीन उद्दिष्टे:"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:17
+msgid ""
+"Field Survey with Differencial GPS to gather the coordinates of the sites;"
+msgstr "साइटचे समन्वय गोळा करण्यासाठी भिन्न जीपीएससह फील्ड सर्वेक्षण;"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:18
+msgid ""
+"Build a Risk Model to identify hazards towards paleontological heritage and "
+"thus prevent them through regular field surveys;"
+msgstr "पुरातन वास्तूंच्या बाबतीत असलेल्या धोक्यांविषयी ओळखण्यासाठी जोखीम मॉडेल तयार करा आणि अशा प्रकारे नियमित फील्ड सर्व्हेद्वारे प्रतिबंधित करा."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:19
+msgid ""
+"Build a Geographic Database to handle all the information and start the "
+"collection inventory."
+msgstr "सर्व माहिती हाताळण्यासाठी भौगोलिक डेटाबेस तयार करा आणि संग्रह यादी प्रारंभ करा."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:22
+msgid "Software we used"
+msgstr "आम्ही वापरलेले सॉफ्टवेअर"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:24
+msgid ""
+"QGIS was the mainframe of all the project. Data was dumped directly to QGIS,"
+" and then edited and manipulated in order to achieve the desired outputs. "
+"The GRASS interface provided by QGIS allowed us to conduct complex spatial "
+"analyis on rasters in order to obtain the risk model we needed to plan our "
+"field work and future prospection. Furthermore it allowed us to import "
+"PostGIS layers and visualize them on QGIS."
+msgstr "क्यूजीआयएस हा सर्व प्रोजेक्टचा मुख्य फ्रेम होता. डेटा थेट क्यूजीआयएस वर टाकला गेला होता, आणि नंतर इच्छित आऊटपुट प्राप्त करण्यासाठी संपादन आणि हाताळणी केली गेली.क्यूजीआयएसने प्रदान केलेल्या जीआरएएस इंटरफेसमुळे आम्हाला जटिल अवस्थेचे विश्लेषण करण्यास परवानगी देण्यात आली आहे. आम्हाला आमच्या फील्ड वर्क आणि भविष्यातील प्रॉस्पेक्टची योजना करणे आवश्यक आहे जोखीम मॉडेल पुढे आम्हाला पोस्टजीआयएस स्तर आयात करण्याची आणि क्यूजीआयएस वर व्हिज्युअलाइझ करण्याची परवानगी दिली."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:31
+msgid "Vector point data editing and visualization"
+msgstr "वेक्टर पॉइंट डेटा संपादन आणि व्हिज्युअलायझेशन"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:33
+msgid ""
+"The choice for QGIS was also encouraged by the multi platform support. The "
+"institution has three distinct facilities, and each of those facilities has "
+"different systems --– we have Mac, Windows PC and Linux PC, therefore it's "
+"of extreme importance that we have the freedom to install the software on "
+"any machine we want so we don't get stuck to a particular computer."
+msgstr "क्यूजीआयएसच्या निवडीस मल्टी प्लॅटफॉर्म समर्थनाद्वारे देखील प्रोत्साहित केले गेले. संस्थेमध्ये तीन वेगळ्या सुविधा आहेत आणि त्यातील प्रत्येक सुविधा वेगवेगळ्या आहेत - आमच्याकडे मॅक, विंडोज पीसी आणि लिनक्स पीसी आहेत, म्हणून आम्हाला हे पाहिजे आहे की आम्हाला पाहिजे असलेल्या कोणत्याही मशीनवर सॉफ्टवेअर स्थापित करण्याचे स्वातंत्र्य आहे म्हणून आम्हाला नको एखाद्या विशिष्ट संगणकावर अडकणार नाही."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:40
+msgid "Paleontological Risk Map"
+msgstr "पॅलेओंटोलॉजिकल जोखीम नकाशा"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:43
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:45
+msgid ""
+"The overall experience with QGIS can only be rated has being very good and "
+"recommendable. From our point of view, the main advantage of QGIS is that "
+"it's not just a GIS software –-- it's a productivity suite for spatial data."
+" It allowed us to take advantage of other powerful tools within a single "
+"work environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+"data, with webservices and with tens of useful plug-ins developed by users "
+"worldwide. The user friendly interface is also a big advantage, especially "
+"if you have to train first time users has we've done. The easyness of the "
+"interface makes production of maps an everyday task and brought people "
+"closer to spatial approaches [3]."
+msgstr "क्यूजीआयएस सह एकूण अनुभव केवळ रेट केला जाऊ शकतो तो खूप चांगला आणि शिफारसीय आहे. आमच्या दृष्टीकोनातून, क्यूजीआयएसचा मुख्य फायदा असा आहे की तो केवळ जीआयएस सॉफ्टवेअर नाही - स्थानिक अवकाशासाठी उत्पादकता संच आहे. यामुळे आम्हाला एकाच कार्य वातावरणात इतर सामर्थ्यवान साधनांचा लाभ घेण्याची परवानगी दिली. क्यूजीआयएस वरून आपण ग्रॅससह, पोस्टजीआयएससह, जीपीएस डेटासह, वेबसर्व्हसेससह आणि जगभरातील वापरकर्त्यांद्वारे विकसित केलेल्या बरीच उपयोगी प्लगइनसह कार्य करू शकता. वापरकर्ता अनुकूल इंटरफेस देखील एक मोठा फायदा आहे, विशेषत: जर आपण प्रथमच वापरकर्त्यांना प्रशिक्षण दिले असेल तर. इंटरफेसची सुलभता नकाशांचे उत्पादन एक रोजचे कार्य बनवते आणि लोकांना अवकाशीय पध्दती जवळ आणते [3]."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:48
+msgid "References"
+msgstr "संदर्भ"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:50
+msgid "[1] www.alt-shn.org (portuguese only)"
+msgstr "[1] www.alt-shn.org (portuguese only)"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:51
+msgid ""
+"[2] MANO, André. (2009) – Sistema de Informação Geográfica Aplicado à "
+"Paleontologia. Paleolusitana: Revista de Paleontologia e Paleoecologia, "
+"Torres Vedras: Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. "
+"245-250."
+msgstr "[२] मॅनो, आंद्रे. (2009) - सिस्टेमा डी इनफॉर्मो जियोग्रिफिका अप्लिकॅडो à पॅलेओंटोलॉजीया. पालेओलिसाइटाना: रेविस्टा डी पेलिओन्टोलॉजी ई पलेओइकोलॉजीया, टॉरेस वेद्रास Alt-Sociedade de História Natural. ISSN 1647-2756, n.º 1, p. 245-250."
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:52
+msgid ""
+"[3] Mano, André. (2010) – Projecto SIGAP, Trabalho de Projecto apresentado "
+"como requisito parcial para a obtenção do grau de Mestre em Ciência e "
+"Sistemas de Informação Geográfica. ISEGI – UNL, Lisboa, 2010"
+msgstr "[3] मनो, आंद्रे. (2010) - सिग्नप प्रकल्प, विज्ञान आणि भौगोलिक माहिती प्रणालीमध्ये पदव्युत्तर पदवी मिळविण्यासाठी आंशिक आवश्यकता म्हणून प्रकल्प कार्य सादर केले. आयएसईजीआय - यूएनएल, लिस्बन, 2010"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:55
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:62
+msgid "André Mano"
+msgstr "आंद्रे मनो"
+
+#: ../../source/site/about/case_studies/portugal_torres.rst:64
+msgid ""
+"This article was contributed in November 2010 by André Mano. He is "
+"responsible for the Geopraphic Department of Associação Leonel Trindade – "
+"Sociedade de História Natural. His area of interest is focused on "
+"geotechnology applications to the fields of paleontology, archeology and "
+"cultural heritage."
+msgstr "या लेखाचे योगदान नोव्हेंबर 2010 मध्ये आंद्रे मानो यांनी केले.त्यास असोसिएनो लिओनेल ट्रिनाडे - सोसिआडेड डे हिस्ट्रिया नॅचरलच्या जिओप्रॅफिक विभागाची जबाबदारी आहे.त्याच्या आवडीचे क्षेत्र भू-तंत्रज्ञान, पुरातत्व आणि सांस्कृतिक वारसा या क्षेत्रातील भू-तंत्रज्ञान अनुप्रयोगांवर केंद्रित आहे."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "The choice for QGIS was also encouraged by the multi platform support. The "
+#~ "institution has three distinct facilities, and each of those facilities has "
+#~ "different systems – We have Mac, Windows PC and Linux PC, therefore it's of "
+#~ "extreme importance that we have the freedom to install the software on any "
+#~ "machine we want so we don't get stuck to a particular computer."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The overall experience with QGIS can only be rated has being very good and "
+#~ "recommendable. From our point of view, the main advantage of QGIS is that "
+#~ "it's not just a GIS software – it's a productivity suite for spatial data. "
+#~ "It allowed us to take advantage of other powerful tools within a single work"
+#~ " environment. From QGIS you can work with GRASS, with PostGIS, with GPS "
+#~ "data, with webservices and with tens of useful plug-ins developed by users "
+#~ "worldwide. The user friendly interface is also a big advantage, especially "
+#~ "if you have to train first time users has we've done. The easyness of the "
+#~ "interface makes production of maps an everyday task and brought people "
+#~ "closer to spatial approaches [3]."
+#~ msgstr ""

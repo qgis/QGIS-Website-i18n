@@ -1,0 +1,41 @@
+# 
+# Translators:
+# 66859fee59d069133df9df4969ac9b8f, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: 66859fee59d069133df9df4969ac9b8f, 2015\n"
+"Language-Team: Swedish (http://www.transifex.com/qgis/qgis-website/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "Kontakt"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr "Kontakta oss via :ref:`QGIS-mailinglists`"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "Om"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "Den här sidan är byggd med Sphinx och både källkod och instruktioner hittar du här: https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "Om du hittar problem och fel, så kan du skapa en felanmälan här: https://github.com/qgis/QGIS-Website/issues eller skicka e-post till QGIS-forumets e-postlista: qgis-community-team@lists.osgeo.org"

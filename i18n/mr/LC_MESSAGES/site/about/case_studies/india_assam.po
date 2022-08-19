@@ -1,0 +1,204 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/india_assam.rst:3
+msgid ""
+"QGIS for monitoring tigers (using camera traps in Nameri Tiger Reserve, "
+"Assam, India Sonitpur District)"
+msgstr "वाघांच्या देखरेखीसाठी क्यूजीआयएस (आसाम, भारत सोनीतपूर जिल्हा, नामेरी व्याघ्र प्रकल्पात कॅमेरा सापळे वापरुन)"
+
+#: ../../source/site/about/case_studies/india_assam.rst:5
+msgid ""
+"Nameri Tiger Reserve (NTR) is one of the 3 tiger reserves of Assam and it is"
+" situated in the northern part of Sonitpur District of Assam along the "
+"foothills of Eastern Himalayas. Spread over an area of 344 sq km, NTR boasts"
+" rich diversity of flora and fauna. The core area of the reserve which "
+"constitutes the “Nameri National Park” is bound by River Jia-Bhoreli on the "
+"west and River Bor-Dikorai in the east. To the north of the Nameri lies the "
+"Pakke Tiger Reserve of Arunachal Pradesh."
+msgstr "नामेरी व्याघ्र प्रकल्प (एनटीआर) आसामच्या 3 व्याघ्र प्रकल्पांपैकी एक आहे आणि तो पूर्व हिमालयाच्या पायथ्याशी आसामच्या सोनीतपूर जिल्ह्याच्या उत्तरेकडील भागात आहे.344 चौरस किलोमीटर क्षेत्रामध्ये पसरलेल्या, एनटीआरमध्ये विविध प्रकारची वनस्पती आणि वनस्पतींचा समृद्धी आहे. \"नेम्री राष्ट्रीय उद्यान\" असलेल्या आरक्षणाचे मुख्य क्षेत्र पश्चिमेस जीया-भोरेली नदी आणि पूर्वेस बोर-डिकोराई नदीने बांधलेले आहे. नामेरीच्या उत्तरेस अरुणाचल प्रदेशचा पाकके व्याघ्र प्रकल्प आहे."
+
+msgid "Area of Tiger Reserve"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:12
+msgid ""
+"Within this landscape, the principal species of conservation importance are "
+"the Royal Bengal Tiger, Asian Elephant, Indian bison, Common leopard, "
+"clouded leopard, Wild dog, Sambar deer, barking deer, hog deer, wild boar "
+"and several other species. The bird diversity of NTR is also quite "
+"impressive and more than 370 bird species have been identified so far. The "
+"reserve is managed by the Assam Forest Department, Government of Assam."
+msgstr "या लँडस्केपमध्ये रॉयल बंगाल टायगर, एशियन एलिफंट, इंडियन बायसन, कॉमन बिबट्या, क्लाउड बिबट्या, वन्य कुत्री, सांबर हरण, भुंकणारे हरण, हॉग हरण, वन्य डुक्कर आणि इतर अनेक प्रजाती या संरक्षणाचे महत्त्व आहेत. एनटीआर पक्षी विविधता देखील प्रभावी आहे आणि आतापर्यंत 370 पक्षी प्रजाती ओळखले गेले आहेत. हे राखीव आसाम वन विभाग, आसाम सरकारकडून व्यवस्थापित केले जाते."
+
+#: ../../source/site/about/case_studies/india_assam.rst:15
+msgid "Application of QGIS for designing camera trap study"
+msgstr "कॅमेरा ट्रॅप अभ्यासाच्या डिझाइनसाठी क्यूजीआयएसचा अर्ज"
+
+#: ../../source/site/about/case_studies/india_assam.rst:17
+msgid ""
+"Starting with the year 2011, the National Tiger Conservation Authority "
+"(NTCA) of India has made it mandatory for the all the tiger reserves of the "
+"country to monitor tigers by using camera traps. Under this new protocol, 25"
+" pairs of cameras will be installed for 100 sq km of tiger reserve and the "
+"sampling period is 40-60 days. This new tiger monitoring protocol relies "
+"heavily on the GIS."
+msgstr "सन 2011 पासून सुरू करण्यात आलेल्या राष्ट्रीय व्याघ्र संवर्धन प्राधिकरणाने (एनटीसीए) देशातील सर्व व्याघ्र प्रकल्पांना कॅमेरा सापळ्यांचा वापर करून वाघांवर नजर ठेवणे बंधनकारक केले आहे. या नवीन प्रोटोकॉलअंतर्गत 100 चौरस किलोमीटर व्याघ्र प्रकल्पासाठी 25 जोड्या कॅमेरे बसविण्यात येणार असून नमुना घेण्याचा कालावधी 40-60 दिवसांचा आहे. हा नवीन वाघ मॉनिटरींग प्रोटोकॉल जीआयएसवर जास्त अवलंबून आहे."
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male Tiger"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:24
+msgid "Picture of a male tiger that was captured in one of the camera traps"
+msgstr "एका कॅमेर्‍याच्या सापळ्यात पकडलेल्या नर वाघाचे चित्र"
+
+#: ../../source/site/about/case_studies/india_assam.rst:26
+msgid ""
+"During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+"using QGIS. To begin with, we digitized the NTR boundary in QGIS and saved "
+"it as polygon. This boundary polygon was exported to GPS for navigation "
+"purpose during the field surveys. We conducted an extensive sign survey in "
+"NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+"GPS coordinates of tiger signs as well as suitable locations for camera "
+"traps were recorded. After completion of the survey, the data was "
+"transferred to QGIS using GPS tools for further processing and for "
+"finalizing camera trap locations. A shape file containing the tiger signs "
+"and probable camera trap locations was prepared."
+msgstr "2012-13 मध्ये आम्ही क्यूजीआयएस वापरून एनटीआरमध्ये वाघांचे हे नवीन निरीक्षण प्रोटोकॉल लागू केले. सुरूवातीस, आम्ही क्यूजीआयएस मध्ये एनटीआर सीमा डिजिटल केली आणि बहुभुज म्हणून जतन केली. फील्ड सर्वेक्षण दरम्यान नेव्हिगेशन हेतूसाठी ही सीमा बहुभुज जीपीएसमध्ये निर्यात केली गेली. वाघांच्या अस्तित्वाचे पुग्मार्क, स्क्रॅच मार्क्स आणि स्कॅट्सच्या पुराव्यांकरिता आम्ही एनटीआरमध्ये विस्तृत साइन सर्वेक्षण केले. वाघाच्या चिन्हाचे जीपीएस समन्वय तसेच कॅमेर्‍याच्या सापळ्यांसाठी योग्य ठिकाणी रेकॉर्ड केली गेली. सर्वेक्षण पूर्ण झाल्यानंतर डेटा पुढील प्रक्रियेसाठी आणि कॅमेरा ट्रॅपच्या स्थानांना अंतिम रूप देण्यासाठी जीपीएस साधनांचा वापर करुन क्यूजीआयएसकडे हस्तांतरित केला गेला. वाघाची चिन्हे आणि संभाव्य कॅमेरा सापळा स्थान असलेली आकार फाईल तयार केली गेली."
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid "Camera trap locations"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:31
+msgid ""
+"Block wise distribution of camera trap locations and assigning camera traps "
+"to different forest camps by using voronoi polygons & hub distance."
+msgstr "व्होरोनोई बहुभुज आणि हब अंतर वापरून कॅमेरा ट्रॅपच्या स्थानांचे ब्लॉक वार वितरण आणि वेगवेगळ्या वन शिबिरांना कॅमेरा सापळे नियुक्त करा."
+
+#: ../../source/site/about/case_studies/india_assam.rst:33
+msgid ""
+"Next we prepared 4 sq km grid layer using mmqgis plugin. The shape file "
+"containing results of sign survey was overlaid on the 4 sq grid to visualise"
+" the distribution of camera traps in NTR. Distance matrix option under "
+"vector analysis tools was quite handy for determining the inter camera "
+"distance. Camera locations having less than 1.8 km inter distance were "
+"removed to comply with the monitoring protocol. Due to lack of sufficient "
+"cameras to monitor the entire reserve area in one go, we decided to divide "
+"the reserve area into 2 blocks of 100 sq km each. Boundaries of these blocks"
+" were digitised and saved as separate shape files for both the blocks. Using"
+" RGB composition plugin, a false color composite of the reserve was created "
+"and the sign survey shape file overlaid to assess the habitat types used by "
+"the tiger. During the study period, the camera traps have to be monitored "
+"intensively by the field staff. To ensure smooth functioning of monitoring "
+"process, we used Voronoi polygon feature of Geometry tools and hub distance "
+"of mmqgis plugin for planning logistic requirements. The geographic "
+"coordinates of camera traps are required for estimating the tiger density "
+"and occupancy modelling of other species. These coordinate details were "
+"easily generated from camera trap shape files by using the “Export/ add "
+"geometry columns” feature of vector Geometry tools."
+msgstr "पुढे आम्ही एम.एम.एस्.के.आय. प्लगइन वापरुन 4 चौरस किलोमीटर ग्रिड लेयर तयार केला. एनटीआरमध्ये कॅमेरा ट्रॅपचे वितरण दृश्यमान करण्यासाठी साइन सर्वेचे परिणाम असलेली आकार फाईल 4 चौरस ग्रीडवर आच्छादित केली गेली. इंटर कॅमेरा अंतर निश्चित करण्यासाठी वेक्टर अ‍ॅनालिसिस टूल्स अंतर्गत डिस्टन्स मॅट्रिक्स पर्याय अगदी सोयीचा होता. मॉनिटरिंग प्रोटोकॉलचे अनुपालन करण्यासाठी 1.8 किमी अंतर अंतर असलेले कॅमेरा स्थाने काढली गेली. एकाच ठिकाणी संपूर्ण राखीव क्षेत्रावर नजर ठेवण्यासाठी पुरेसे कॅमेरे नसल्याने आम्ही राखीव क्षेत्राचे 2 प्रत्येकी 100 चौरस किलोमीटर क्षेत्रातील दोन ब्लॉकमध्ये विभाजन करण्याचे ठरविले. या ब्लॉकची सीमा डिजिटल करण्यात आली आणि दोन्ही ब्लॉकसाठी स्वतंत्र आकार फायली म्हणून जतन केली. आरजीबी कॉम्प्लेक्स प्लगइन वापरुन, वाघाद्वारे वापरल्या जाणार्‍या निवासस्थानाचे आकलन करण्यासाठी रिझर्वचा चुकीचा रंग संमिश्र तयार केला गेला आणि चिन्ह सर्वेक्षण आकार फाईल आच्छादित केले गेले. अभ्यासाच्या काळात, कॅमेरा ट्रॅपवर फील्ड स्टाफने सखोल निरीक्षण केले पाहिजे. देखरेखीची प्रक्रिया सुरळीत पार पाडण्यासाठी, आम्ही लॉजिस्टिक आवश्यकतांच्या नियोजनासाठी भूमिती साधनांचे व्होरोनोई बहुभुज वैशिष्ट्य आणि एमएमएक्जिकिस प्लगइनचे हब अंतर वापरले. वाघांची घनता आणि इतर प्रजातींच्या व्यवसाय मॉडेलिंगचा अंदाज घेण्यासाठी कॅमेरा ट्रॅपचे भौगोलिक निर्देशांक आवश्यक आहेत. हे निर्देशांक तपशील वेक्टर भूमिती साधनांचे वैशिष्ट्य “भूमिती स्तंभ निर्यात / जोडा” वापरून कॅमेरा ट्रॅप शेप फायलीमधून सहजपणे व्युत्पन्न केले."
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey Grid"
+msgstr ""
+
+#: ../../source/site/about/case_studies/india_assam.rst:41
+msgid "Survey grids with tiger presence"
+msgstr "वाघाच्या उपस्थितीसह सर्वेक्षण ग्रीड"
+
+#: ../../source/site/about/case_studies/india_assam.rst:44
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/india_assam.rst:46
+msgid ""
+"For the first time in the history of this small tiger reserve of North East "
+"India, it was possible to monitor tigers by using camera traps mainly "
+"because of QGIS. Results of this monitoring exercise indicate the presence "
+"of 8-15 tigers in this landscape. In addition to the tigers, several elusive"
+" species have also been photographically documented. Apart from tiger "
+"monitoring, we are also using QGIS for activities such as planning habitat "
+"management works, revising patrolling schedules, and designing maps for "
+"visitors. The user-friendly interface, rich features, in-depth "
+"documentation, on-line support  and the free/open source philosophy are the "
+"few qualities of QGIS that made us to select it over other proprietary "
+"software. We believe that QGIS has great potential for empowering "
+"individuals/institutions/ involved in conserving endangered wildlife in the "
+"developing world by offering GIS technology at little or no cost."
+msgstr "ईशान्य भारतातील या छोट्या व्याघ्र प्रकल्पाच्या इतिहासात प्रथमच क्यूजीआयएसमुळे कॅमेरा सापळ्यांचा वापर करून वाघांवर नजर ठेवणे शक्य झाले. या देखरेखीच्या व्यायामाचे परिणाम या लँडस्केपमध्ये 8-15 वाघांची उपस्थिती दर्शवितात. वाघांव्यतिरिक्त, अनेक मायावी प्रजातींचे छायाचित्रणही करण्यात आले आहे. वाघांच्या देखरेखीव्यतिरिक्त आम्ही निवास व्यवस्था व्यवस्थापनाचे नियोजन करणे, गस्त घालण्याचे वेळापत्रक सुधारित करणे आणि अभ्यागतांसाठी नकाशे डिझाइन करणे यासारख्या क्रियाकलापांसाठी देखील QGIS वापरत आहोत. वापरकर्ता-अनुकूल इंटरफेस, समृद्ध वैशिष्ट्ये, सखोल दस्तऐवजीकरण, ऑन-लाइन समर्थन आणि मुक्त / मुक्त स्रोत तत्त्वज्ञान हे क्यूजीआयएसचे काही गुण आहेत ज्यामुळे आम्हाला इतर मालकी सॉफ्टवेअरवर याची निवड करण्यास प्रवृत्त केले. आमचा विश्वास आहे की क्यूजीआयएसमध्ये कमीतकमी किंवा कोणत्याही किंमतीत जीआयएस तंत्रज्ञान देऊन विकसनशील जगातील चिंताजनक वन्यजीव संवर्धित करणार्‍या व्यक्ती / संस्था / सशक्तीकरण करण्याची मोठी क्षमता आहे."
+
+#: ../../source/site/about/case_studies/india_assam.rst:50
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/india_assam.rst:57
+msgid "Rajendra Garawad"
+msgstr "राजेंद्र गारवाड"
+
+#: ../../source/site/about/case_studies/india_assam.rst:59
+msgid ""
+"This article was contributed by Rajendra G. Garawad in March 2013. He is the"
+" Field Director of Nameri Tiger Reserve, Assam, India. He holds Master "
+"Degrees in Forestry Science and Conservation & Land Management."
+msgstr "या लेखाचे योगदान मार्च 2013. मध्ये राजेंद्र जी. गरवड यांनी केले. ते आसाम, भारत मधील नामरी व्याघ्र प्रकल्पातील फील्ड डायरेक्टर आहेत. त्यांच्याकडे वनीकरण विज्ञान आणि संवर्धन आणि भूमी व्यवस्थापन विषयात मास्टर डिग्री आहे."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "QGIS for monitoring tigers"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "(using camera traps in Nameri Tiger Reserve, Assam, India Sonitpur District)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "During 2012-13, we implemented this new tiger monitoring protocol in NTR by "
+#~ "using QGIS. To begin with, we digitized the NTR boundary in Qgis and saved "
+#~ "it as polygon. This boundary polygon was exported to GPS for navigation "
+#~ "purpose during the field surveys. We conducted an extensive sign survey in "
+#~ "NTR for evidences of tiger presence such pugmarks, scratch marks and scats. "
+#~ "GPS coordinates of tiger signs as well as suitable locations for camera "
+#~ "traps were recorded. After completion of the survey, the data was "
+#~ "transferred to Qgis using GPS tools for further processing and for "
+#~ "finalizing camera trap locations. A shape file containing the tiger signs "
+#~ "and probable camera trap locations was prepared."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For the first time in the history of this small tiger reserve of North East "
+#~ "India, it was possible to monitor tigers by using camera traps mainly "
+#~ "because of QGIS. Results of this monitoring exercise indicate the presence "
+#~ "of 8-15 tigers in this landscape. In addition to the tigers, several elusive"
+#~ " species have also been photographically documented. Apart from tiger "
+#~ "monitoring, we are also using Qgis for activities such as planning habitat "
+#~ "management works, revising patrolling schedules, and designing maps for "
+#~ "visitors. The user-friendly interface, rich features, in-depth "
+#~ "documentation, on-line support  and the free/open source philosophy are the "
+#~ "few qualities of QGIS that made us to select it over other proprietary "
+#~ "software. We believe that QGIS has great potential for empowering "
+#~ "individuals/institutions/ involved in conserving endangered wildlife in the "
+#~ "developing world by offering GIS technology at little or no cost."
+#~ msgstr ""

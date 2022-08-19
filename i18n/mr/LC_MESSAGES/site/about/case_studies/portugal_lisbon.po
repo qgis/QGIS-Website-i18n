@@ -1,0 +1,151 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:3
+msgid ""
+"Using QGIS to Map Hotspot Areas for Biodiversity and Ecosystem Services "
+"(HABEaS)"
+msgstr "जैवविविधता आणि इकोसिस्टम सर्व्हिसेस (एचएबीईएएस) साठी हॉटस्पॉट एरियासाठी नकाशावर क्यूजीआयएस वापरणे."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:5
+msgid ""
+"HABEaS --- Hotspot Areas for Biodiversity and Ecosystem Services is an "
+"online geographic information system (WebGIS) that was created by the "
+"`Centre for Applied Ecology "
+"<http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior "
+"de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of "
+"Lisbon), Worldwide Fund for Nature (WWF) and Faunalia."
+msgstr "एचएबीएएस --- जैवविविधता आणि इकोसिस्टम सर्व्हिसेससाठी हॉटस्पॉट एरिया एक ऑनलाइन भौगोलिक माहिती प्रणाली (वेबजीआयएस) आहे जी lied सेंटर फॉर अप्लाइड इकोलॉजी <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ (`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, Technical University of Lisbon), Worldwide Fund for Nature (WWF) and Faunalia."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:7
+msgid ""
+"The main goal of this platform is to provide free access to a wide variety "
+"of data on biodiversity and ecosystem services for the Mediterranean Basin "
+"that was scattered across a number of public and private entities. Presently"
+" HABEaS WebGIS covers the south of Portugal, but by the end of 2012/early "
+"2013 it will be expanded to the north of Portugal and also to the Tuzla "
+"Canton in Bosnia & Herzegovina. In the long run we want to expand this tool "
+"to the entire Mediterranean Basin."
+msgstr "या व्यासपीठाचे मुख्य उद्दीष्ट म्हणजे भूमध्य सागरी क्षेत्रातील अनेक सार्वजनिक आणि खाजगी संस्थांमध्ये पसरलेल्या जैवविविधता आणि इकोसिस्टम सर्व्हिसेसवरील विविध प्रकारच्या डेटामध्ये विनामूल्य प्रवेश प्रदान करणे हे आहे. 2012 च्या अखेरीस / 2013 early च्या सुरूवातीस ते पोर्तुगालच्या उत्तरेस आणि बोस्निया आणि हर्जेगोव्हिनामधील तुझला कॅन्टनमध्येही विस्तारित केले जाईल."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:13
+msgid ""
+"Since the main goal of this tool is to promote free and easy access to "
+"information on biodiversity and ecosystem services we decided to use only "
+"free and open source software, that any person or entity can use regardless "
+"of their location or financial constraints. The website where HABEaS WebGIS "
+"is hosted on a server that runs Debian Linux and was developed with Drupal "
+"CMS. PostgreSQL/PostGIS was used to store the data and QGIS was used to "
+"process and analyze the GIS that we obtained from several entities. We used "
+"both QGIS's native tools but also GRASS GIS and SAGA GIS tools through the "
+"GRASS plugin and SEXTANTE Toolbox."
+msgstr "या साधनाचे मुख्य उद्दीष्ट जैवविविधता आणि परिसंस्था सेवांवरील माहितीच्या विनामूल्य आणि सुलभ प्रवेशास प्रोत्साहित करणे आहे म्हणून आम्ही केवळ मुक्त व मुक्त स्त्रोत सॉफ्टवेअर वापरण्याचे ठरविले आहे, की कोणतीही व्यक्ती किंवा संस्था त्यांचे स्थान किंवा आर्थिक अडचणी लक्षात न घेता वापरू शकते. वेबसाइट एचएबीएईएस वेबजीआयएस सर्व्हरवर होस्ट केले गेले आहे जे डेबियन लिनक्स चालविते आणि ते ड्रुपल सीएमएस सह विकसित केले गेले होते. पोस्टग्रेएसक्यूएल / पोस्टजीआयएस डेटा साठवण्यासाठी वापरला जात असे आणि क्यूजीआयएस जीआयएस प्रक्रिया करण्यासाठी आणि अनेक घटकांकडून प्राप्त केलेल्या जीआयएसचे विश्लेषण करण्यासाठी वापरले जाते. परंतु ग्रॅस जीआयएस आणि सागा जीआयएस टूल्स ग्रास प्लगइन आणि सेक्स्टंट टूलबॉक्सद्वारे."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:19
+msgid ""
+"The geographic information contained in HABEaS has also been used by WWF to "
+"provide support for the identification of High Conservation Value Forests "
+"(HCVF) in the south of Portugal, which is a mandatory step for landowners "
+"that want their forests to receive Forest Stewardship Council (FSC) "
+"Certification."
+msgstr "पोर्तुगालच्या दक्षिणेकडील उच्च संवर्धन मूल्य वन (एचसीव्हीएफ) ओळखण्यासाठी डब्ल्यूडब्ल्यूएफ द्वारे एचएबीईएएसमध्ये समाविष्ट असलेली भौगोलिक माहिती देखील वापरली गेली आहे, ज्यांना त्यांचे वन वनविभागाची परिषद (एफएससी मिळावी अशी इच्छा आहे अशा जमीन मालकांसाठी) एक अनिवार्य पाऊल आहे.(FSC)  प्रमाणपत्र."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:25
+msgid ""
+"To determine which conservation values occure in each property we used "
+"SEXTANTE Modeller to create a script that intersects all HABEaS layers with "
+"the boundaries of the property. Using the same tool we were also able to "
+"create a script that automatically calculates the amount of carbon that is "
+"currently stored in each property."
+msgstr "प्रत्येक मालमत्तेत कोणत्या संवर्धनाचे मूल्य होते हे निर्धारित करण्यासाठी आम्ही सेक्स्टंट मॉडेलरचा उपयोग स्क्रिप्ट तयार करण्यासाठी केला ज्याने मालमत्तेच्या सीमांसह सर्व HABEaS थरांना छेदले. समान साधन वापरुन आम्ही स्वयंचलितपणे कार्बनची मात्रा मोजणारी स्क्रिप्ट देखील तयार करू शकलो. ते सध्या प्रत्येक प्रॉपर्टीमध्ये संग्रहित आहे."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:32
+msgid "Conclusions"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:34
+msgid ""
+"QGIS is easy to use and has very powerful geoprocessing capabilities. The "
+"integration of GRASS GIS and SAGA GIS tools through SEXTANTE Toolbox allowed"
+" us to perform a number of complex spatial analyzes and to pipeline them "
+"using SEXTANTE Modeler. It was also very easy to produce high quality maps "
+"with the new Print Composer and to export them in SVG format for further "
+"editing with Inkscape which is a powerful open source vector graphics "
+"editor."
+msgstr "क्यूजीआयएस वापरण्यास सुलभ आहे आणि त्यात खूप शक्तिशाली भू-प्रसंस्करण क्षमता आहे ग्रॅस जीआयएस आणि सागा जीआयएस टूल्सच्या सेक्स्टंट टूलबॉक्सद्वारे एकत्रित केल्याने आम्हाला अनेक जटिल स्थानिक विश्लेषण करण्यास परवानगी दिली आणि सेक्स्टंट मॉडेलरद्वारे त्यांना पाइपलाइन काढले. नवीन मुद्रण संगीतकारांसह गुणवत्ता नकाशे आणि इंकस्केप सह पुढील संपादनासाठी त्यांना एसव्हीजी स्वरूपात निर्यात करण्यासाठी जे एक शक्तिशाली मुक्त स्रोत वेक्टर ग्राफिक्स संपादक आहे."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:36
+msgid ""
+"In general, our experience with QGIS has been very positive, the software "
+"runs smoothly and the community is very active and supportive. Reported bugs"
+" are usually resolved shortly after being reported by users and QGIS "
+"developers are always willing to listen to “end user's” needs and "
+"suggestions."
+msgstr "सर्वसाधारणपणे, क्यूजीआयएस सह आमचा अनुभव खूप सकारात्मक आहे, सॉफ्टवेअर सहजतेने चालतो आणि समुदाय खूप सक्रिय आणि समर्थक आहे नोंदवलेले बग सामान्यत: वापरकर्त्यांद्वारे कळविल्यानंतर लवकरच सोडवले जातात आणि QGIS विकसक नेहमी “शेवटच्या वापरकर्त्याच्या” गरजा ऐकण्यास तयार असतात. आणि सूचना."
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:39
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:46
+msgid "Filipe Dias"
+msgstr "फिलिप डायस"
+
+#: ../../source/site/about/case_studies/portugal_lisbon.rst:48
+msgid ""
+"Filipe Dias is a PhD student at the Center for Applied Ecology (Instituto "
+"Superior de Agronomia, Techinical University of Lisbon) and a consultant of "
+"the Mediterranean Programme of World Wide Fund for Nature (WWF)."
+msgstr "फिलिप डायस हा सेंटर फॉर अप्लाइड इकोलॉजी (इंस्टीट्युटो सुपीरियर डी ronग्रोनोमिया, लिस्बनच्या टेकिनिकल युनिव्हर्सिटी) मधील पीएचडी विद्यार्थी आहे आणि वर्ल्ड वाइड फंड फॉर नेचर (डब्ल्यूडब्ल्यूएफ) च्या भूमध्य प्रोग्रामचा सल्लागार आहे."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "HABEaS - Hotspot Areas for Biodiversity and Ecosystem Services is an online "
+#~ "geographic information system (WebGIS) that was created by the `Centre for "
+#~ "Applied Ecology <http://www.isa.utl.pt/ceabn/content/2/123/homepage>`_ "
+#~ "(`Instituto Superior de Agronomia <http://www.isa.utl.pt/home/>`_, Technical"
+#~ " University of Lisbon), Worldwide Fund for Nature (WWF) and Faunalia. The "
+#~ "main goal of this platform is to provide free access to a wide variety of "
+#~ "data on biodiversity and ecosystem services for the Mediterranean Basin that"
+#~ " was scattered across a number of public and private entities. Presently "
+#~ "HABEaS WebGIS covers the south of Portugal, but by the end of 2012/early "
+#~ "2013 it will be expanded to the north of Portugal and also to the Tuzla "
+#~ "Canton in Bosnia & Herzegovina. In the long run we want to expand this tool "
+#~ "to the entire Mediterranean Basin."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS is easy to use and has very powerful geoprocessing capabilities. The "
+#~ "integration of GRASS GIS and SAGA GIS tools through SEXTANTE Toolbox allowed"
+#~ " us to perform a number of complex spatial analyzes and to pipeline them "
+#~ "using SEXTANTE Modeler. It was also very easy to produce high quality maps "
+#~ "with the new Print Composer and to export them in SVG format for further "
+#~ "editing with Inkscape which is a powerful open source vector graphics "
+#~ "editor. In general, our experience with QGIS has been very positive, the "
+#~ "software runs smoothly and the community is very active and supportive. "
+#~ "Reported bugs are usually resolved shortly after being reported by users and"
+#~ " QGIS developers are always willing to listen to “end user's” needs and "
+#~ "suggestions."
+#~ msgstr ""

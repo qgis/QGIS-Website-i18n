@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2013\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "संपर्क"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr "इमेल द्वारे :ref:`QGIS-mailinglists`"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "आमच्याबद्दल"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "ही साईट स्निफ़िक्ष वापरून तयार आहे. दोन्ही, मूळ माहिती आणि सूचना येथे मिळतील: https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "आपल्याला समस्या किंवा त्रुटी आढळल्यास, तुम्ही एकतर येथे https://github.com/qgis/QGIS-Website/issues किंवा QGIS-समुदाय mailinglist qgis-community-team@lists.osgeo.org मेल पाठवु शकता."

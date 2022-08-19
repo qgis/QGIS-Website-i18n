@@ -1,0 +1,301 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# KIG Team <info@khagolam.com>, 2020
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2018-05-20 14:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (https://www.transifex.com/qgis/teams/6144/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:3
+msgid "Use of QGIS at the Ministry of Social Development of Uruguay (MIDES)"
+msgstr "उरुग्वेच्या सामाजिक विकास मंत्रालयात (एमआयडीईएस) क्यूजीआयएसचा वापर"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:6
+msgid "Introduction"
+msgstr "परिचय"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:8
+msgid ""
+"The Ministry of Social Development of Uruguay (`MIDES, "
+"<http://www.mides.gub.uy/innovaportal/v/4376/3/innova.front/mision>`_ , for "
+"its acronym in Spanish) is responsible for the national social policies. "
+"MIDES is also accountable for the coordination -at both sectoral and "
+"territorial levels- articulation, monitoring, supervision and evaluation of "
+"plans, programs and projects, within the areas of its competence, aiming at "
+"the consolidation of a progressive redistributive social policy."
+msgstr ""
+"उरुग्वेचे सामाजिक विकास मंत्रालय (Spanish एमआयडीईएस, "
+"<http://www.mides.gub.uy/innovaportal/v/4376/3/innova.front/mision> `_, "
+"स्पॅनिश मध्ये परिवर्णी शब्द) यासाठी जबाबदार आहे राष्ट्रीय सामाजिक धोरणे. "
+"एमआयडीईएस देखील क्षेत्रीय आणि प्रादेशिक दोन्ही स्तरांच्या समन्वयासाठी "
+"जबाबदार आहे - प्रगतीशील पुनर्वितरणाच्या सामाजिक धोरणाचे एकत्रीकरण करण्याच्या"
+" हेतूने, कार्यक्षमता, देखरेख, देखरेख आणि योजना, कार्यक्रम आणि प्रकल्प यांचे "
+"मूल्यांकन आणि मूल्यांकन."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:13
+msgid ""
+"The National Division of Evaluation and Monitoring (`DINEM "
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos>`_ ) is a section of MIDES that oversees the monitoring and "
+"evaluation of plans, programs, actions, devices and social projects through "
+"the national territory. DINEM also produces and manages necessary "
+"information to improve their design and implementation."
+msgstr ""
+"मूल्यांकन आणि देखरेख करण्यासाठी राष्ट्रीय विभाग (IN DINEM "
+"<http://dinem.mides.gub.uy/innovaportal/v/25948/11/innova.front/mision-y-"
+"cometidos> `_) हा MIDES चा विभाग आहे जो राष्ट्रीय प्रदेशात योजना, कार्यक्रम,"
+" कृती, उपकरणे आणि सामाजिक प्रकल्पांचे परीक्षण आणि मूल्यांकन करण्यावर देखरेख "
+"ठेवते. डीआयएनईएम त्यांची रचना आणि अंमलबजावणी सुधारित करण्यासाठी आवश्यक "
+"माहिती तयार आणि व्यवस्थापित देखील करते."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:18
+msgid ""
+"The `Department of Geography of DINEM "
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia>`_ is responsible for the production, management and analysis "
+"of geographical information,"
+msgstr ""
+" डीआयएनईएम "
+"<http://dinem.mides.gub.uy/innovaportal/v/25507/11/innova.front/departamento-"
+"de-geografia> _ चे भूगोल विभाग of _ चे उत्पादन, व्यवस्थापन आणि विश्लेषणास "
+"जबाबदार आहे भौगोलिक माहिती,"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:22
+msgid "QGIS at the Department of Geography of the DINEM"
+msgstr "डीआयएनईएमच्या भूगोल विभागातील क्यूजीआयएस"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:24
+msgid ""
+"Ever since the consolidation of the Department of Geography in 2012, we have"
+" tried to incorporate open source software to fulfill our duties. In "
+"particular, the management of an extensive field work, consisting in the "
+"annual implementation of approximately 40,000 visits to socially vulnerable "
+"households throughout the country. The objective was to conform a thorough "
+"georeferenced database of target households, in order to improve social "
+"policies implementation. Particularly, data was collected to enhance the "
+"scope of monetary transfer programs (`\"Asignaciones Familiares – Plan de "
+"Equidad\" <https://www.bps.gub.uy/3540/plan-de-equidad.html>`_ and "
+"`\"Tarjeta Uruguay Social\" "
+"<http://www.mides.gub.uy/innovaportal/v/55480/3/innova.front/tarjeta-"
+"uruguay-social-tus>`_). The survey form applied contemplates social, "
+"housing, and environmental aspects."
+msgstr ""
+"2012 मध्ये भूगोल विभागाच्या एकत्रीकरणापासून आम्ही आमची कर्तव्ये पार "
+"पाडण्यासाठी मुक्त स्त्रोत सॉफ्टवेअर समाविष्ट करण्याचा प्रयत्न केला आहे. "
+"विशेषतः, देशभरातील सामाजिकदृष्ट्या असुरक्षित कुटुंबांना अंदाजे 40,000 "
+"भेटींच्या वार्षिक अंमलबजावणीमध्ये विस्तृत क्षेत्रीय कार्याचे व्यवस्थापन. "
+"सामाजिक धोरणांची अंमलबजावणी सुधारण्यासाठी लक्ष्यित कुटुंबांच्या संपूर्ण "
+"भौगोलिक डेटाबेसची पूर्तता करणे हा उद्देश होता. विशेषतः, आर्थिक हस्तांतरण "
+"प्रोग्रामची व्याप्ती वाढविण्यासाठी डेटा संकलित केला गेला (`\"Asignaciones "
+"Familiares – Plan de Equidad\" <https://www.bps.gub.uy/3540/plan-de-"
+"equidad.html>`_ and `\"Tarjeta Uruguay Social\" "
+"<http://www.mides.gub.uy/innovaportal/v/55480/3/innova.front/tarjeta-"
+"uruguay-social-tus>`_).. लागू केलेला सर्वेक्षण फॉर्म सामाजिक, गृहनिर्माण आणि"
+" पर्यावरणीय बाबींचा विचार करते."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:33
+msgid ""
+"Logistics to viabilize such fieldwork involved using statistical packages to"
+" manage the database generated, together with an intensive use of GIS to "
+"organize field trips and georeference relieved data."
+msgstr ""
+"डेटाबेस व्युत्पन्न करण्यासाठी सांख्यिकीय पॅकेजेसचा वापर करून फील्ड ट्रिप आणि"
+" जिओरफरेन्सपासून मुक्त डेटा आयोजित करण्यासाठी जीआयएसच्या सघन वापरासह या "
+"फील्डवर्कला सक्षम करण्यासाठी रसदशास्त्र."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:40
+#: ../../source/site/about/case_studies/uruguay_mides.rst:55
+msgid "QGIS at work"
+msgstr ""
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:40
+msgid ""
+"QGIS at work: identifying houses on informal settlements to implement "
+"fieldwork"
+msgstr ""
+"क्यूजीआयएस कामावर: फील्डवर्कची अंमलबजावणी करण्यासाठी अनौपचारिक वसाहतीवरील "
+"घरे ओळखणे"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:42
+msgid ""
+"Although proprietary software was implemented when the working process "
+"started, the development of the tasks themselves gradually demanded it to be"
+" converted to open source software. As the process as a whole became more "
+"computerized -incorporating a workflow engine and a PostGIS geospatial "
+"database-, license requirements and benefits offered by free and open source"
+" software (FOSS) options encouraged us to make the change. In that way, as "
+"the QGIS project was refined (fewer bugs and more functionalities), we were "
+"able to satisfy our needs using QGIS. PostGIS associated tools allowed the "
+"workgroup to rapidly coordinate the tasks needed to viabilize daily field "
+"trips, together with subsequent analysis tasks on the same data fieldwork "
+"generated, shortly after it was relieved and digitized."
+msgstr ""
+"जरी काम करण्याची प्रक्रिया सुरू झाली तेव्हा मालकीचे सॉफ्टवेअर लागू केले "
+"गेले, परंतु कार्यांच्या विकासाने हळू हळू त्यास मुक्त स्रोत सॉफ्टवेअरमध्ये "
+"रुपांतरित करण्याची मागणी केली. कार्यपद्धती इंजिन आणि पोस्टजीआयएस भौगोलिक "
+"डेटाबेस- संपूर्ण संगणकीकृत झाल्यामुळे, परवाना आवश्यकता आणि फ्री आणि ओपन "
+"सोर्स सॉफ्टवेयर (एफओएसएस) पर्यायांद्वारे दिले जाणारे फायदे आम्हाला बदल "
+"करण्यास प्रोत्साहित करतात. अशा प्रकारे, क्यूजीआयएस प्रकल्प परिष्कृत होता "
+"(कमी बग आणि अधिक कार्यक्षमता), आम्ही क्यूजीआयएस वापरून आमच्या गरजा पूर्ण करू"
+" शकलो. पोस्टजीआयएसशी संबंधित साधनांमुळे वर्कग्रुपला दररोज फील्ड ट्रिपला "
+"चालना देण्यासाठी आवश्यक कार्ये द्रुतपणे समन्वय साधण्याची परवानगी दिली गेली, "
+"त्याचबरोबर डेटाबेस तयार झाल्यावर त्याच डेटा फील्डवर्कवरील त्यानंतरच्या "
+"विश्लेषण कार्यांसह."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:55
+msgid ""
+"QGIS at work: Montevideo, Uruguay’s capital and most populated city, "
+"overlayed with PostGIS layer showing to-do visits (mostly composed of "
+"socially vulnerable households, in the outskirts of the city)"
+msgstr ""
+"क्यूजीआयएस कामावर: मॉन्टेव्हिडिओ, उरुग्वेची राजधानी आणि बहुतेक लोकसंख्या "
+"असलेले शहर, पोस्टजीआयएस लेयरने आच्छादित आहे जे टू-डू भेटी दर्शविते (मुख्यतः "
+"शहराच्या बाहेरील भागात सामाजिकदृष्ट्या असुरक्षित कुटुंबांनी बनविलेले)"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:57
+msgid ""
+"In addition to information management and field work implementation, we "
+"constantly use QGIS typical geospatial tools to produce tematic cartography,"
+" and in spatial analysis tasks. This last, as much about the data that the "
+"fieldwork generates, as with other ministry programs information, and "
+"frequently even to aid interinstitutional projects. With `\"qgis2web\" "
+"<https://plugins.qgis.org/plugins/qgis2web/>`_ we were able to produce "
+"interactive maps, which have become the main way to communicate the results "
+"of such investigations. They allow human resources within other programs and"
+" agencies to easily and effectively manage higher amounts of information "
+"than with a collection of static maps, even when these resources are not "
+"used to reading spatial data."
+msgstr ""
+"माहिती व्यवस्थापन आणि फील्ड वर्क अंमलबजावणी व्यतिरिक्त, आम्ही टिमेटिक "
+"कार्टोग्राफी तयार करण्यासाठी आणि स्थानिक विश्लेषण कार्यांमध्ये क्यूजीआयएस "
+"विशिष्ट जिओस्पाटियल साधने सतत वापरतो. हे शेवटचे म्हणजे फील्डवर्कद्वारे "
+"निर्माण होणार्‍या डेटाविषयी आणि इतर मंत्रालयीन कार्यक्रमांप्रमाणेच आणि "
+"आंतरसंस्था प्रकल्पांना वारंवार मदत करण्यासाठीही. Q \"qgis2web\" "
+"<https://plugins.qgis.org/plugins/qgis2web/> `_ सह आम्ही परस्परसंवादी नकाशे "
+"तयार करू शकलो, जे अशा तपासणीचे परिणाम संवाद साधण्याचा मुख्य मार्ग बनले आहेत."
+" स्थानिक डेटा वाचण्यासाठी ही संसाधने वापरली जात नसतानाही ते इतर नकाशे व "
+"एजन्सीमधील मानवी संसाधनांना स्थिर नकाशाच्या संग्रहापेक्षा सहजतेने आणि "
+"प्रभावीपणे उच्च प्रमाणात माहिती व्यवस्थापित करण्यास अनुमती देतात."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:66
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:68
+msgid ""
+"QGIS has become a fundamental software to the Department of Geography at "
+"DINEM. It presents an excellent performance to work with heavy files and to "
+"interact with PostGIS and with our workflow engine. This allows us to have "
+"an excellent management of geographic data, which also makes for the "
+"production of basemaps and thematic cartographies of superior quality."
+msgstr ""
+"क्यूजीआयएस हे डीआयएनईएम मधील भूगोल विभागाचे मूलभूत सॉफ्टवेअर बनले आहे. हेवी "
+"फायलींसह कार्य करण्यासाठी आणि पोस्टजीआयएसशी संवाद साधण्यासाठी आणि आमच्या "
+"वर्कफ्लो इंजिनसह उत्कृष्ट कार्यप्रदर्शन सादर करते. हे आम्हाला भौगोलिक डेटाचे"
+" उत्कृष्ट व्यवस्थापन करण्यास अनुमती देते, जे बेसमॅप्स आणि उत्कृष्ट "
+"गुणवत्तेची थीमॅटिक हस्तरेखा तयार करते."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:73
+msgid ""
+"At the same time, extra features that are incorporated through plugins are "
+"of great value to us. For instance, the possibility of exporting \"leaflet\""
+" map viewers, as well as incorporating high resolution satellite imagery "
+"directly into the GIS work area through “OpenLayers” to manually vectorize "
+"information, among others."
+msgstr ""
+"त्याच वेळी, प्लगइनद्वारे समाकलित केलेली अतिरिक्त वैशिष्ट्ये आमच्यासाठी "
+"मोलाची आहेत. उदाहरणार्थ, \"माहितीपत्रक\" नकाशा दर्शकांची निर्यात होण्याची "
+"शक्यता तसेच \"ओपनलायर्स\" मार्गे थेट जीआयएस कार्यक्षेत्रात उच्च रिझोल्यूशन "
+"उपग्रह प्रतिमा समाविष्ट करणे आणि इतरांमधील माहिती स्वतः हाताळण्यासाठी."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:77
+msgid ""
+"This variety of options is precisely what has allowed us to develop the "
+"specific and at the same time very different technical solutions that "
+"programs and agencies have been needing through past years.As mentioned in "
+"this article, we can state that QGIS meets the necessary requirements to be "
+"used in public administration as desktop GIS software. Also it has been a "
+"cornerstone in helping this institution to set up a web map, offering "
+"general population much information about social issues (`SIG MIDES "
+"<https://mapas.mides.gub.uy/>`_, OpenLayers based WEB GIS developed by the "
+"IT division)."
+msgstr ""
+"या प्रकारच्या विविध पर्यायांमुळे आपल्याला मागील काही वर्षांपासून प्रोग्राम "
+"आणि एजन्सीची आवश्यकता असलेल्या विशिष्ट आणि त्याच वेळी अगदी भिन्न तांत्रिक "
+"निराकरणास परवानगी दिली गेली आहे. या लेखात नमूद केल्याप्रमाणे, आम्ही असे "
+"सांगू शकतो की क्यूजीआयएस आवश्यक गरजा पूर्ण करते. डेस्कटॉप जीआयएस सॉफ्टवेअर "
+"म्हणून सार्वजनिक प्रशासनात वापरला जावा. या संस्थेला वेब नकाशा तयार करण्यास "
+"मदत करणारी एक आधारशिला ठरली आहे, सर्वसामान्यांना सामाजिक समस्यांविषयी अधिक "
+"माहिती प्रदान करते (`साइन मिड्स <https://mapas.mides.gub.uy/>` _, ओपनलायर्स "
+"आधारित वेब जीआयएस आयटी विभाग विकसित)."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:84
+msgid "Authors"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:86
+msgid ""
+"Guillermo D'Angelo - Head of the Geography Department (DINEM-MIDES, "
+"Uruguay). Degree in Geography."
+msgstr ""
+"गिलरमो डी'एंजेलो - भूगोल विभाग प्रमुख (डीआयएनईएम-मिड्स, उरुग्वे) भूगोल "
+"विषयातील पदवी."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:88
+msgid ""
+"Richard Detomasi - Adviser in Spatial Analysis Section of Geography "
+"Department (DINEM-MIDES, Uruguay). Ph.D. student in Social Sciences, "
+"Population Studies. Magister in Contemporary Studies of Latin America. "
+"Degree in Anthropological Sciences."
+msgstr ""
+"रिचर्ड डेटोमासी - भूगोल विभागाच्या स्थानिक विश्लेषण विभागातील सल्लागार "
+"(डीआयएनईएम-एमआयडीईएस, उरुग्वे) पीएच.डी. सामाजिक विज्ञान, लोकसंख्या "
+"अभ्यासातील विद्यार्थी. लॅटिन अमेरिकेच्या समकालीन अभ्यासात मॅजिस्टर. "
+"मानववंशविज्ञानातील पदवी."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:90
+msgid ""
+"Martín Hahn - Adviser in Spatial Analysis Section of Geography Department "
+"(DINEM-MIDES, Uruguay). Bach. currently coursing Geography Degree."
+msgstr ""
+"मार्टन हॅन - भूगोल विभागाच्या स्थानिक विश्लेषणा विभागातील सल्लागार "
+"(डायना-एमआयडीईएस, उरुग्वे). बाख. सध्या भूगोल पदवी सुरू आहे."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:92
+msgid ""
+"Despite the fact that the present article was written by the three above "
+"mentioned, there are more than a hundred people involved in the process "
+"described in it, so this work belongs mainly to them."
+msgstr ""
+"सध्याचा लेख वर उल्लेखलेल्या तिघांनी लिहिलेला असूनही, त्यात वर्णन केलेल्या "
+"प्रक्रियेत शंभराहून अधिक लोक सामील आहेत, म्हणून हे काम प्रामुख्याने त्यांचेच"
+" आहे."
+
+#: ../../source/site/about/case_studies/uruguay_mides.rst:94
+msgid "Contact: mapas@mides.gub.uy"
+msgstr "संपर्क: mapas@mides.gub.uy"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

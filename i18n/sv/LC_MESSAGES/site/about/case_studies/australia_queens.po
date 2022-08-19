@@ -1,0 +1,227 @@
+# 
+# Translators:
+# 66859fee59d069133df9df4969ac9b8f, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: 66859fee59d069133df9df4969ac9b8f, 2015\n"
+"Language-Team: Swedish (http://www.transifex.com/qgis/qgis-website/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:3
+msgid "QGIS and GRASS in Local Government Bushfire Hazard Mapping"
+msgstr "QGIS och GRASS för riskkartläggning av skogsbränder i kommuner"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:6
+msgid "Introduction"
+msgstr "Introduktion"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:8
+msgid ""
+"The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "
+"government in south east Queensland, Australia. The council region, mainly "
+"the southern part, suffers from major bushfires. Bushfire is a real and "
+"present concern for the residents and landowners in the Southern Downs "
+"Region, and has resulted in the loss of life and property."
+msgstr "Regionfullmäktige i Southern Downs (SDRC) är ledningen till en liten till medelstor kommun i sydöstra Queensland i Australien. Kommunen, främst den södra delen, är hårt drabbat av skogsbränder. Skogsbränder innebär en påtaglig oro för invånare och markägare i regionen Southern Downs och har resulterat i förlorade människoliv och egendom."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:10
+msgid ""
+"This project will allow the council and the people of the region to be more "
+"aware of the risk and to allow for better decision making in the future."
+msgstr "Projektet hjälper fullmäktige och invånarna att vara mer förberedda på riskerna och låter dom fatta bättre beslut för framtiden."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:18
+msgid "The Project"
+msgstr "Projektet"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:20
+msgid ""
+"As bushfire is not only a problem for SDRC but also for the whole of "
+"Queensland, the state government requires that each local government "
+"identifies the bushfire hazard in their area via the State Planning Policy "
+"1/03 Mitigating the Adverse Impacts of Flood, Bushfire and Landslide [1]. "
+"This kind of job would normally be done using consultants but was instead "
+"done by the council itself using a combination of QGIS and GRASS."
+msgstr "En skogsbrand är inte bara ett problem för SDRC utan också för hela Queensland, delstaten kräver att alla lokala regioner identifierar risker för skogsbränder i deras region genom State Planning Policy 1/03 Mitigating the Adverse Impacts of Flood, Bushfire and Landslide [1]. Den här sortens arbete görs vanligtvis av konsulter men utfördes istället av regionfullmäktige själva genom användandet av QGIS och GRASS."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:22
+msgid "The GIS side of the project project was broken down into 6 main steps"
+msgstr "GIS-delen av projektet var uppdelad i 6 steg"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:24
+msgid "Slope assessment and mapping"
+msgstr "Kartläggning och bedömning av lutningar"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:25
+msgid "Aspect assessment and mapping"
+msgstr "Kartläggning och bedömning av läget"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:26
+msgid "Vegetation assessment and mapping"
+msgstr "Kartläggning och bedömning av vegetation"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:27
+msgid "Combining scores to identify the severity of bushfire hazard"
+msgstr "Kombinera poäng för att identifiera allvarlig risk för skogsbrand"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:28
+msgid "Field verification and qualitative assessment"
+msgstr "Fältverifiering och kvalitativ bedömning"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:29
+msgid "Final Maps"
+msgstr "Slutliga kartor"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:32
+msgid "The use of QGIS and GRASS"
+msgstr "Användningen av QGIS och GRASS"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:40
+msgid ""
+"QGIS, using the GRASS plugin, was selected as it provided the tools needed "
+"to complete the job and the interaction between QGIS and GRASS made it easy "
+"to process the raster maps and present them in a meaningful way to users. "
+"SDRC uses MapInfo for its main GIS system, however MapInfo’s addons were not"
+" as powerful as GRASS GIS for raster processing."
+msgstr "Qgis, tillsammans med insticksprogrammet GRASS, valdes eftersom det var det verktyg som behövs för att slutföra jobbet och samspelet mellan QGIS och GRASS gjorde det lätt att bearbeta rasterkartor och presentera dem på ett meningsfullt sätt för användarna. SDRC använder MapInfo som sitt huvudsakliga GIS-system, men MapInfos tillägg var inte lika kraftfullt som GRASS för rasterbearbetning."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:42
+msgid ""
+"The QGIS GRASS plugin was used to import 5 meter contours of the whole "
+"region into GRASS which were then converted into a contour raster map using "
+"r.surf.contour. A slope and aspect map were then generated using "
+"r.slope.aspect from the raster contour map. Categories were assigned to "
+"different slope and aspect ranges and given a hazard risk sore. Vegetation "
+"areas were also given different risk scores. All the resulting raster maps "
+"were then combined using mapcalc and given a final risk hazard score. The "
+"risk scores are then divided into three main categories: high; medium; and "
+"low."
+msgstr "I QGIS användes insticksprogrammet för GRASS för att importera in 5 meters nivåkurvor över hela regionen som därefter konverterades till rasterkartor med hjälp av r.surf.contour. En lutnings- och synvinkelskarta skapades med r.slope.aspect utifrån rasterkartan med nivåkurvor. Kategorier tilldelades olika lutningsvinklar och synvinklar utifrån en riskbedömning. Beväxta ytor tilldelades också olika riskbedömningar. Alla rasterkartor kombinerades sedan med hjälp av mapcalc och fick en slutlig bedömning av risknivåerna. Risknivåerna delades sedan in i tre kategorier: hög; medel; och låg."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:44
+msgid ""
+"The final part of the process was field verification via the rural fire "
+"service. After the review process, QGIS was used to print the final maps for"
+" presentation."
+msgstr "Den sista delen i processen var fältverifiering via den lokala brandorganisationen. Efter en genomgång så användes QGIS till att skriva ut de slutliga kartorna för presentation."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:46
+msgid ""
+"As all GRASS commands can be run from the command line, all the commands "
+"that were needed to generate the bushfire hazard maps were recorded, for "
+"documentation purposes and for if the maps needed to be regenerated some "
+"time in the future."
+msgstr "Eftersom alla GRASS-kommandon körs från kommandoraden så så spelades alla kommandona in för dokumentationsändamål och för att kartorna ska kunna återskapas i framtiden."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:49
+msgid "Conclusion"
+msgstr "Slutsats"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:51
+msgid ""
+"Overall QGIS, together with the GRASS plugin, provided a great experience "
+"and a great final outcome for the council doing their own bushfire hazard "
+"mapping. The GRASS plugin provides a very easy to use interface to GRASS "
+"through QGIS. As QGIS is able to open the GRASS raster format natively, "
+"integration is very seamless and maps can be made with ease."
+msgstr "QGIS, tillsammans med GRASS-insticksprogrammet, erbjöd ett bra stöd och ett gott resultat för myndighetens riskbedömning av skogsbränder. Insticksprogrammet för GRASS erbjuder ett enkelt sätt använda GRASS genom QGIS. Eftersom QGIS enkelt kan öppna GRASS rasterformat så är integrationen sömlös och kartproduktionen enkel."
+
+#: ../../source/site/about/case_studies/australia_queens.rst:53
+msgid ""
+"The project won an encouragement award at the Queensland Planning Institute "
+"of Australia state planning awards in 2010 [2]"
+msgstr "Projektet tog hem en utmärkelse vid the Queensland Planning Institute of Australia state planning awards i 2010 [2]"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:56
+msgid "References"
+msgstr "Referenser"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:57
+msgid "[1] http://www.emergency.qld.gov.au/publications/spp/"
+msgstr "[1] http://www.emergency.qld.gov.au/publications/spp/"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:58
+msgid ""
+"[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
+msgstr "[2] http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:61
+msgid "Author"
+msgstr "Författare"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:68
+msgid "Nathan Woodrow"
+msgstr "Nathan Woodrow"
+
+#: ../../source/site/about/case_studies/australia_queens.rst:70
+msgid ""
+"This article was contributed in January 2011 by Nathan Woodrow. Nathan is a "
+"GIS officer at the Southern Downs Regional Council and is studying an "
+"associates degree in Spatial Science at University of Souther Queensland"
+msgstr "Denna artikel skrevs i januari 2011 av Nathan Woodrow. Nathan är en GIS-tjänsteman vid regionfullmäktige i Södra Downs och studerar till docent i Rumslig Vetenskap vid University of Southern Queensland."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "The Southern Downs Regional Council (SDRC) is a small-to-medium sized local "
+#~ "government in south east Queensland, Australia. The council region, mainly "
+#~ "the southern part, suffers from major bushfires. Bushfire is a real and "
+#~ "present concern for the residents and landowners in the Southern Downs "
+#~ "Region, and has resulted in the loss of life and property. This project will"
+#~ " allow the council and the people of the region to be more aware of the risk"
+#~ " and to allow for better decision making in the future."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "QGIS, using the GRASS plugin, was selected as it provided the tools needed "
+#~ "to complete the job and the interaction between QGIS and GRASS made it easy "
+#~ "to process the raster maps and present them in a meaningful way to users. "
+#~ "SDRC uses MapInfo for its main GIS system, however MapInfo’s addons were not"
+#~ " as powerful as GRASS GIS for raster processing. The QGIS GRASS plugin was "
+#~ "used to import 5 meter contours of the whole region into GRASS which were "
+#~ "then converted into a contour raster map using r.surf.contour. A slope and "
+#~ "aspect map were then generated using r.slope.aspect from the raster contour "
+#~ "map. Categories were assigned to different slope and aspect ranges and given"
+#~ " a hazard risk sore. Vegetation areas were also given different risk scores."
+#~ " All the resulting raster maps were then combined using mapcalc and given a "
+#~ "final risk hazard score. The risk scores are then divided into three main "
+#~ "categories: high; medium; and low."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The final part of the process was field verification via the rural fire "
+#~ "service. After the review process, QGIS was used to print the final maps for"
+#~ " presentation. As all GRASS commands can be run from the command line, all "
+#~ "the commands that were needed to generate the bushfire hazard maps were "
+#~ "recorded, for documentation purposes and for if the maps needed to be "
+#~ "regenerated some time in the future."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Overall QGIS, together with the GRASS plugin, provided a great experience "
+#~ "and a great final outcome for the council doing their own bushfire hazard "
+#~ "mapping. The GRASS plugin provides a very easy to use interface to GRASS "
+#~ "through QGIS. As QGIS is able to open the GRASS raster format natively, "
+#~ "integration is very seamless and maps can be made with ease. The project won"
+#~ " an encouragement award at the Queensland Planning Institute of Australia "
+#~ "state planning awards in 2010 [2]"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "[2]http://digital.crowtherblayne.com.au/default.aspx?xml=crowther_pia.xml"
+#~ msgstr ""

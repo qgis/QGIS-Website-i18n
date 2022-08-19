@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Amarildo Shallas <ildoshallas@yahoo.com>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: Amarildo Shallas <ildoshallas@yahoo.com>, 2020\n"
+"Language-Team: Albanian (http://www.transifex.com/qgis/qgis-website/language/sq/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "Kontakto"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr "Ti mund te na kontaktosh neve nëpërmjet :ref:`QGIS-mailinglists`"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "Rreth"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "Kjo faqe është ndërtuar duke përdorur Sphinx dhe të dy burimet dhe udhëzimet gjenden këtu: https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "Nëse gjeni probleme ose gabime, mund të krijoni një çështje këtu https://github.com/qgis/QGIS-Website/issues ose të dërgoni një email në listën e postave të komunitetit QGis-team@lists.osgeo.org "

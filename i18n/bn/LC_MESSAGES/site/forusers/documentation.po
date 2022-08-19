@@ -1,0 +1,47 @@
+# 
+# Translators:
+# Amit Ghosh <ghoshamitag@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Amit Ghosh <ghoshamitag@gmail.com>, 2018\n"
+"Language-Team: Bengali (http://www.transifex.com/qgis/qgis-website/language/bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/documentation.rst:2
+msgid "QGIS Documentation"
+msgstr "কিউ.জি.আই.এস-এর দলিল-দস্তাবেজ"
+
+#: ../../source/site/forusers/documentation.rst:6
+msgid "Users Manual"
+msgstr "ব্যবহার বিধিপত্র"
+
+#: ../../source/site/forusers/documentation.rst:8
+msgid ""
+"The Manual of current stable version can be found in the documentation "
+"section: :ref:`QGIS-manual-index-reference`"
+msgstr "দলিল-দস্তাবেজ বিভাগ :ref:`QGIS-manual-index-reference` -এ বর্তমান সুস্থিত সংস্করণের বিধিপত্রটি পাওয়া যাবে।"
+
+#: ../../source/site/forusers/documentation.rst:12
+msgid "PyQGIS Manual"
+msgstr "পাইকিউজিআইএস-এর ব্যবহার বিধিপত্র"
+
+#: ../../source/site/forusers/documentation.rst:14
+msgid ""
+"You can read the PyQGIS dev cookbook here: :ref:`PyQGIS-Developer-Cookbook`"
+msgstr ":ref:`PyQGIS-Developer-Cookbook` এখানে আপনি পাইকিউজিআইএস বিকাশের প্রণালীগ্রন্থটি পাঠ করতে পারেন"
+
+#: ../../source/site/forusers/documentation.rst:18
+msgid "Workshops"
+msgstr "কর্মশালা"
+
+#: ../../source/site/forusers/documentation.rst:21
+msgid "Developer Manual"
+msgstr "বিকাশকাীদের বিধিপত্র"

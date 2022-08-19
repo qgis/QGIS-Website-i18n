@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Gideon Wentink <gjwentink@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: Gideon Wentink <gjwentink@gmail.com>, 2018\n"
+"Language-Team: Afrikaans (http://www.transifex.com/qgis/qgis-website/language/af/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "Kontak"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr "U kan ons kontak d.m.v. :ref:`QGIS-mailinglists`"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "Oor"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "Hierdie werf is met Sphinx gebou waarvan die bronne en instruksies beskikbaar is by: https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "Indien u probleme of foute ervaar kan u dit óf alhier rapporteer https://github.com/qgis/QGIS-Website/issues óf ’n e-pos aan die QGIS-gemeenskapposlys stuur by qgis-community-team@lists.osgeo.org"

@@ -1,0 +1,30 @@
+# 
+# Translators:
+# 66859fee59d069133df9df4969ac9b8f, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 11:32+0100\n"
+"PO-Revision-Date: 2014-05-25 15:59+0000\n"
+"Last-Translator: 66859fee59d069133df9df4969ac9b8f, 2015\n"
+"Language-Team: Swedish (http://www.transifex.com/qgis/qgis-website/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:5
+msgid "Developing Python plugins"
+msgstr "Utveckla insticksprogram för Python"
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:7
+msgid "Easiest way to start is using the Plugin Builder plugin in QGIS."
+msgstr "Enklaste sättet att komma igång är att använda insticksprogrammet Plugin Builder i QGIS."
+
+#: ../../source/site/getinvolved/development/pythonplugindevelopment.rst:9
+msgid ""
+"Search for 'Plugin Builder' in the plugin manager of QGIS, or read up here: "
+"http://plugins.qgis.org/plugins/pluginbuilder/"
+msgstr "Sök efter 'Plugin Builder' i hanteraren för insticksprogram i QGIS, eller läs mer här: http://plugins.qgis.org/plugins/pluginbuilder/"

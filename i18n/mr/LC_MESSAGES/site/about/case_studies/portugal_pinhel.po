@@ -1,0 +1,198 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:3
+msgid "QGIS and Forest Fire Risk Mapping in Portugal"
+msgstr "पोर्तुगालमध्ये क्यूजीआयएस आणि फॉरेस्ट फायर रिस्क मॅपिंग"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:5
+msgid ""
+"Portugal has been affected by large wildfires causing huge losses, not only "
+"environmental, but also economic and social losses. To face this risk, the "
+"portuguese government, through the National Forest Authority (AFN), decided,"
+" a few years ago, to create technical offices allocated to local governments"
+" which, among other skills, must prepare Municipal Plans for Forest Fire "
+"Protection and Operational Response."
+msgstr "पोर्तुगालवर मोठ्या प्रमाणात जंगली-जंगलांचा परिणाम झाला आहे. त्यामुळे केवळ पर्यावरणाचेच नव्हे तर आर्थिक आणि सामाजिक नुकसानदेखील झाले आहे. या जोखीमचा सामना करण्यासाठी, पोर्टलग सरकारने काही वर्षापूर्वी, राष्ट्रीय वन प्राधिकरण (एएफएन) च्या माध्यमातून तांत्रिक तयार करण्याचा निर्णय घेतला. स्थानिक सरकारांना वाटप केलेल्या कार्यालये, ज्यात इतर कौशल्यांबरोबरच वन अग्निसुरक्षा आणि कार्यात्मक प्रतिसाद यासाठी नगरपालिका योजना तयार करणे आवश्यक आहे."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:7
+msgid ""
+"In order to support the elaboration of these documents, the AFN provided "
+"technical guides with a methodology for calculating and mapping the Forest "
+"Fire Hazard and Risk. Moreover, tutorials have been offered to follow this "
+"methodology, using Proprietary Software. However, the acquisition and "
+"licensing costs of that software are unaffordable for most of the smaller "
+"local administrations and so, it was decided to create and make available a "
+"guide with a methodology for developing Hazard and Risk cartography using "
+"only Free and Open Source Software [http://goo.gl/TSv2E]."
+msgstr "या कागदपत्रांच्या विस्तारास पाठिंबा देण्यासाठी, एएफएनने फॉरेस्ट फायर हॅजर्ड आणि जोखीम मोजण्यासाठी आणि मॅप करण्यासाठी एक तंत्रज्ञान तंत्रज्ञान मार्गदर्शक प्रदान केले आहे.परंतु मालकी सॉफ्टवेअर वापरुन या पद्धतीचा अवलंब करण्याचे प्रशिक्षण दिले गेले आहे.परंतु, संपादन व परवाना त्या सॉफ्टवेअरची किंमत बर्‍याच छोट्या स्थानिक प्रशासनासाठी परवडणारी नसते आणि म्हणूनच, फक्त फ्री आणि ओपन सोर्स सॉफ्टवे [http://goo.gl/TSv2E].चा वापर करून हॅजर्ड आणि जोखीम कार्टोग्राफी विकसित करण्यासाठी कार्यपद्धतीसह मार्गदर्शक तयार करण्याचा आणि उपलब्ध करण्याचा निर्णय घेण्यात आला."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:9
+msgid ""
+"It was proposed to use the following set of software: QGIS, GRASS GIS, gvSIG"
+" and GDAL/OGR libraries. That guide describes all the geoprocessing tasks "
+"necessary for the elaboration of the plans for Forest Fire Protection and "
+"Operational Response, according to the AFN methodology. A large part of the "
+"tasks were developed with QGIS, and spatial analysis in raster model was "
+"developed with GRASS. gvSIG was used for network analysis, with its Network "
+"Analysis extension, and GDAL/OGR libraries were used for transformations "
+"between coordinate reference systems."
+msgstr "खालील सॉफ्टवेअरचा वापर करण्याचा प्रस्ताव होताः क्यूजीआयएस, ग्रॅस जीआयएस, जीव्हीएसआयजी आणि जीडीएएल / ओजीआर लायब्ररी एएफएनच्या कार्यपद्धतीनुसार ते मार्गदर्शक जंगलातील अग्निसुरक्षा आणि कार्यवाही प्रतिसाद योजनेच्या विस्तारासाठी आवश्यक असलेल्या सर्व भौगोलिक प्रक्रियांचे वर्णन करते. कार्यांचा एक मोठा भाग क्यूजीआयएस सह विकसित केला गेला होता, आणि रास्टर मॉडेलमधील स्थानिक विश्लेषण जीआरएएसएस सह विकसित केले गेले होते. जीव्हीएसआयजी नेटवर्क विश्लेषणासाठी त्याचा नेटवर्क विश्लेषण विस्तारासह वापरला गेला होता, आणि जीडीएएल / ओजीआर लायब्ररी समन्वयित संदर्भ प्रणालींमधील बदलांसाठी वापरली जात असे."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:11
+msgid ""
+"After an extensive suite of tests to the methodology, and three years of "
+"real application in the preparation of the Operational Plan for the "
+"municipality of Pinhel, it can be said that the proposed alternatives allow "
+"to replace, with many advantages, Proprietary Software that is usually used "
+"to carry out this task. The validation of the results shows that, despite "
+"the relative simplicity of the conceptual model, its predictive ability is "
+"quite good, and that the model implementation in Open Source Software does "
+"not interfere negatively with the results, quite the opposite."
+msgstr "कार्यपद्धतीच्या विस्तृत चाचण्यांनंतर आणि पिन्हल नगरपालिकेच्या कार्यात्मक योजनेच्या तयारीत तीन वर्षांच्या वास्तविक प्रयत्नांनंतर असे म्हणता येईल की सहसा प्रोप्रायटरी सॉफ्टवेअर असे अनेक फायदे सह, प्रस्तावित पर्याय बदलू देतात. परिणामांचे प्रमाणीकरण असे दर्शविते की, वैचारिक मॉडेलची सापेक्ष साधेपणा असूनही, त्याची भविष्यवाणी करण्याची क्षमता बर्‍यापैकी चांगली आहे आणि ओपन सोर्स सॉफ्टवेयरमधील मॉडेल अंमलबजावणी परिणामी अगदी नकारात्मकतेसह हस्तक्षेप करीत नाही."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid "Forest Fire Hazard and Risk Maps of Pinhel"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid ""
+"Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
+"Software."
+msgstr "ओपन सोर्स सॉफ्टवेअरसह अंमलात आणलेले पिनेलचे फॉरेस्ट फायर हॅजर्ड आणि जोखीम नकाशे"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:25
+msgid ""
+"In a second phase, it was tried to speed up this process, using models to "
+"establish a workflow that perform a wide set of tasks, almost without human "
+"intervention. This second stage consisted essentially in the automation of "
+"the entire procedure described in practical guide which resulted from the "
+"first phase. Such automation could mean a reduction of several hours of "
+"intense work on the part of the technician who intends to produce annually "
+"Forest Defense Plans, for just a few minutes, in which the human "
+"intervention boils down to the selection of input data and the indication of"
+" the place where we intend to keep the output data."
+msgstr "दुसर्‍या टप्प्यात, मानवी हस्तक्षेपाशिवाय, अनेक कार्ये पूर्ण करण्यासाठी कार्यप्रवाह स्थापित करण्यासाठी मॉडेल्स वापरुन या प्रक्रियेस गती देण्याचा प्रयत्न केला गेला.या दुसर्या टप्प्यात व्यावहारिक मार्गदर्शकामध्ये वर्णन केलेल्या संपूर्ण प्रक्रियेच्या ऑटोमेशनमध्ये मूलत: समाविष्ट आहे जे अशा ऑटोमेशनचा अर्थ असा आहे की तंत्रज्ञ ज्याच्याकडून दरवर्षी वन संरक्षण योजना तयार करण्याचा हेतू आहे त्या भागावर कित्येक तासांची गहनता कमी करणे, ज्यात काही मिनिटेच मानवी हस्तक्षेप इनपुट डेटाच्या निवडीसाठी उकळते आणि त्याचे संकेत दर्शवितात. आउटपुट डेटा ठेवण्याचा आमचा हेतू आहे ती जागा."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid "Interface of the Sextante Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid ""
+"Interface of the Sextante Model to calculate the Probability of the Forest "
+"Fire Hazard."
+msgstr "फॉरेस्ट फायर सेझर्डच्या संभाव्यतेची गणना करण्यासाठी सेक्स्टँटे मॉडेलचे इंटरफेस."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:34
+msgid ""
+"In furtherance of this second phase, we used the Python version of Sextante "
+"software, that works integrated into QGIS and adds a broad set of "
+"independent applications (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, "
+"LASTools, Python scrips, etc..) in a single interface, providing a huge "
+"geoprocessing toolbox to QGIS users. Besides the integration of these "
+"applications in QGIS, Sextante has a tool for creating models, taking "
+"advantage of the modules offered by any of those softwares which aggregates."
+" So, we've created a model to automate the process of producing Forest Fire "
+"Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
+msgstr "या दुस phase्या टप्प्यात, आम्ही सेक्स्टँट सॉफ्टवेअरची पायथन आवृत्ती वापरली, जी क्यूजीआयएसमध्ये समाकलित झाली आणि स्वतंत्र अनुप्रयोगांचा एक व्यापक संच जोडली (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, LASTools, Python scrips, etc..) एकल इंटरफेसमध्ये क्यूजीआयएस वापरकर्त्यांसाठी एक प्रचंड जिओप्रोसेसींग टूलबॉक्स प्रदान करते. क्यूजीआयएसमध्ये या अनुप्रयोगांच्या समाकलनाशिवाय, सेक्स्टँटेकडे मॉडेल तयार करण्याचे एक साधन आहे, जे त्या एकत्रित सॉफ्टवेअरद्वारे ऑफर केलेल्या मॉड्यूलचा फायदा घेते. तर, आम्ही ग्रास, सागा, एफ टूल आणि एमएमक्यूजीआयएस साधने वापरून फॉरेस्ट फायर हॅजर्ड आणि जोखीम नकाशे तयार करण्याची प्रक्रिया स्वयंचलित करण्यासाठी एक मॉडेल तयार केले आहे."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid "Part of the model developed for automation of the production"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid ""
+"Part of the model developed for automation of the production of cartography "
+"for Forest Fire Hazard and Risk."
+msgstr "फॉरेस्ट फायर हॅजर्ड अँड रिस्कसाठी कार्टोग्राफीच्या निर्मितीच्या ऑटोमेशनसाठी विकसित केलेल्या मॉडेलचा एक भाग."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:43
+msgid ""
+"The results obtained so far are very promising, as already can be "
+"automatically achieved the creation of the Hazard and Risk Maps [2]. Taking "
+"into account that the Python version of Sextante is still very recent and is"
+" in heavy construction, there are some problems that must be corrected so "
+"that the models may be completed, which certainly will happen very soon, "
+"given the momentum that Sextante project presents. As future work, we intend"
+" to apply, also automatically, the symbology to the results as well as "
+"provide the final layouts in QGIS Composer, ready for export and/or print. "
+"Upon completion of the second phase and the realization of a sufficient set "
+"of tests that can validate the results obtained, it is our intention to "
+"provide the model free and openly."
+msgstr "आतापर्यंत प्राप्त केलेले निकाल खूप आश्वासक आहेत, कारण आधीच हॅझर्ड आणि जोखीम नकाशे तयार करणे स्वयंचलितपणे प्राप्त केले जाऊ शकते [2]. सेक्स्टँटची पायथन आवृत्ती अद्याप अगदी अलिकडील आहे आणि जोरदार बांधकाम चालू आहे, हे लक्षात घेऊन काही समस्या आहेत ते दुरुस्त करणे आवश्यक आहे जेणेकरुन मॉडेल पूर्ण होऊ शकतील, जे सेक्स्टँट प्रोजेक्टने दिलेली गती लक्षात घेता नक्कीच लवकरच घडेल भविष्यातील काम म्हणून आम्ही आपोआपही, परीणामांचे प्रतीकात्मक अर्ज करण्याचा आणि अंतिम प्रदान करण्याचा विचार करतो क्यूजीआयएस संगीतकारातील लेआउट, निर्यात व / किंवा मुद्रणासाठी तयार आहेत.दुसरा टप्पा पूर्ण झाल्यावर आणि प्राप्त झालेल्या परीक्षांचे प्रमाणीकरण करू शकतील अशा चाचण्यांचे पुरेसे संच साकारल्यानंतर, मॉडेल विनामूल्य व मुक्तपणे प्रदान करण्याचा आमचा हेतू आहे."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:46
+msgid "Conclusions"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:48
+msgid ""
+"The alternatives studied proved to be of enormous quality, allowing all "
+"operations recommended in the National Forest Authority technical guides, in"
+" many ways, more efficiently than with Proprietary Software. In terms of "
+"ease of use, it was observed that this type of software is not, in any way, "
+"more complex than the proprietary software, requiring only more technical "
+"knowledge of the models and algorithms implemented which, however, allow a "
+"higher degree of freedom, making possible to explore and fine tune the "
+"models to each particular situation. The process of producing Forest Fire "
+"Hazard and Risk cartography using, exclusively, Open Source Software is "
+"fully consolidated, after several years of testing and application in the "
+"municipality of Pinhel."
+msgstr "अभ्यास केलेला पर्याय हा अत्यंत गुणवत्तेचा असल्याचे सिद्ध झाले आणि राष्ट्रीय मालमत्ता प्राधिकरणाच्या तांत्रिक मार्गदर्शकामध्ये सर्व प्रकारच्या ऑपरेशन्सना प्रोप्रायटरी सॉफ्टवेअरपेक्षा अधिक कार्यक्षमतेने अनुमती दिली. वापरणी सुलभतेच्या दृष्टीने असे आढळले आहे की या प्रकारचे सॉफ्टवेअर नाही , कोणत्याही प्रकारे प्रोप्रायटरी सॉफ्टवेअरपेक्षा अधिक जटिल आहे ज्यास अंमलबजावणी केलेल्या मॉडेल्स आणि अल्गोरिदमचे फक्त अधिक तांत्रिक ज्ञान आवश्यक आहे जे तथापि, प्रत्येक विशिष्ट परिस्थितीत मॉडेल्सचा शोध घेण्यास आणि त्यांच्याशी जुळवून घेण्यास सक्षम बनविते. पिन्हल नगरपालिकेत कित्येक वर्षांच्या चाचण्या व अर्जा नंतर, केवळ, ओपन सोर्स सॉफ्टवेयर पूर्णपणे वापरुन फॉरेस्ट फायर हॅजर्ड आणि रिस्क कार्टोग्राफी तयार करणे."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:50
+msgid ""
+"The fact that Open Source Software is based on standards and support most of"
+" the open data formats, allows the complete interoperability between "
+"software, allowing the user to opt for the most suitable in each moment. "
+"Despite our proposal point to a specific set of software, nothing prevents "
+"to be replaced by any of the existing alternatives in the wide range of "
+"proposals for Free and Open Source Software for Geospatial. However, QGIS "
+"increasingly presents itself as the most complete, stable and easy to use "
+"FOSS4G solution, and whose project is more dynamic, with rapid correction of"
+" bugs and with almost daily implementation of new plugins that adds specific"
+" functionalities to the most diverse areas of activities."
+msgstr "मुक्त स्त्रोत सॉफ्टवेअर मानकांवर आधारित आहे आणि बहुतेक खुले डेटा स्वरूपांचे समर्थन करते, हे सॉफ्टवेअर दरम्यान संपूर्ण इंटरऑपरेबिलिटीला परवानगी देते, वापरकर्त्यास प्रत्येक क्षणामध्ये सर्वात योग्य निवडण्याची परवानगी देते. आमचा प्रस्ताव असूनही सॉफ्टवेअरच्या विशिष्ट संचाकडे सूचित केले जाते, जिओस्पॅटीअलसाठी विनामूल्य आणि मुक्त स्त्रोत सॉफ्टवेअरच्या विस्तृत विस्तृत प्रस्तावांमध्ये विद्यमान कोणत्याही पर्यायांद्वारे काहीही बदलण्यापासून काहीही प्रतिबंधित करत नाही तथापि, क्यूजीआयएस स्वतःला सर्वात पूर्ण, स्थिर आणि वापरण्यास सोपा एफओएसएस 4 जी सोल्यूशन म्हणून प्रस्तुत करतो आणि ज्याचा प्रकल्प अधिक आहे गतिशील, बगच्या द्रुत सुधारणेसह आणि नवीन प्लगइनच्या जवळजवळ दररोज अंमलबजावणीसह ज्यामुळे क्रियाकलापांच्या सर्वात विविध क्षेत्रात विशिष्ट कार्ये जोडली जातात."
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:53
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:60
+msgid "Pedro Venâncio"
+msgstr "पेड्रो व्हेन्सिओ"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:62
+msgid ""
+"Pedro Venâncio B.Sc. in Geology, Postgraduate in Free Software and M.Sc. in "
+"Geographic Information Systems. He was a researcher at the Centre for "
+"Geophysics of the University of Coimbra, at the National Laboratory for "
+"Civil Engineering and is currently responsible for the service of "
+"Cartography and Geographic Information Systems at the Municipality of "
+"Pinhel."
+msgstr "पेड्रो व्हेनसिओ बी.एससी. भूविज्ञान, मुक्त सॉफ्टवेअरमध्ये पदव्युत्तर आणि भौगोलिक माहिती सिस्टीममध्ये एम.एस्सी. ते नागरी अभियांत्रिकीसाठी राष्ट्रीय प्रयोगशाळेत कोयंब्रा विद्यापीठाच्या भू-भौतिकशास्त्र केंद्रातील संशोधक होते आणि सध्या ते जबाबदार आहेत. पिन्हेल नगरपालिकेत कार्टोग्राफी आणि भौगोलिक माहिती प्रणालीची सेवा."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

@@ -1,0 +1,270 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:3
+msgid ""
+"QGIS in the governmental FOSSGIS stack of the Canton of Solothurn in "
+"Switzerland"
+msgstr "स्वित्झर्लंडमधील कॅन्टन ऑफ सोलथर्नच्या सरकारी एफओएसजीआयएस स्टॅकमधील क्यूजीआयएस"
+
+msgid "Solothurn"
+msgstr ""
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:10
+msgid ""
+"The Canton of Solothurn provides services and infrastructure to 250,000 "
+"Solothurn citizens. In the year 2001 the State Parliament decided to migrate"
+" from Windows to Linux. The motivations were to be independent from one "
+"particular vendor, to encourage free enterprise and reduce license costs. As"
+" a result SO!GIS department of the Canton of Solothurn started to deliver "
+"the GIS-requirements of more than 3500 employees with a FOSSGIS strategy."
+msgstr "सोलथर्नचा कॅंटन 250,000 सोलोथर्न नागरिकांना सेवा आणि पायाभूत सुविधा पुरवतो. 2001 मध्ये राज्य संसदेने विंडोज वरून लिनक्समध्ये स्थलांतर करण्याचा निर्णय घेतला. विनामूल्य उद्यमांना प्रोत्साहित करण्यासाठी आणि परवाना खर्च कमी करण्यासाठी प्रेरणा एका विशिष्ट विक्रेत्यापासून स्वतंत्र असणे आवश्यक होते. याचा परिणाम म्हणून केंटन ऑफ सोलोथर्नच्या जीआयएस विभागाने 3500 हून अधिक कर्मचार्‍यांच्या जीआयएस-आवश्यकता फॉसजीस रणनीतीद्वारे वितरित करण्यास सुरवात केली."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:12
+msgid ""
+"The first step we took was the introduction of UMN MapServer and the "
+"creation of a SO!MAP client that offers an easy to use WebGIS client for all"
+" the 3500 employees. The second step was the migration of all our geospatial"
+" data from Shapefiles to the PostGIS spatial database engine. The "
+"introduction was very successful, but an easy to use desktop GIS was "
+"lacking."
+msgstr "आम्ही पहिले पाऊल उचलले ते म्हणजे यूएमएन मॅप सर्व्हरची ओळख आणि एसओ! मॅप क्लायंटची निर्मिती जी सर्व 3500 कर्मचार्‍यांसाठी वेबजीआयएस क्लायंट वापरण्यास सुलभ देते. दुसरी पायरी म्हणजे शेपफिल्स वरून पोस्टजीआयएस स्थानिक डेटाबेस इंजिनमध्ये आमच्या सर्व भौगोलिक डेटाचे स्थलांतर. परिचय खूप यशस्वी झाला, परंतु डेस्कटॉप वापरण्यास सुलभ जीआयएसचा अभाव होता."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:14
+msgid ""
+"After an evaluation of different Desktop GIS we decided to use QGIS in "
+"conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
+msgstr "वेगवेगळ्या डेस्कटॉप जीआयएसच्या मूल्यांकनानंतर आम्ही 2006 मध्ये ईएसआरआय आर्कइन्फो आणि आर्कव्यू 3 ला बदलून जीआरएसएस च्या संयुक्त विद्यमाने क्यूजीआयएस वापरण्याचे ठरविले."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:16
+msgid "The decision was driven by the following aspects:"
+msgstr "निर्णय खालील पैलूंद्वारे चालविला गेला:"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:18
+msgid ""
+"Due to our use of desktop GIS in a Linux Terminal Server environment, Java "
+"wasn't an option."
+msgstr "आमच्या लिनक्स टर्मिनल सर्व्हर वातावरणात डेस्कटॉप जीआयएसच्या वापरामुळे, जावा हा पर्याय नव्हता."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:19
+msgid "OSGeo Project-Organisation"
+msgstr "ओएसजीओ प्रकल्प-संघटना"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:20
+msgid "GUI translated in German language"
+msgstr "जीयूआय जर्मन भाषेत अनुवादित"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:21
+msgid "Documentation written in German language"
+msgstr "जर्मन भाषेत लिहिलेले दस्तऐवजीकरण"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:22
+msgid "An Active developer (Marco Hugentobler) near Solothurn in Switzerland."
+msgstr "स्वित्झर्लंडमधील सोलोथर्न जवळ एक सक्रिय विकसक (मार्को ह्यूजंटोबलर)."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:23
+msgid ""
+"We could contract Marco Hugentobler to implement missing / lacking features "
+"like Digitizing and Mapcomposing."
+msgstr "आम्ही डिजिटलायझिंग आणि मॅपकॉम्पोजींग यासारख्या हरवलेल्या / उणीवांच्या वैशिष्ट्यांची अंमलबजावणी करण्यासाठी मार्को हूजेन्टोबलरला करार करू शकतो."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:24
+msgid "Application and Plugin developement with Python"
+msgstr "पायथनसह अनुप्रयोग आणि प्लगइन विकास"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:25
+msgid "Growing user community"
+msgstr "वाढणारा वापरकर्ता समुदाय"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:26
+msgid "Very active developer community"
+msgstr "खूप सक्रिय विकसक समुदाय"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:27
+msgid "Independence from a single operating system"
+msgstr "एकाच ऑपरेटिंग सिस्टमपासून स्वातंत्र्य"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:30
+msgid "Where do we use QGIS"
+msgstr "आम्ही QGIS कुठे वापरतो?"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:32
+msgid ""
+"In contrast to the interactive maps served by UMN MapServer, the desktop GIS"
+" has to offer a flexible view at the geospatial data of Solothurn. QGIS "
+"Desktop GIS is in use by more than 50 users for their daily work. But many "
+"of them are not GIS experts. They want to visualize and/or capture "
+"geospatial data with an intuitive user interface."
+msgstr "यूएमएन मॅपसर्व्हरद्वारे परस्पर संवादात्मक नकाशेच्या उलट, डेस्कटॉप जीआयएसला सोलोथर्नच्या भौगोलिक डेटावर लवचिक दृश्य द्यावे लागेल. क्यूजीआयएस डेस्कटॉप जीआयएस 50 पेक्षा जास्त वापरकर्ते त्यांच्या दैनंदिन कामासाठी वापरत आहेत. परंतु त्यातील बरेच लोक जीआयएस तज्ञ नाहीत. त्यांना अंतर्ज्ञानी वापरकर्ता इंटरफेससह भौगोलिक डेटा व्हिज्युअलायझेशन आणि / किंवा कॅप्चर करू इच्छित आहे."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:34
+msgid ""
+"One of the most important Desktop GIS issues is the question: \"How do I get"
+" the information from the PostGIS geodata repository I need?\". Since our "
+"end users are unfamiliar with data models and the underlying structures of "
+"our spatial database, offering the users a raw connection to the PostGIS DB "
+"was not an option. We have a metadata database that stores the descriptions "
+"of all production data called 'SO!DATA'."
+msgstr "डेस्कटॉप जीआयएस समस्यांपैकी एक महत्त्वाचा प्रश्न आहे: \"मला आवश्यक असलेल्या पोस्टजीआयएस जिओडाटा रिपॉझिटरीमधून माहिती कशी मिळवायची?\". आमचे अंतिम डेटा डेटा मॉडेल आणि आमच्या स्थानिक डेटाबेसच्या मूलभूत संरचनांशी परिचित नसल्यामुळे वापरकर्त्यांना पोस्टजीआयएस डीबीला कच्चा कनेक्शन ऑफर करण्याचा पर्याय नव्हता. आमच्याकडे मेटाडेटा डेटाबेस आहे जो 'एसओ! डेटा' नावाच्या सर्व उत्पादन डेटाचे वर्णन संग्रहित करतो."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:36
+msgid ""
+"SO!DATA contains a human readable inventory of the data models and the non-"
+"GIS-Expert user is able to use this database to discover the information "
+"they need."
+msgstr "म्हणूनच डेटामध्ये डेटा मॉडेलची मानवी वाचनीय यादी आहे आणि जीआयएस-तज्ञ नसलेला वापरकर्ता आवश्यक माहिती शोधण्यासाठी हा डेटाबेस वापरण्यास सक्षम आहे."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:43
+msgid "\"SO!GIS Layer\" plugin developed at the Canton of Solothurn"
+msgstr "\"एसओ! जीआयएस लेअर\" प्लगइन सोलथर्नच्या कॅन्टन येथे विकसित केले"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:45
+msgid ""
+"To remove the need for end users to interact directly with PostGIS "
+"connections and table selection dialogs, a plugin has been developed in "
+"python. The plugin is called \"SO!GIS Layer\" (see Figure 1). The plugin "
+"connects to the SO!GIS PostGIS repository, gets the information of all "
+"published geospatial data layers from SO!DATA and offers the user a GUI to "
+"find the data layers they need. With this infrastructure in place, our users"
+" are happy --- they can prepare for geoprocessing, editing and map composing"
+" in an individual way."
+msgstr "अंतिम वापरकर्त्यांनी पोस्टजीआयएस कनेक्शन आणि टेबल निवड संवादांशी थेट संवाद साधण्याची गरज दूर करण्यासाठी अजगरात प्लगइन विकसित केले गेले आहे. प्लगिनला \"एसओ! जीआयएस स्तर\" असे म्हणतात (आकृती 1 पहा). प्लगइन एसओ! जीआयएस पोस्टजीआयएस रेपॉजिटरीशी जोडला जातो, एसओ! डेटामधून सर्व प्रकाशित भौगोलिक डेटा स्तरांची माहिती प्राप्त करतो आणि वापरकर्त्यास आवश्यक डेटा स्तर शोधण्यासाठी जीयूआय ऑफर करतो. या पायाभूत सुविधांच्या ठिकाणी, आमचे वापरकर्ते आनंदी आहेत --- ते भौगोलिक प्रक्रिया, संपादन आणि नकाशा तयार करण्याची वैयक्तिक तयारी करू शकतात."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:53
+msgid "\"SO!GIS Suche\" plugin developed at the Canton of Solothurn"
+msgstr "\"एसओ! जीआयएस सुचे\" प्लगइन सोलथर्नच्या कॅन्टन येथे विकसित केले"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:55
+msgid ""
+"Another required QGIS plugin we created is called 'SO!GIS Suche'. This "
+"provides the possibility to search for locations like townships, addresses "
+"or cadastral parcels (see Figure 2). As a result the user is able to "
+"navigate very easily to an area of interest."
+msgstr "आम्ही तयार केलेल्या आणखी आवश्यक QGIS प्लगइनला 'SO! GIS Suche' म्हणतात. हे टाउनशिप, पत्ते किंवा कॅडस्ट्रल पार्सल यासारख्या स्थानांवर शोधण्याची शक्यता प्रदान करते (आकृती 2 पहा). परिणामी वापरकर्ता स्वारस्य असलेल्या क्षेत्रावर सहजपणे नेव्हिगेट करण्यास सक्षम आहे."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:57
+msgid ""
+"At the moment many other plugins are under development. These will support "
+"data manipulation, analysis or mapping for different projects. Our in-"
+"development plugins cover topics  such as nature reserves, soil "
+"conservation, cadastral data verification, crisis management, abandoned "
+"sites and so on."
+msgstr "याक्षणी बरीच प्लगइन विकसित होत आहेत. हे विविध प्रकल्पांसाठी डेटा हाताळणी, विश्लेषण किंवा मॅपिंगला समर्थन देईल. आमच्या इन-डेव्हलपमेंट प्लगइनमध्ये निसर्ग साठा, मातीचे संवर्धन, कॅडस्ट्रल डेटा सत्यापन, संकट व्यवस्थापन, बेबंद साइट्स यासारख्या विषयांचा समावेश आहे."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:60
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:62
+msgid ""
+"Today we can say that using QGIS was the right decision for us. QGIS offers "
+"most of the features requested by our users. The Canton of Solothurn "
+"subcontracts the creation of features that QGIS lacks to commercial support "
+"providers. With PyQgis and PyQt there are excellent options for easy in-"
+"house application development based on QGIS. One huge benefit is the "
+"unlimited number of installations. Everyone who needs to use QGIS can use it"
+" without any limitations. To push the development of QGIS the Canton of "
+"Solothurn has invested approximately $30,000 into QGIS every year since "
+"2007. This is much more efficient and target-oriented than the payment of "
+"support into the black box of our former software provider. Apart from using"
+" FOSSGIS, the Canton of Solothurn also provides public geodata free of "
+"charge via the SO!ONLINE web portal."
+msgstr "आज आपण असे म्हणू शकतो की क्यूजीआयएस वापरणे हा आमच्यासाठी योग्य निर्णय होता. क्यूजीआयएस आमच्या वापरकर्त्यांद्वारे विनंती केलेल्या बर्‍याच वैशिष्ट्यांसह ऑफर करते. कंटन ऑफ सोलोथर्न, क्यूजीआयएसद्वारे व्यावसायिक समर्थन प्रदात्यांकडे नसणारी वैशिष्ट्ये तयार करण्यास सबक कॉन्ट्रॅक्ट करतो. पायक़ीगिस आणि पायक्यूटमध्ये क्यूजीआयएसवर आधारित सहजपणे घरातील अनुप्रयोग विकासासाठी उत्कृष्ट पर्याय आहेत. त्याचा एक मोठा फायदा म्हणजे अमर्यादित स्थापना. प्रत्येकजण ज्यास क्यूजीआयएस वापरण्याची आवश्यकता आहे ते कोणत्याही मर्यादेशिवाय त्याचा वापर करू शकतात. क्यूजीआयएसच्या विकासास धक्का देण्यासाठी सोलथर्नच्या कॅन्टनने 2007 पासून दरवर्षी क्यूजीआयएसमध्ये अंदाजे Q 30,000 ची गुंतवणूक केली आहे. आमच्या माजी सॉफ्टवेअर प्रदात्याच्या ब्लॅक बॉक्समध्ये समर्थनाची रक्कम भरण्यापेक्षा हे बरेच कार्यक्षम आणि लक्ष्य-केंद्रित आहे. फॉसजीआयएस वापरण्याशिवाय, सोलथर्नचा कॅन्टन एसओ! ऑनलाईन वेब पोर्टलद्वारे सार्वजनिक जिओडाटा विनामूल्य प्रदान करते."
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:65
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:72
+msgid "Horst Düster"
+msgstr "हॉर्स्ट डेस्टर"
+
+#: ../../source/site/about/case_studies/suisse_solothurn.rst:74
+msgid ""
+"This article was contributed in May 2009 by Dr. Horst Düster. He is GIS "
+"coordinator at the Department of Geoinformation in the Canton of Solothurn, "
+"Switzerland."
+msgstr "या लेखाचे योगदान मे 2009 in मध्ये डॉ. हॉर्स्ट डेस्टर यांनी दिले. तो स्वित्झर्लंडमधील कॅन्टन ऑफ सोलथर्नमधील भू-सूचना विभागातील जीआयएस समन्वयक आहे."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "QGIS in the governmental FOSSGIS stack"
+#~ msgstr ""
+
+#~ msgid "of the Canton of Solothurn in Switzerland"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The Canton of Solothurn provides services and infrastructure to 250,000 "
+#~ "Solothurn citizens. In the year 2001 the State Parliament decided to migrate"
+#~ " from Windows to Linux. The motivations were to be independent from one "
+#~ "particular vendor, to encourage free enterprise and reduce license costs. As"
+#~ " a result SO!GIS department of the Canton of Solothurn started to deliver "
+#~ "the GIS-requirements of more than 3500 employees with a FOSSGIS strategy. "
+#~ "The first step we took was the introduction of UMN MapServer and the "
+#~ "creation of a SO!MAP client that offers an easy to use WebGIS client for all"
+#~ " the 3500 employees. The second step was the migration of all our geospatial"
+#~ " data from Shapefiles to the PostGIS spatial database engine. The "
+#~ "introduction was very successful, but an easy to use desktop GIS was "
+#~ "lacking. After an evaluation of different Desktop GIS we decided to use QGIS"
+#~ " in conjunction with GRASS, replacing ESRI ArcInfo and ArcView3 in the 2006."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "In contrast to the interactive maps served by UMN MapServer, the desktop GIS"
+#~ " has to offer a flexible view at the geospatial data of Solothurn. QGIS "
+#~ "Desktop GIS is in use by more than 50 users for their daily work. But many "
+#~ "of them are not GIS experts. They want to visualize and/or capture "
+#~ "geospatial data with an intuitive user interface. One of the most important "
+#~ "Desktop GIS issues is the question: \"How do I get the information from the "
+#~ "PostGIS geodata repository I need?\". Since our end users are unfamiliar "
+#~ "with data models and the underlying structures of our spatial database, "
+#~ "offering the users a raw connection to the PostGIS DB was not an option. We "
+#~ "have a metadata database that stores the descriptions of all production data"
+#~ " called 'SO!DATA'. SO!DATA contains a human readable inventory of the data "
+#~ "models and the non-GIS-Expert user is able to use this database to discover "
+#~ "the information they need."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "To remove the need for end users to interact directly with PostGIS "
+#~ "connections and table selection dialogs, a plugin has been developed in "
+#~ "python. The plugin is called \"SO!GIS Layer\" (see Figure 1). The plugin "
+#~ "connects to the SO!GIS PostGIS repository, gets the information of all "
+#~ "published geospatial data layers from SO!DATA and offers the user a GUI to "
+#~ "find the data layers they need. With this infrastructure in place, our users"
+#~ " are happy - they can prepare for geoprocessing, editing and map composing "
+#~ "in an individual way."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Another required QGIS plugin we created is called 'SO!GIS Suche'. This "
+#~ "provides the possibility to search for locations like townships, addresses "
+#~ "or cadastral parcels (see Figure 2). As a result the user is able to "
+#~ "navigate very easily to an area of interest. At the moment many other "
+#~ "plugins are under development. These will support data manipulation, "
+#~ "analysis or mapping for different projects. Our in-development plugins cover"
+#~ " topics  such as nature reserves, soil conservation, cadastral data "
+#~ "verification, crisis management, abandoned sites and so on."
+#~ msgstr ""

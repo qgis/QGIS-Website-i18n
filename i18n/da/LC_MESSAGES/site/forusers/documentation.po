@@ -1,0 +1,48 @@
+# 
+# Translators:
+# Mie Winstrup <mie@septima.dk>, 2019
+# Preben Lisby <preben.lisby@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: Mie Winstrup <mie@septima.dk>, 2019\n"
+"Language-Team: Danish (http://www.transifex.com/qgis/qgis-website/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/documentation.rst:2
+msgid "QGIS Documentation"
+msgstr "QGIS dokumentation"
+
+#: ../../source/site/forusers/documentation.rst:6
+msgid "Users Manual"
+msgstr "Brugermanual"
+
+#: ../../source/site/forusers/documentation.rst:8
+msgid ""
+"The Manual of current stable version can be found in the documentation "
+"section: :ref:`QGIS-manual-index-reference`"
+msgstr "Manualen for den nuværende stabile version, findes i dokumentationsektionen: :ref:`QGIS-manual-index-reference`"
+
+#: ../../source/site/forusers/documentation.rst:12
+msgid "PyQGIS Manual"
+msgstr "PyQGIS Manual"
+
+#: ../../source/site/forusers/documentation.rst:14
+msgid ""
+"You can read the PyQGIS dev cookbook here: :ref:`PyQGIS-Developer-Cookbook`"
+msgstr "Du kan læse PyQGIS udviklings kogebogen her: :ref:`PyQGIS-Developer-Cookbook`"
+
+#: ../../source/site/forusers/documentation.rst:18
+msgid "Workshops"
+msgstr "Workshops"
+
+#: ../../source/site/forusers/documentation.rst:21
+msgid "Developer Manual"
+msgstr "Udvikler manual"

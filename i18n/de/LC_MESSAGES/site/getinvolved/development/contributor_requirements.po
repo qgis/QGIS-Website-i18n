@@ -1,0 +1,133 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# Thomas Schüttenberg <thomas@qgis.de>, 2022
+# Laura Klement, 2022
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2018-05-20 14:25+0000\n"
+"Last-Translator: Laura Klement, 2022\n"
+"Language-Team: German (https://www.transifex.com/qgis/teams/6144/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:4
+msgid "Requirements for new contributors"
+msgstr "Anforderungen für neue Mitwirkende"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:6
+msgid ""
+"We welcome new contributors to our community - we want you to use QGIS as a "
+"platform for doing your work - and we believe that QGIS is a great platform "
+"for that. In order to contribute code, patches, or documentation to the QGIS"
+" project, all developers/team members must:"
+msgstr ""
+"Wir begrüßen neue Mitwirkende in unserer Gemeinschaft - wir möchten, dass "
+"Sie QGIS als Plattform für Ihre Arbeit nutzen - und wir glauben, dass QGIS "
+"eine großartige Plattform dafür ist. Um Code, Patches oder Dokumentation zum"
+" QGIS-Projekt beizutragen, müssen alle Entwickler/Teammitglieder:"
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:11
+msgid "Abide by the Social Contract."
+msgstr "Den Gesellschaftsvertrag einhalten."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:12
+msgid ""
+"Be familiar with the development process and the reference material "
+"available in the Development Corner, and the CODING document in the root of "
+"the QGIS Sources."
+msgstr ""
+"Vertraut sein mit dem Entwicklungsprozess und dem in der Entwicklungsecke "
+"verfügbaren Referenzmaterial sowie dem CODING-Dokument im Stammverzeichnis "
+"der QGIS-Quellen."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:15
+msgid ""
+"Ensure that all code committed to the repository is unencumbered and "
+"compatible with the QGIS license, GNU Public License (GPL) Version 2 or any "
+"later version."
+msgstr ""
+"Sicherstellen, dass der gesamte Code, der in das Repository übertragen wird,"
+" unbelastet und kompatibel mit der QGIS-Lizenz, der GNU Public License (GPL)"
+" Version 2 oder einer späteren Version ist."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:17
+msgid ""
+"Not use or include any code that will cause a trademark or patent "
+"infringement. If you are unsure, ask on the developer mailing list or "
+"contact a Project Steering Committee member."
+msgstr ""
+"Ausschließlich Code verwenden, der keine Marken- oder Patentverletzung "
+"darstellt. Wenn Sie unsicher sind, fragen Sie auf der Entwickler-"
+"Mailingliste nach oder kontaktieren Sie ein Mitglied des "
+"Projeksteuerungskomitees."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:20
+msgid "Join the qgis-developer mailing list and contribute to discussions"
+msgstr ""
+"Der qgis-developer Mailingliste beitreten und sich an den Diskussionen "
+"beteiligen."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:21
+msgid ""
+"These requirements apply to both developers desiring commit privileges and "
+"those that submit patches."
+msgstr ""
+"Diese Anforderungen gelten sowohl für Entwickler, die Commit-Rechte "
+"anstreben, als auch für solche, die Patches einreichen."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:23
+msgid "Read and agree to the :ref:`codeofconduct`."
+msgstr "Lesen und stimmen Sie dem :ref:`codeofconduct` zu."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:24
+msgid ""
+"Read and agree to the `Coding Standards "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_."
+msgstr ""
+"Lesen und stimmen Sie den `Coding Standards "
+"<https://docs.qgis.org/testing/en/docs/developers_guide/codingstandards.html>`_"
+" zu."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:26
+msgid "Read and agree to the :ref:`diversitystatement`."
+msgstr "Lesen und stimmen Sie dem :ref:`diversitystatement` zu."
+
+#: ../../source/site/getinvolved/development/contributor_requirements.rst:27
+msgid ""
+"Agree to these requirements by sending an email to the qgis-developer "
+"mailing list stating agreement."
+msgstr ""
+"Stimmen Sie diesen Anforderungen zu, indem Sie eine E-Mail an die qgis-"
+"developer Mailingliste schicken, in der Sie Ihr Einverständnis erklären."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "Kontrollkästchen"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "Read and agree to the :ref:`coding_standards`."
+#~ msgstr "Lesen und stimmen Sie den :ref:`coding_standards` zu."
+
+#~ msgid ""
+#~ "Ensure that all code committed to the repository is unencumbered and "
+#~ "compatible with the QGIS license, GPL version 2"
+#~ msgstr ""
+#~ "Sicherstellen, dass der gesamte Code, der in das Repository übertragen wird,"
+#~ " unbelastet und kompatibel mit der QGIS-Lizenz, der GNU Public License (GPL)"
+#~ " Version 2 oder einer späteren Version ist."

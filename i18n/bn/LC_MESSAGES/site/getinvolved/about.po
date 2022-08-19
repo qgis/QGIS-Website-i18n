@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Amit Ghosh <ghoshamitag@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: Amit Ghosh <ghoshamitag@gmail.com>, 2016\n"
+"Language-Team: Bengali (http://www.transifex.com/qgis/qgis-website/language/bn/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "যোগাযোগ"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr ":ref:`QGIS-mailinglists` মাধ্যমে যোগাযোগ করুন"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "এ বিষয়ে জানুন"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "এই সইটটি Sphinx দিয়ে বানানো, https://github.com/qgis/QGIS-Website এ এর উৎস ও নির্দেশাবলী পাওয়া যাবে।"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "আপনি কোনো সমস্যা বা ত্রটির সম্মুখিন হলে https://github.com/qgis/QGIS-Website/issues এ একটি ইস্যু তৈরি করুন বা কিউ.জি.আই,এস-সম্প্রাদায়ের মেইললিস্ট qgis-community-team@lists.osgeo.org তে মেইল পাঠান।"

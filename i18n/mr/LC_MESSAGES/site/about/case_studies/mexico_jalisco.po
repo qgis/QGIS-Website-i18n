@@ -1,0 +1,131 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:3
+msgid ""
+"Working with QGIS in a spatial data infrastructure of Jalisco in Mexico"
+msgstr "मेक्सिकोमधील जॅलिसकोच्या अवकाशासंबंधी डेटाच्या पायाभूत सुविधांमध्ये क्यूजीआयएस बरोबर काम करणे"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:5
+msgid ""
+"The Instituto de Información Territorial del Estado de Jalisco is a "
+"government organization which was founded in 1998 to share geographical "
+"information between the government agencies of Jalisco in México."
+msgstr "इन्स्टिट्युटो डी इन्फॉर्मेशन टेरिटोरियल डेल एस्टॅडो डे जालिस्को ही एक सरकारी संस्था आहे जी मेक्सिकोमधील जॅलिस्कोच्या सरकारी एजन्सींमध्ये भौगोलिक माहिती सामायिक करण्यासाठी 1998 मध्ये स्थापन केली गेली."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:12
+msgid "Exploring the data with its online viewer"
+msgstr "त्याच्या ऑनलाइन दर्शकासह डेटा एक्सप्लोर करत आहे"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:14
+msgid ""
+"Within the years, the institution has gathered loads of information in "
+"several formats such as SHP, DWG, DXF, GeoTIFF and ECW, among others. So, "
+"what we wanted was to have all this information available, organized and in "
+"a common format with the purpose of being able to provide and display it "
+"over the Internet."
+msgstr "वर्षानुवर्षे संस्थेने एसएचपी, डीडब्ल्यूजी, डीएक्सएफ, जिओटीआयएफएफ आणि ईसीडब्ल्यू अशा अनेक स्वरूपात बरीच माहिती जमा केली आहे. तर, आम्हाला जे हवे होते ते इंटरनेटवर उपलब्ध करुन देण्यात आणि प्रदर्शित करण्याच्या उद्देशाने ही सर्व माहिती उपलब्ध, संयोजित आणि सामान्य स्वरूपात असणे आवश्यक आहे."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:21
+msgid "Connecting to the Spatial Data Infrastructure with WMS"
+msgstr "स्थानिक डेटा इन्फ्रास्ट्रक्चरला डब्ल्यूएमएससह कनेक्ट करत आहे"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:23
+msgid ""
+"That's how it was developed the Sistema de Información Territorial Estatal "
+"en Línea, with the main target to build a spatial data infrastructure which "
+"allows our government agencies to share this kind of information to be "
+"included in their own projects as health, security or mobility."
+msgstr "अशाच प्रकारे सिस्टेमा दे इन्फॉर्मेशन टेरिटोरियल एस्टॅटल एन लॅनिया विकसित केले गेले, ज्यामध्ये स्थानिक डेटा इन्फ्रास्ट्रक्चर तयार करण्याचे मुख्य लक्ष्य आहे जे आमच्या सरकारी एजन्सीना त्यांच्या आरोग्य, सुरक्षा किंवा गतिशीलता यासारख्या प्रकल्पांमध्ये या प्रकारची माहिती सामायिक करू देते."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:26
+msgid "Decision for QGIS"
+msgstr "QGIS साठी निर्णय"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:28
+msgid ""
+"I decided to use Mapserver and PostgreSQL with PostGIS extension to be able "
+"to deliver our satellite imagery, orthopothos, digital elevation models and "
+"vector information with Web Map Services, thinking that any application will"
+" consume our services. But the problem was that many of the commercial and "
+"free applications don’t work with OGC standards, specially with WFS. After "
+"exploring many geographic information systems, I realized that QGIS was the "
+"only one which can connect to WMS, WCS and WFS successfully."
+msgstr "कोणतीही अ‍ॅप्लिकेशन आमच्या सेवांचा वापर करेल याचा विचार करून वेबसिॅप सेवांसह आमची उपग्रह प्रतिमा, ऑर्थोपोथोस, डिजिटल एलिव्हेशन मॉडेल्स आणि वेक्टर माहिती वितरित करण्यात सक्षम होण्यासाठी आम्ही पोस्टजीआयएस विस्तारासह मॅपसर्व्हर आणि पोस्टग्रेएसक्यूएल वापरण्याचे ठरविले. परंतु समस्या अशी होती की बर्‍याच व्यावसायिक आणि विनामूल्य अनुप्रयोग ओजीसी मानकांवर कार्य करत नाहीत, विशेषत: डब्ल्यूएफएस. बर्‍याच भौगोलिक माहिती प्रणालींचा शोध घेतल्यानंतर मला समजले की डब्ल्यूएमएस, डब्ल्यूसीएस आणि डब्ल्यूएफएसशी यशस्वीपणे कनेक्ट होऊ शकणारी क्यूजीआयएस ही एकमेव आहे."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:31
+msgid "What we use QGIS for"
+msgstr "आम्ही कशासाठी QGIS वापरतो"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:33
+msgid ""
+"Internally, we use QGIS to check the raster and vector data of the agencies "
+"before publishing it, and after its integration, we used it again to test "
+"the Web services that we’ve created. Also, we have done many spatial "
+"analysis with QGIS pulling the data directly from our PostgreSQL spatial "
+"database, then, we export the results as shape files."
+msgstr "अंतर्गत, आम्ही एजन्सीस प्रकाशित करण्यापूर्वी रास्टर आणि वेक्टर डेटा तपासण्यासाठी क्यूजीआयएस वापरतो आणि त्याचे एकत्रीकरण झाल्यानंतर आम्ही पुन्हा तयार केलेल्या वेब सेवांची चाचणी घेण्यासाठी त्याचा वापर केला. तसेच, आम्ही आमच्या पोस्टग्रेएसक्यूएल स्थानिक डेटाबेसमधून थेट डेटा खेचण्यासाठी क्यूजीआयएस सह बरेच अवकाशीय विश्लेषण केले आहे, त्यानंतर आम्ही आकार फाईल्सच्या रुपात निर्यात करतो."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:40
+msgid "Connecting to the Spatial Data Infrastructure with WFS"
+msgstr "स्थानिक डेटा इन्फ्रास्ट्रक्चरला डब्ल्यूएफएससह कनेक्ट करत आहे"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:42
+msgid ""
+"We’re encouraging our users to download QGIS and link directly with our "
+"Sistema de Información Territorial Estatal en Línea, mainly because it fully"
+" supports OGC standards and has many interesting features like geoprocessing"
+" tools, which allow them to make analysis of their interest, and all this "
+"absolutely for free."
+msgstr "आम्ही आमच्या वापरकर्त्यांना क्यूजीआयएस डाउनलोड करण्यास प्रोत्साहित करीत आहोत आणि थेट आमच्या सिस्टेमा डी इनफॉर्मिशियन टेरिटोरियल एस्टॅटल एन लॅनिआशी दुवा साधू कारण प्रामुख्याने हे ओजीसी मानदंडांचे पूर्ण समर्थन करते आणि जिओप्रोसेसिंग साधनांसारखी अनेक मनोरंजक वैशिष्ट्ये आहेत ज्यामुळे त्यांना त्यांच्या स्वारस्याचे विश्लेषण करण्यास अनुमती मिळते आणि सर्व हे अगदी विनामूल्य."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:45
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:47
+msgid ""
+"This project understood as the technological component of a Spatial Data "
+"Infrastructure, has been considered as a PostGIS case study, and I have to "
+"say that working with open source in all of our system’s cycle, has been "
+"satisfactory and trustworthy, the best choice that we have found to share "
+"our geographic information."
+msgstr "हा प्रकल्प स्थानिक डेटा इन्फ्रास्ट्रक्चरचा तांत्रिक घटक म्हणून समजला जाणारा, पोस्टजीआयएस केस स्टडी म्हणून विचारात घेण्यात आला आहे आणि मला असे म्हणायचे आहे की आपल्या सिस्टमच्या सर्व चक्रात मुक्त स्त्रोतासह कार्य करणे समाधानकारक आणि विश्वासार्ह आहे, ही आमच्यासाठी सर्वात चांगली निवड आहे आमच्या भौगोलिक माहिती सामायिक असल्याचे आढळले आहे."
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:50
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:57
+msgid "Carlos Ruiz"
+msgstr "कार्लोस रुईझ"
+
+#: ../../source/site/about/case_studies/mexico_jalisco.rst:59
+msgid ""
+"This article was contributed in July 2010 by IC Carlos Ruiz. He works as "
+"project's coordinator at the Instituto de Información Territorial del Estado"
+" de Jalisco, Mexico."
+msgstr "आयसी कार्लोस रुईझ यांनी जुलै 2010 मध्ये या लेखाचे योगदान दिले होते. तो मेक्सिकोमधील इन्स्टिट्युटो डे इंफॉर्मेशन टेरिटोरियल डेल एस्टॅडो डे जॅलिसको येथे प्रकल्प समन्वयक म्हणून काम करतो."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

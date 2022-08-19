@@ -1,0 +1,143 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:3
+msgid "Lyon, april 2012"
+msgstr "Ліон, квітень 2012"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:6
+msgid "Finances"
+msgstr "Фінанси"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:9
+msgid "Situation"
+msgstr "Стан"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:11
+msgid "finances moved from **GFOSS.it** to **QGIS-CH**"
+msgstr "Управління фінансами перейшло від **GFOSS.it** до **QGIS-CH**"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:12
+msgid "income 2011"
+msgstr "Прибуток у 2011"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:14
+msgid "donation & sponsor  17,000 € (avg 219 €, median 33 €, stdev 730 €)"
+msgstr "Пожертви та спонсорська підтримка 17000 € (середнє 219 €, медіана 33 €, станд. відхилення 730 €)"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:18
+msgid "expenses"
+msgstr "Витрати"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:20
+msgid "HF"
+msgstr "Хакфести"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:22
+msgid "2011 Lisbon       4,400 €"
+msgstr "2011 Лісабон       4400 €"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:23
+msgid "2011 Zuerich      6,400 €"
+msgstr "2011 Цюрих      6400 €"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:24
+msgid "2012 Lyon (?)     7,500 €"
+msgstr "2012 Ліон (?)     7500 €"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:26
+msgid "Japanese gold sponsor"
+msgstr "Золотий спонсор з Японії"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:29
+msgid "Problems"
+msgstr "Проблеми"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:31
+msgid "costs are rising more than incomes"
+msgstr "витрати зростають швидше за прибуток"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:33
+msgid "still positive balance though"
+msgstr "однак баланс поки залишається позитивним"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:35
+msgid "handling of donations cumbersome (by hand)"
+msgstr "обробка пожертв досить складна (виконується в ручному режимі)"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:36
+msgid "accounting is more complex than we would like"
+msgstr "облік коштів складніших ніж хотілося б"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:38
+msgid "some of the expenses are paid directly by local sponsors"
+msgstr "деякі витрати оплачуються місцевими спонсорами напряму"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:40
+msgid "fiscal requests: sponsoring receipt for tax office"
+msgstr "податкові запити: квитанція про отримання спонсорської допомоги для податкової інспекції"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:43
+msgid "Proposals"
+msgstr "Пропозиції"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:45
+msgid "split the functions of Treasurer (Horst) and PSC"
+msgstr "розділити обов'язки скарбника (Horst) та PSC"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:47
+msgid "more formal annual and HF budgets"
+msgstr "формалізувати річний бюджет та витрати на хакфести"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:49
+msgid "automatic handling of donations, e.g."
+msgstr "автоматична обробка пожертв, наприклад за допомогою:"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:51
+msgid "http://www-old.gnome.org/friends/"
+msgstr "http://www-old.gnome.org/friends/"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:52
+msgid "http://documentfreedom.org/donate/"
+msgstr "http://documentfreedom.org/donate/"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:54
+msgid "*QGIS friendly* courses"
+msgstr "курси, *дружні до QGIS*"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:55
+msgid "money from OSGEO (GSoC)?"
+msgstr "кошти від OSGeo (GSoC)?"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:56
+msgid "from Otto: a wiki page with:"
+msgstr "Otto зголосився створити wiki-сторінку з інформацією про:"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:58
+msgid "tasks"
+msgstr "задачі"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:59
+msgid "developer (with contact address)"
+msgstr "розробника (включаючи контактні дані)"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:60
+msgid "amount requested"
+msgstr "запитувану суму"
+
+#: ../../source/site/getinvolved/governance/developer_meetings/lyon_finances_report.rst:61
+msgid "list of people willing to donate"
+msgstr "список людей, що бажають взяти участь у фінансуванні"

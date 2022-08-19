@@ -1,0 +1,155 @@
+# 
+# Translators:
+# KIG Team <info@khagolam.com>, 2017
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:3
+msgid "Producing an arcHYDRO like output with QGIS"
+msgstr "आर्कहायड्रो तयार करणे जसे की QGIS सह आउटपुट"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:5
+msgid ""
+"I work for a urban planning company in China.  It is often difficult to "
+"design proper environmental protection because the common sources of data "
+"may be a state secret or may not even exist.  Frequently, we are asked to do"
+" designs without proper survey data.   In addition there is usually not "
+"enough time for a proper study.  My background is in Urban Planning with a "
+"minor in Environmental Science."
+msgstr "मी चीनमधील शहरी नियोजन कंपनीत काम करतो. योग्य पर्यावरणीय संरक्षणाचे डिझाइन करणे बर्‍याच वेळा अवघड असते कारण डेटाचे सामान्य स्त्रोत हे राज्य गुपित असू शकतात किंवा अस्तित्वातही नसतात. वारंवार, आम्हाला योग्य सर्वेक्षण डेटाशिवाय डिझाईन्स करण्यास सांगितले जाते. याव्यतिरिक्त योग्य अभ्यासासाठी सहसा पुरेसा वेळ नसतो. माझी पार्श्वभूमी पर्यावरणशास्त्रातील अल्पवयीन असलेल्या शहरी नियोजनात आहे."
+
+msgid "Overview Context Map"
+msgstr ""
+
+#: ../../source/site/about/case_studies/china_hydro.rst:14
+#, python-format
+msgid ""
+"The task was plan a conservation park on the Chinese side of the Ili River "
+"which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
+"FOSS GIS data stores + FOSS GIS education were all critical to reconstruct "
+"and model the Hydrological and Ecological processes necessary for authentic "
+"conservation planning.  As a non-scientist with no prior training or "
+"experience I could not have done it without all three.  My company did not "
+"and would not pay to purchase GIS software to run the industry standard "
+"arcHYDRO."
+msgstr "इलि नदीच्या काठावर चिल्लक बाजूने संरक्षण उद्यानाची योजना आखण्यात आली होती ज्यामुळे बलखश तलावाला 80०% पाणीपुरवठा होतो. एफओएसएस जीआयएस अनुप्रयोग + फॉस जीआयएस डेटा स्टोअर्स + एफओएसएस जीआयएस एज्युकेशन अस्सल संवर्धन नियोजनासाठी आवश्यक जलविज्ञान आणि पर्यावरणीय प्रक्रियेचे पुनर्रचना आणि मॉडेल तयार करणे सर्व गंभीर होते. पूर्वीचे प्रशिक्षण किंवा अनुभव नसलेले वैज्ञानिक म्हणून मी हे सर्व तिन्ही केल्याशिवाय करता आले नाही. माझ्या कंपनीने उद्योग मानक आर्कीहायड्रो चालविण्यासाठी जीआयएस सॉफ्टवेअर खरेदी करण्यासाठी पैसे दिले नाहीत आणि दिले नाहीत."
+
+msgid "Stream Order With Distance"
+msgstr ""
+
+#: ../../source/site/about/case_studies/china_hydro.rst:22
+msgid "Story"
+msgstr "कथा"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:24
+msgid ""
+"With some trial and error I was able to produce an arcHYDRO like output from"
+" QGIS.  Beginning with a USGS Hydrosheds DEM which was converted into a "
+"Regularized Spline with Tension using the GRASS functions inside QGIS and "
+"training by Helena Mitsova.  The RST surface was analyzed this surface to "
+"find the catchments and flow paths, and resulting vector topologies were "
+"cleaned up in QGIS to generate the Hydrologic network and also to build up "
+"the attribute tables."
+msgstr "काही चाचणी आणि त्रुटीमुळे मी QGIS कडील आउटपुट सारखे आर्केहायड्रो तयार करण्यास सक्षम होतो. यूएसजीएस हायड्रोशेड्स डीईएमपासून सुरूवात केली जी क्यूजीआयएस अंतर्गत जीआरएसएस कार्ये आणि हेलेना मिटसोवाद्वारे प्रशिक्षण वापरुन टेंशनसह नियमित स्प्लिनमध्ये रूपांतरित केली गेली. आरएसटी पृष्ठभागाचे जलग्रहण आणि प्रवाह पथ शोधण्यासाठी या पृष्ठभागाचे विश्लेषण केले गेले आणि परिणामी वेक्टर टोपोलॉजी हायड्रोलॉजिक नेटवर्क तयार करण्यासाठी आणि विशेषता सारण्या तयार करण्यासाठी क्यूजीआयएस मध्ये साफ केल्या गेल्या."
+
+msgid "Curve Number Grid"
+msgstr ""
+
+#: ../../source/site/about/case_studies/china_hydro.rst:31
+msgid ""
+"This network was ranked by r.stream extension in GRASS to build Hortons and "
+"Hacks stream ordering.  Then a distance to outlet surface grid was generated"
+" and analyzed by zonal statistics to find the farthest point.  Next, r.drain"
+" in GRASS to trace a time of concentration line.  Finally v.net in GRASS was"
+" used to build a network of pour points, flow paths, TOC paths, and HMDP for"
+" each watershed.  In this workflow, the QGIS tool attribute by location was "
+"invaluable."
+msgstr "या नेटवर्कला हॉर्टन्स आणि हॅक्स स्ट्रीम ऑर्डर तयार करण्यासाठी ग्रॅसमध्ये आर.स्ट्रीम विस्ताराने क्रमांकाचे स्थान देण्यात आले. त्यानंतर आऊटलेट पृष्ठभाग ग्रीडपासून दूर अंतराचा बिंदू शोधण्यासाठी विभागीय आकडेवारीद्वारे विश्लेषण आणि विश्लेषण केले गेले. पुढे, एकाग्रता रेषेचा समय शोधण्यासाठी ग्रॅसमध्ये आर.ड्रेन. अखेरीस ग्रास मधील व्ही.नेट प्रत्येक वॉटरशेडसाठी ओत बिंदू, प्रवाह पथ, टीओसी पथ आणि एचएमडीपीचे नेटवर्क तयार करण्यासाठी वापरले गेले. या कार्यप्रवाहात, स्थानानुसार QGIS साधन गुण अनमोल होते."
+
+msgid "Flow Key"
+msgstr ""
+
+#: ../../source/site/about/case_studies/china_hydro.rst:38
+msgid ""
+"After the basic hydrologic network was finished I used UN FAO soils database"
+" with table joins to classify soils.  Then using query functions in QGIS the"
+" FAO soils were converted to USDA soils.  A previously downloaded USGS ETM7+"
+" grid was classified with the i.cluser and r.maxlik in GRASS into a NLCD "
+"grid.  By using reclassification tables I converted the landcover to "
+"Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
+" r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
+" numbers following the arcHYDRO methodology."
+msgstr "मूलभूत हायड्रोलॉजिक नेटवर्क संपल्यानंतर मी मातीचे वर्गीकरण करण्यासाठी सारणीसह युएन एफएओ मातीचा डेटाबेस वापरला. मग क्यूजीआयएस मधील क्वेरी फंक्शन्सचा वापर करून एफएओ माती यूएसडीए मातीत रूपांतरित केली गेली. पूर्वी डाउनलोड केलेल्या यूएसजीएस ईटीएम 7 + ग्रिडचे एनआरसीडी ग्रिडमध्ये ग्रॅस मधील आयक्लूझर आणि आर.मैक्सलिक सह वर्गीकरण केले गेले होते. पुनर्वर्गीकरण सारण्यांचा वापर करून मी लँडकोव्हरला मॅनिंगच्या एन-व्हॅल्यू ग्रिडमध्ये ओव्हरलँड प्रवाहासाठी रुपांतरित केले. शेवटी मी आर.मैपॅकॅल्कमध्ये एक लुकअप टेबल लिहिले आणि आर्किहायड्रो पद्धतीनुसार माती आणि लँडकोव्हर ग्रीड्स आणि एनआरसीएस टीआर -55 वक्र संख्यांमध्ये विलीन केले."
+
+msgid "Flow rates"
+msgstr ""
+
+#: ../../source/site/about/case_studies/china_hydro.rst:45
+msgid ""
+"To create the rainfall grids I performed statistical analysis on GHCN tables"
+" to find rainfall depths for design storms of 1,2,5,10,50,100 year returns. "
+"Then I downloaded a free sample grid of PRISM for China and assuming a "
+"linear relationship, converted average cell values to maximum cell values in"
+" order to build maximum rainfall intensity grids."
+msgstr "पर्जन्यमान ग्रीड तयार करण्यासाठी मी 1,2,5,10,50,100 वर्षाच्या रिटर्नच्या वादळांची पावसाची खोली शोधण्यासाठी जीएचसीएन टेबल्सवर सांख्यिकीय विश्लेषण केले. मग मी चीनसाठी PRISM चा विनामूल्य नमुना ग्रीड डाउनलोड केला आणि एक रेषेचा नाते गृहित धरुन जास्तीत जास्त पावसाची तीव्रता ग्रीड तयार करण्यासाठी सरासरी सेल मूल्ये जास्तीत जास्त सेल मूल्यांमध्ये रूपांतरित केली."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:48
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:50
+msgid ""
+"I began using QGIS out of desperation for lack of arcMAP but now I never "
+"want to go back.  The investment of time in FOSS is worthwhile because you "
+"can take it with you to any job.  The combination of GRASS QGIS PostGIS "
+"gives you the full functionality of expensive GIS systems.   The online "
+"learning resources provided were as valuable as the actual software.  I was "
+"able to learn QGIS fast enough to produce a great project in a fast based "
+"real world industry environment."
+msgstr "आर्कमैपच्या अभावामुळे मी निराशेच्या बाहेर क्यूजीआयएस वापरण्यास सुरवात केली पण आता मला परत कधीही जायचे नाही. एफओएसएसमधील वेळेची गुंतवणूक फायदेशीर आहे कारण आपण त्यास आपल्याकडे कोणत्याही नोकरीसाठी घेऊन जाऊ शकता. ग्रॅस क्यूजीआयएस पोस्टजीआयएसचे संयोजन आपल्याला महागड्या जीआयएस सिस्टमची संपूर्ण कार्यक्षमता देते. प्रदान केलेली ऑनलाइन शिक्षण संसाधने वास्तविक सॉफ्टवेअरइतकीच मौल्यवान होती. वेगवान आधारित वास्तविक जागतिक उद्योग वातावरणात एक चांगला प्रकल्प तयार करण्यासाठी मी क्यूजीआयएस द्रुतपणे शिकू शकलो."
+
+#: ../../source/site/about/case_studies/china_hydro.rst:53
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:60
+msgid "Robert Ward"
+msgstr "रॉबर्ट वार्ड"
+
+#: ../../source/site/about/case_studies/china_hydro.rst:62
+msgid ""
+"Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "
+"working at the intersection of high technology and high art.  He has taught "
+"at Tongji University and Autodesk University.  He is interested in GIS-based"
+" Hydrologic & Hydraulic modelling, Landscape Ecology modelling, Ecosystem "
+"Valuation, Transportation Modelling and GIS-Based Design Visualization."
+msgstr "रॉबर्ट वार्ड उच्च तंत्रज्ञान आणि उच्च कलेच्या छेदनबिंदू येथे कार्यरत पार्सन ब्रिंकरहॉफ येथे अर्बन डिझायनर आणि जीआयएस विश्लेषक आहेत. तो टोंजी विद्यापीठ आणि ऑटोडेस्क विद्यापीठात शिकविला आहे. त्याला जीआयएस-आधारित हायड्रोलॉजिक आणि हायड्रॉलिक मॉडेलिंग, लँडस्केप इकोलॉजी मॉडेलिंग, इकोसिस्टम व्हॅल्यूएशन, ट्रान्सपोर्टेशन मॉडेलिंग आणि जीआयएस-आधारित डिझाइन व्हिज्युअलायझेशनमध्ये रस आहे."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "Robert Ward is an Urban Designer and GIS Analyst at Parsons Brinkerhoff "
+#~ "working at the intersection of high technology and high art.  He has taught "
+#~ "at Tongji University and Autodesk University.  He is interested in GIS-based"
+#~ " Hydrologic & Hydrualic modelling, Landscape Ecology modelling, Ecosystem "
+#~ "Valuation, Transportation Modelling and GIS-Based Design Visualization."
+#~ msgstr ""

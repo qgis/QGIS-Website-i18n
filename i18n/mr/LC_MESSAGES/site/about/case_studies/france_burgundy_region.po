@@ -1,0 +1,214 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-10-13 18:59+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:3
+msgid "The Burgundy Historical Landscapes Working Group"
+msgstr "बरगंडी ऐतिहासिक भूदृश्य कार्यरत कार्य गट"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:5
+msgid ""
+"An interdisciplinary group of researchers based at the University of North "
+"Carolina have been working in the Burgundy region of France for over 30 "
+"years. We are trying to understand the changing patterns of human settlement"
+" and land use over a period of 2,000 years from the Iron Age, Gallo-Roman, "
+"Medieval periods into the present.  Our project has included a wide variety "
+"of disciplinary researchers, and part of our project includes how to conduct"
+" such long-duration interdisciplinary research activities. GIS, GPS and "
+"remote sensing have been integral to our work, and our GIS database was "
+"first created in 1986, one of the first such archaeological applications.  "
+"We have done archaeological, historical, geological, ecological, and "
+"ethnographic research in the area surrounding the commune of Uxeau, in "
+"Southern Burgundy, which is a rich and resilient landscape that has "
+"maintained productivity and stability for an extended period."
+msgstr "नॉर्थ कॅरोलिना युनिव्हर्सिटी येथे स्थित संशोधकांचा अंतःविषय गट 30 वर्षांहून अधिक काळापासून फ्रान्सच्या बरगंडी प्रदेशात कार्यरत आहे. लोह युग, गॅलो-रोमन, मध्ययुगीन काळापासून आतापर्यंतच्या 2000 वर्षांच्या कालावधीत मानवी वस्ती आणि जमीन वापराच्या बदलत्या पद्धती समजून घेण्याचा आम्ही प्रयत्न करीत आहोत. आमच्या प्रकल्पात विविध प्रकारच्या शिस्तबद्ध संशोधकांचा समावेश आहे आणि आमच्या प्रकल्पात अशा दीर्घ-कालावधीसाठी अंतर्गत अनुशासनात्मक संशोधन उपक्रम कसे चालवायचे याचा समावेश आहे. जीआयएस, जीपीएस आणि रिमोट सेन्सिंग आमच्या कामासाठी अविभाज्य आहेत आणि आमचा जीआयएस डेटाबेस 1986 मध्ये प्रथम तयार केला गेला, अशा पहिल्या पुरातत्व अनुप्रयोगांपैकी एक आहे. दक्षिणेकडील बरगंडी मधील उक्सीओच्या समुदायाच्या आसपासच्या भागात आम्ही पुरातत्व, ऐतिहासिक, भूगर्भीय, पर्यावरणीय आणि नृवंशविज्ञान संशोधन केले आहे, जो समृद्ध आणि लवचिक लँडस्केप आहे ज्याने विस्तारित कालावधीसाठी उत्पादकता आणि स्थिरता राखली आहे."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:12
+msgid ""
+"Our research area in Southern Burgundy, France. This research was done in "
+"and around the commune of Uxeau, shown at center right."
+msgstr "फ्रान्समधील दक्षिणी बरगंडी मधील आमचे संशोधन क्षेत्र. हे संशोधन उजव्या मध्यभागी दर्शविलेल्या उक्सिओच्या प्रवासामध्ये आणि आसपास केले गेले."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:16
+msgid "Our Project and how QGIS is used"
+msgstr "आमचा प्रकल्प आणि क्यूजीआयएस कसा वापरला जातो"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:18
+msgid ""
+"Our research, organized by the theoretical framework of Historical Ecology, "
+"centers on the interaction of people, their societies, natural and built "
+"environments, and how these have changed over time. Using a collection of "
+"historical maps of the area dating back to 1659, we have scanned, digitized "
+"and extracted features for a total of 21 maps into our extensive project GIS"
+" database. Features in our database include land cover (forest, vineyards, "
+"pasture and agriculturecropland), ponds and streams, mills, roads and "
+"buildings from these different dates, where possible. We also have cadastral"
+" parcel data from 1834, 1964 and 2012, giving us detailed data on changing "
+"patterns of detailed land use for the commune of Uxeau (see location in "
+"Figure 1). Our project is interdisciplinary, and we have conduced extensive "
+"field surveys, oral history and ethnographic interviews, documentary "
+"research in various librariesarchives, and geological and ecological "
+"analysis (see Figure 3)."
+msgstr "आमचे संशोधन, ऐतिहासिक पर्यावरणशास्त्र च्या सैद्धांतिक चौकटीद्वारे आयोजित केलेले, लोक, त्यांचे समाज, नैसर्गिक आणि अंगभूत वातावरण आणि या काळामध्ये हे कसे बदलले आहेत यावर संवाद साधते. १59 to to पर्यंतचा परिसरातील ऐतिहासिक नकाशांचा संग्रह वापरुन, आम्ही आमच्या विस्तृत प्रकल्प जीआयएस डेटाबेसमध्ये एकूण २१ नकाशेांसाठी स्कॅन, डिजिटलाइझ आणि वैशिष्ट्ये मिळविली आहेत. आमच्या डेटाबेसमधील वैशिष्ट्यांमध्ये जमीन कव्हर (जंगल, द्राक्ष बाग, कुरण आणि शेती क्रॉपलँड), तलाव आणि नाले, गिरण्या, रस्ते आणि या शक्य त्या तारखांमधील इमारती समाविष्ट आहेत. आमच्याकडे 1834, 1964 आणि 2012 मधील कॅडस्ट्रल पार्सल डेटा देखील आहे, जो आम्हाला उक्सीओच्या प्रवासासाठी जमीन वापरण्याच्या विस्तृत नमुना बदलण्याची पद्धत दर्शवितो (आकृती 1 मधील स्थान पहा). आमचा प्रकल्प अंतःविषयविषयक आहे, आणि आम्ही विस्तृत फील्ड सर्व्हे, तोंडी इतिहास आणि एथनोग्राफिक मुलाखती, विविध ग्रंथालयशास्त्रामधील माहितीपट संशोधन आणि भौगोलिक आणि पर्यावरणीय विश्लेषण (आकृती 3 पहा) सोडले आहेत."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:20
+msgid ""
+"An important feature of this landscape is water, and that is one of the "
+"fociuses of our current research. The area is interlaced with streams that "
+"have been dammed to form ponds, many dating to at least the middle ages. The"
+" creation and maintenance of these ponds with their earthen dams required a "
+"great deal of labor and expense. Our research has shown that these man-made "
+"ponds were used to water livestock, raise fish for domestic consumption and "
+"sale, launder clothing, soak hemp for processing, and for recreation. One of"
+" the most important functions of ponds in the past was to run mills, "
+"primarily for grinding grain, but also for pressing oil and cutting lumber. "
+"Many of these mills have disappeared and many of the surviving mill "
+"buildings are endangered due to neglect or redevelopment. Our recent field "
+"survey of ponds and mill sites identified from the historical maps was "
+"designed to document the remaining pond and mill sites, verify our "
+"historical data, test new GIS and GPS technologies, and better understand "
+"the conditions and changing function of these features in the present "
+"economy."
+msgstr "या लँडस्केपचे एक महत्त्वाचे वैशिष्ट्य म्हणजे पाणी, आणि हे आपल्या सध्याच्या संशोधनाचे मुख्य केंद्र आहे. हा परिसर तलावांच्या निर्मितीसाठी धरणातील नदींसह गुंडाळलेला आहे, कित्येक मध्यम वयोगटातील आहेत. या मातीच्या धरणांसह या तलावांची निर्मिती व देखभाल करण्यासाठी मोठ्या प्रमाणात श्रम व खर्चाची आवश्यकता होती. आमच्या संशोधनात असे दिसून आले आहे की या मानवनिर्मित तलावांचा उपयोग पाळीव जनावरांना पाणी देण्यासाठी, घरगुती वापरासाठी आणि विक्रीसाठी मासे गोळा करण्यासाठी, कपड्यांना लुटण्यासाठी, प्रक्रियेसाठी भोपळा, आणि करमणुकीसाठी करण्यात आला. पूर्वीच्या तलावाचे सर्वात महत्त्वाचे कार्य म्हणजे गिरणी चालवणे म्हणजे मुख्यत: धान्य पीसणे, परंतु तेल दाबून आणि लाकूड तोडणे यासाठी. यापैकी अनेक गिरण्या गायब झाल्या आहेत आणि दुर्लक्ष झाल्याने किंवा पुनर्विकासामुळे जिवंत राहिलेल्या गिरणी इमारती धोक्यात आल्या आहेत. ऐतिहासिक नकाशेमधून ओळखले गेलेले तलाव आणि गिरणी साइटचे आमचे अलीकडील फील्ड सर्वेक्षण उर्वरित तलाव आणि गिरणी साइटचे दस्तऐवज तयार करण्यासाठी, आमच्या ऐतिहासिक डेटाची पडताळणी करण्यासाठी, नवीन जीआयएस आणि जीपीएस तंत्रज्ञानाची चाचणी घेण्यासाठी आणि त्यामधील परिस्थिती आणि त्यातील कार्यक्षमता बदलण्याची कार्यप्रणाली चांगल्या प्रकारे समजून घेण्यासाठी डिझाइन केलेले आहे. सध्याची अर्थव्यवस्था."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:22
+msgid ""
+"Our field surveys included assessing, videoing and photographing these "
+"sites, verifying their location by taking GPS points and, through the use of"
+" our Garmin GPS, to align historical maps with the present landscape (see "
+"Figure 2). We also conducted interviews with some of the present owners of "
+"pond and mill sites. Our work has documented 52 ponds and 27 mills in the "
+"region."
+msgstr "आमच्या फील्ड सर्व्हेमध्ये या साइट्सचे मूल्यांकन करणे, व्हिडीओ करणे आणि फोटो काढणे, जीपीएस पॉईंट्स घेऊन त्यांचे स्थान सत्यापित करणे आणि आमच्या गार्मीन जीपीएसच्या सहाय्याने, सध्याच्या लँडस्केपसह ऐतिहासिक नकाशे संरेखित करण्यासाठी (आकृती 2) समाविष्ट आहे. आम्ही तलाव आणि गिरणी साइटच्या उपस्थित काही मालकांची मुलाखतही घेतली. आमच्या कामात या प्रदेशातील 52 तलाव आणि 27 गिरण्यांचे दस्तऐवजीकरण केले आहे."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:24
+msgid ""
+"The data and types of analyses we are currently using to study this complex "
+"landscape include a series of maps ranging in date from 1759 to 2012, which "
+"are integrated within our larger GIS database, historical records such as "
+"cadastral tax records, agricultural reports, and population data from "
+"censuses and parish/civil registers, environmental data from ponds (pollen, "
+"sediment geochemistry, grain size, stable isotopes), and oral "
+"history/ethnographic interviews with local rural inhabitants."
+msgstr "या गुंतागुंतीच्या लँडस्केपचा अभ्यास करण्यासाठी आपण सध्या वापरत असलेल्या डेटा आणि विश्लेषणाच्या प्रकारांमध्ये 1759 ते 2012 या कालावधीतील नकाशांच्या मालिकेचा समावेश आहे, जो आमच्या मोठ्या जीआयएस डेटाबेसमध्ये एकत्रित केला गेला आहे, कॅडस्ट्रल टॅक्स रेकॉर्ड, शेती अहवाल आणि लोकसंख्या यासारख्या ऐतिहासिक नोंदी जनगणना आणि तेथील रहिवासी / नागरी नोंदी, तलावांमधील पर्यावरणीय डेटा (परागकण, गाळा भू-रसायनशास्त्र, धान्याचे आकार, स्थिर समस्थानिक) आणि स्थानिक ग्रामीण रहिवाशांशी तोंडी इतिहास / वांशिक मुलाखती."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:31
+msgid ""
+"A view of our project QGIS database. At right is the eVis GPS ground photo "
+"and data of a recently drained pond dating back at least to 1834. In the GIS"
+" image at center top you can see the location of the pond as a yellow dot. "
+"Red dots show other eVis ground photos of mills and other historical or "
+"archaeological sites."
+msgstr "आमच्या प्रोजेक्ट QGIS डेटाबेसचे दृश्य. उजवीकडील ईव्हीएस जीपीएस ग्राऊंड फोटो आणि नुकत्याच निचरा झालेल्या तलावाचा डेटा आहे जो 1834 पर्यंत परत आला आहे. मध्यभागी असलेल्या जीआयएस प्रतिमेमध्ये आपण तलावाचे स्थान पिवळ्या ठिपके म्हणून पाहू शकता. लाल ठिपके गिरणी आणि इतर ऐतिहासिक किंवा पुरातत्व साइटचे इतर ईव्ही ग्राऊंड फोटो दर्शवतात."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:34
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:36
+msgid ""
+"Our project started using GRASS in 1986, and has continued to use this, as "
+"well as commercial ArcGIS and a variety of other tools such as Photoshop, "
+"Garmin’s BaseCamp, eVis and others. With many collaborators at various "
+"institutions in the US and Europe, and graduate students coming and going, "
+"using free and open source tools makes a lot of sense. We have found that "
+"the combination of QGIS and GRASS provides capable data analysis and "
+"visualization, ease of use, interoperability, and portability for our "
+"project. Archaeologists have had a strong presence in the GRASS and open "
+"source GIS communities for many years, and have contributed much to this "
+"important effort, developing and sharing many capabilities. I have taught "
+"several 4-day QGIS/GRASS/R short courses in France over the years, sharing "
+"these tools with many archaeologists from throughout France."
+msgstr "आमच्या प्रकल्पाने 1986 मध्ये ग्रास वापरणे सुरू केले आणि याचा वापर चालूच ठेवला आहे, तसेच व्यावसायिक आर्कजीआयएस आणि इतर अनेक साधने जसे की फोटोशॉप, गार्मीनचा बेसकॅम्प, ईव्हीस आणि इतर. अमेरिका आणि युरोपमधील विविध संस्थांमधील बर्‍याच सहयोगींसह आणि पदवीधर विद्यार्थी येत-जात आहेत, विनामूल्य आणि मुक्त स्त्रोत उपकरणे वापरल्याने बरेच अर्थ प्राप्त होते. आम्हाला आढळले आहे की क्यूजीआयएस आणि जीआरएसएसएस यांचे संयोजन आमच्या डेटासाठी सक्षम डेटा विश्लेषण आणि व्हिज्युअलायझेशन, वापर सुलभता, इंटरऑपरेबिलिटी आणि पोर्टेबिलिटी प्रदान करते. पुरातत्वशास्त्रज्ञांनी बर्‍याच वर्षांपासून ग्रॉस आणि ओपन सोर्स जीआयएस समुदायांमध्ये मजबूत उपस्थिती दर्शविली आहे आणि बर्‍याच क्षमता विकसित आणि सामायिक केल्याने या महत्त्वपूर्ण प्रयत्नांमध्ये बरेच योगदान दिले आहे. फ्रान्समध्ये मी बर्‍याच दिवसांत कित्येक 4-दिवसीय QGIS / GRASS / R लघु कोर्स शिकवले आहेत आणि ही साधने संपूर्ण फ्रान्समधील अनेक पुरातत्वशास्त्रज्ञांसह सामायिक केली आहेत."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:38
+msgid ""
+"Our research will continue to explore the long-term history of the "
+"inhabitants’ relationship with this landscape and we will expand our work "
+"beyond our current focus on mills and ponds to include changing patterns of "
+"forests, pastures and meadows, croplands and former vineyards in the area."
+msgstr "आमचे संशोधन या लँडस्केपशी रहिवाशांच्या नात्याच्या दीर्घकालीन इतिहासाचे अन्वेषण करत राहील आणि आम्ही जंगले, कुरण आणि कुरण, पिके आणि पूर्वीच्या द्राक्ष बागांचे बदलते नमुने समाविष्ट करण्यासाठी गिरणी आणि तलावावरील आमच्या सध्याच्या फोकसच्या पलीकडे आपले कार्य वाढवू. क्षेत्र."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:45
+msgid ""
+"From top left going clockwise: Some of the local Charolais cattle, doing "
+"ethnographic interviews with local farmers, a GIS map showing forest change "
+"from 1759 to 1983, and a book of Uxeau 1791 cadastral tax records. In the "
+"center is a color 1759 Cassini map of the area."
+msgstr "वरच्या डावीकडून घड्याळाच्या दिशेनेः स्थानिक चारोलिस गुरे, स्थानिक शेतकर्‍यांशी एथनोग्राफिक मुलाखत घेत आहेत, जीआयएस नकाशा 1759 ते 1983 पर्यंत वन बदल दर्शवितो आणि उक्सिओ 1791 कॅडस्ट्रल टॅक्स रेकॉर्डचे पुस्तक. मध्यभागी या क्षेत्राचा रंग 1759 आहे."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:48
+msgid "Contact"
+msgstr "संपर्क"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:50
+msgid ""
+"Project website: http://burgundylandscapes.com with more information and "
+"online publications."
+msgstr "प्रकल्प वेबसाइट: अधिक माहिती आणि ऑनलाइन प्रकाशनांसह http://burgundylandscapes.com."
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:51
+msgid ""
+"Dr. Scott Madry: http://scottmadry.web.unc.edu or email: madrys ‘at’ "
+"email.unc.edu"
+msgstr "डॉ. स्कॉट मॅड्री: http://scottmadry.web.unc.edu किंवा ईमेल: पाद्री ‘at’ ईमेल.unc.edu"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:54
+msgid "Authors"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:61
+msgid "Jones, Tickner and Madry doing field work"
+msgstr "जोन्स, टिकनर आणि मॅड्री फील्ड वर्क करत आहेत"
+
+#: ../../source/site/about/case_studies/france_burgundy_region.rst:63
+msgid ""
+"This article was contributed in August 2013 by Dr. Scott Madry. He is a "
+"research associate professor in the Curriculum in Archaeology at the "
+"University of North Carolina at Chapel Hill’s Research Laboratories of "
+"Archaeology. He is on the faculty of the International Space University in "
+"Strasbourg, France, and is a chercheur associé du Laboratoire Archéologie et"
+" Territoires de l'UMR 7324 CITERES, Université François-Rabelais/CNRS. This "
+"research project is conducted collaboratively with Dr. Elizabeth A. Jones, "
+"historical anthropologist (UNC), Dr. Amanda B. Tickner, paleoethnobotanist "
+"(UNC) and Dr. D. Seth Murray, ethnographer and oral historian (NCSU)."
+msgstr "डॉ. स्कॉट मॅड्री यांनी ऑगस्ट २०१ in मध्ये या लेखाचे योगदान दिले होते. ते चॅपल हिलच्या पुरातत्वशास्त्रातील संशोधन प्रयोगशाळांमधील विद्यापीठातील उत्तर कॅरोलिना विद्यापीठातील पुरातत्व अभ्यासक्रमात संशोधन सहकारी प्राध्यापक आहेत. तो फ्रान्सच्या स्ट्रासबर्गमधील आंतरराष्ट्रीय अंतराळ विद्यापीठाच्या प्राध्यापकांवर कार्यरत आहे आणि युनिव्हर्सिटी फ्रॅन्टोइस-रॅबेलिस / सीएनआरएस, फ्रान्सियो-आर्बोलॉजी आणि टेरिटॉयर्स डी एलयूएमआर C 73२ C सिटेरिस, चेअर असोसिएशन आहे. हा संशोधन प्रकल्प डॉ. एलिझाबेथ ए जोन्स, ऐतिहासिक मानववंशशास्त्रज्ञ (यूएनसी), डॉ. अमांडा बी. टिकनर, पॅलेओथ्नोबोटेनिस्ट (यूएनसी) आणि डॉ. डी. सेठ मरे, मानववंशशास्त्रज्ञ आणि तोंडी इतिहासकार (एनसीएसयू) यांच्या सहकार्याने आयोजित केले गेले आहेत."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "Since Quantarctica first came in use by our glaciologists three years ago, "
+#~ "there has been many requests in the research community outside the institute"
+#~ " to share this product, and we started to develop a public and improved "
+#~ "version to replace the in-house version. Following Antarctic field testing, "
+#~ "and adding new relevant datasets, Quantarctica version 1.0 was finally "
+#~ "completed and made available for download in July 2013."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Quantarctica is to be all about community effort. With contributions we aim "
+#~ "to expand with data from other disciplines, such as oceanography, "
+#~ "atmospheric sciences, geology and biology, and hope and believe that this "
+#~ "tool can be useful for the Antarctic community – as a complete Antarctic GIS"
+#~ " package."
+#~ msgstr ""

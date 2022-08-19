@@ -1,0 +1,210 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:3
+msgid ""
+"Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
+"Vicenza, Italy"
+msgstr "इटलीच्या मोंटेचिओ मॅगीगोर, विसेन्झा नगरपालिकेत शहरी नियोजनासाठी क्यूजीआयएस वापरणे"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:5
+msgid ""
+"Montecchio Maggiore is a small town in the middle west of Vicenza (about "
+"24.000 population). And as many other italian municipality it manages the "
+"town planning; in particular the urban planning and what we call “recovery "
+"plan” aka PDR --- Piani Di Recupero. This urbanistic tool is dedicated to "
+"the historical area in the center of the town and it requires a specific "
+"study: building state of conservation, intended use, particular historical "
+"notice via survey and restitution to produce planimetric and prospectus "
+"graphics. For this purpose it has used QGIS in addition to "
+"Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
+"(LibreCAD)."
+msgstr "मोंटेचिओ मॅगीगोर हे व्हिसेन्झाच्या मध्य-पश्चिमेकडील एक लहान शहर आहे (सुमारे 24.000 लोकसंख्या). आणि इतर अनेक इटालियन नगरपालिका शहर नियोजन सांभाळतात; विशेषत: शहरी नियोजन आणि ज्याला आम्ही “पुनर्प्राप्ती योजना” उर्फ पीडीआर म्हणतो --- पियानि डी रिकुप्रो. हे शहरीपणाचे साधन शहराच्या मध्यभागी असलेल्या ऐतिहासिक क्षेत्रासाठी समर्पित आहे आणि त्यासाठी विशिष्ट अभ्यासाची आवश्यकता आहे: संरक्षणाची इमारत राज्य, हेतू वापर, प्लॅनेमेट्रिक आणि प्रॉस्पेक्टस ग्राफिक्स तयार करण्यासाठी सर्वेक्षण आणि पुनर्वसन याद्वारे विशिष्ट ऐतिहासिक सूचना. या हेतूसाठी त्यांनी पोस्टग्रेसक्यूएल / पोस्टगिस डेटाबेस, पीएचपी कोड आणि लिब्रेऑफिस सुट, क्यूसीएडी (लिब्रेकॅड) व्यतिरिक्त क्यूजीआयएस वापरला आहे."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:8
+msgid "The task"
+msgstr "कार्य"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:15
+msgid "Workflow Schema"
+msgstr "कार्यप्रवाह स्कीमा"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:17
+msgid "A schema will clarify the workflow:"
+msgstr "स्कीमा वर्कफ्लो स्पष्ट करेल:"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:19
+msgid ""
+"Every building data was retrieved via survey and written in paper schedule. "
+"Once in office the data were inputed into the Postgresql/Postgis database "
+"via PHP form using canonical web browser (Firefox, Iceweasel as well). In a "
+"second moment the shape of every building was draw with QGIS and linked to "
+"the survey table via id key field (PostgreSQL/Postgis view)."
+msgstr "प्रत्येक इमारतीचा डेटा सर्व्हेद्वारे प्राप्त केला गेला होता आणि कागदाच्या वेळापत्रकात लिहिला गेला. एकदा कार्यालयात डेटा कॅनॉनिकल वेब ब्राउझर (फायरफॉक्स, आइसवेसल) वापरून पीएचपी फॉर्मद्वारे पोस्टग्रेसक्यूएल / पोस्टगिस डेटाबेसमध्ये टाकला गेला. दुसर्‍या क्षणी प्रत्येक इमारतीचा आकार क्यूजीआयएसने रेखाटला आणि आयडी की फील्डद्वारे (पोस्टग्रेसएसक्यूएल / पोस्टगिस व्ह्यू) सर्वेक्षण सर्वेक्षणात जोडला गेला."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:21
+msgid ""
+"At the same time the facades of buildings were designed using QCAD "
+"(LibreCAD)."
+msgstr "त्याच वेळी इमारतींचे दर्शनी भाग क्यूसीएडी (लिब्रेकॅड) वापरून तयार केले गेले होते."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:23
+msgid ""
+"The PDR (piani di recupero) must follow strict rules that require specific "
+"graphics:"
+msgstr "PDR (piani di recupero) ने कठोर ग्राफचे कठोर नियम पाळले पाहिजेत ज्यांना विशिष्ट ग्राफिक्स आवश्यक आहेत:"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:25
+msgid "Present state"
+msgstr "सद्यस्थिती"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:26
+msgid "Project state"
+msgstr "प्रकल्प राज्य"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:27
+msgid "Intended use (present)"
+msgstr "हेतू वापर (सध्या)"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:28
+msgid "Intended use (project)"
+msgstr "हेतू वापर (प्रकल्प)"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:29
+msgid "Type of intervention admitted"
+msgstr "हस्तक्षेपाचा प्रकार दाखल"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:31
+msgid ""
+"For every graphic thematic maps were produced using the attribute and data "
+"retrieve during the survey (for the present state) and data modified during "
+"the study and design fase."
+msgstr "सर्व ग्राफिक थीमॅटिक नकाशे सर्वेक्षण आणि (डिझाइन फेज) दरम्यान सुधारित डेटा आणि सर्वेक्षण दरम्यान डेटा पुनर्प्राप्त गुण आणि डेटा वापरून तयार केले गेले."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:33
+msgid ""
+"Thus a photo was linked to every building facilitating the design and "
+"analisys in the gis project (using the “action” feature). The SQL tools "
+"(pgquery, postgis manager, dbmanager et al.) allowed to obtain very "
+"sophisticated query immediately viewable in the map canvas such as: volume "
+"calculation split by building intended use, standards area calculation in "
+"percentage of the total planning area and other minor queries. All useful "
+"items for the design and planning study otherwise not possible without a "
+"very strength tool like gis (and QGIS in particular)."
+msgstr "अशा प्रकारे जीआयएस प्रकल्पातील डिझाइन आणि “नालिसिसची सुविधा देणार्‍या प्रत्येक इमारतीसह फोटो जोडला गेला (“क्शन” वैशिष्ट्य वापरुन). एसक्यूएल साधने (पीजीक्वेरी, पोस्टगिस मॅनेजर, डीबीमॅनेजर इत्यादी.) नकाशा कॅनव्हासमध्ये त्वरित पाहता येण्याजोग्या अत्याधुनिक क्वेरी मिळविण्यास परवानगी दिली जसे की: इमारतीचा हेतू वापरुन विभाजन गणना करणे, एकूण नियोजन क्षेत्राची टक्केवारी आणि इतर किरकोळ प्रमाण मोजणे. क्वेरी. डिझाइन आणि नियोजन अभ्यासासाठी सर्व उपयुक्त वस्तू अन्यथा जीआयएस (आणि विशेषतः क्यूजीआयएस) सारख्या अत्यंत सामर्थ्याच्या साधनाशिवाय शक्य नाहीत."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:40
+msgid "QGIS project with building data viewing"
+msgstr "बिल्डिंग डेटा पाहण्यासह क्यूजीआयएस प्रकल्प"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:42
+msgid ""
+"Finally a synthesis report for every building were produced using "
+"libreoffice suite. The report consists in a schedule summarise with photo, "
+"cartography extract which localize the building in the contest and data of "
+"the present state."
+msgstr "शेवटी प्रत्येक इमारतीचा संश्लेषण अहवाल लिब्रोऑफिस स्वीटचा वापर करुन तयार केला गेला. या अहवालात फोटो, कार्टोग्राफीच्या अर्कचा सारांश तयार करण्यात आला आहे जो सध्याच्या राज्याच्या स्पर्धेत आणि डेटामध्ये इमारत स्थानिकीकृत करतो."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:49
+msgid "QGIS print composer for final graphic layout"
+msgstr "अंतिम ग्राफिक लेआउटसाठी QGIS प्रिंट संगीतकार"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:52
+msgid "Conclusion"
+msgstr "निष्कर्ष"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:54
+msgid ""
+"The strength of QGIS is the very user friendly interface coupled with the "
+"several tools it offers. The connection with vary data formats (shape files,"
+" spatialite db, postgresql/postgis db,...) facilitates and increases the "
+"interoperability between different worlds. And thus the freedom offered by "
+"the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
+"horizons."
+msgstr "क्यूजीआयएसची सामर्थ्य हे आपल्यासाठी उपलब्ध असलेल्या बर्‍याच साधनांसह एक अतिशय वापरकर्ता अनुकूल इंटरफेस आहे. भिन्न डेटा स्वरूपांसह कनेक्शन (आकार फायली, स्थानिक डीबी, पोस्टग्रीस्क्ल / पोस्टगिस डीबी, ...) सुलभ करते आणि भिन्न जगांमधील इंटरऑपरेबिलिटी वाढवते. आणि अशा प्रकारे विनामूल्य सॉफ्टवेअरद्वारे प्रदान केलेले स्वातंत्र्य (क्यूजीआयएस, पीएचपी, लिब्रेऑफिस, क्यूसीएडी) उत्तेजित करते आणि नवीन क्षितिजे उघडते."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:56
+msgid ""
+"And last but not least: we worked on different platform (Windows 7 64 bit, "
+"Windows xp 32 bit, Debian server and Debian client) but we never encountered"
+" insurmountable problems."
+msgstr "आणि शेवटचे परंतु कमीतकमी नाहीः आम्ही वेगवेगळ्या प्लॅटफॉर्मवर काम केले (विंडोज 7 64 बिट, विंडोज एक्सपी 32 बिट, डेबियन सर्व्हर आणि डेबियन क्लायंट) परंतु आम्हाला कधीही अकल्पनीय समस्या आल्या नाहीत."
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:59
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:66
+msgid "Flavio Rigolon"
+msgstr "फ्लेव्हिओ रिगोलन"
+
+#: ../../source/site/about/case_studies/italy_vicenza.rst:68
+msgid ""
+"This article was contributed May 2012 by Flavio Rigolon. He lives in Vicenza"
+" (Italy) and works in Montecchio Maggiore municipality as SIT manager. He "
+"has migrated almost all the gis data from proprietary to free platform "
+"(QGIS, Postgresql/Postgis, Spatialite). He is a member of GFOSS.it "
+"(Associazione Italiana per l'Informazione Geografica Libera) since 2007 and "
+"was a member of the GFOSS.it board from 2010 to 2012."
+msgstr "या लेखाचे योगदान फ्लाव्हिओ रिगोलन यांनी मे २०१२ मध्ये दिले होते. तो व्हिसेंझा (इटली) येथे राहतो आणि एसआयटी व्यवस्थापक म्हणून मॉन्टेचिओ मॅगीगोर नगरपालिकेत काम करतो. प्रोप्रायटरीपासून फ्री प्लॅटफॉर्मवर (क्यूजीआयएस, पोस्टग्रेस्क्ल / पोस्टगिस, स्पॅटालिट) जवळजवळ सर्व जीआयएस डेटा त्याने स्थलांतर केला आहे. 2007 पासून ते GFOSS.it (असोसिएझिओन इटालियाना प्रति l'Informazione Geografica Libera) सदस्य आहेत आणि 2010 ते 2012 पर्यंत GFOSS.it बोर्डाचे सदस्य होते."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid ""
+#~ "Using QGIS for urban planning in the municipality of Montecchio Maggiore, "
+#~ "Vicenza, Italy Montecchio Maggiore is a small town in the middle west of "
+#~ "Vicenza (about 24.000 population). And as many other italian municipality it"
+#~ " manages the town planning; in particular the urban planning and what we "
+#~ "call “recovery plan” aka PDR - Piani Di Recupero. This urbanistic tool is "
+#~ "dedicated to the historical area in the center of the town and it requires a"
+#~ " specific study: building state of conservation, intended use, particular "
+#~ "historical notice via survey and restitution to produce planimetric and "
+#~ "prospectus graphics. For this purpose it has used QGIS in addition to "
+#~ "Postgresql/Postgis database, PHP code and Libreoffice suite, QCAD "
+#~ "(LibreCAD)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "For every graphic thematic maps were produced using the attribute and data "
+#~ "retrieve during the survey (for the present state) and data modified during "
+#~ "the study and design fase. Thus a photo was linked to every building "
+#~ "facilitating the design and analisys in the gis project (using the “action” "
+#~ "feature). The SQL tools (pgquery, postgis manager, dbmanager et al.) allowed"
+#~ " to obtain very sophisticated query immediately viewable in the map canvas "
+#~ "such as: volume calculation split by building intended use, standards area "
+#~ "calculation in percentage of the total planning area and other minor "
+#~ "queries. All useful items for the design and planning study otherwise not "
+#~ "possible without a very strength tool like gis (and QGIS in particular)."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "The strength of QGIS is the very user friendly interface coupled with the "
+#~ "several tools it offers. The connection with vary data formats (shape files,"
+#~ " spatialite db, postgresql/postgis db,...) facilitates and increases the "
+#~ "interoperability between different worlds. And thus the freedom offered by "
+#~ "the free software (QGIS, PHP, Libreoffice, QCAD) stimulates and open new "
+#~ "horizons. And last but not least: we worked on different platform (Windows 7"
+#~ " 64 bit, Windows xp 32 bit, Debian server and Debian client) but we never "
+#~ "encountered insurmountable problems."
+#~ msgstr ""

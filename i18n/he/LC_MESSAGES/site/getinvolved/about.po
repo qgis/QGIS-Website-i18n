@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Harel Dan <harel.dunn@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-10-13 18:57+0000\n"
+"Last-Translator: Harel Dan <harel.dunn@gmail.com>, 2016\n"
+"Language-Team: Hebrew (http://www.transifex.com/qgis/qgis-website/language/he/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: (n % 10 == 0 && n % 1 == 0 && n > 10) ? 2 : 3;\n"
+
+#: ../../source/site/getinvolved/about.rst:4
+msgid "Contact"
+msgstr "יצירת קשר"
+
+#: ../../source/site/getinvolved/about.rst:6
+msgid "You can contact us via :ref:`QGIS-mailinglists`"
+msgstr "ניתן ליצור איתנו קשר באמצעות :ref:`QGIS-mailinglists`"
+
+#: ../../source/site/getinvolved/about.rst:10
+msgid "About"
+msgstr "אודות"
+
+#: ../../source/site/getinvolved/about.rst:12
+msgid ""
+"This site is build using Sphinx and both sources and instructions are found "
+"here: https://github.com/qgis/QGIS-Website"
+msgstr "אתר זה נבנה באמצעות Sphinx וגם מקורות וגם הוראות ניתן למצוא כאן: https://github.com/qgis/QGIS-Website"
+
+#: ../../source/site/getinvolved/about.rst:15
+msgid ""
+"If you find problems or errors, you can either create an issue here "
+"https://github.com/qgis/QGIS-Website/issues or sent a mail to the QGIS-"
+"community mailinglist qgis-community-team@lists.osgeo.org"
+msgstr "אם הינך מבחין בבעיות או שגיאות, ניתן לפתוח קריאה כאן https://github.com/qgis/QGIS-Website/issues או לשלוח מייל לרשימת התפוצה של קהילת QGIS qgis-community-team@lists.osgeo.org"

@@ -1,0 +1,158 @@
+# 
+# Translators:
+# James Dyer <james.p.dyer15.mil@mail.mil>, 2018
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 2.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-28 17:39+0100\n"
+"PO-Revision-Date: 2018-05-20 14:26+0000\n"
+"Last-Translator: James Dyer <james.p.dyer15.mil@mail.mil>, 2018\n"
+"Language-Team: Arabic (https://www.transifex.com/qgis/teams/6144/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:3
+msgid "Using QGIS in Afghanistan ..."
+msgstr "باستخدام QGIS في أفغانستان ..."
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:5
+msgid ""
+"I work for a urban planning company in China.  It is often difficult to "
+"design proper environmental protection because the common sources of data "
+"may be a state secret or may not even exist.  Frequently, we are asked to do"
+" designs without proper survey data.   In addition there is usually not "
+"enough time for a proper study.  My background is in Urban Planning with a "
+"minor in Environmental Science."
+msgstr ""
+"أعمل في شركة تخطيط حضري في الصين. يصعب في كثير من الأحيان تصميم الحماية "
+"البيئية المناسبة لأن المصادر المشتركة للبيانات قد تكون سرًا للدولة أو قد لا "
+"تكون موجودة. وكثيرا ما يطلب منا القيام بالتصاميم دون بيانات المسح المناسبة. "
+"بالإضافة إلى ذلك ، لا يوجد وقت كافٍ للدراسة المناسبة. خلفيتي في التخطيط "
+"العمراني مع قاصر في العلوم البيئية."
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:15
+msgid ""
+"The task was plan a conservation park on the Chinese side of the Ili River "
+"which supplies 80% of the water to Lake Balkhash.  FOSS GIS application + "
+"FOSS GIS data stores + FOSS GIS education were all critical to reconstruct "
+"and model the Hydrological and Ecological processes necessary for authentic "
+"conservation planning.  As a non-scientist with no prior training or "
+"experience I could not have done it without all three.  My company did not "
+"and would not pay to purchase GIS software to run the industry standard "
+"arcHYDRO"
+msgstr ""
+"وكانت المهمة هي وضع خطة للحفظ على الجانب الصيني من نهر إيلي الذي يوفر 80٪ من"
+" المياه لبحيرة بلخاش. وكان تطبيق نظام FOSS GIS + + FOSS GIS data + FOSS GIS "
+"education ضروريين لإعادة بناء ونمذجة العمليات الهيدرولوجية والإيكولوجية "
+"اللازمة لتخطيط الحفظ الأصيل. وباعتباري غير عالم بدون تدريب مسبق أو خبرة "
+"سابقة ، لم أكن أستطيع أن أفعل ذلك دون كل ثلاثة. شركتي لم ولن تدفع لشراء "
+"برنامج نظم المعلومات الجغرافية لتشغيل معيار الصناعة arcHYDRO"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:23
+msgid "Story"
+msgstr "القصة"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:25
+msgid ""
+"With some trial and error I was able to produce an arcHYDRO like output from"
+" QGIS.  Beginning with a USGS Hydrosheds DEM which was converted into a "
+"Regularized Spline with Tension using the GRASS functions inside QGIS and "
+"training by Helena Mitsova.  The RST surface was analyzed this surface to "
+"find the catchments and flow paths, and resulting vector topologies were "
+"cleaned up in QGIS to generate the Hydrologic network and also to build up "
+"the attribute tables."
+msgstr ""
+"مع بعض التجربة والخطأ ، تمكنت من إنتاج مخرجات من نوع arcHYDRO من QGIS. بدءاً"
+" من Hydrosseds DEM USGS التي تم تحويلها إلى Spline Regular مع التوتر "
+"باستخدام وظائف GRASS داخل QGIS والتدريب من قبل Helena Mitsova. تم تحليل سطح "
+"RST هذا السطح للعثور على مستجمعات ومسارات التدفق ، وتم تنظيف طبولوجيا "
+"المتجهات الناتجة في QGIS لتوليد الشبكة الهيدرولوجية وأيضاً لبناء جداول "
+"السمات."
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:27
+msgid ""
+"This network was ranked by r.stream extension in GRASS to build Hortons and "
+"Hacks stream ordering.  Then a distance to outlet surface grid was generated"
+" and analyzed by zonal statistics to find the farthest point.  Next, r.drain"
+" in GRASS to trace a time of concentration line.  Finally v.net in GRASS was"
+" used to build a network of pour points, flow paths, TOC paths, and HMDP for"
+" each watershed.  In this workflow, the QGIS tool attribute by location was "
+"invaluable."
+msgstr ""
+"تم ترتيب هذه الشبكة من خلال تمديد r.stream في GRASS لبناء ترتيب تدفق Hortons"
+" و Hacks. ثم تم إنشاء مسافة إلى شبكة سطح منفذ وتحليلها عن طريق إحصائيات "
+"المنطقة للعثور على أبعد نقطة. المقبل ، r.drain في GRASS لتتبع وقت خط "
+"التركيز. وأخيرا ، تم استخدام v.net في GRASS لبناء شبكة من نقاط التصب ، "
+"ومسارات التدفق ، ومسارات TOC ، و HMDP لكل مستجمع مياه. في سير العمل هذا ، "
+"كانت سمة أداة QGIS حسب الموقع لا تقدر بثمن."
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:29
+msgid ""
+"After the basic hydrologic network was finished I used UN FAO soils database"
+" with table joins to classify soils.  Then using query functions in QGIS the"
+" FAO soils were converted to USDA soils.  A previously downloaded USGS ETM7+"
+" grid was classified with the i.cluser and r.maxlik in GRASS into a NLCD "
+"grid.  By using reclassification tables I converted the landcover to "
+"Manning's n-value grid for overland flow.  Finally I wrote a lookup table in"
+" r.mapcalc and merged the soil and landcover grids into and NRCS TR-55 curve"
+" numbers following the arcHYDRO methodolg"
+msgstr ""
+"بعد الانتهاء من الشبكة الهيدرولوجية الأساسية ، استخدمت قاعدة بيانات منظمة "
+"الأغذية والزراعة التابعة للأمم المتحدة (FAO) ، مع جدول ينضم إلى تصنيف "
+"التربة. بعد ذلك باستخدام وظائف الاستعلام في QGIS تم تحويل تربة الفاو إلى "
+"تربة وزارة الزراعة الأمريكية. تم تصنيف شبكة USGS ETM7 + ​​التي تم تنزيلها "
+"مسبقًا مع i.cluser و r.maxlik في GRASS إلى شبكة NLCD. باستخدام جداول إعادة "
+"التصنيف ، قمت بتحويل غطاء الأرض إلى شبكة Manning ذات القيمة n للتدفق البري. "
+"وأخيرا كتبت جدول البحث في r.mapcalc ودمجت شبكات التربة وشبكات Landcover و "
+"NRCS TR-55 منحنى بعد طريقة arcHYDRO methodolg"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:31
+msgid ""
+"To create the rainfall grids I performed statistical analysis on GHCN tables"
+" to find rainfall depths for design storms of 1,2,5,10,50,100 year returns. "
+"Then I downloaded a free sample grid of PRISM for China and assuming a "
+"linear relationship, conveted average cell values to maximum cell values in "
+"order to to build maximum rainfall intensity grids."
+msgstr ""
+"لإنشاء شبكات هطول الأمطار قمت بإجراء تحليل إحصائي على جداول GHCN للعثور على "
+"أعماق سقوط الأمطار لعواصف التصميم التي تصل إلى 1،2،5،10،50،100 عامًا. ثم قمت"
+" بتنزيل شبكة عينة مجانية من PRISM للصين وافتراض علاقة خطية ، متوسط ​​قيم "
+"خلايا متحركة إلى قيم الخلية القصوى من أجل بناء شبكات كثافة الأمطار القصوى."
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:34
+msgid "Conclusion"
+msgstr "الخاتمة"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:36
+msgid ""
+"I began using QGIS out of desperation for lack of arcMAP but now I never "
+"want to go back.  The investment of time in FOSS is worthwhile because you "
+"can take it with you to any job.  The combination of GRASS QGIS PostGIS "
+"gives you the full functionality of expensive GIS systems.   The online "
+"learning resources provided were as valuable as the actual software.  I was "
+"able to learn QGIS fast enough to produce a great project in a fast based "
+"real world industry environment."
+msgstr ""
+"لقد بدأت استخدام QGIS للخروج من اليأس لعدم وجود arcMAP ولكن الآن لا أريد أن "
+"أعود. إن استثمار الوقت في البرمجيات الحرة والمفتوحة المصدر جدير بالاهتمام "
+"لأنه يمكنك اصطحابه معك في أي عمل. مزيج من GRASS QGIS PostGIS يمنحك وظيفة "
+"كاملة من نظم GIS باهظة الثمن. كانت موارد التعلم عبر الإنترنت المقدمة بنفس "
+"قيمة البرامج الفعلية. استطعت أن أتعلم QGIS بسرعة كافية لإنتاج مشروع كبير في "
+"بيئة صناعة عالمية حقيقية سريعة."
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:39
+msgid "Author"
+msgstr "المؤلف"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:46
+msgid "Andrew Jeffrey"
+msgstr "Andrew Jeffrey"
+
+#: ../../source/site/about/case_studies/china_jeffrey.rst:49
+msgid "Andrew Jeffrey is ..."
+msgstr "Andrew Jeffrey هو ..."

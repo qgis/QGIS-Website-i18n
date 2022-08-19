@@ -1,0 +1,614 @@
+# 
+# Translators:
+# Vijay Naphade <vijay.naphade@khagolam.com>, 2021
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2014-10-19 11:13+0000\n"
+"Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:4
+msgid "Changelog for QGIS 2.4"
+msgstr "क्यूजीआयएस 2.4 साठी चेंजलॉग"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:6
+msgid ""
+"Change log for the next release of QGIS 2.4.0. The emphasis on this release "
+"has been very much on polish and performance - we have added many new "
+"features, tweaks and enhancements to make the user interface more consistent"
+" and professional looking (and hopefully easier to use). The composer (used "
+"for creating print ready maps) has had a lot of work done to it to make it a"
+" more viable platform for creating great cartographic outputs."
+msgstr "क्यूजीआयएस 2.4.0 च्या पुढील रीलिझसाठी लॉग बदला. या प्रकाशनावर पॉलिश आणि कार्यक्षमतेवर जोर देण्यात आला आहे - आम्ही वापरकर्त्याची इंटरफेस अधिक सुसंगत आणि व्यावसायिक बनविण्यासाठी (आणि वापरण्यास सुलभतेने सुलभ) करण्यासाठी अनेक नवीन वैशिष्ट्ये, ट्वीक्स आणि संवर्धने जोडली आहेत. संगीतकाराने (प्रिंट रेडी नकाशे तयार करण्यासाठी वापरलेला) उत्तम कार्टोग्राफिक आउटपुट तयार करण्यासाठी अधिक व्यवहार्य व्यासपीठ बनविण्यासाठी त्याच्याकडे बरेच काम केले आहे."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:14
+msgid ""
+"Whenever new features are added to software they introduce the possibility "
+"of new bugs - if you encounter any problems with this release, please file a"
+" ticket `on the QGIS Bug Tracker <http://hub.qgis.org>`__."
+msgstr "जेव्हा जेव्हा सॉफ्टवेअरमध्ये नवीन वैशिष्ट्ये जोडली जातात तेव्हा त्या नवीन बगची शक्यता ओळखतात - आपणास या प्रकाशनासह काही अडचण आल्यास, कृपया तिकिट दाखल करा - क्यूजीआयएस बग ट्रॅकर <http://hub.qgis.org> `__ वर."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:19
+msgid ""
+"We would like to thank the developers, documenters, testers and all the many"
+" folks out there who volunteer their time and effort (or fund people to do "
+"so)."
+msgstr "आम्ही विकसक, दस्तऐवजकार, परीक्षक आणि तेथील सर्व लोकांना त्यांचे आभार मानू इच्छितो जे आपला वेळ आणि मेहनत स्वयंसेवक करतात (किंवा लोकांना यासाठी पैसे देतात)."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:23
+msgid ""
+"From the QGIS community we hope you enjoy this release! If you wish to "
+"donate time, money or otherwise get involved in making QGIS more awesome, "
+"please wander along to `qgis.org <https://qgis.org>`__ and lend a hand!"
+msgstr "QGIS समुदायाकडून आम्हाला आशा आहे की आपण या प्रकाशनाचा आनंद घ्याल! आपणास वेळ, पैसे दान करण्याची इच्छा असल्यास किंवा क्यूजीआयएसला अधिक छान बनविण्यात गुंतलेले असल्यास, कृपया `qgis.org <https://qgis.org>` __ वर फिरा आणि एक हात द्या!"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:28
+msgid ""
+"Finally we would like to thank our official sponsors for the invaluable "
+"financial support they provide to this project:"
+msgstr "शेवटी आम्ही आमच्या अधिकृत प्रायोजकांना या प्रकल्पात त्यांना देत असलेल्या अमूल्य आर्थिक मदतीबद्दल आभारी आहोत:"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:31
+msgid ""
+"GOLD Sponsor: `Asia Air Survey, Japan <http://www.asiaairsurvey.com/>`__"
+msgstr "सुवर्ण प्रायोजक: `आशिया एअर सर्वेक्षण, जपान <http://www.asiaairsurvey.com/> __ __"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:33
+msgid "SILVER Sponsor: `G.A.I.A. mbH, Germany <http://www.gaia-mbh.de/>`__"
+msgstr "सुवर्ण प्रायोजक: `आशिया एअर सर्वेक्षण, जपान <http://www.gaia-mbh.de/>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:34
+msgid ""
+"SILVER Sponsor: `State of Vorarlberg, Austria <http://www.vorarlberg.at/>`__"
+msgstr "चांदी प्रायोजक: V व्होरालबर्ग राज्य, ऑस्ट्रिया <http://www.vorarlberg.at/> `__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:36
+msgid "BRONZE Sponsor: `www.molitec.it, Italy <http://www.molitec.it/>`__"
+msgstr "ब्रॉन्झ प्रायोजक: `www.molitec.it, इटली <http://www.molitec.it/>` __"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:37
+msgid "BRONZE Sponsor: `www.argusoft.de, Germany <http://www.argusoft.de>`__"
+msgstr "ब्रॉन्झ प्रायोजक: `www.argusoft.de, जर्मनी <http://www.argusoft.de>` __"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:38
+msgid ""
+"BRONZE Sponsor: `www.openrunner.com, France <http://www.openrunner.com>`__"
+msgstr "ब्रॉन्झ प्रायोजक: `www.openrunner.com, फ्रान्स <http://www.openrunner.com>` __"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:40
+msgid ""
+"BRONZE Sponsor: `www.eschenlaub.de, Germany <http://www.eschenlaub.de>`__"
+msgstr "ब्रॉन्झ प्रायोजक: `www.eschenlaub.de, जर्मनी <http://www.eschenlaub.de>` __"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:43
+msgid ""
+"A current list of donors who have made financial contributions large and "
+"small to the project can be seen on our `donors list "
+"<https://qgis.org/en/site/about/sponsorship.html#list-of-donors>`__."
+msgstr "या प्रकल्पासाठी आर्थिक आणि मोठे योगदान देणार्‍यांची सद्य यादी आमच्या `देणगीदारांच्या यादी <https://qgis.org/en/site/about/sponsorship.html#list-of-donors> on वर पाहिली जाऊ शकते __."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:47
+msgid ""
+"If you would like to make a donation or sponsor our project, please visit "
+"`our sponsorship page "
+"<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+"details. QGIS is Free software and you are under no obligation to do so. "
+"Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+"maintain project infrastructure and fund bug fixing efforts."
+msgstr "आपण एखादी देणगी देऊ इच्छित असल्यास किंवा आमचे प्रकल्प प्रायोजित करू इच्छित असल्यास, कृपया तपशीलांसाठी on आमचे प्रायोजक पृष्ठ <https://qgis.org/en/site/about/sponsorship.html#sponsorship> `__ वर भेट द्या. क्यूजीआयएस हे विनामूल्य सॉफ्टवेअर आहे आणि असे करण्याचे आपल्यावर कोणतेही बंधन नाही. क्यूजीआयएस प्रायोजित केल्यामुळे आमच्या सहा मासिक विकसकांच्या संमेलनास वित्तपुरवठा करण्यास, प्रकल्पांची पायाभूत सुविधा राखण्यास आणि निधी निर्धारण प्रयत्नांना मदत करण्यात मदत होते."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:61
+msgid "General"
+msgstr "सामान्य"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:64
+msgid "Feature: Generate band name with NetCDF EXTRA\\_DIM"
+msgstr "वैशिष्ट्यः नेटसीडीएफ एक्सट्रा \\ _ डीआयएम सह बँड नाव व्युत्पन्न करा"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:66
+msgid ""
+"The NetCDF provided extra dimensional information. This information provides"
+" metadata on each band. These metadata can be used to explain the name of "
+"each band. For example, the bands of a NetCDF file represents the "
+"temperature at a given depth. For the user, it is easier to select a band "
+"with depth information, rather than only the band number."
+msgstr "नेटसीडीएफने अतिरिक्त आयामी माहिती दिली. ही माहिती प्रत्येक बँडवर मेटाडेटा प्रदान करते. हे मेटाडेटा प्रत्येक बँडचे नाव स्पष्ट करण्यासाठी वापरला जाऊ शकतो. उदाहरणार्थ, नेटसीडीएफ फाईलचे बँड दिलेल्या खोलीवर तापमानाचे प्रतिनिधित्व करतात. वापरकर्त्यासाठी, फक्त बँड क्रमांकाऐवजी खोली माहितीसह बँड निवडणे सोपे आहे."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:73
+msgid "|image1|"
+msgstr "| प्रतिमा 1 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:304
+msgid "image1"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:76
+msgid "Feature: Applying scale and offset to raster data"
+msgstr "वैशिष्ट्य: रास्टर डेटावर स्केल लागू करणे आणि ऑफसेट करणे"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:78
+msgid ""
+"In some raster datasources, data are stored as interger with a scale and an "
+"offset in the metadata. The scale and offset can be used to get the right "
+"data. QGIS applies its to raster data to provider to users right information"
+" for legend, histogram and identify."
+msgstr "काही रास्टर डेटासोर्समध्ये, डेटा स्केलसह इंटिजर आणि मेटाडेटामध्ये ऑफसेट म्हणून संग्रहित केला जातो. योग्य डेटा मिळविण्यासाठी स्केल आणि ऑफसेटचा वापर केला जाऊ शकतो. क्यूजीआयएस प्रयोक्तांना आख्यायिका, हिस्टोग्राम आणि ओळखीसाठी योग्य माहिती प्रदातापर लागू करतो."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:83
+msgid "|image2|"
+msgstr "| प्रतिमा 2 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:305
+msgid "image2"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:86
+msgid "Feature: Quick field field calc bar in attribute table"
+msgstr "वैशिष्ट्य: विशेषता सारणीमध्ये द्रुत फील्ड फील्ड कॅल्क बार"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:88
+msgid ""
+"We have a great new feature for those working with calculated fields in "
+"vector attribute tables. The new quick calculation bar lets you update the "
+"values in a column in the attribute table quickly and easily."
+msgstr "वेक्टर विशेषता सारण्यांमधील गणना केलेल्या फील्डसह कार्य करणार्‍यांसाठी आमच्याकडे एक नवीन नवीन वैशिष्ट्य आहे. नवीन द्रुत गणना पट्टी आपल्याला विशेषता सारणीच्या स्तंभातील मूल्ये द्रुत आणि सहजतेने अद्यतनित करू देते."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:92
+msgid "|image3|"
+msgstr "| प्रतिमा 3 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:306
+msgid "image3"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:95
+msgid "Feature: Colour preview modes in composer and map canvas"
+msgstr "वैशिष्ट्यः संगीतकार आणि नकाशा कॅनव्हासमधील रंग पूर्वावलोकन मोड"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:97
+msgid ""
+"A really innovative feature that has been added to 2.4 is support for "
+"grayscale and colour blindness previews. This allows you to visualise how "
+"people with colour blindness will perceive your cartography and map layout, "
+"or how your map will look if it's printed in grayscale. You can read more "
+"about this new feature `here <http://nyalldawson.net/2014/05/colour-"
+"blindness-and-grayscale-previews-in-qgis-2-4/>`__."
+msgstr "2.4 मध्ये जोडली गेलेली एक खरोखर नाविन्यपूर्ण वैशिष्ट्य म्हणजे ग्रेस्केल आणि कलर ब्लाइंडनेस पूर्वावलोकनाकरिता समर्थन. हे आपल्याला अंधकाराने ग्रस्त असलेल्या लोकांना आपली कार्टोग्राफी आणि नकाशा लेआउट कशी दिसेल किंवा आपला नकाशा ग्रेस्केलमध्ये मुद्रित केलेला असेल तर कसा दिसेल याची कल्पना येऊ देते. आपण या नवीन वैशिष्ट्याबद्दल अधिक वाचू शकता `येथे  <http://nyalldawson.net/2014/05/colour-blindness-and-grayscale-previews-in-qgis-2-4/>`__."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:104
+msgid "|image4|"
+msgstr "| प्रतिमा 4 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:307
+msgid "image4"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:107
+msgid "Feature: QLR QGIS Layer files"
+msgstr "वैशिष्ट्य: क्यूएलआर क्यूजीआयएस लेयर फायली"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:109
+msgid ""
+"Added support for QGIS Layer Definition files or simply QLR (see "
+"http://nathanw.net/2014/03/12/qgis-qlr/). QLR file is a file that points to "
+"the data, contains all the styling, and other information. You can then just"
+" add this file and it will do all the other magic for you. QLR makes it easy"
+" to add same layer to multiple map documents, inheriting all of the "
+"properties which have been set and works with any layer supported in QGIS, "
+"expect special plugin layers."
+msgstr "क्यूजीआयएस लेयर डेफिनिशन फायली किंवा फक्त क्यूएलआर (http://nathanw.net/2014/03/12/qgis-qlr/ पहा) साठी समर्थन जोडला. क्यूएलआर फाईल ही एक फाईल आहे जी डेटाकडे निर्देश करते, त्यात सर्व स्टाईलिंग आणि इतर माहिती असते. त्यानंतर आपण ही फाईल जोडू शकता आणि ती आपल्यासाठी इतर सर्व जादू करेल. क्यूएलआर एकाधिक नकाशा दस्तऐवजात समान स्तर जोडणे सोपे करते, जे सेट केले आहे आणि क्यूजीआयएस मध्ये समर्थित कोणत्याही लेयरसह कार्य केलेल्या सर्व गुणधर्मांचा वारसा मिळविते, विशेष प्लगइन स्तरांची अपेक्षा करते."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:118
+msgid "Feature: New expression functions"
+msgstr "वैशिष्ट्य: नवीन अभिव्यक्ती कार्ये"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:120
+msgid "We have some new functions available in the expression builder."
+msgstr "आमच्याकडे अभिव्यक्ति बिल्डरमध्ये काही नवीन कार्ये उपलब्ध आहेत."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:122
+msgid "bounding box (bounds)"
+msgstr "बाउंडिंग बॉक्स (सीमा)"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:123
+msgid "bounding box width & height (bounds\\_width/bounds\\_height)"
+msgstr "बाउंडिंग बॉक्सची रुंदी आणि उंची (चौकार \\ _ रुंदी / सीमा \\ _ उंची)"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:124
+msgid "min/max x/y coordinates (xmin/xmax/ymin/ymax)"
+msgstr "मिनिट / कमाल x / y समन्वय (xmin / xmax / ymin / ymax)"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:125
+msgid ""
+"new wordwrap function that returns a string wrapped to a maximum/minimum "
+"number of characters"
+msgstr "नवीन वर्ड्रॅप फंक्शन जे जास्तीत जास्त / किमान वर्णांमध्ये लपेटलेली स्ट्रिंग परत करते"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:128
+msgid "|image5|"
+msgstr "| प्रतिमा 5 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:308
+msgid "image5"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:131
+msgid "Feature: Copy, paste and drag and drop colours"
+msgstr "वैशिष्ट्य: कॉपी, पेस्ट आणि ड्रॅग आणि ड्रॉप रंग"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:133
+msgid ""
+"You can now copy, paste, drag and drop colours between any colour input "
+"widget in QGIS. See this `article <http://nyalldawson.net/2014/05/colour-"
+"shortcuts-in-qgis-2-4/>`__ for more information on how this new feature "
+"works. Hex color codes and rgb strings can also be pasted on to colour "
+"buttons to allow importing colours from outside of QGIS."
+msgstr "आपण आता QGIS मध्ये कोणत्याही रंग इनपुट विजेट दरम्यान रंग कॉपी, पेस्ट, ड्रॅग आणि ड्रॉप करू शकता. हे नवीन वैशिष्ट्य कसे कार्य करते यावरील अधिक माहितीसाठी हा `लेख <http://nyalldawson.net/2014/05/colour-shortcuts-in-qgis-2-4/> __ __ पहा. क्यूजीआयएस बाहेरून रंग आयात करण्यास अनुमती देण्यासाठी हेक्स कलर कोड आणि आरजीबी स्ट्रिंग देखील रंग बटणावर चिकटवता येऊ शकतात."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:140
+msgid "|image6|"
+msgstr "| प्रतिमा 6 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:309
+msgid "image6"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:143
+msgid "Feature: Multi-threaded rendering"
+msgstr "वैशिष्ट्य: बहु-थ्रेडेड प्रस्तुतीकरण"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:145
+msgid ""
+"This is one feature we simply cannot do justice to with a screenshot - QGIS "
+"now supports multi-threaded rendering! What this means is that when drawing "
+"the map, QGIS will split the drawing work between all of the cores in your "
+"CPU, making the process more efficient and responsive. By **responsive** we "
+"mean that you no longer need to wait for the map view to update before you "
+"can pan or zoom again. Also the map display updates incrementally allowing "
+"you to see if the map is positioned correctly early on in the drawing "
+"process. Take a look at `this article "
+"<http://www.lutraconsulting.co.uk/casestudies/qgis-multi-threaded-"
+"rendering>`__ for a more detailed overview of the multi-threaded rendering "
+"system. You will find some options in the QGIS settings dialog that allow "
+"you to manage the behaviour of multi-threaded rendering."
+msgstr "हे एक वैशिष्ट्य आहे ज्याचा आपण स्क्रीनशॉटसह न्याय करु शकत नाही - क्यूजीआयएस आता मल्टी-थ्रेडेड रेंडरिंगला समर्थन देते! याचा अर्थ असा आहे की नकाशा काढताना, QGIS आपल्या सीपीयूमधील सर्व कोर दरम्यान ड्रॉईंगचे काम विभाजित करेल, ज्यामुळे प्रक्रिया अधिक कार्यक्षम आणि उत्तरदायी होईल. ** प्रतिसादात्मक ** द्वारे आमचा अर्थ असा आहे की आपण पुन्हा पॅन किंवा झूम करण्यापूर्वी आपल्याला नकाशा दृश्याची अद्यतने करण्याची प्रतीक्षा करण्याची आवश्यकता नाही. तसेच नकाशा प्रदर्शन अद्यतने आपल्याला रेखाचित्र प्रक्रियेच्या सुरूवातीस नकाशा योग्य ठिकाणी ठेवला आहे की नाही हे आपल्याला वारंवारपणे अनुमती देते. मल्टी-थ्रेडेड रेंडरींग सिस्टमच्या अधिक तपशीलवार विहंगावलोकनसाठी `हा लेख  <http://www.lutraconsulting.co.uk/casestudies/qgis-multi-threaded-rendering>`__ वर एक नजर टाका. आपणास क्यूजीआयएस सेटिंग्जमध्ये काही पर्याय सापडतील जे आपल्याला मल्टी-थ्रेडेड रेंडरिंगचे वर्तन व्यवस्थापित करण्यास अनुमती देतात."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:158
+msgid "|image7|"
+msgstr "| प्रतिमा 7 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:310
+msgid "image7"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:161
+msgid "Labelling"
+msgstr "लेबलिंग"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:164
+msgid "Feature: Label features multiple times"
+msgstr "वैशिष्ट्य: लेबल अनेक वेळा वैशिष्ट्ये"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:166
+msgid ""
+"Long lines (such as contour lines or roads) can now be repeatedly labeled at"
+" regular intervals. One can choose between mm and map units for specifying "
+"the repetition interval. At the time of the release there is still an issue "
+"with \"merge connected lines to avoid duplicate\" setting."
+msgstr "लांबीच्या रेषा (जसे की समोच्च रेषा किंवा रस्ते) आता नियमित अंतराने वारंवार लेबल लावल्या जाऊ शकतात. पुनरावृत्ती मध्यांतर निर्दिष्ट करण्यासाठी मिमी आणि नकाशाच्या युनिट दरम्यान एक निवडू शकतो. रिलीझच्या वेळी अजूनही \"डुप्लिकेट टाळण्यासाठी कनेक्ट केलेल्या ओळी विलीन करा\" सेटिंगचा मुद्दा आहे."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:172
+msgid "|image8|"
+msgstr "| प्रतिमा 8 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:311
+msgid "image8"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:175
+msgid "Map Composer"
+msgstr "नकाशा संगीतकार"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:178
+msgid "Feature: Improvements to composer picture items"
+msgstr "वैशिष्ट्य: संगीतकार चित्र आयटममध्ये सुधारणा"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:180
+msgid ""
+"The image item in composer is now 'atlas friendly' - you can use an "
+"**expression to define which image** should be shown for each atlas page. "
+"You can also now set the **resize mode** (zoom, clip, stretch etc.) for the "
+"image in relation to its frame size and dimensions. You can also specify the"
+" placement of the image relative to its frame using the new **placement** "
+"item property."
+msgstr "संगीतकारातील प्रतिमा आयटम आता ''टलस अनुकूल' आहे - आपण प्रत्येक अ‍ॅटलास पृष्ठासाठी कोणती प्रतिमा ** दर्शविली पाहिजे हे परिभाषित करण्यासाठी आपण ** अभिव्यक्ती वापरू शकता. प्रतिमेच्या फ्रेम आकार आणि परिमाणांच्या संदर्भात आपण आता ** आकार बदलणारा मोड ** (झूम, क्लिप, ताणून इ.) देखील सेट करू शकता. आपण नवीन ** प्लेसमेंट ** आयटम प्रॉपर्टी वापरुन त्याच्या फ्रेमशी संबंधित प्रतिमेचे प्लेसमेंट देखील निर्दिष्ट करू शकता."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:187
+msgid "|image9|"
+msgstr "| प्रतिमा 9 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:312
+msgid "image9"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:190
+msgid "Feature: Predefined scales mode for atlas maps"
+msgstr "वैशिष्ट्य: lasटलस नकाशेसाठी पूर्वनिर्धारित स्केल मोड"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:192
+msgid ""
+"When working with atlas map items, you can now specify a predefined scale "
+"mode for the map. It will use the best fitting option from the list of "
+"predefined scales in you your project properties settings (see Project -> "
+"Project Properties -> General -> Project Scales to configure these "
+"predefined scales)."
+msgstr "अ‍ॅटलास नकाशा आयटमसह कार्य करीत असताना आपण आता नकाशासाठी पूर्वनिर्धारित स्केल मोड निर्दिष्ट करू शकता. हे आपल्या प्रकल्पातील गुणधर्म सेटिंग्जमधील पूर्वनिर्धारित स्केलच्या सूचीतील सर्वोत्कृष्ट फिटिंग पर्याय वापरेल (प्रकल्प -> प्रकल्प गुणधर्म -> सामान्य -> प्रकल्प पूर्वनिर्धारित स्केल्स कॉन्फिगर करण्यासाठी)."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:198
+msgid "|image10|"
+msgstr "| इमेज 10 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:313
+msgid "image10"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:201
+msgid "Feature: Improved attribute tables in composer"
+msgstr "वैशिष्ट्य: संगीतकारात सुधारित विशेषता सारण्या"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:203
+msgid ""
+"We have made a number of improvements to the ability to display tables in "
+"your composer layouts:"
+msgstr "आम्ही आपल्या संगीतकार लेआउटमध्ये सारण्या प्रदर्शित करण्याच्या क्षमतेत बरेच सुधार केले आहेत:"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:206
+msgid "Support has been added for reordering columns within a table"
+msgstr "Support has been added for reordering columns within a table"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:207
+msgid "Added support for expression based columns"
+msgstr "अभिव्यक्ति आधारित स्तंभांसाठी समर्थन जोडला"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:208
+msgid ""
+"You can now set the alignment of individual table columns, and also specify "
+"the alignment for the table's header cells"
+msgstr "आपण आता स्वतंत्र टेबल स्तंभांचे संरेखन सेट करू शकता आणि टेबलच्या शीर्षलेख सेलसाठी संरेखन देखील निर्दिष्ट करू शकता"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:210
+msgid "Table contents can be filtered by an expression"
+msgstr "सारणी सामग्री अभिव्यक्तीद्वारे फिल्टर केली जाऊ शकते"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:212
+msgid "|image11|"
+msgstr "| इमेज 11 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:314
+msgid "image11"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:215
+msgid "Feature: General composer improvements"
+msgstr "वैशिष्ट्य: सामान्य संगीतकार सुधारणा"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:217
+msgid ""
+"There are a number of additions to the map composer to make life easier "
+"while working in map composition mode:"
+msgstr "नकाशा रचना मोडमध्ये कार्य करताना जीवन सुलभ करण्यासाठी नकाशा संगीतकारात बरीच भर आहेत:"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:220
+msgid "Added button to view current map item extent in main map canvas"
+msgstr "मुख्य नकाशा कॅनव्हासमध्ये वर्तमान नकाशा आयटम प्रमाणात पाहण्यासाठी बटण जोडले"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:221
+msgid "Ability to export SVG images from composer with layers"
+msgstr "थरांसह संगीतकार कडून एसव्हीजी प्रतिमा निर्यात करण्याची क्षमता"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:222
+msgid "Set line join and cap style for scalebars"
+msgstr "स्केलबारसाठी लाइन जॉइन आणि कॅप शैली सेट करा"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:223
+msgid "Support for setting the line join style for item frames"
+msgstr "आयटम फ्रेमसाठी लाइन जॉइन शैली सेट करण्यासाठी समर्थन"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:225
+msgid "|image12|"
+msgstr "| इमेज 12 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:315
+msgid "image12"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:228
+msgid "Feature: Improvements to HTML frames"
+msgstr "वैशिष्ट्यः एचटीएमएल फ्रेममध्ये सुधारणा"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:230
+msgid ""
+"HTML Frames in the composer have been improved. There is a new **add frame**"
+" button which can be used to manually create multiple linked frames. We have"
+" also improved our page break logic making it less likely that you will get "
+"page breaks that cut through the middle of lines of text when paginating "
+"HTML frames."
+msgstr "संगीतकारातील एचटीएमएल फ्रेम्स सुधारित केल्या आहेत. तेथे एक नवीन ** अ‍ॅड फ्रेम ** बटण आहे जे एकाधिक दुवा साधलेल्या फ्रेम मॅन्युअली तयार करण्यासाठी वापरला जाऊ शकतो. आम्ही आमचे पृष्ठ ब्रेक लॉजिक देखील सुधारित केले आहे जेणेकरून आपल्याला एचटीएमएल फ्रेम पृष्ठबद्ध करताना मजकूराच्या ओळीच्या मध्यभागी खंडित होणारे पृष्ठ ब्रेक मिळतील."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:236
+msgid "|image13|"
+msgstr "| प्रतिमा 13 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:316
+msgid "image13"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:239
+msgid "Plugins"
+msgstr "प्लगइन्स"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:242
+msgid "Feature: MetaSearch Catalogue Client Plugin"
+msgstr "वैशिष्ट्य: मेटासर्च कॅटलॉग क्लायंट प्लगइन"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:244
+msgid ""
+"MetaSearch is a QGIS plugin to interact with metadata catalogue services, "
+"supporting the OGC Catalogue Service for the Web (CSW) standard. This plugin"
+" provides an easy and intuitive approach and user-friendly interface to "
+"searching metadata catalogues within QGIS and now ships by default with the "
+"QGIS core product."
+msgstr "मेटासाटा हे वेब (सीएसडब्ल्यू) मानक करीता ओजीसी कॅटलॉग सेवेचे समर्थन करणारे मेटाडाटा कॅटलॉग सेवांसह संवाद साधण्यासाठी एक क्यूजीआयएस प्लगइन आहे. हे प्लगइन QGIS मधील मेटाडेटा कॅटलॉग शोधण्यासाठी एक सोपा आणि अंतर्ज्ञानी दृष्टीकोन आणि वापरकर्ता-अनुकूल इंटरफेस प्रदान करते आणि आता QGIS कोर उत्पादनासह डीफॉल्टनुसार जहाजे."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:250
+msgid "|image14|"
+msgstr "| प्रतिमा 14 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:317
+msgid "image14"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:253
+msgid "Symbology"
+msgstr "प्रतीकशास्त्र"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:256
+msgid "Feature: Shapeburst fill style"
+msgstr "वैशिष्ट्य: शेपबर्स्ट फिल शैली"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:258
+msgid ""
+"We have a great new render in QGIS 2.4. The shapeburst renderer will allow "
+"you to fill polygons with a gradient extending from the line edge towards "
+"the polygon interior. You can read more about **shapeburst** `here "
+"<http://nyalldawson.net/2014/06/shapeburst-fill-styles-in-"
+"qgis-2-4/?utm_source=rss&utm_medium=rss&utm_campaign=shapeburst-fill-styles-"
+"in-qgis-2-4>`__."
+msgstr "आमच्याकडे क्यूजीआयएस 2.4 मध्ये एक नवीन नवीन प्रस्तुत आहे. शेपबर्स्ट प्रस्तुतकर्ता आपल्याला बहुभुज इंटीरियरच्या दिशेने असलेल्या रेषेच्या काठावरुन ग्रेडियंटसह बहुभुज भरण्यास अनुमती देईल. आपण ** शेपबर्स्ट ** about बद्दल अधिक येथे वाचू शकता <http://nyalldawson.net/2014/06/shapeburst-fill-styles-in-qgis-2-4/?utm_source=rss&utm_medium=rss&utm_campaign=shapeburst-fill-styles-in-qgis-2-4>`__"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:263
+msgid "|image15|"
+msgstr "| इमेज 15 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:318
+msgid "image15"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:266
+msgid "Feature: Option to shift marker line placement"
+msgstr "वैशिष्ट्य: मार्कर लाइन प्लेसमेंट शिफ्ट करण्याचा पर्याय"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:268
+msgid ""
+"When using a marker line along a line or polygon edge, you can now specify "
+"an **offset** so that the marker line starts a set distance from the "
+"beginning of the line. If a marker line is set to \"first vertex\" or \"last"
+" vertex\" mode, than this offset will control how far along the line from "
+"the vertex the marker is placed."
+msgstr "रेखा किंवा बहुभुज काठावर मार्कर लाइन वापरताना, आपण आता ** ऑफसेट ** निर्दिष्ट करू शकता जेणेकरून मार्कर लाइन ओळीच्या सुरूवातीपासून सेट अंतर सुरू करेल. जर एखादी चिन्हक रेखा \"प्रथम शिरोबिंदू\" किंवा \"शेवटचा शिरोबिंदू\" मोड वर सेट केली असेल तर, त्याऐवजी या ऑफसेटवर शिरोबिंदू रेषेत किती लांब स्थित आहे हे नियंत्रित करते."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:274
+msgid "|image16|"
+msgstr "| प्रतिमा 16 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:319
+msgid "image16"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:277
+msgid "Feature: New Inverted Polygon renderer"
+msgstr "वैशिष्ट्य: नवीन इन्व्हर्टेड बहुभुज प्रस्तुतकर्ता"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:279
+msgid ""
+"A new renderer has been added for polygon features, allowing you to style "
+"everything **outside** your polygons. This can be useful for highlighting "
+"areas, or for creating cartographic masks. When used with new shapeburst "
+"style, you can now produce output as shown in the image for this entry."
+msgstr "बहुभुज वैशिष्ट्यांसाठी नवीन प्रस्तुतकर्ता समाविष्ट केले गेले आहे, ज्यामुळे आपण आपल्या बहुभुजांच्या ** बाहेर ** प्रत्येक गोष्टीची शैली बनवू शकता. हे क्षेत्र हायलाइट करण्यासाठी किंवा कार्टोग्राफिक मुखवटे तयार करण्यासाठी उपयुक्त ठरू शकते. जेव्हा नवीन शेपबर्स्ट शैली वापरली जाईल, तेव्हा आपण आता या एंट्रीसाठी प्रतिमेत दर्शविल्याप्रमाणे आउटपुट तयार करू शकता."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:285
+msgid ""
+"**Note:** The new version of plugin mask helps to easily create mask layers "
+"from the current selection, label features only in those areas, and generate"
+" an automatic mask in Atlas map generation."
+msgstr "** टीपः ** प्लगइन मुखवटाची नवीन आवृत्ती सध्याच्या निवडीपासून सहजपणे मुखवटा स्तर तयार करण्यास, त्या भागात केवळ लेबल वैशिष्ट्ये आणि अ‍ॅटलास नकाशा निर्मितीमध्ये स्वयंचलित मुखवटा तयार करण्यास मदत करते."
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:289
+msgid "|image17|"
+msgstr "| प्रतिमा 17 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:320
+msgid "image17"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:292
+msgid "Feature: Saving and recovering styles with Spatialite layers"
+msgstr "वैशिष्ट्यः स्थानिक स्तरांसह शैली जतन करणे आणि पुनर्प्राप्त करणे"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:294
+msgid ""
+"In the previous version was possible to save style with postgres layers, now"
+" will be possible for Spatialite layers too. This functions allow to embed "
+"different styles inside a spatialite container simplifying sharing data and "
+"their presentation. A video tutorial of this funcionality can be found here "
+"http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-"
+"spatialite-database/"
+msgstr "मागील आवृत्तीत पोस्टग्रेस थरांसह शैली जतन करणे शक्य होते, आता स्थानिक स्थानिकांसाठी देखील शक्य आहे. ही कार्ये सामायिकरण डेटा आणि त्यांचे सादरीकरण सुलभ करुन एका स्थानिक कंटेनरमध्ये भिन्न शैली एम्बेड करण्याची परवानगी देतात. या गंमतीदारतेचे व्हिडिओ ट्यूटोरियल येथे आढळू शकते  http://pvanb.wordpress.com/2014/05/15/saving-layer-styles-to-your-spatialite-database/"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:301
+msgid "|image18|"
+msgstr "| इमेज 18 |"
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:321
+msgid "image18"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog240/index.rst:303
+msgid "image0"
+msgstr ""
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""
+
+#~ msgid "|image0|"
+#~ msgstr ""
+
+#~ msgid "Changelog for QGIS 2.4.0"
+#~ msgstr ""
+
+#~ msgid "If you would like to make a donation or sponsor our project, please"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "visit `our sponsorship page "
+#~ "<https://qgis.org/en/site/about/sponsorship.html#sponsorship>`__ for "
+#~ "details. QGIS is |  Free software and you are under no obligation to do so. "
+#~ "Sponsoring QGIS helps us to fund our six monthly developer meetings, "
+#~ "maintain project infrastructure |  and fund bug fixing efforts."
+#~ msgstr ""
+
+#~ msgid "In the previous version was possible to save style with postgres"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "layers, now will be possible for Spatialite layers too. |  This functions "
+#~ "allow to embed different styles inside a spatialite container simplifying "
+#~ "sharing data and their presentation. |  A video tutorial of this "
+#~ "funcionality can be found here http://pvanb.wordpress.com/2014/05/15/saving-"
+#~ "layer-styles-to-your-spatialite-database/"
+#~ msgstr ""

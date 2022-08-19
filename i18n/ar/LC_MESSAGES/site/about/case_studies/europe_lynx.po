@@ -1,0 +1,237 @@
+# 
+# Translators:
+# James Dyer <james.p.dyer15.mil@mail.mil>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-09-08 07:58+0000\n"
+"Last-Translator: James Dyer <james.p.dyer15.mil@mail.mil>, 2018\n"
+"Language-Team: Arabic (http://www.transifex.com/qgis/qgis-website/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:4
+msgid "Lynx habitat analysis in the Southern Carpathians"
+msgstr "تحليل الموائل الوشق في الكاربات الجنوبية"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:6
+msgid ""
+"A case study to promote basic understanding of wildlife habitat modeling for"
+" students based on open source data."
+msgstr "دراسة حالة لتعزيز الفهم الأساسي لنمذجة موائل الحياة البرية للطلاب استنادًا إلى بيانات مفتوحة المصدر."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:9
+msgid "Introduction"
+msgstr "مقدمة"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:11
+msgid ""
+"Challenged with the task of GIS based modeling for the first time, a working"
+" group of undergraduate forestry students of the University for Sustainable "
+"Development Eberswalde (HNEE) conducted literature research for habitat "
+"suitability and behavior of the Eurasian Lynx (*Lynx lynx*). In the module "
+"‘Applied GIS in Natural Resource Management’, under the guidance of Prof. "
+"Mund, the students quickly discovered the subject’s complexity, especially "
+"within regard to the adaptability of species to changing environments. With "
+"limited research published in English about lynx habitat on the Romanian "
+"side, we continued the project based on only freely available data sets and "
+"open-source software, aiming to establish conceptual knowledge of habitat "
+"modeling, strengthening skills on widely applied QGIS tools and to create a "
+"**basic expert model** in the process."
+msgstr "تحديًا مع مهمة النمذجة القائمة على نظام المعلومات الجغرافية لأول مرة ، أجرت مجموعة عمل من طلاب الحراجة الجامعيين في جامعة التنمية المستدامة Eberswalde (HNEE) بحثًا حول الأدب لمدى ملاءمة سلوك وسلوك الوشق الأوروبي الآسيوي (* Lynx lynx *). في نموذج \"نظام المعلومات الجغرافية التطبيقي في إدارة الموارد الطبيعية\" ، بتوجيه من البروفيسور ماند ، اكتشف الطلاب بسرعة تعقيد الموضوع ، خاصة فيما يتعلق بتكيف الأنواع مع البيئات المتغيرة. مع بحث محدود نُشر باللغة الإنجليزية حول موئل الوشق على الجانب الروماني ، واصلنا المشروع على أساس مجموعات البيانات المتاحة فقط والبرمجيات مفتوحة المصدر ، التي تهدف إلى إنشاء معرفة مفاهيمية لنمذجة الموائل ، وتعزيز المهارات على أدوات QGIS المطبقة على نطاق واسع وإنشاء ** نموذج خبير أساسي ** في هذه العملية."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:24
+msgid "Methodology"
+msgstr "المنهجية"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:26
+msgid ""
+"All collected data was processed with QGIS 2.6 and 2.8, projected into "
+"ETRS89 / ETRS-LAEA and stored according to the INSPIRE directive to meet EU "
+"standards. An overall **discrete index of weights** was defined and applied "
+"to all input data."
+msgstr "تمت معالجة جميع البيانات التي تم جمعها مع QGIS 2.6 و 2.8 ، مسقطة في ETRS89 / ETRS-LAEA وتخزينها وفقا لتوجيه INSPIRE لتلبية معايير الاتحاد الأوروبي. تم تعريف وتطبيق فهرس منفصل للأوزان ** بشكل عام على جميع بيانات المدخلات."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:34
+msgid "Figure 1: Workflow - Lynx habitat expert model"
+msgstr "الشكل 1: سير العمل - نموذج خبير موئل الوشق"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:37
+msgid "**Workflow description**"
+msgstr "** وصف سير العمل **"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:39
+msgid ""
+"Area of Interest [Step I – II]: Based on selected national park areas and "
+"adding a 10 kilometer buffer, a minimum bounding box [α] was created and "
+"clipped with the outline of the river Danube (derived from Corine Land Cover"
+" 2006). Further clipping tools [β] were applied to all additional data as an"
+" initial preparation step (Figure 2)"
+msgstr "مجال الاهتمام [الخطوة الأولى - الثانية]: بناء على مناطق منتزهات وطنية مختارة وإضافة مخزن مؤقت طوله 10 كيلومترات ، تم إنشاء صندوق محيط أدنى [α] وتم قصه مع الخطوط العريضة لنهر الدانوب (المستمد من Corine Land Cover 2006). تم تطبيق المزيد من أدوات القطع [β] على جميع البيانات الإضافية كخطوة تحضيرية أولية (الشكل 2)"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:41
+msgid ""
+"Land Cover Suitability Model [Step IX]: [γ] Input III and IV were "
+"transformed into shape files using the inbuilt #Polygonize function. Corine "
+"Landcover (2006) data was reclassified using the field calculator to group "
+"land use classes and assign respective index values.  Similar processing was"
+" applied to Hansen Forestcover data (2000), extracting only areas of cover "
+"equal or higher 75 %. Sub-model IX was produced by using the functions "
+"#Merge Shapes to combine III with IV and #Rasterize"
+msgstr "نموذج ملاءمة غطاء الأرض [الخطوة التاسعة]: [γ] تم تحويل الإدخال الثالث والرابع إلى ملفات شكل باستخدام وظيفة #Polygonize التي يحمل في ثناياه عوامل. تم إعادة تصنيف بيانات Corine Landcover (2006) باستخدام الآلة الحاسبة الميدانية لتجميع فئات استخدام الأراضي وتعيين قيم فهرس خاصة بها. تم تطبيق معالجة مماثلة على بيانات غابة هانسن (2000) ، واستخراج مناطق التغطية فقط مساوية أو أعلى 75٪. تم إنتاج النموذج الفرعي 9 باستخدام وظائف #Merge Shapes للجمع بين III و IV و #Rasterize"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:43
+msgid ""
+"*Note: Land cover classes were grouped by possible lynx occurrence and human"
+" activity. Although technically of older origin, information related to "
+"forest cover values were integrated in order to indicate habitat improvement"
+" and as a general example for joining spatial data sets*"
+msgstr "* ملاحظة: تم تصنيف الطبقات غطاء الأرض من الممكن حدوث الوشق والنشاط البشري. على الرغم من أنه من الناحية التقنية من أصل قديم ، فقد تم دمج المعلومات المتعلقة بقيم الغطاء الحراجي للإشارة إلى تحسين الموائل وكمثال عام للانضمام إلى مجموعات البيانات المكانية *"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:45
+msgid ""
+"Habitat Suitability Model [Step X]: [δ] An Elevation Suitability Index was "
+"derived from the AsterDEM 2.0 [VI] and together with a Population Density "
+"Index [V] was integrated into the final habitat suitability model (Figure 3)"
+" by using the #Raster calculator"
+msgstr "نموذج الملاءمة للموئل [الخطوة X]: [δ] تم اشتقاق مؤشر ملائمة الارتفاعات من AsterDEM 2.0 [VI] وتم دمج مؤشر الكثافة السكانية [V] مع نموذج الملاءمة النهائي للموئل (الشكل 3) باستخدام # حاسبة النقطية"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:51
+#, python-format
+msgid ""
+"*Note:Defining forest (>= 75 % cover) as best suitable and using the "
+"elevation data to reduce index values above assumed tree line is "
+"conceptually related to habitat of deer as the main prey*"
+msgstr "* ملاحظة: تعريف الغابة (> = 75٪ غطاء) كأفضل مناسبة واستخدام بيانات الارتفاع لتقليل قيم المؤشر فوق خط الأشجار المفترض مرتبط من الناحية النظرية بموائل الغزال كالفريسة الرئيسية *"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:53
+msgid ""
+"Potential Hunter Accessibility Model [Step XI]: Applying the #Terrain "
+"analysis tool [ε], a slope layer was extracted from the DEM data and "
+"combined [η] with a road distance layer, which was produced by processing "
+"rasterized OSM road data within the #Proximity function and index values "
+"assigned using #Reclassify grid values"
+msgstr "نموذج إمكانية الوصول إلى صياد محتمل [الخطوة الحادية عشرة]: بتطبيق أداة تحليل Terrarain [],، تم استخراج طبقة ميل من بيانات DEM ودمجت [η] مع طبقة طريق طريق ، والتي تم إنتاجها من خلال معالجة بيانات الطرق OSM المنقطة داخل #Proference دالة وقيم فهرس يتم تعيينها باستخدام #Reclassify grid values"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:62
+msgid ""
+"Conservation Value Model [Step XII]: Is the result of the #Raster calculator"
+" function: (Figure 4)"
+msgstr "نموذج قيمة الحفظ [الخطوة الثانية عشرة]: هو نتيجة دالة #aster الحاسبة: (الشكل 4)"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:70
+msgid ""
+"*Note: The Hunter Accessibility Model shall indicate the decreasing "
+"likelihood of hunters accessing the area by further distance to roads and "
+"increasing slope*"
+msgstr "* ملاحظة: يشير نموذج إمكانية الوصول إلى هانتر إلى انخفاض احتمال دخول الصيادين إلى المنطقة عن طريق المزيد من المسافة إلى الطرق وزيادة ميلها *"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:76
+msgid "Figure 2, 3 and 4"
+msgstr "الشكل 2 و 3 و 4"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:79
+msgid "Conclusion"
+msgstr "الخاتمة"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:81
+msgid ""
+"Looking at the final output (Figure 3), a plausible first potential habitat "
+"analysis appeared to be successful, yet more importantly, basic modeling "
+"itself turned out to be less difficult than initially expected. Our choice "
+"to add a sub-model for hunter accessibility allowed us to implement another "
+"dimension in terms of habitat risk assessment, which can be simply nested "
+"into the already existing scenario and used to determine protection "
+"necessities under aspects of e.g. infrastructure development. However, some "
+"crucial habitat information, such as forest structure (our highest habitat "
+"suitability) cannot be derived by available data sets and in combination "
+"with the complex species behavior, the result must therefore be understood "
+"as basic and incomplete. Additional factors not implemented at this stage "
+"are road mortality, terrain roughness and detailed prey occurrence."
+msgstr "بالنظر إلى الناتج النهائي (الشكل 3) ، بدا أن تحليل الموطن المحتمل الأول كان ناجحًا ، ولكن الأهم من ذلك أن النماذج الأساسية نفسها تبين أنها أقل صعوبة مما كان متوقعًا في البداية. وقد أتاح لنا اختيارنا لإضافة نموذج فرعي يتيح لنا الوصول إلى الصيادين تنفيذ بُعد آخر من حيث تقييم مخاطر الموائل ، والذي يمكن دمجه ببساطة في السيناريو القائم حاليًا واستخدامه لتحديد ضرورات الحماية في جوانب مثل. تطوير البنية التحتية. ومع ذلك ، فإن بعض المعلومات الحيوية للموائل ، مثل هيكلية الغابات (أعلى ملاءمة للموئل) لا يمكن اشتقاقها من خلال مجموعات البيانات المتاحة وبالاقتران مع سلوك الأنواع المعقدة ، يجب بالتالي فهم النتيجة على أنها أساسية وغير كاملة. هناك عوامل إضافية لم يتم تنفيذها في هذه المرحلة تتمثل في الوفيات على الطرق ، وخشونة التضاريس الأرضية ، وحدوث فريسة مفصلة."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:93
+msgid ""
+"Besides its open source, free available character, QGIS software has been "
+"the subject of major developments in recent years. We made very positive "
+"experience with the integration of the tool box, allowing the use of various"
+" GRASS and SAGA tools, even for inexperienced users. No compatibility issues"
+" occurred despite changing frequently between different versions and the "
+"general absence of administrative restrictions can be a powerful advantage "
+"when working intuitively with data sets. We are looking forward seeing "
+"further improvements, especially in regards to the integrated model builder."
+msgstr "إلى جانب مصدرها المفتوح ، الشخصية المجانية المتاحة ، كان برنامج QGIS موضوعًا للتطورات الرئيسية في السنوات الأخيرة. لقد حققنا تجربة إيجابية للغاية مع تكامل صندوق الأدوات ، مما سمح باستخدام أدوات GRASS و SAGA المختلفة ، حتى للمستخدمين غير المتمرسين. لم تحدث مشكلات توافق على الرغم من التغيير المتكرر بين الإصدارات المختلفة والغياب العام للقيود الإدارية يمكن أن يكون ميزة قوية عند العمل بشكل بديهي مع مجموعات البيانات. نحن نتطلع إلى رؤية المزيد من التحسينات ، خاصة فيما يتعلق ببناء النماذج المتكاملة."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:103
+msgid "References"
+msgstr "المراجع"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:105
+msgid ""
+"Kaczensky, P., Chapron, G.,von Avrx, M., Huber, D., Andrén, H. & Linnell, J."
+" (December 2012): Status, management and distribution of large carnivores in"
+" Europe. Document European Commission."
+msgstr "Kaczensky، P.، Chapron، G.، von Avrx، M.، Huber، D.، Andrén، H. & Linnell، J. (December 2012): Status، management and distribution of large carnivores in Europe. وثيقة المفوضية الأوروبية."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:106
+msgid ""
+"Schadt, S., Revilla, E., Wiegand, T., Knauer, F., Kaczensky, P., "
+"Breitenmoser, U., Bufka, L., Cerveny, J., Koubek, P., Huber, T., Stanisa, C."
+" & Trepl, L. (2002): Assessing the suitability of central European "
+"landscapes for the reintroduction of Eurasian lynx. Article Journal of "
+"Applied Ecology."
+msgstr "Schadt، S.، Revilla، E.، Wiegand، T.، Knauer، F.، Kaczensky، P.، Breitenmoser، U.، Bufka، L.، Cerveny، J.، Koubek، P.، Huber، T.، Stanisa، C. & Trepl، L. (2002): تقييم مدى ملاءمة المناظر الطبيعية في أوروبا الوسطى لإعادة تقديم الوشق الأوروبي الآسيوي. مجلة علم الايكولوجيا التطبيقية."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:107
+msgid ""
+"Salvatori, V. (2004): Conservation areas for large carnivores in the "
+"Carpathian Mountains. PhD Thesis."
+msgstr "Salvatori، V. (2004): Conservation areas for large can carvivores in the Carpathian Mountains. رسالة الدكتوراه."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:108
+msgid ""
+"Podgórski, T., Schmidt, K., Kowalczyk, R. & Gulczyñska, A. (2008): "
+"Microhabitat selection by Eurasian lynx and its implications for species "
+"conservation. Acta Theriologica 53: 97–110."
+msgstr "Podgórski، T.، Schmidt، K.، Kowalczyk، R. & Gulczyñska، A. (2008): Microhabitatالاختيار عن طريق الوشق الأوراسي وآثاره على حفظ الأنواع\n. Acta Theriologica 53: 97–110."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:109
+msgid ""
+"Boutros, D. (March 2002): Characterization and assessment of suitability of "
+"Eurasian lynx (Lynx lynx) den sites. KORA Report No. 12e, Diploma thesis."
+msgstr "Boutros، D. (March 2002): توصيف وتقييم ملاءمة\n oras eurasian lynx (Lynx lynx) den sites. تقرير KORA رقم 12e ، أطروحة الدبلومة."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:112
+msgid "Authors"
+msgstr "المؤلف"
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:114
+msgid ""
+"Angela Dichte, Luca Ehrminger, Silvana Garcia Travesi Reyes, Tobias Hoppe "
+"and David Winger are fourth semester students of the study program "
+"International Forest Ecosystem Management B.Sc., Anne Gnilke respectively "
+"German Forestry and Henri Hiltunen is an exchange student from Mikkeli "
+"University of Applied Sciences, Finland. Prof. Mund is lecturing GIS and "
+"Remote Sensing at HNE Eberswalde since 2010 and provided guidance and "
+"technical support to the project."
+msgstr "أنجيلا ديشتي ولوكا إهرمنغر وسيلفانا جارسيا ترافيسي رييس وتوبياس هوب وديفيد وينجر طالبان في الفصل الرابع من برنامج الدراسة الدولي للغابات في إدارة الأنظمة البيئية ، آن غنيلك على التوالي الغابات الألمانية وهنري هيلتينن طالب تبادل من جامعة ميكيلي التطبيقية العلوم ، فنلندا. يحاضر الأستاذ موند في نظم المعلومات الجغرافية والاستشعار عن بعد في HNE Eberswalde منذ عام 2010 وقدم التوجيه والدعم الفني للمشروع."
+
+#: ../../source/site/about/case_studies/europe_lynx.rst:122
+msgid ""
+"Please contact Luca.Ehrminger(at)hnee.de, David.Winger(at)hnee.de, or "
+"Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund(at)hnee.de for further information."
+msgstr "يرجى الاتصال بـ Luca.Ehrminger (at) hnee.de، David.Winger (at) hnee.de، or Prof.Dr.Jan-Peter Mund: Jan-Peter.Mund (at) hnee.de لمزيد من المعلومات."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

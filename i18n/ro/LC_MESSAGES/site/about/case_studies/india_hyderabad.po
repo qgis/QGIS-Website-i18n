@@ -1,0 +1,168 @@
+# 
+# Translators:
+# Sorin Călinică <scalinica@gmail.com>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:26+0000\n"
+"Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2014\n"
+"Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:3
+msgid "QGIS Trainings at NIRD Jaipur Centre, India"
+msgstr "Training QGIS la Centrul NIRD Jaipur, India"
+
+msgid "Study area in Portugal"
+msgstr "Zona de studiu din Portugalia"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:11
+msgid ""
+"The National Institute of Rural Development (NIRD) is an Apex institute of "
+"Ministry of Rural Development, Government of India. Headquarter is located "
+"at Hyderabad city of India and it has three sub centres at Guwahati, Jaipur "
+"and Patna city. Jaipur city is capital of Rajasthan State (North Western "
+"side of country). The NIRD Jaipur Centre is actively involved in short "
+"(mostly 5 days including one-day handheld GPS survey and local visit) "
+"residential GIS trainings for middle level government officials of North "
+"Indian States. Reputed NGOs and Scholars are also trained if interested. "
+"Trainings are fully sponsored by NIRD and participants are to bear only "
+"their travel expenses. The author is working in NIRD Jaipur centre as an "
+"Assistant Professor and coordinating GIS and Watershed related trainings at "
+"the centre. Initially at the time of his posting at Headquarter of NIRD at "
+"Hyderabad, he was involved in GIS trainings with commercial software like "
+"ArcGIS and ERDAS. After getting opportunity of a two days training on "
+"QuantumGIS at IIT Madras in 2009, it was felt that the Open Source GIS can "
+"fulfil the need of Rural Development sector of India. The version learnt in "
+"training was QGIS 1.0.2. The training feedback was provided to seniors and "
+"it was recommended to introduce QGIS in further trainings but apprehensions "
+"were there in accepting the software in mainstream of trainings. Software "
+"was then pursued for the personal use for one year and its new versions were"
+" checked for the enhanced functionalities. During this whenever author was "
+"course coordinator in training, he used QGIS in trainings for introduction "
+"and feedbacks."
+msgstr "Institutul Național de Dezvoltare Rurală (NIRD) este un institut Apex al Ministerului Dezvoltării Rurale al Guvernului Indiei. Sediul central se află în orașul Hyderabad din India și are trei sub-centre în Guwahati, Jaipur și orașul Patna. Orașul Jaipur este capitala statului Rajasthan (nord-vestul țării). Centrul NIRD Jaipur este implicat activ în scurte cursuri de GIS rezidențiale (în general 5 zile, inclusiv o zi de studiu a aparatelor GPS mobile, plus o vizită locală) pentru oficiali guvernamentali de nivel de mijloc din statele nord-indiene. ONG-urile reputate și cercetătorii sunt, de asemenea, instruiți dacă sunt interesați. Instruirea este pe deplin sponsorizată de către NIRD iar participanții trebuie să suporte doar cheltuielile de călătorie. Autorul lucrează în centrul NIRD Jaipur ca și profesor asistent si coordonator GIS, ținând cursuri referitoare la bazinele hidrografice. Inițial, la momentul ocupării postului de la NIRD, în Hyderabad, el a fost implicat în instruirea în GIS cu software comercial, cum ar fi ArcGIS și ERDAS. După oportunitatea accesării unui curs de două zile, de formare în QuantumGIS, la IIT Madras în 2009, a constatat că aplicațiile GIS cu sursă deschisă pot îndeplini nevoia dezvoltării sectoarelor rurale din India. Versiunea învățată pe durata formării a fost QGIS 1.0.2. Concluziile instruirii au fost furnizate către conducerea institutului, recomandându-se introducerea QGIS în cursurile suplimentare, deși au fost temeri vizavi de acceptarea aplicației în training-ul de bază. Software-ul a fost folosit pentru uz personal pentru un an iar noilor versiuni le-au fost verificate noile funcționalități. În această perioadă autorul a folosit QGIS în training-uri de introducere și pentru feedback."
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:15
+msgid "QGIS is used for all GIS training courses"
+msgstr "QGIS este utilizat pentru toate cursurile de formare GIS"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:22
+msgid "QGIS training course at NIRD Jaipur Centre"
+msgstr "Curs de formare QGIS la Centrul NIRD Jaipur"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:24
+msgid ""
+"Since creation of NIRD Jaipur centre, only QuantumGIS is being used for all "
+"GIS trainings at the centre. Further it is being messaged and advised in all"
+" trainings that no commercial GIS software should be purchased at District "
+"(administrative unit in India after Nation and State) and below, if real "
+"requirement is not felt and this saving may be used for purchase of hardware"
+" like GPSs, computers etc."
+msgstr "De la crearea de centrului NIRD Jaipur, numai QuantumGIS este utilizat pentru toate cursurile GIS de la centru. În plus se recomandă ca în toate instruirile să nu se achiziționeze software GIS comercial de către nici un District (Unitate administrativă în India, după națiune și stat) și dacă este cazul, economia făcută să fie utilizată pentru achiziționarea de hardware, cum ar fi GPS-uri, calculatoare etc"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:26
+msgid ""
+"There is a question why QGIS only when other software like uDig, MapWindow, "
+"gvSIG, GRASS are also there. The answer lies in the facts that QGIS is an "
+"OSGeo incubated project, less complex, its development is very fast and "
+"associated with huge community of users and developers and lastly authors "
+"expertise. With its latest version of 1.8, software is capable of satisfying"
+" the all needs of grass root rural development executors in India with "
+"satisfying the present queries and wishes for future."
+msgstr "Întrebarea este de ce numai QGIS, atunci când există alte software-uri, cum ar fi uDig, MapWindow, gvSIG, GRASS, de asemenea. Răspunsul se află în datele care arată despre QGIS că este un proiect incubat în OSGeo, deloc complicat, dezvoltarea sa fiind foarte rapidă și având asociată o comunitate foarte mare de utilizatori și dezvoltatori. Cu ultima versiune 1.8, softul este capabil de a satisface toate nevoile celor implicați în dezvoltarea rurală a Indiei, satisfăcându-le atât cerințele actuale cât și dorințele pentru viitor."
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:28
+msgid ""
+"The applications of software during training are generally concentrated on "
+"Watershed and Mahatma Gandhi National Rural Employment Guarantee Scheme "
+"(MGNREGS) as these two are land based flagships of Government of India. "
+"Local Open Source Raster and Vector data are used in exercises. Participants"
+" are encouraged to come with their own or departmental data if available to "
+"work. Training is provided in lab equipped with 15 computers of i5, 8GB RAM "
+"and Windows7 OS. Per training number of trainees remains between 20-30."
+msgstr "Aplicațiile software pe durata instruirii sunt în general concentrate pe Bazinul hidrografic și pe Sistemul național Mahatma Gandhi de garantare a ocupării în mediul rural (MGNREGS), deoarece acestea două sunt cei di piloni ai Guvernului din India. Sursele libere de date raster și vector sunt utilizate în exerciții. Participanții sunt încurajați să vină cu propriile lor de date departamentale, dacă sunt disponibile la locul de muncă. Instruirea se face în laboratoare echipate cu 15 calculatoare i5, cu 8 GB RAM și sistem de operare Windows7. Numărul de cursanți per training rămâne între 20-30."
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:35
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
+msgid "Conducted QGIS training courses and participants"
+msgstr "Cursuri de formare QGIS organizate și participanți"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:37
+msgid ""
+"General topics covered are basic introduction to the GIS and QGIS software ,"
+" major tool bars, plug-in structure, geo-referencing, creation/editing of "
+"vector data, clip (Raster/Vector), merge, terrain analysis, contours, .csv "
+"to .shp layer, .shp to .kml and vice versa, handling GPS data, "
+"Interpolation, table editing/query, field calculator, print composer etc. "
+"and some basic analysis on vector data. Apart from introduction to various "
+"help links available, a LinkedIn group for participants has been created for"
+" post training support."
+msgstr "Temele generale acoperite sunt introducerea de bază în GIS și în softul QGIS, barele de instrumente importante, structura de plugin-uri, geo-referențierea, crearea/editarea de date vectoriale, decuparea (Raster/Vector), îmbinarea, analiza terenului, contururi, conversii de straturi .csv în .shp, .shp în .kml și invers, manipularea datelor GPS, interpolarea, editarea tabelelor/ interogări, calculatorul de câmpuri, editorul de hărți, etc și unele analize de bază pe date vectoriale. În afara diverselor link-uri de ajutor disponibile, un grup LinkedIn pentru participanți a fost creat pentru suportul de post-formare."
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:39
+msgid ""
+"Number of QGIS-based trainings conducted by author with participants’ "
+"details is shown in the table:"
+msgstr "Numărul de instruiri în QGIS efectuate de către autor, cu detalii despre participanți, sunt prezentate în tabel:"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:42
+msgid "Success"
+msgstr "Succesul"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:44
+msgid ""
+"Every month training is conducted with 20-30 participants so this number is "
+"increasing every month. Training feedbacks are remaining very positive and "
+"encouraging. Certificates are provided to the participants after completion "
+"of training. Presently handouts are being supplied to the participants in "
+"hard copy and tutorial, software and practice data in soft copies but plan "
+"is there to create DVDs containing screen-recorded lectures/demo of various "
+"topics in Hindi and English language. In future certificate and diploma "
+"programmes may also be initiated."
+msgstr "Fiecare lună de instruire se desfășoară cu 20-30 de participanți, acest număr fiind în creștere. Feedback-ul de formare rămâne foarte pozitiv și încurajator. După încheierea perioadei de formare, participanților li se oferă certificate. În prezent lecțiile sunt puse la dispoziția participanților pe suport de hârtie, împreună cu o copie a softului și a datelor practice, dar planul este de a crea DVD-uri cu prelegeri înregistrate/demonstrații despre diverse subiecte, atât în limba hindi cât și în engleză. În viitor pot fi, de asemenea, inițiate programe de certificare și de diplomă."
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:48
+msgid "Author"
+msgstr "Autor"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:55
+msgid "H K Solanki"
+msgstr "H K Solanki"
+
+#: ../../source/site/about/case_studies/india_hyderabad.rst:57
+msgid ""
+"This article was contributed in July 2012 by H K Solanki, Assistant "
+"professor, NIRD Jaipur centre, Website: http://www.nird.org.in"
+msgstr "Acest articol a fost trimis în iulie 2012 de către H K Solanki, Asistent universitar, Centrul NIRD Jaipur, Website: http://www.nird.org.in"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"
+
+#~ msgid ""
+#~ "Number of QGIS Based trainings conducted by author with participants’ "
+#~ "details is shown in the table:"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "Every month training is conducted with 20-30 participants so this number is "
+#~ "increasing every month. Training feedbacks are remaining very positive and "
+#~ "encouraging. Certificates are provided to the participants after completion "
+#~ "of training. Presently handouts are being supplied to the participants in "
+#~ "hard copy and tutorial, software and practice data in soft copies but plan "
+#~ "is there to create DVDs containing screen-recorded lectures/demo of various "
+#~ "topics in Hindi and English language.  In future certificate and diploma "
+#~ "programmes may also be initiated."
+#~ msgstr ""

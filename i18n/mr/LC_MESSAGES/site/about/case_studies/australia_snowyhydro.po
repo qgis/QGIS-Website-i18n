@@ -1,0 +1,205 @@
+# 
+# Translators:
+# KIG Team <info@khagolam.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2015-06-05 13:44+0000\n"
+"Last-Translator: KIG Team <info@khagolam.com>, 2017\n"
+"Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: mr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:4
+msgid "Using the processing toolbox to automate snow classification"
+msgstr "बर्फाचे वर्गीकरण स्वयंचलित करण्यासाठी प्रोसेसिंग टूलबॉक्स वापरणे"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:6
+msgid ""
+"Snowy Hydro Limited (SHL) is a peak electricity generator based in the Snowy"
+" Mountains of New South Wales, Australia. Despite owning a variety of "
+"generation assets across the country, Snowy Hydro Limited is best known for "
+"the custodianship of an iconic piece of Australian infrastructure, the Snowy"
+" Mountains Hydro Electric Scheme."
+msgstr "स्नोई हायड्रो लिमिटेड (एसएचएल) ऑस्ट्रेलियातील न्यू साउथ वेल्सच्या हिमाच्छादित पर्वत स्थित एक पीक वीज जनरेटर आहे. देशभरात विविध प्रकारच्या मालमत्तेची मालकी असला तरी, हिमाच्छादित हायड्रो लिमिटेड ऑस्ट्रेलियाच्या पायाभूत सुविधांच्या संरक्षणासाठी प्रसिद्ध आहे, स्नोई पर्वत हायड्रो इलेक्ट्रिक स्कीम."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:9
+msgid ""
+"The Snowy Mountains Hydro Electric Scheme, is made possible by seasonal snow"
+" falls in the New South Wales alpine region. Water from the spring snow melt"
+" is used to generate electricity addressing peak demand in the national "
+"electricity market, while also diverting water to the drier inland areas of "
+"South Eastern Australia for irrigation and agriculture."
+msgstr "हिमाच्छादित पर्वत हायड्रो इलेक्ट्रिक स्कीम, न्यू साऊथ वेल्स अल्पाइन भागातील मोसमी बर्फमुळे शक्य झाले आहे. स्प्रिंग हिमवृष्टीतील पाणी राष्ट्रीय वीज बाजारपेठेमध्ये वीज पुरवठ्याची मागणी, पीक आणि दक्षिण-पूर्व ऑस्ट्रेलियातील सिंचन आणि शेतीसाठी वाळवंट अंतर्देशीय भागात पाणी वळविण्यासाठी वापरली जाते."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:12
+msgid ""
+"Classifying snow cover over the winter months allows SHL to monitor the life"
+" cycle of the snow covered area, archive coverage areas for historical "
+"records, and provide coverage statistics to the hydrographic services team "
+"for water yield and storage forecasts."
+msgstr "हिवाळ्याच्या महिन्यांत बर्फ कव्हरची वर्गवारी करणे SHL हिमाच्छादित क्षेत्राचे जीवन चक्र, ऐतिहासिक नोंदींचे संग्रह क्षेत्र, आणि पाणी उपज आणि साठवण अंदाजांसाठी जलविज्ञान सेवा संघाला कव्हरेज आकडेवारी प्रदान करण्याची परवानगी देते."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:20
+msgid "Map 1.1 Snowy Water Catchment Map"
+msgstr "नकाशा 1.1 हिमांशू पाणी कॅचमेंट नकाशा"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:23
+msgid "Background"
+msgstr "पार्श्वभूमी"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:25
+msgid ""
+"Each year during the winter months (1st June to the 31st October) SHL "
+"obtains as many cloud free images as possible from the MODIS Terra (EOS AM) "
+"satellite. These images are then ingested into an algorithm known as the "
+"Normalised Difference Snow Index (NDSI), which is used to indicate areas "
+"where snow is present. While this algorithm is not unique to any one "
+"particular sensor, the MODIS instrument was chosen due to its adequate "
+"spatial resolution and daily coverage of the project area (Map 1.1 Snowy "
+"Water Catchment)."
+msgstr "हिवाळ्याच्या महिन्यांत प्रत्येक वर्षी (1 जून ते 31 ऑक्टोबर) SHL ने MOODIS Terra (EOS AM) उपग्रह पासून शक्य तितक्या ढग मुक्त प्रतिमा प्राप्त केल्या आहेत. त्यानंतर ही प्रतिमा सामान्यीकृत हिमवर्षाव निर्देशांक (एनडीएसआय) म्हणून ओळखल्या गेलेल्या एका अल्गोरिदममध्ये भरल्या जातात, ज्याचा वापर हिमवर्षाव असलेल्या ठिकाणी दर्शविण्याकरीता केला जातो. हा अल्गोरिदम कोणत्याही एका विशिष्ट सेन्सरसाठी अद्वितीय नसला तरी, MODIS इन्स्ट्रुमेंट त्याच्या पुरेसा स्थानिक रिझोल्यूशन आणि प्रकल्पाच्या क्षेत्राच्या दररोज कव्हरेज (मॅप 1.1 हिमवर्षाव पाणी संचय) यांच्यामुळे निवडण्यात आला."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:29
+msgid "Aim"
+msgstr "आमचे ध्येय"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:31
+msgid ""
+"The aim of this project is to automate the NDSI workflow as a model in the "
+"QGIS processing toolbox. The required output is a vector polygon showing the"
+" snow covered extent within the Snowy Water Catchment, along with "
+"attribution describing the total area covered in square kilometres."
+msgstr "QGIS प्रोसेसिंग टूलबॉक्समध्ये मॉडेल म्हणून एनडीएसआय वर्कफ्लो स्वयंचलित करने हा प्रकल्पाचा उद्देश आहे. आवश्यक आऊटपुट वेक्टर बहुभुज आहे ज्यामध्ये हिमध्वल वॉटर कॅचमेंटच्या अंतरावर हिमवर्षाव असणारा भाग दर्शवितात, तसेच चौरस किलोमीटरमध्ये असलेल्या एकूण क्षेत्राचे वर्णन करतात."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:35
+msgid "Method"
+msgstr "पद्धत"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:37
+msgid ""
+"The NDSI algorithm itself is quite simple (show below in Formula 1.1 - "
+"Normalised Difference Snow Index (NDSI)) and the subsequent steps required "
+"to extract snow cover in a vector format also lends itself nicely to a "
+"processing toolbox model."
+msgstr "एनडीएसआय अल्गोरिदम स्वतः अगदी सोपे आहे (फॉर्मुला 1.1 - सामान्य फॉरेस्ट हिम इंडेक्स (एनडीएसआय) मध्ये) आणि व्हेक्टरच्या स्वरूपात हिमवृष्टी काढण्यासाठी लागणारे पुढचे पावले देखील प्रोसेसिंग टूलबॉक्स मॉडेलसाठी छानपणे स्वतः उधार देतात."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:44
+msgid "Formula 1.1 - Normalised Difference Snow Index (NDSI)"
+msgstr "फॉर्म्युला 1.1 - सामान्य फरक हिम इंडेक्स (एनडीएसआय)"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:47
+msgid ""
+"This NDSI algorithm will return results between -1 and 1, with the threshold"
+" for snow typically being values greater than 0.4. An example of the NDSI "
+"output is shown below (Map 1.3 - NDSI output), alongside a natural colour "
+"image (Map 1.2 - MODIS true colour) for the 13th July 2014. As seen from "
+"these images the NDSI output is very good at discriminating snow covered "
+"areas from other land cover types and clouds. It can however misclassify "
+"portions of large water bodies as snow, caused by water having absorption "
+"characteristics in the Near Infrared part of the spectrum. This "
+"characteristic of the NDSI indicates the need to incorporate a water mask at"
+" some stage in the model."
+msgstr "हे NDSI अल्गोरिदम -1 आणि 1 दरम्यान निकाल देईल, विशेषत: बर्फसाठी थ्रेशोल्ड 0.4 पेक्षा जास्त असणार आहे. एनडीएसआय आउटपुटचे एक उदाहरण खाली दिलेले आहे (नकाशा 1.3 - एनडीएसआय आऊटपुट), 13 जुलै 2014 साठी नैसर्गिक रंगीत प्रतिमेसह (नकाशा 1.2 - एमडीआयएस खरे कलर). या प्रतिमांवरून पाहिल्याप्रमाणे बर्फला भेदभाव करताना एनडीएसआय आउटपुट फार चांगले आहे. इतर जमिनीच्या कव्हर प्रकार आणि ढगांचे झाकलेले भाग. हे मात्र मोठ्या प्रमाणातील बर्फाचे अंश म्हणून चुकीचे वर्गीकरण करू शकते, ज्यामुळे स्पेक्ट्रम जवळच्या इन्फ्रारेड भागात पाणी शोषून घेण्यासारखे आहे. NDSI च्या या वैशिष्ट्यपूर्ण मॉडेल मध्ये काही टप्प्यावर एक पाणी मुखवटा अंतर्भूत करण्याची आवश्यकता दर्शवितात."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:55
+msgid "Map 1.2 - MODIS true colour"
+msgstr "नकाशा 1.2 - MODIS सत्य रंग"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:62
+msgid "Map 1.3 - NDSI output"
+msgstr "नकाशा 1.3 - एनडीएसआय आउटपुट"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:69
+msgid "Map 1.4 - Recoded \"Snow\" vs \"Non snow\""
+msgstr "नकाशा 1.4 - \"स्नो\" विरूद्ध \"नॉन स्नो\""
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:72
+msgid ""
+"The NDSI output is created with some very simple band map by using the GRASS"
+" module \"r.mapcalculator\". Once the NDSI grid was available the NDSI "
+"threshold of 0.4 needed to be applied and this would result in a boolean "
+"grid depicting \"Snow\" and \"Non snow\" areas. To get that classification "
+"another GRASS module \"r.recode\" was used and produced the result shown "
+"above in Map 1.4 Recoded ‘Snow’ vs ‘Non Snow’."
+msgstr "GDS मॉड्यूल \"r.mapcalculator\" चा वापर करून NDSI आउटपुट काही अत्यंत सोपी बँड नकाशासह तयार केले आहे. एकदा NDSI ग्रिड उपलब्ध झाले की NDSI थ्रेशोल्ड 0.4 लागू करणे आवश्यक होते आणि यामुळे \"स्नो\" आणि \"नॉन स्नो\" क्षेत्रातील बुलियन ग्रिड होईल. तो वर्गीकरण मिळण्यासाठी आणखी एक GRASS मॉड्यूल \"r.recode\" वापरला आणि वरील नकाशावर दर्शविलेले परिणाम उत्पादन केले. 1.4 'स्नो' vs ' नॉन स्नो'"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:75
+msgid ""
+"The recoded grid was then converted to a vector polygon dataset and the snow"
+" covered areas were extracted (shown below, Map 1.5 - Extracted snow). The "
+"snow covered areas were then clipped to the Snowy Water Catchment  (shown "
+"below, Map - 1.6 Snow inside the SWC), then the large water bodies are "
+"masked out (shown below, Map 1.7 - Final snow covered area), and finally the"
+" area statistics for the snow covered area is generated."
+msgstr "त्यानंतर ग्रिड एका व्हेक्टर बहुभुज डेटासेटमध्ये रुपांतरीत करण्यात आला आणि बर्फ झाकलेले क्षेत्र काढले गेले (खाली दर्शविले गेले, मॅप 1.5 - एक्स्ट्रेक्टेड हिम). हिमवर्षावयुक्त क्षेत्रे नंतर हिमाच्छादित पाणी साठ्यामध्ये कापली गेली (खाली दर्शविल्याप्रमाणे, नकाशा - 1.6 एस.डब्ल्यू.सी. आत हिमपात), नंतर मोठ्या पाणगोभातील ढीग (खाली दर्शविल्याप्रमाणे, नकाशा 1.7 - अंतिम हिमाच्छादित क्षेत्र) आणि शेवटी क्षेत्र बर्फ संरक्षित क्षेत्रासाठी आकडेवारी व्युत्पन्न केली आहे."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:83
+msgid "Map 1.5 - Extracted Snow"
+msgstr "नकाशा 1.5 - काढलेली बर्फ "
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:90
+msgid "Map 1.6 - Snow inside the SWC"
+msgstr "नकाशा 1.6 - एसडब्ल्यूसीमध्ये हिमवर्षाव"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:97
+msgid "Map 1.7 - Final snow covered area"
+msgstr "नकाशा 1.7 - अंतिम बर्फ संरक्षित क्षेत्र"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:100
+msgid ""
+"The output from the model is a vector polygon showing the snow covered area "
+"within the Snowy Water Catchment. The attributes of the polygon include the "
+"area covered by the snow and the percentage of the catchment that is "
+"covered. The model in its entirety can be seen below in \"Image 1.1 - "
+"Normalised Difference Snow Index (NDSI) QGIS processing toolbox model\"."
+msgstr "मॉडेलचे आऊटपुट वेक्टर बहुभुज असून स्नोई वॉटर कॅचमेंटमधील बर्फ झाकलेले क्षेत्र दर्शवित आहे. बहुभुजाच्या गुणधर्मांमध्ये बर्फाने झाकलेले क्षेत्र आणि संरक्षित पाणलोट क्षेत्राची टक्केवारी समाविष्ट आहे. मॉडेल त्याच्या संपूर्णतेखाली \"इमेज 1.1 - सामान्यीकृत हिमवर्षाव निर्देशांक (एनडीएसआय) क्यूजीआयएस प्रोसेसिंग टूलबॉक्स मॉडेल\" मध्ये खाली दिसत आहे."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:108
+msgid ""
+"Image 1.1 - Normalised Difference Snow Index (NDSI) QGIS processing toolbox "
+"model"
+msgstr "प्रतिमा 1.1 - सामान्यीकृत हिमवर्षाव निर्देशांक (एनडीएसआय) QGIS प्रोसेसिंग टूलबॉक्स मॉडेल"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:112
+msgid "Results/Conclusion"
+msgstr "परिणाम / निष्कर्ष"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:114
+msgid ""
+"The QGIS processing toolbox is a powerful way to automate a workflow such as"
+" this snow classification. The model shown above successfully automates the "
+"snow classification process, and delivers a GIS dataset that can be used for"
+" visualisation and input into further statistical applications. It "
+"successfully removes subjective user error associated with previous methods "
+"used by SHL, while providing a repeatable and consistent classification "
+"tool. Some seasonal results can be viewed here."
+msgstr "QGIS प्रोसेसिंग टूलबॉक्स हा बर्फ वर्गीकरण सारख्या कार्यप्रवाह स्वयंचलित करण्यासाठी एक शक्तिशाली मार्ग आहे. वर दर्शविलेले मॉडल यशस्वीरित्या बर्फ वर्गीकरण प्रक्रियेस स्वयंचलित करते आणि जीआयएस डेटासेट वितरीत करते जे व्हिज्युअलायझेशन आणि इनपुटसाठी पुढील सांख्यिकीय अनुप्रयोगांमध्ये वापरले जाऊ शकते. पुनरावृत्तीयोग्य आणि सातत्यपूर्ण वर्गीकरण साधन प्रदान करताना हे SHL द्वारे वापरल्या जाणाऱ्या पूर्वीच्या पद्धतींसह संबंधित विषयक वापरकर्ता त्रुटी यशस्वीरित्या काढते. काही हंगामी परिणाम येथे पाहिले जाऊ शकतात."
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:118
+msgid "Author"
+msgstr "लेखक"
+
+#: ../../source/site/about/case_studies/australia_snowyhydro.rst:120
+msgid ""
+"Andrew Jeffrey is a GIS Analyst with Snowy Hydro Limited based in Cooma NSW,"
+" Australia. He graduated from Charles Sturt University in Wagga Wagga with a"
+" Bachelor of Science (Bsc) majoring in Spatial Information Systems in 2004. "
+"While at Snowy Hydro Limited he has been able to provide spatial support to "
+"exciting projects such as the Cloud Seeding experiment, and day to day "
+"operations within the organisation."
+msgstr "अँड्र्यू जेफ्री ऑस्ट्रेलियातील कूमा एनएसडब्ल्यूमध्ये स्थित हिमाचल प्रदेश हायस्कूल लिमिटेडसह जीआयएस विश्लेषक आहे. 2004 मध्ये स्पाशील इन्फॉर्मेशन सिस्टिम्स मध्ये त्यांनी प्राध्यापक म्हणून विज्ञान (बीएससी) घेऊन वाग्गा वागामधील चार्ल्स स्टर्ट विद्यापीठातून पदवी प्राप्त केली. स्नोइ हायड्रो लिमिटेडमध्ये त्यांनी क्लाउड सीडिंग प्रयोग आणि दिवसांसारख्या रोमांचक प्रकल्पांना स्थानिक आधार प्रदान करण्यास सक्षम केले आहे. "
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

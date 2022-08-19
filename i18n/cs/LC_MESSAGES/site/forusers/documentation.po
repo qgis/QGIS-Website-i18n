@@ -1,0 +1,47 @@
+# 
+# Translators:
+# trendspotter <jirka.p@volny.cz>, 2020
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-13 20:28\n"
+"PO-Revision-Date: 2013-09-17 13:24+0000\n"
+"Last-Translator: trendspotter <jirka.p@volny.cz>, 2020\n"
+"Language-Team: Czech (http://www.transifex.com/qgis/qgis-website/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+#: ../../source/site/forusers/documentation.rst:2
+msgid "QGIS Documentation"
+msgstr "QGIS Dokumentace"
+
+#: ../../source/site/forusers/documentation.rst:6
+msgid "Users Manual"
+msgstr "Příručka uživatele"
+
+#: ../../source/site/forusers/documentation.rst:8
+msgid ""
+"The Manual of current stable version can be found in the documentation "
+"section: :ref:`QGIS-manual-index-reference`"
+msgstr "Manuál aktuální stabilní verze najdete v sekci dokumentace: :ref:`QGIS-manual-index-reference`"
+
+#: ../../source/site/forusers/documentation.rst:12
+msgid "PyQGIS Manual"
+msgstr "PyQGIS Příručka"
+
+#: ../../source/site/forusers/documentation.rst:14
+msgid ""
+"You can read the PyQGIS dev cookbook here: :ref:`PyQGIS-Developer-Cookbook`"
+msgstr "Kuchařku pro PyQGIS dev si můžete přečíst zde: :ref:`PyQGIS-Developer-Cookbook`"
+
+#: ../../source/site/forusers/documentation.rst:18
+msgid "Workshops"
+msgstr "Workshopy"
+
+#: ../../source/site/forusers/documentation.rst:21
+msgid "Developer Manual"
+msgstr "Příručka vývojáře"

@@ -1,0 +1,297 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+# 
+# Translators:
+# James Dyer <james.p.dyer15.mil@mail.mil>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS 3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2018-05-20 14:28+0000\n"
+"Last-Translator: James Dyer <james.p.dyer15.mil@mail.mil>, 2018\n"
+"Language-Team: Arabic (https://www.transifex.com/qgis/teams/6144/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:3
+msgid "Historical Gazetteer of the Crimea"
+msgstr "المعجم التاريخي لشبه جزيرة القرم"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:5
+msgid ""
+"Every day, Ottomanists around the world generate valuable materials as "
+"components of their scholarly research, but these materials may not be "
+"readily available to scholars with similar interests.  The purpose of the "
+"OpenOttoman (Amy Singer, OpenOttoman: A Collaborative Platform for Digital "
+"Scholarship, "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship, 2017) is to stimulate generation"
+" of such materials and provide open and convenient access to these "
+"materials. The OpenOttoman Portal (http:// www.openottoman.org) (OOP) is one"
+" vehicle for accessing these materials.  Materials made available through "
+"the OOP include databases, with a prime example being gazetteers of Ottoman "
+"world places.  Here, we describe the Historical Gazetteer of the Crimea "
+"(HGC), a prototype OOP gazetteer that includes populated places, districts, "
+"and provinces of Crimea in existence at the end of the Crimean Khanate."
+msgstr ""
+"كل يوم ، يقوم العثمانيون في جميع أنحاء العالم بتوليد مواد قيمة كمكونات "
+"لأبحاثهم العلمية ، ولكن هذه المواد قد لا تكون متاحة بسهولة للباحثين ذوي "
+"الاهتمامات المماثلة. الغرض من OpenOttoman (Amy Singer ، OpenOttoman: A "
+"Collaborative Platform for Digital Scholarship، "
+"https://networks.hnet.org/node/11419/discussions/166360/openottoman-"
+"collaborative-platform-digital-scholarship، 2017) هو تحفيز توليد هذه المواد "
+"وتوفير الوصول المفتوح والمريح لهذه المواد. بوابة OpenOttoman (http: // "
+"www.openottoman.org) (OOP) هي إحدى الوسائل للوصول إلى هذه المواد. وتشمل "
+"المواد التي يتم توفيرها من خلال OOP قواعد البيانات ، مع وجود مثال رئيسي على "
+"ذلك كمعناقع من أماكن العالم العثماني. هنا ، نحن نصف الكتاب التاريخي لشبه "
+"جزيرة القرم (HGC) ، وهو عبارة عن نموذج جغرافي OOP يشتمل على الأماكن المأهولة"
+" بالسكان والمناطق والمقاطعات في شبه جزيرة القرم الموجودة في نهاية خانات "
+"القرم."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:7
+msgid ""
+"The primary source of data for the HGC databases is Jankowski’s dictionary "
+"of pre-Russian places in Crimea (Henryk Jankowski, Historical-Etymological "
+"Dictionary of Pre-Russian Habitation Names of the Crimea, Brill, Leiden, "
+"2006). This source contains a map showing the locations of 137 populated "
+"places, 99 of which have been associated with existing places contained in "
+"the GeoNames database.  These are the populated place entries in the HGC, "
+"with latitude and longitude for these entries being taken from the GeoNames "
+"database."
+msgstr ""
+"المصدر الرئيسي للبيانات لقواعد بيانات HGC هو قاموس Jankowski للأماكن ما قبل "
+"الروسية في شبه جزيرة القرم (Henryk Jankowski ، القاموس التاريخي للغة "
+"الإنجليزية لأسماء السكان قبل الروس في القرم ، بريل ، ليدن ، 2006). يحتوي هذا"
+" المصدر على خريطة توضح مواقع 137 مكانًا مأهولًا ، وقد تم ربط 99 منها "
+"بالأماكن الموجودة في قاعدة بيانات GeoNames. هذه هي مدخلات المكان المأهولة في"
+" HGC ، مع خطوط الطول والعرض لهذه الإدخالات التي يتم أخذها من قاعدة بيانات "
+"GeoNames."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:9
+msgid ""
+"Jankowski’s map also shows boundaries for six provinces and 43 districts.  "
+"HGC locations for these features are region centroids approximated using "
+"boundaries shown on Jankowski’s map.  The HGC contains entries for 14 of the"
+" 16 rivers shown on Jankowski’s map plus 61 additional rivers included to "
+"aid in locating populated places and district and province boundaries."
+msgstr ""
+"تعرض خريطة Jankowski أيضًا حدودًا لست مقاطعات و 43 مقاطعة. مواقع HGC لهذه "
+"الميزات هي تقارب المناطق المركزية باستخدام الحدود الموضحة على خريطة "
+"Jankowski. يحتوي HGC على إدخالات ل 14 من الأنهار 16 الظاهرة على خريطة "
+"Jankowski بالإضافة إلى 61 نهراً إضافياً متضمنة للمساعدة في تحديد أماكن "
+"مأهولة بالسكان وحدود المقاطعات والمناطق."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:11
+msgid ""
+"Terrain elevation data (Shuttle Radar Topography Mission (SRTM) data, "
+"available at https://lta.cr.usgs.gov/SRTM1Arc) was incorporated into a base "
+"map of the region covered by Jankowski’s map.  District and province "
+"boundaries were approximated using Jankowski’s map plus terrain features "
+"such as rivers, ridge lines, and valleys where boundaries on Jankowski’ map "
+"were difficult to trace.  Gazetteer locations for rivers are river mouth "
+"latitude and longitude taken from the GeoNames database. Per Table 1, the "
+"HGC includes three separate sets of databases which can be accessed at "
+"http://epublications.marquette.edu/ottoman_crimea/.  This website also "
+"provides access to a project named HGC-QGIS-Project.qgs.  Opening the "
+"project in QGIS yields the result shown in Figure 1.  For the KML and shape "
+"file rivers databases, rivers were traced in QGIS using the Google Maps "
+"physical map."
+msgstr ""
+"أُدرجت بيانات ارتفاع التضاريس الأرضية (البيانات الخاصة ببعثة تضاريس رادار "
+"التضاريس (SRTM) ، المتاحة على الموقع https://lta.cr.usgs.gov/SRTM1Arc) في "
+"خريطة أساسية للمنطقة التي تغطيها خريطة يانكوفسكي. تم تقريب حدود المقاطعات "
+"والمقاطعات باستخدام خريطة Jankowski بالإضافة إلى خصائص التضاريس مثل الأنهار "
+"وخطوط التلال والوديان حيث كان من الصعب تتبع الحدود على خريطة Jankowski. "
+"مواقع خطوط البيانات الجغرافية للأنهار هي خطوط الطول والعرض لخطوط الأنهار "
+"المأخوذة من قاعدة بيانات GeoNames. لكل جدول 1 ، يضم HGC ثلاث مجموعات منفصلة "
+"من قواعد البيانات التي يمكن الوصول إليها على "
+"http://epublications.marquette.edu/ottoman_crimea/. يوفر هذا الموقع أيضًا "
+"الوصول إلى مشروع يدعى HGC-QGIS-Project.qgs. فتح المشروع في إنتاجية QGIS "
+"النتيجة الموضحة في الشكل 1. بالنسبة لقواعد بيانات KML و تنسيق ملف الأنهار ، "
+"تم تتبع الأنهار في QGIS باستخدام الخريطة الفعلية لخرائط Google."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Gazetteer databases"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:19
+msgid "Table 1: Gazetteer databases"
+msgstr "الجدول 1: قواعد بيانات المعجم"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:22
+msgid ""
+"Opening the project in QGIS yields the result shown in Figure 1.  For the "
+"KML and shape file rivers databases, rivers were traced in QGIS using the "
+"Google Maps physical map."
+msgstr ""
+"فتح المشروع في إنتاجية QGIS النتيجة الموضحة في الشكل 1. بالنسبة لقواعد "
+"بيانات KML و تنسيق ملف الأنهار ، تم تتبع الأنهار في QGIS باستخدام الخريطة "
+"الفعلية لخرائط Google."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "HGC-QGIS-Project.qgs opened in QGIS"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:29
+msgid "Figure 1: HGC-QGIS-Project.qgs opened in QGIS."
+msgstr "الشكل 1: افتتح HGC-QGIS-Project.qgs في QGIS."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:31
+msgid ""
+"Table 2 shows the HGC database fields.  Note the manner in which a unique ID"
+" is assigned to each place in the database.  Since each Jankowski place is "
+"associated with a place in the GeoNames database, and since each place in "
+"the GeoNames database has a unique ID given as a URL, the GeoNames URL for "
+"the place serves as a unique identifier for the HGC place."
+msgstr ""
+"ويبين الجدول 2 حقول قاعدة بيانات HGC. لاحظ الطريقة التي يتم بها تعيين معرف "
+"فريد لكل مكان في قاعدة البيانات. نظرًا لأن مكان Jankowski مرتبط بمكان في "
+"قاعدة بيانات GeoNames ، وبما أن كل مكان في قاعدة بيانات GeoNames له معرّف "
+"فريد يتم تقديمه كعنوان URL ، فإن عنوان URL لموقع GeoNames للمكان يعمل كمعرّف"
+" فريد لمكان HGC."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "HGC database fields"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:38
+msgid "Table 2: HGC database fields."
+msgstr "جدول 2: حقول قاعدة بيانات HGC."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:40
+msgid ""
+"Note that the ID can be opened in a web browser, thereby automatically "
+"displaying a GeoNames map with the populated place at its center, as shown "
+"in Figure 2."
+msgstr ""
+"لاحظ أنه يمكن فتح المعرِّف في متصفح ويب ، وبالتالي عرض خريطة GeoNames "
+"تلقائيًا مع المكان المكوَّن في وسطه ، كما هو موضح في الشكل 2."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Opening the URL ID for Qarağy in a web browser"
+msgstr ""
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:47
+msgid "Figure 2: Opening the URL ID for Qarağy in a web browser."
+msgstr "الشكل 2: فتح معرّف URL لـ Qarağy في متصفح ويب."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:49
+msgid ""
+"Per Table 2, the fields for the district, province, and river databases are "
+"the same as the fields for populated places except that the Page field is "
+"left blank, since districts, provinces, and rivers do not appear as entries "
+"in Jankowski’s dictionary.  Districts, provinces, and rivers are assigned "
+"URL IDs in the same way that they are assigned for populated places.  Thus, "
+"in Table 2 the Part of field for the populated place Qarağy is the GeoNames "
+"URL for Tarɣan, the district in which this place is located. The Code and "
+"Class fields use the nomenclature employed in the GeoNames database.  Per "
+"the example, the P code applies generally to populated places, and the PPLH "
+"class (sub-code) applies to historical populated places that no longer "
+"exists."
+msgstr ""
+"في الجدول 2 ، تكون حقول قواعد البيانات للمقاطعة والمقاطعة والنهر هي نفس حقول"
+" الأماكن المأهولة بالسكان باستثناء ترك حقل الصفحة فارغًا ، حيث لا تظهر "
+"المقاطعات والمقاطعات والأنهار كمدخلات في قاموس Jankowski. يتم تعيين معرفات "
+"URL للمقاطعات والمحافظات والأنهار بنفس طريقة تعيينها للأماكن المأهولة. وهكذا"
+" ، في الجدول 2 ، جزء من الحقل للمكان المأهول ، Qarağy هو عنوان URL لـ "
+"GeoNames لـ Tarɣan ، المقاطعة التي يقع فيها هذا المكان. تستخدم حقول "
+"التعليمات البرمجية والصفوف التسمية المستخدمة في قاعدة بيانات GeoNames. على "
+"سبيل المثال ، ينطبق رمز P بشكل عام على الأماكن المأهولة ، وتنطبق فئة PPLH "
+"(رمز فرعي) على الأماكن القديمة المأهولة بالسكان والتي لم تعد موجودة."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:52
+msgid ""
+"The Confidence field reflects the confidence level of the data captured in a"
+" particular database entry.  Because all populated places in the HGC can be "
+"associated with existing places in the GeoNames database, they are assigned "
+"a confidence level of 1.  Rivers are also assigned a confidence level of 1, "
+"since they have been traced directly from Google Maps."
+msgstr ""
+"يعكس مجال الثقة مستوى الثقة للبيانات التي تم التقاطها في إدخال قاعدة بيانات "
+"معين. نظرًا لأن جميع الأماكن المكوّنة في HGC يمكن ربطها بالأماكن الموجودة في"
+" قاعدة بيانات GeoNames ، يتم تعيين مستوى الثقة فيها 1. يتم تعيين مستوى الثقة"
+" أيضًا إلى 1 ، نظرًا لأنه تم تتبعها مباشرة من خرائط Google."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:54
+msgid ""
+"While providing a useful gazetteer, a primary purpose of the HGC was to "
+"serve as a test bed and use case for how other Ottoman world gazetteers "
+"could be incorporated into the OOP.  Based on experience gained through this"
+" project, a new project has been initiated to geolocate approximately 3,000 "
+"populated places, rivers, river fords, rapids, islands, forests, mountains, "
+"and valleys found on a set of 17th century maps of Ukraine produced by "
+"Guillaume Le Vasseur, sieur de Beauplan.  This project directly supports one"
+" of the principal investigator’s research on the Polish-Lithuanian "
+"Commonwealth /Ottoman Empire frontier.  More generally, this work responds "
+"to the need for gazetteers of the Ottoman world as expressed by the "
+"OpenOttoman initiative (http://openottoman.org)."
+msgstr ""
+"أثناء تقديم معجم جغرافي مفيد ، كان الغرض الأساسي من HGC بمثابة سرير اختبار "
+"واستخدام حالة لكيفية دمج معاجم أخرى للعالم العثماني في OOP. استنادًا إلى "
+"الخبرة المكتسبة من خلال هذا المشروع ، تم البدء في مشروع جديد لتحديد الموقع "
+"الجغرافي لما يقرب من 3000 مكان مأهول ، والأنهار ، ومخلفات النهر ، والمنحدرات"
+" ، والجزر ، والغابات ، والجبال ، والوديان الموجودة في مجموعة من خرائط القرن "
+"17 لأوكرانيا أنتجها Guillaume Le Vasseur، sieur de Beauplan. يدعم هذا "
+"المشروع بشكل مباشر أحد أبحاث الباحث الرئيسي حول الحدود الكومنولثية / "
+"العثمانية البولندية اللتوانية. بشكل عام ، يستجيب هذا العمل للحاجة إلى معاجم "
+"جغرافية للعالم العثماني كما عبرت عنها مبادرة OpenOttoman "
+"(http://openottoman.org)."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:57
+msgid "Authors"
+msgstr "المؤلف"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:59
+msgid "Figure 3: Michael and Mark Polczynski"
+msgstr "Figure 3: Michael and Mark Polczynski"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:66
+msgid "Michael and Mark Polczynski"
+msgstr "Michael and Mark Polczynski"
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:68
+msgid ""
+"Michael Polczynski (Michael.Polczynski@georgetown.edu) lectures at "
+"Georgetown University, where his work focuses on early modern Ottoman and "
+"East/Central European history, frontier history, historical geography, "
+"diplomacy, and intellectual history.  Michael also studies Late Medieval "
+"Eurasian history and 19th century European Emigres in the Ottoman Empire and"
+" works extensively with historical GIS and manage several on-line academic "
+"communities."
+msgstr ""
+"محاضرات مايكل Polczynski (Michael.Polczynski@georgetown.edu) في جامعة "
+"جورجتاون ، حيث يركز عمله على أوائل العصر العثماني الحديث وتاريخ شرق / وسط "
+"أوروبا ، وتاريخ الحدود ، والجغرافيا التاريخية ، والدبلوماسية ، والتاريخ "
+"الفكري. يدرس مايكل أيضًا التاريخ الأوروبي الآسيوي المتأخر والعادم الأوروبيين"
+" في القرن19في الإمبراطورية العثمانية ويعمل على نطاق واسع مع نظم المعلومات "
+"الجغرافية التاريخية وإدارة العديد من المجتمعات الأكاديمية عبر الإنترنت."
+
+#: ../../source/site/about/case_studies/usa_polczynski.rst:70
+msgid ""
+"Mark Polczynski (mark.polczynski@marquette.edu) is retired from Marquette "
+"University’s College of Engineering, and currently provides technical "
+"assistance to the OpenOttoman (openottoman.org), a developing transnational "
+"digital collaborative for scholarship and public history focused on the "
+"Ottoman world."
+msgstr ""
+"تقاعد مارك بولتشينسكي (mark.polczynski@marquette.edu) من كلية الهندسة بجامعة"
+" ماركويت ، ويقدم حاليًا المساعدة الفنية إلى OpenOttoman (openottoman.org) ، "
+"وهو تعاون تعاوني رقمي عبر الإنترنت منفتح للمنح الدراسية والتاريخ العام يركز "
+"على العالم العثماني."
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr ""
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr ""

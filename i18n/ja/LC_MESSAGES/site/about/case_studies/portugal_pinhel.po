@@ -1,0 +1,199 @@
+# 
+# Translators:
+# fairtommy <fairtommy@gmail.com>, 2018-2019
+# fairtommy <fairtommy@gmail.com>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: QGIS Website\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"PO-Revision-Date: 2013-09-17 13:25+0000\n"
+"Last-Translator: fairtommy <fairtommy@gmail.com>, 2018-2019\n"
+"Language-Team: Japanese (http://www.transifex.com/qgis/qgis-website/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:3
+msgid "QGIS and Forest Fire Risk Mapping in Portugal"
+msgstr "QGISとポルトガルの森林火災リスクの地図化"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:5
+msgid ""
+"Portugal has been affected by large wildfires causing huge losses, not only "
+"environmental, but also economic and social losses. To face this risk, the "
+"portuguese government, through the National Forest Authority (AFN), decided,"
+" a few years ago, to create technical offices allocated to local governments"
+" which, among other skills, must prepare Municipal Plans for Forest Fire "
+"Protection and Operational Response."
+msgstr "ポルトガルは、巨額の損失、環境的なだけでなく経済的、社会的な損失、を発生させる大規模な山火事の影響を受けています。このリスクに向き合うため、ポルトガル政府は、国有林局（AFN）を介して、地方政府に割り当てられる技術的な事務所を作成することを、数年前に、決定しました。これは、他のスキルの中でも、森林防火と動作応答のための市の計画を準備する必要があります。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:7
+msgid ""
+"In order to support the elaboration of these documents, the AFN provided "
+"technical guides with a methodology for calculating and mapping the Forest "
+"Fire Hazard and Risk. Moreover, tutorials have been offered to follow this "
+"methodology, using Proprietary Software. However, the acquisition and "
+"licensing costs of that software are unaffordable for most of the smaller "
+"local administrations and so, it was decided to create and make available a "
+"guide with a methodology for developing Hazard and Risk cartography using "
+"only Free and Open Source Software [http://goo.gl/TSv2E]."
+msgstr "これらの文書の精緻化をサポートするために、AFNは、森林火災災害・リスクを計算し、地図化するための方法論と技術的なガイドを提供します。また、チュートリアルでは、独自のソフトウェアを使用して、この方法論に従うことを提供されています。しかし、ソフトウェアの取得とライセンスコストは地方行政にはほとんど手が届かないですので、フリーかつオープンソースソフトウェア[ http://goo.gl/TSv2E ]だけを使用して災害・リスクの地図作成を開発するための方法論とのガイドを作成し、利用できるようにすることが決定されました。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:9
+msgid ""
+"It was proposed to use the following set of software: QGIS, GRASS GIS, gvSIG"
+" and GDAL/OGR libraries. That guide describes all the geoprocessing tasks "
+"necessary for the elaboration of the plans for Forest Fire Protection and "
+"Operational Response, according to the AFN methodology. A large part of the "
+"tasks were developed with QGIS, and spatial analysis in raster model was "
+"developed with GRASS. gvSIG was used for network analysis, with its Network "
+"Analysis extension, and GDAL/OGR libraries were used for transformations "
+"between coordinate reference systems."
+msgstr "QGIS、GRASS GIS、gvSIGとGDAL / OGRライブラリ：これは、ソフトウェアの次のセットを使用することが提案されました。このガイドは、AFNの方法に従って、森林防火と動作応答のための計画の精緻化のために必要なすべてのジオプロセシングタスクについて説明します。作業の大部分はQGISで開発され、ラスタモデルの空間分析はGRASSで開発されました。gvSIGが、そのネットワーク解析拡張とともに、ネットワーク解析のために使用されました。そしてGDAL / OGRライブラリーが、基準座標系間の変換のために使用されました。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:11
+msgid ""
+"After an extensive suite of tests to the methodology, and three years of "
+"real application in the preparation of the Operational Plan for the "
+"municipality of Pinhel, it can be said that the proposed alternatives allow "
+"to replace, with many advantages, Proprietary Software that is usually used "
+"to carry out this task. The validation of the results shows that, despite "
+"the relative simplicity of the conceptual model, its predictive ability is "
+"quite good, and that the model implementation in Open Source Software does "
+"not interfere negatively with the results, quite the opposite."
+msgstr "広範な方法論へのテストスイートの後、およびピニェルの自治体の運用計画の作成における実際の応用から3年後の今、提案されている代替には多くの利点があり、通常このタスクを実行するために使用される商用ソフトウェアを置き換えることを可能にする、と言うことができます。結果の検証が示したことは、この概念モデルが比較的単純であるにもかかわらずその予測能力はかなり良いこと、そしてオープンソースソフトウェアでモデルの実装は結果にマイナスに干渉しない、むしろ全く逆であることです。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid "Forest Fire Hazard and Risk Maps of Pinhel"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:23
+msgid ""
+"Forest Fire Hazard and Risk Maps of Pinhel, implemented with Open Source "
+"Software."
+msgstr "オープンソースソフトウェアで実装された、ピニェルの森林火災災害リスクマップ。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:25
+msgid ""
+"In a second phase, it was tried to speed up this process, using models to "
+"establish a workflow that perform a wide set of tasks, almost without human "
+"intervention. This second stage consisted essentially in the automation of "
+"the entire procedure described in practical guide which resulted from the "
+"first phase. Such automation could mean a reduction of several hours of "
+"intense work on the part of the technician who intends to produce annually "
+"Forest Defense Plans, for just a few minutes, in which the human "
+"intervention boils down to the selection of input data and the indication of"
+" the place where we intend to keep the output data."
+msgstr "第二段階では、ほとんどの人間の介入なしに、タスクの広いセットを実行するワークフローを確立するためのモデルを使用して、この手順を高速化することを試みました。この第二段階は本質的に、第一段階から得られた実用的なガイドで説明全体手順を自動化することで成っていました。このような自動化は、年次森林防衛計画を作成する予定技術者の一部に強烈な仕事の数時間の短縮、人間の介入がわずか数分の入力データの選択および出力データを保持するつもりな場所の指示に帰着する、を意味するかもしれません。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid "Interface of the Sextante Model"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:32
+msgid ""
+"Interface of the Sextante Model to calculate the Probability of the Forest "
+"Fire Hazard."
+msgstr "Sextanteモデルのインタフェースは、森林火災の危険の確率を計算します。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:34
+msgid ""
+"In furtherance of this second phase, we used the Python version of Sextante "
+"software, that works integrated into QGIS and adds a broad set of "
+"independent applications (GRASS GIS, SAGA GIS, OTB, R, GDAL/OGR, Pymorph, "
+"LASTools, Python scrips, etc..) in a single interface, providing a huge "
+"geoprocessing toolbox to QGIS users. Besides the integration of these "
+"applications in QGIS, Sextante has a tool for creating models, taking "
+"advantage of the modules offered by any of those softwares which aggregates."
+" So, we've created a model to automate the process of producing Forest Fire "
+"Hazard and Risk maps, using GRASS, SAGA, fTools and MMQGIS tools."
+msgstr "この第二段階の助成で、私たちはQGISに統合し、独立したアプリケーション（GRASSのGISの幅広いセットを追加する働きSextanteソフトウェアのPythonのバージョンを使用し、SAGAのGIS、OTB、R、GDAL / OGR、Pymorph、LASTools、Pythonののscrips 、等。）単一のインタフェースにおいて、QGISユーザーに巨大なジオプロセシングツールボックスを提供します。QGISでのこれらのアプリケーションの統合に加えて、Sextanteは、モデルを作成集約し、それらのソフトウェアのいずれかによって提供されるモジュールの利点を取るためのツールを持っています。そこで、私たちはGRASS、SAGA、fToolsとMMQGISツールを使用して、森林火災災害危険度地図を生成するプロセスを自動化するためのモデルを作成しました。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid "Part of the model developed for automation of the production"
+msgstr ""
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:41
+msgid ""
+"Part of the model developed for automation of the production of cartography "
+"for Forest Fire Hazard and Risk."
+msgstr "森林火災ハザードとリスクのための地図作成の自動化のために開発されたモデルの一部。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:43
+msgid ""
+"The results obtained so far are very promising, as already can be "
+"automatically achieved the creation of the Hazard and Risk Maps [2]. Taking "
+"into account that the Python version of Sextante is still very recent and is"
+" in heavy construction, there are some problems that must be corrected so "
+"that the models may be completed, which certainly will happen very soon, "
+"given the momentum that Sextante project presents. As future work, we intend"
+" to apply, also automatically, the symbology to the results as well as "
+"provide the final layouts in QGIS Composer, ready for export and/or print. "
+"Upon completion of the second phase and the realization of a sufficient set "
+"of tests that can validate the results obtained, it is our intention to "
+"provide the model free and openly."
+msgstr "既に[2]災害危険度地図の作成を自動的に実現できるよう、これまでに得られた結果は、非常に有望です。SextanteのPythonのバージョンはまだ非常に最近のものであると重い建設中であることを考慮すると、モデルはSextanteプロジェクトが提示する勢いを考えると、確かに非常にすぐに起こるであろう、完了することができるように修正しなければならないいくつかの問題があります。今後の課題として、私たちはまた、自動的に、結果にシンボルだけでなく、輸出および/または印刷の準備ができてQGISのコンポーザで、最終的なレイアウトを提供、適用する予定。第二段階と、得られた結果を検証できるテストの十分なセットの実現が完了すると、無料と公然とモデルを提供するために、私たちの意図です。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:46
+msgid "Conclusions"
+msgstr "結論"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:48
+msgid ""
+"The alternatives studied proved to be of enormous quality, allowing all "
+"operations recommended in the National Forest Authority technical guides, in"
+" many ways, more efficiently than with Proprietary Software. In terms of "
+"ease of use, it was observed that this type of software is not, in any way, "
+"more complex than the proprietary software, requiring only more technical "
+"knowledge of the models and algorithms implemented which, however, allow a "
+"higher degree of freedom, making possible to explore and fine tune the "
+"models to each particular situation. The process of producing Forest Fire "
+"Hazard and Risk cartography using, exclusively, Open Source Software is "
+"fully consolidated, after several years of testing and application in the "
+"municipality of Pinhel."
+msgstr "検討された代替案はずば抜けた品質のものであることが判明しました。国有林局の技術的なガイドで推奨されたすべての操作が、多くの点で、商用ソフトウェアでするより効率的に、できます。使いやすさの点では、それはソフトウェアのこのタイプは、しかしながら、より高い自由度を可能にする、実現モデルおよびアルゴリズムの唯一のより技術的な知識を必要とする任意の方法で、商用ソフトウェアよりも、より複雑ではないことが観察されました、それぞれの特定の状況にモデルを模索して微調整することが可能となります。独占的に、オープンソースソフトウェアを使用して森林火災の危険やリスク地図を作成する方法の工程は、Pinhelの自治体でのテストとアプリケーションの数年後、完全に統合されます。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:50
+msgid ""
+"The fact that Open Source Software is based on standards and support most of"
+" the open data formats, allows the complete interoperability between "
+"software, allowing the user to opt for the most suitable in each moment. "
+"Despite our proposal point to a specific set of software, nothing prevents "
+"to be replaced by any of the existing alternatives in the wide range of "
+"proposals for Free and Open Source Software for Geospatial. However, QGIS "
+"increasingly presents itself as the most complete, stable and easy to use "
+"FOSS4G solution, and whose project is more dynamic, with rapid correction of"
+" bugs and with almost daily implementation of new plugins that adds specific"
+" functionalities to the most diverse areas of activities."
+msgstr "オープンソースソフトウェアは、標準規格に基づいており、オープンなデータフォーマットのほとんどをサポートしているという事実は、ユーザが各瞬間に最も適したを選ぶすることができ、ソフトウェア間の完全な相互運用性を可能にします。ソフトウェアの特定のセットに私たちの提案のポイントにもかかわらず、何も無料と地理空間のためのオープンソースソフトウェアのための提案の広い範囲で、既存の選択肢のいずれかで交換する妨げません。しかし、QGISはますます、ほとんど、完全な安定した、使いやすいFOSS4Gソリューションとしての地位を提示し、その事業活動の中で最も多様な分野に特定の機能を追加し、バグのと新しいプラグインのほぼ毎日実施して急速な補正で、よりダイナミックであります。"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:53
+msgid "Author"
+msgstr "制作者"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:60
+msgid "Pedro Venâncio"
+msgstr "ペドロ・ヴェナンシオ"
+
+#: ../../source/site/about/case_studies/portugal_pinhel.rst:62
+msgid ""
+"Pedro Venâncio B.Sc. in Geology, Postgraduate in Free Software and M.Sc. in "
+"Geographic Information Systems. He was a researcher at the Centre for "
+"Geophysics of the University of Coimbra, at the National Laboratory for "
+"Civil Engineering and is currently responsible for the service of "
+"Cartography and Geographic Information Systems at the Municipality of "
+"Pinhel."
+msgstr "ペドロ・ヴェナンシオ学士号 地質、フリーソフトウェアでの大学院生および地理情報システムでの修士です。氏は、土木工学のための国立研究所で、コインブラ大学の地球物理学センターの研究者でした。現在はピニェルの自治体での地図作成や地理情報システムのサービスを担当しています。"
+
+#: ../../<rst_epilog>:2
+msgid "checkbox"
+msgstr "checkbox"
+
+#: ../../<rst_epilog>:3
+msgid "checkbox_unchecked"
+msgstr "checkbox_unchecked"

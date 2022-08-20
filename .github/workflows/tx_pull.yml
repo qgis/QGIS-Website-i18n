@@ -1,9 +1,9 @@
 name: Pull strings from transifex
 
-on: [push]
-#  schedule:
-#    # 6:30 every day
-#    - cron:  '30 6 * * *'
+on:
+  schedule:
+    # 7:45 every day
+    - cron:  '45 7 * * *'
 
 # Allow one concurrent deployment
 concurrency:

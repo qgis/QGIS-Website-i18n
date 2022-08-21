@@ -24,7 +24,7 @@ jobs:
 
       - name: Create .tx/config
         run: |
-          mkdir .tx
+          mkdir -p .tx
           curl https://raw.githubusercontent.com/qgis/QGIS-Website/master/.tx/config -o .tx/config
 
       - name: Pull translations

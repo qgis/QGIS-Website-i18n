@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Vijay Naphade <vijay.naphade@khagolam.com>, 2021
@@ -5,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-09-14 15:08+0000\n"
 "PO-Revision-Date: 2014-10-19 11:13+0000\n"
 "Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2021\n"
 "Language-Team: Marathi (http://www.transifex.com/qgis/qgis-website/language/mr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.10.3\n"
 "Language: mr\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -20,15 +23,19 @@ msgstr ""
 msgid "Changelog for QGIS 2.0"
 msgstr "क्यूजीआयएस 2.0 साठी चेंजलॉग"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:12
+#: ../../source/site/forusers/visualchangelog200/index.rst:8
+msgid "Release date: 2013-09-09"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog200/index.rst:14
 msgid "Analysis tools"
 msgstr "विश्लेषण साधने"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:15
+#: ../../source/site/forusers/visualchangelog200/index.rst:17
 msgid "Feature: Processing Commander"
 msgstr "वैशिष्ट्य: प्रोसेसिंग कमांडर"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:17
+#: ../../source/site/forusers/visualchangelog200/index.rst:19
 msgid ""
 "For quick access to geoprocessing functionality, just launch the processing "
 "commander (Ctrl + Alt + M) and start typing the name of the tool you are "
@@ -37,38 +44,38 @@ msgid ""
 "at your fingertips."
 msgstr "जिओप्रोसेसिंग कार्यक्षमतेत द्रुत प्रवेशासाठी, फक्त प्रोसेसिंग कमांडर (Ctrl + Alt + M) लाँच करा आणि आपण ज्या साधनाचा शोध घेत आहात त्याचे नाव टाइप करण्यास प्रारंभ करा कमांडर आपल्याला उपलब्ध पर्याय दर्शवेल आणि त्या आपल्यासाठी त्यास लाँच करेल. मेनूद्वारे शोधणे आवश्यक नाही. साधने शोधण्यासाठी. ते आता आपल्या बोटांच्या टोकावर आहेत."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:23
+#: ../../source/site/forusers/visualchangelog200/index.rst:25
 msgid "|image1|"
 msgstr "| प्रतिमा 1 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:732
+#: ../../source/site/forusers/visualchangelog200/index.rst:734
 msgid "image1"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:26
+#: ../../source/site/forusers/visualchangelog200/index.rst:28
 msgid "Feature: Heatmap Plugin Improvements"
 msgstr "वैशिष्ट्यः हीटमॅप प्लगइन सुधारणा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:28
+#: ../../source/site/forusers/visualchangelog200/index.rst:30
 msgid ""
 "The heatmap plugin has seen numerous improvements and optimisations, "
 "resulting in much faster creation of heatmaps. Additionally, you now have "
 "the choice of which kernel function is used to create the heatmap."
 msgstr "हीटमैप प्लगइनमध्ये बरीच सुधारणा व ऑप्टिमायझेशन पाहिली आहेत, ज्यामुळे उष्माचित्रांची जलद निर्मिती होते. याव्यतिरिक्त, आपल्याकडे आता हीटमॅप तयार करण्यासाठी कोणत्या कर्नल फंक्शनचा वापर केला जातो याची निवड आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:32
+#: ../../source/site/forusers/visualchangelog200/index.rst:34
 msgid "|image2|"
 msgstr "| प्रतिमा 2 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:733
+#: ../../source/site/forusers/visualchangelog200/index.rst:735
 msgid "image2"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:35
+#: ../../source/site/forusers/visualchangelog200/index.rst:37
 msgid "Feature: Processing Support"
 msgstr "वैशिष्ट्य: प्रक्रिया समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:37
+#: ../../source/site/forusers/visualchangelog200/index.rst:39
 msgid ""
 "The SEXTANTE project has been ported to and incorporated into QGIS as core "
 "functionality. SEXTANTE has been renamed to 'Processing' and introduces a "
@@ -79,19 +86,19 @@ msgid ""
 " tools such as GRASS, OTB, SAGA etc."
 msgstr "सेक्स्टँटीई प्रोजेक्टला कोर फंक्शनॅलिटी म्हणून क्यूजीआयएस मध्ये पोर्ट केले गेले आणि त्यामध्ये समाविष्ट केले गेले आहे. सेक्स्टंटचे नाव बदलून 'प्रॉसेसिंग' केले गेले आहे आणि क्यूजीआयएस मध्ये नवीन मेनूची ओळख करुन दिली आहे जिथून आपण अवकाशीय विश्लेषण साधनांचा समृद्ध टूलबॉक्समध्ये प्रवेश करू शकता. प्रोसेसिंग टूलबॉक्समध्ये आश्चर्यकारकपणे समृद्ध कार्यक्षमता आहे . - अजगर प्रोग्रामिंग एपीआयसह जीआरएएस, ओटीबी, सागा इत्यादी बर्‍याच लोकप्रिय ओपन सोर्स टूल्सच्या विश्लेषण क्षमतांमध्ये सहजपणे नवीन साधने आणि हुक जोडण्याची परवानगी देतो."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:45
+#: ../../source/site/forusers/visualchangelog200/index.rst:47
 msgid "|image3|"
 msgstr "| प्रतिमा 3 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:734
+#: ../../source/site/forusers/visualchangelog200/index.rst:736
 msgid "image3"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:48
+#: ../../source/site/forusers/visualchangelog200/index.rst:50
 msgid "Feature: Processing Modeller"
 msgstr "वैशिष्ट्य: प्रोसेसिंग मॉडेलर"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:50
+#: ../../source/site/forusers/visualchangelog200/index.rst:52
 msgid ""
 "One of the great features of the new processing framework is the ability to "
 "combine the tools graphically. Using the **Processing Modeller**, you can "
@@ -101,23 +108,23 @@ msgid ""
 "use!"
 msgstr "नवीन प्रक्रिया फ्रेमवर्कची एक उत्तम वैशिष्ट्ये म्हणजे साधने ग्राफिकरित्या एकत्र करण्याची क्षमता. ** प्रोसेसिंग मॉडेलर ** वापरुन, आपण लहान एकल प्रयोजन मॉड्यूलच्या मालिकेतून जटिल विश्लेषण तयार करू शकता. आपण या मॉडेल्स जतन करू शकता आणि नंतर अद्भुत उर्जा बरोबरच QGIS मध्ये समाकलित झाली आणि वापरण्यास सुलभ आहे!"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:57
+#: ../../source/site/forusers/visualchangelog200/index.rst:59
 msgid "|image4|"
 msgstr "| प्रतिमा 4 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:735
+#: ../../source/site/forusers/visualchangelog200/index.rst:737
 msgid "image4"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:60
+#: ../../source/site/forusers/visualchangelog200/index.rst:62
 msgid "Application and Project Options"
 msgstr "अनुप्रयोग आणि प्रकल्प पर्याय"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:63
+#: ../../source/site/forusers/visualchangelog200/index.rst:65
 msgid "Feature: Define default startup project and project templates"
 msgstr "वैशिष्ट्य: डीफॉल्ट प्रारंभ प्रकल्प आणि प्रकल्प टेम्पलेट परिभाषित करा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:65
+#: ../../source/site/forusers/visualchangelog200/index.rst:67
 msgid ""
 "With QGIS 2.0 you can specify what QGIS should do when it starts: ``New "
 "Project`` (legacy behaviour, starts with a blank project), ``Most recent`` "
@@ -129,19 +136,19 @@ msgid ""
 "template`` menu."
 msgstr "क्यूजीआयएस 2.0 सह आपण क्यूजीआयएस ने प्रारंभ होईल तेव्हा काय करावे ते निर्दिष्ट करू शकता: `` नवीन प्रोजेक्ट`` (लेगसी वर्तन, रिक्त प्रकल्पाने सुरू होते), `` सर्वात अलीकडील- (जेव्हा आपण क्यूजीआयएस सुरू करता तेव्हा ते आपण केलेले अंतिम प्रकल्प लोड करेल चालू), `` विशिष्ट`` (क्यूजीआयएस सुरू झाल्यावर नेहमीच विशिष्ट प्रकल्प लोड करा). आपले टेम्पलेट प्रकल्प कोठे संग्रहित करावेत हे निर्दिष्ट करण्यासाठी आपण प्रकल्प टेम्पलेट निर्देशिका वापरू शकता. त्या निर्देशिकेत आपण संचयित केलेला कोणताही प्रकल्प म्हणून वापरासाठी उपलब्ध असेल oking `प्रोजेक्ट-> टेम्पलेट वरुन नवीन inv मेनूची विनंती करताना टेम्पलेट."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:74
+#: ../../source/site/forusers/visualchangelog200/index.rst:76
 msgid "|image5|"
 msgstr "| प्रतिमा 5 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:736
+#: ../../source/site/forusers/visualchangelog200/index.rst:738
 msgid "image5"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:77
+#: ../../source/site/forusers/visualchangelog200/index.rst:79
 msgid "Feature: System environment variables"
 msgstr "वैशिष्ट्यः सिस्टम पर्यावरण वातावरण"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:79
+#: ../../source/site/forusers/visualchangelog200/index.rst:81
 msgid ""
 "Current system environment variables can now be viewed and many configured "
 "within the application Options dialog. Useful for platforms, such as Mac, "
@@ -152,19 +159,19 @@ msgid ""
 "code."
 msgstr "सध्याचे सिस्टम एन्व्हायर्नमेंट व्हेरिएबल्स आता पाहिले जाऊ शकतात आणि बरेच अ‍ॅप्लिकेशन ऑप्शन्स संवादात कॉन्फिगर केले आहेत मॅक सारख्या प्लॅटफॉर्मसाठी उपयुक्त, जिथे जीयूआय theप्लिकेशन वापरकर्त्याच्या शेल वातावरणास आवश्यक नसते बाह्य साधनासाठी वातावरण बदल बदलण्यासाठी / सेट करण्यासाठी देखील उपयुक्त. प्रोसेसिंग टूलबॉक्सद्वारे नियंत्रित केलेले सेट्स, उदा. सागा, ग्रॅस; आणि, स्त्रोत कोडच्या विशिष्ट विभागांसाठी डीबगिंग आउटपुट चालू करण्यासाठी."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:87
+#: ../../source/site/forusers/visualchangelog200/index.rst:89
 msgid "|image6|"
 msgstr "| प्रतिमा 6 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:737
+#: ../../source/site/forusers/visualchangelog200/index.rst:739
 msgid "image6"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:90
+#: ../../source/site/forusers/visualchangelog200/index.rst:92
 msgid "Feature: User-defined zoom scales"
 msgstr "वैशिष्ट्य: वापरकर्त्याने परिभाषित झूम आकर्षित"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:92
+#: ../../source/site/forusers/visualchangelog200/index.rst:94
 msgid ""
 "A listing of zoom scales can now be configured for the application and "
 "optionally overridden per project. The list will show up in the ``Scale`` "
@@ -174,85 +181,85 @@ msgid ""
 "into other projects or another QGIS application."
 msgstr "अनुप्रयोगासाठी झूम स्केलची सूची आता कॉन्फिगर केली जाऊ शकते आणि प्रत्येक प्रकल्प वैकल्पिकरित्या अधिलिखित केली जाऊ शकते. यादी मुख्य विंडो स्टेटस बारमधील ``` स्केल`` पॉपअप कॉम्बो बॉक्समध्ये दर्शविली जाईल जे कार्यक्षमतेने पाहण्यासाठी ज्ञात त्वरित त्वरित प्रवेश करण्यास परवानगी देते. परिभाषित स्केल एक एक्सएमएल फाईलवर निर्यात केली जाऊ शकते जी अन्य प्रकल्पांमध्ये किंवा दुसर्‍या क्यूजीआयएस अनुप्रयोगामध्ये आयात केली जाऊ शकते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:99
+#: ../../source/site/forusers/visualchangelog200/index.rst:101
 msgid "|image7|"
 msgstr "| प्रतिमा 7 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:738
+#: ../../source/site/forusers/visualchangelog200/index.rst:740
 msgid "image7"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:102
+#: ../../source/site/forusers/visualchangelog200/index.rst:104
 msgid "Browser"
 msgstr "ब्राउझर"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:105
+#: ../../source/site/forusers/visualchangelog200/index.rst:107
 msgid "Feature: Improvements to in-app browser panel"
 msgstr "वैशिष्ट्यः अ‍ॅप-मधील ब्राउझर पॅनेलमधील सुधारणा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:107
+#: ../../source/site/forusers/visualchangelog200/index.rst:109
 msgid "Directories can be filtered by wildcard or regex expressions"
 msgstr "निर्देशिका वाईल्डकार्ड किंवा रेजेक्स अभिव्यक्तीद्वारे फिल्टर केल्या जाऊ शकतात"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:108
+#: ../../source/site/forusers/visualchangelog200/index.rst:110
 msgid "New ``Project home`` (parent directory of current project)"
 msgstr "नवीन ``` प्रकल्प मुख्यपृष्ठ (वर्तमान प्रकल्पाची मूळ निर्देशिका)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:109
+#: ../../source/site/forusers/visualchangelog200/index.rst:111
 msgid "View ``Properties`` of the selected directory in a dialog"
 msgstr "संवादातील निवडलेल्या निर्देशिकेचे `` गुणधर्म पहा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:110
+#: ../../source/site/forusers/visualchangelog200/index.rst:112
 msgid "Choose which directories to ``Fast scan``"
 msgstr "Directories `फास्ट स्कॅन`` कोणती निर्देशिका निवडा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:111
+#: ../../source/site/forusers/visualchangelog200/index.rst:113
 msgid ""
 "Choose to ``Add a directory`` directly to ``Favourites`` via filesystem "
 "browse dialog"
 msgstr "फाईलसिस्टम ब्राउझ संवादाद्वारे थेट `` आवडते`` वर `a निर्देशिका जोडा`` निवडा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:113
+#: ../../source/site/forusers/visualchangelog200/index.rst:115
 msgid ""
 "New ``/Volumes`` on Mac (hidden directory for access to external drives)"
 msgstr "मॅकवरील न्यू / वॉल्यूम्स`` (बाह्य ड्राइव्हमध्ये प्रवेश करण्यासाठी लपलेली निर्देशिका)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:115
+#: ../../source/site/forusers/visualchangelog200/index.rst:117
 msgid "New ``OWS`` group (collation of available map server connections)"
 msgstr "नवीन `` ओडब्ल्यूएस समूह (उपलब्ध नकाशा सर्व्हर कनेक्शनची जोडणी)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:116
+#: ../../source/site/forusers/visualchangelog200/index.rst:118
 msgid ""
 "Open a second browser (``View -> Panels -> Browser (2)``) for drag-n-drop "
 "interactions between browser panels"
 msgstr "ब्राउझर पॅनेलमधील ड्रॅग-अँड-ड्रॉप परस्परसंवादासाठी दुसरे ब्राउझर (`` पहा-> पॅनेल-> ब्राउझर (2) ``) उघडा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:118
+#: ../../source/site/forusers/visualchangelog200/index.rst:120
 msgid ""
 "Icons now sorted by item group type (filesystem, databases, map servers)"
 msgstr "आयटम गट प्रकारानुसार आता चिन्हांची क्रमवारी लावा (फाइल सिस्टम, डेटाबेस, नकाशा सर्व्हर)"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:120
+#: ../../source/site/forusers/visualchangelog200/index.rst:122
 msgid "Layer ``Properties`` now have better visual layout"
 msgstr "स्तर `` गुणधर्मांकडे आता चांगले व्हिज्युअल लेआउट आहे"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:122
+#: ../../source/site/forusers/visualchangelog200/index.rst:124
 msgid "|image8|"
 msgstr "| प्रतिमा 8 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:739
+#: ../../source/site/forusers/visualchangelog200/index.rst:741
 msgid "image8"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:125
+#: ../../source/site/forusers/visualchangelog200/index.rst:127
 msgid "Data Providers"
 msgstr "डेटा प्रदात्या"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:128
+#: ../../source/site/forusers/visualchangelog200/index.rst:130
 msgid "Feature: Raster Data Provider overhaul"
 msgstr "वैशिष्ट्य: रास्टर डेटा प्रदाता तपासणी"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:130
+#: ../../source/site/forusers/visualchangelog200/index.rst:132
 msgid ""
 "The raster data provider system has been completely overhauled. One of the "
 "best new features stemming from this work is the ability to 'Layer -> Save "
@@ -263,46 +270,46 @@ msgid ""
 "the rendered layer out to a georeferenced RGB layer."
 msgstr "रास्टर डेटा प्रदाता प्रणाली पूर्णपणे ओव्हरहाउल केली गेली आहे. या कामातून उद्भवणारी एक नवीन नवीन वैशिष्ट्य म्हणजे 'रायर-> म्हणून सेव्ह करा ...' ही क्षमता कोणत्याही रास्टर लेयरला नवीन लेयर म्हणून सेव्ह करणे. प्रक्रियेत आपण क्लिप करू शकता , पुन्हा नमुना, आणि नवीन समन्वय संदर्भ सिस्टमवर परत प्रोजेक्ट करा आपण रेस्टर लेयर रेन्डर इमेज म्हणून सेव्ह करू शकता जेणेकरून उदाहरणार्थ आपल्याकडे कलर पॅलेट लागू केलेला सिंगल बँड रास्टर असल्यास आपण रेंडर केलेला लेयर सेव्ह करू शकता. भौगोलिक संदर्भित आरजीबी लेयरवर."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:139
+#: ../../source/site/forusers/visualchangelog200/index.rst:141
 msgid "|image9|"
 msgstr "| प्रतिमा 9 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:740
+#: ../../source/site/forusers/visualchangelog200/index.rst:742
 msgid "image9"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:142
+#: ../../source/site/forusers/visualchangelog200/index.rst:144
 msgid "Feature: Oracle Spatial support"
 msgstr "वैशिष्ट्य: ओरॅकल स्थानिक समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:144
+#: ../../source/site/forusers/visualchangelog200/index.rst:146
 msgid "QGIS 2.0 now includes Oracle Spatial support."
 msgstr "QGIS 2.0 मध्ये आता ओरॅकल स्थानिक समर्थन समाविष्ट आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:146
+#: ../../source/site/forusers/visualchangelog200/index.rst:148
 msgid "|image10|"
 msgstr "| इमेज 10 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:741
+#: ../../source/site/forusers/visualchangelog200/index.rst:743
 msgid "image10"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:149
+#: ../../source/site/forusers/visualchangelog200/index.rst:151
 msgid "Feature: Web Coverage Service provider added"
 msgstr "वैशिष्ट्य: वेब कव्हरेज सेवा प्रदाता जोडला"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:151
+#: ../../source/site/forusers/visualchangelog200/index.rst:153
 msgid ""
 "QGIS now provides native support for Web Coverage Service layers - the "
 "process for adding WCS is similar to adding a WMS layer or WFS layer."
 msgstr "क्यूजीआयएस आता वेब कव्हरेज सर्व्हिस लेयर्ससाठी नेटिव्ह समर्थन पुरवतो - डब्ल्यूसीएस जोडण्यासाठीची प्रक्रिया डब्ल्यूएमएस लेयर किंवा डब्ल्यूएफएस लेयर जोडण्याइतकीच आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:155
+#: ../../source/site/forusers/visualchangelog200/index.rst:157
 #, python-format
 msgid "Feature: Raster 2% cumulative cut by default"
 msgstr "वैशिष्ट्य: डीफॉल्टनुसार रास्टर 2% संचयी कट"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:157
+#: ../../source/site/forusers/visualchangelog200/index.rst:159
 msgid ""
 "Many raster imagery products have a large number of outliers which result in"
 " images having a washed out appearance. QGIS 2.0 intoduces much more fine "
@@ -312,19 +319,19 @@ msgid ""
 " when rendering the same image with default settings."
 msgstr "बर्‍याच रास्टर प्रतिमा उत्पादनांमध्ये मोठ्या संख्येने आउटलिअर असतात ज्याच्या परिणामी प्रतिमांची धुलाई होते. QGIS 2.0 रेस्टरच्या प्रस्तुतीत्मक वागणुकीवर जास्त दानाचे धान्य नियंत्रित करते, डीफॉल्टनुसार 2% --98% टक्के संचयी कट वापरण्यासह डीफॉल्ट सेटिंग्जसह समान प्रतिमेचे प्रतिपादन करताना इमेजसाठी रंगाची जागा. येथे प्रतिमा QGIS 1.8 (डावीकडे) विरूद्ध QGIS 2.0 (उजवीकडे) दर्शविते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:165
+#: ../../source/site/forusers/visualchangelog200/index.rst:167
 msgid "|image11|"
 msgstr "| इमेज 11 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:742
+#: ../../source/site/forusers/visualchangelog200/index.rst:744
 msgid "image11"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:168
+#: ../../source/site/forusers/visualchangelog200/index.rst:170
 msgid "Feature: WMS identify format"
 msgstr "वैशिष्ट्य: डब्ल्यूएमएस फॉर्मेट ओळखते"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:170
+#: ../../source/site/forusers/visualchangelog200/index.rst:172
 msgid ""
 "It is now possible to select the format of the identify tool result for WMS "
 "layers if multiple known formats are supported by the server. The supported "
@@ -334,19 +341,19 @@ msgid ""
 "geometry may be copied to clipboard and pasted to another layer."
 msgstr "सर्व्हरद्वारे एकाधिक ज्ञात स्वरूपने समर्थित असल्यास डब्ल्यूएमएस स्तरांसाठी आयडेंटी टूल परिणामाचे स्वरुप निवडणे शक्य आहे समर्थित स्वरूप, एचटीएमएल, वैशिष्ट्य (जीएमएल) आणि साधा मजकूर आहे. वैशिष्ट्य (जीएमएल) स्वरूप निवडल्यास, परिणाम वेक्टर थरांप्रमाणेच, भूमिती हायलाइट केला जाऊ शकतो आणि गुणधर्म आणि भूमितीसह वैशिष्ट्य क्लिपबोर्डवर कॉपी केले जाऊ शकते आणि दुसर्या थरात पेस्ट केले जाऊ शकते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:178
+#: ../../source/site/forusers/visualchangelog200/index.rst:180
 msgid "|image12|"
 msgstr "| इमेज 12 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:743
+#: ../../source/site/forusers/visualchangelog200/index.rst:745
 msgid "image12"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:181
+#: ../../source/site/forusers/visualchangelog200/index.rst:183
 msgid "Feature: WMTS Support"
 msgstr "वैशिष्ट्य: डब्ल्यूएमटीएस समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:183
+#: ../../source/site/forusers/visualchangelog200/index.rst:185
 msgid ""
 "The WMS client in QGIS now supports WMTS (Web Mapping Tile Service) "
 "including selection of sub-datasets such as time slices. When adding a WMS "
@@ -354,23 +361,23 @@ msgid ""
 " to display."
 msgstr "क्यूजीआयएस मधील डब्ल्यूएमएस क्लायंट आता टाईम स्लाइस सारख्या सब-डेटासेटची निवड समावेश डब्ल्यूएमटीएस (वेब ​​मॅपिंग टाइल सर्व्हिस) चे समर्थन करते. कंप्लायंट सर्व्हरमधून डब्ल्यूएमएस लेयर जोडताना, आपल्याला दर्शविण्यासाठी टाइम स्लाइस निवडण्यासाठी सूचित केले जाईल."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:188
+#: ../../source/site/forusers/visualchangelog200/index.rst:190
 msgid "|image13|"
 msgstr "| प्रतिमा 13 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:744
+#: ../../source/site/forusers/visualchangelog200/index.rst:746
 msgid "image13"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:191
+#: ../../source/site/forusers/visualchangelog200/index.rst:193
 msgid "General"
 msgstr "सामान्य"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:194
+#: ../../source/site/forusers/visualchangelog200/index.rst:196
 msgid "Feature: Quantum GIS is now known only as 'QGIS'"
 msgstr "वैशिष्ट्य: क्वांटम जीआयएस आता फक्त 'क्यूजीआयएस' म्हणून ओळखले जाते"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:196
+#: ../../source/site/forusers/visualchangelog200/index.rst:198
 msgid ""
 "The 'Quantum' in 'Quantum GIS' never had any particular significance and the"
 " duality of referring to our project as both ``Quantum GIS`` and ``QGIS`` "
@@ -381,23 +388,23 @@ msgid ""
 "reflect this."
 msgstr "क्वांटम जीआयएस आणि इन क्वांटम जीआयएस या दोहोंचे कधीच विशेष महत्त्व नव्हते आणि क्वांटम जीआयएस आणि क्यूजीआयएस या दोन्ही प्रकल्पांमुळे आमच्या प्रोजेक्टचा संदर्भ घेण्याचे द्वैत काही गोंधळ उडाले. आम्ही आपला प्रकल्प सुलभ करतोय आणि त्याचाच एक भाग म्हणून प्रक्रिया म्हणजे आम्ही `ant क्वांटम`` हा शब्द अधिकृतपणे टाकत आहोत - यापुढे आम्ही केवळ` `QGIS`` (अप्पर केसमधील सर्व अक्षरे सहलेखित) म्हणून ओळखले जातील. प्रतिबिंबित करण्यासाठी आम्ही आमचे सर्व कोड आणि प्रसिद्धी साहित्य अद्यतनित करत आहोत हे"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:204
+#: ../../source/site/forusers/visualchangelog200/index.rst:206
 msgid "|image14|"
 msgstr "| प्रतिमा 14 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:745
+#: ../../source/site/forusers/visualchangelog200/index.rst:747
 msgid "image14"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:207
+#: ../../source/site/forusers/visualchangelog200/index.rst:209
 msgid "Labelling"
 msgstr "लेबलिंग"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:210
+#: ../../source/site/forusers/visualchangelog200/index.rst:212
 msgid "Feature: New labelling system"
 msgstr "वैशिष्ट्य: नवीन लेबलिंग सिस्टम"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:212
+#: ../../source/site/forusers/visualchangelog200/index.rst:214
 msgid ""
 "The labelling system has been totally overhauled - it now includes many new "
 "features such as drop shadows, 'highway shields', many more data bound "
@@ -407,19 +414,19 @@ msgid ""
 "follow up release."
 msgstr "लेबलिंग सिस्टम पूर्णपणे ओव्हरहाऊल केले गेले आहे - यात आता ड्रॉप सावली, 'हायवे शील्ड्स', बरेच डेटा बाऊंड ऑप्शन्स आणि विविध कामगिरी वर्धित अनेक वैशिष्ट्ये समाविष्ट आहेत. आम्ही हळू हळू 'लेबल' प्रणाली दूर करीत आहोत, तथापि आपणास अद्याप या रिलीझसाठी कार्यक्षमता आढळेल, आपण पाठपुरावा रीलीझमध्ये अदृश्य होईल अशी आपण अपेक्षा केली पाहिजे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:219
+#: ../../source/site/forusers/visualchangelog200/index.rst:221
 msgid "|image15|"
 msgstr "| इमेज 15 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:746
+#: ../../source/site/forusers/visualchangelog200/index.rst:748
 msgid "image15"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:222
+#: ../../source/site/forusers/visualchangelog200/index.rst:224
 msgid "Feature: Expression based label properties"
 msgstr "वैशिष्ट्य: अभिव्यक्तीवर आधारित लेबल गुणधर्म"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:224
+#: ../../source/site/forusers/visualchangelog200/index.rst:226
 msgid ""
 "The full power of normal label and rule expressions can now be used for "
 "label properties. Nearly every property can be defined with an expression or"
@@ -428,161 +435,161 @@ msgid ""
 "or can include more complex logic."
 msgstr "सामान्य लेबल आणि नियम अभिव्यक्तिंची संपूर्ण शक्ती आता लेबल गुणधर्मांसाठी वापरली जाऊ शकते जवळजवळ प्रत्येक मालमत्ता अभिव्यक्ती किंवा फील्ड व्हॅल्यूद्वारे परिभाषित केली जाऊ शकते जे आपल्याला लेबल निकालावर अधिक नियंत्रण देते. अभिव्यक्ती फील्डचा संदर्भ घेऊ शकतात (उदा. फॉन्ट आकार सेट करा ) फील्ड'फोंट 'च्या मूल्यापर्यंत) किंवा अधिक जटिल लॉजिक समाविष्ट करू शकते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:230
+#: ../../source/site/forusers/visualchangelog200/index.rst:232
 msgid "Examples of bindable properties include:"
 msgstr "बंधनकारक गुणधर्मांच्या उदाहरणांमध्ये हे समाविष्ट आहेः"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:232
+#: ../../source/site/forusers/visualchangelog200/index.rst:234
 msgid "Font"
 msgstr "फॉन्ट"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:233
+#: ../../source/site/forusers/visualchangelog200/index.rst:235
 msgid "Size"
 msgstr "आकार आकार"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:234
+#: ../../source/site/forusers/visualchangelog200/index.rst:236
 msgid "Style"
 msgstr "शैली"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:235
+#: ../../source/site/forusers/visualchangelog200/index.rst:237
 msgid "Buffer size"
 msgstr "बफर आकार"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:237
+#: ../../source/site/forusers/visualchangelog200/index.rst:239
 msgid "|image16|"
 msgstr "| प्रतिमा 16 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:747
+#: ../../source/site/forusers/visualchangelog200/index.rst:749
 msgid "image16"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:240
+#: ../../source/site/forusers/visualchangelog200/index.rst:242
 msgid "Feature: Older labelling engine deprecated"
 msgstr "वैशिष्ट्यः जुने लेबलिंग इंजिन नापसंत केले"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:242
+#: ../../source/site/forusers/visualchangelog200/index.rst:244
 msgid ""
 "Use of the older labelling engine available in QGIS <= 1.8 is now "
 "discouraged (i.e. deprecated), but has not been removed. This is to allow "
 "users to migrate existing projects from the old to new labelling engine."
 msgstr "क्यूजीआयएस <= 1.8 मध्ये उपलब्ध असलेल्या जुन्या लेबलिंग इंजिनचा वापर आता निराश झाला आहे (म्हणजेच असमर्थित), परंतु तो काढला गेला नाही. हे विद्यमान प्रकल्प जुन्या ते नवीन लेबलिंग इंजिनमध्ये स्थलांतरित करण्यास अनुमती देईल."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:247
+#: ../../source/site/forusers/visualchangelog200/index.rst:249
 msgid ""
 "The following guidelines for working with the older engine in QGIS 2.0 "
 "apply:"
 msgstr "क्यूजीआयएस 2.0 मधील जुन्या इंजिनसह कार्य करण्यासाठी खालील मार्गदर्शक तत्त्वे लागू आहेत:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:250
+#: ../../source/site/forusers/visualchangelog200/index.rst:252
 msgid ""
 "Deprecated labelling tab is removed from vector layer properties dialog for "
 "new projects or older opened projects that don't use that labelling engine."
 msgstr "नवीन प्रकल्पांसाठी किंवा जुन्या उघडलेल्या प्रकल्पांसाठी ते लेबलिंग इंजिन वापरत नाहीत अशा वेक्टर लेयर गुणधर्म संवादातून बहिष्कृत लेबलिंग टॅब काढला आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:253
+#: ../../source/site/forusers/visualchangelog200/index.rst:255
 msgid ""
 "Deprecated tab remains active for older opened projects, if any layer uses "
 "them, and does not go away even if saving the project with no layers having "
 "the older labelling engine enabled."
 msgstr "जुन्या उघडलेल्या प्रकल्पांसाठी नापसंत केलेला टॅब सक्रिय राहतो, जर कोणताही स्तर त्यांचा वापर करीत असेल आणि जुन्या लेबलिंग इंजिनला सक्षम नसलेले प्रकल्प नसलेले प्रकल्प जतन केले तरीही ते जात नाही."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:257
+#: ../../source/site/forusers/visualchangelog200/index.rst:259
 msgid ""
 "Deprecated labelling tab can be enabled/disabled for the current project, "
 "via Python console commands, e.g.:"
 msgstr "सध्याच्या प्रकल्पासाठी पायथन कन्सोल कमांडद्वारे उदासीन लेबलिंग टॅब सक्षम / अक्षम केला जाऊ शकतो."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:266
+#: ../../source/site/forusers/visualchangelog200/index.rst:268
 msgid ""
 "**NOTE**: There is a *very high likelihood* the deprecated labelling engine "
 "will be completely removed prior to the next stable release of QGIS. Please "
 "migrate older projects."
 msgstr "** टीप **: * खूप उच्च शक्यता आहे * क्युजीआयएसच्या पुढील स्थिर रीलीझच्या आधी नापसंत लेबलिंग इंजिन पूर्णपणे काढून टाकले जाईल. कृपया जुने प्रकल्प स्थलांतरित करा."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:270
+#: ../../source/site/forusers/visualchangelog200/index.rst:272
 msgid "|image17|"
 msgstr "| प्रतिमा 17 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:748
+#: ../../source/site/forusers/visualchangelog200/index.rst:750
 msgid "image17"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:273
+#: ../../source/site/forusers/visualchangelog200/index.rst:275
 msgid "Layer Legend"
 msgstr "स्तर दंतकथा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:276
+#: ../../source/site/forusers/visualchangelog200/index.rst:278
 msgid "Feature: Legend visual feedback and options"
 msgstr "वैशिष्ट्य: आभासी दृश्य अभिप्राय आणि पर्याय"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:278
+#: ../../source/site/forusers/visualchangelog200/index.rst:280
 msgid "Total count for features in layer, as well as per symbol"
 msgstr "प्रति चिन्हाप्रमाणेच थरातील वैशिष्ट्यांसाठी एकूण गणना"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:279
+#: ../../source/site/forusers/visualchangelog200/index.rst:281
 msgid ""
 "Vector layers in edit mode now have a red pencil to indicate uncommitted "
 "(unsaved) edits"
 msgstr "संपादन मोडमधील वेक्टर स्तरांकडे आता बिनविरोध (जतन न केलेली) संपादने दर्शविण्यासाठी लाल पेन्सिल आहे"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:281
+#: ../../source/site/forusers/visualchangelog200/index.rst:283
 msgid ""
 "Active layer is now underlined, to indicate it in multi-layer selections or "
 "when there is no selection"
 msgstr "मल्टी-लेयर निवडीमध्ये किंवा जेव्हा काही निवड नसते तेव्हा सूचित करण्यासाठी सक्रिय स्तर आता अधोरेखित केले आहे"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:283
+#: ../../source/site/forusers/visualchangelog200/index.rst:285
 msgid "Clicking in non-list-item whitespace now clears the selection"
 msgstr "नॉन-लिस्ट-आयटम व्हाइटस्पेसमध्ये क्लिक करणे आता निवड साफ करते"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:284
+#: ../../source/site/forusers/visualchangelog200/index.rst:286
 msgid ""
 "``Right-clicks`` are now treated as ``left-clicks`` prior to showing the "
 "contextual menu, allowing for one click instead of two"
 msgstr "संदर्भ मेनू दर्शविण्यापूर्वी `` now राइट-क्लिक`` now आता `` डावे-क्लिक्स- मानले जातील, दोनऐवजी एका क्लिकसाठी परवानगी दिली जाईल"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:286
+#: ../../source/site/forusers/visualchangelog200/index.rst:288
 msgid "Groups and layers can optionally be in a bold font style"
 msgstr "गट आणि स्तर वैकल्पिकपणे ठळक फॉन्ट शैलीमध्ये असू शकतात"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:287
+#: ../../source/site/forusers/visualchangelog200/index.rst:289
 msgid ""
 "Raster layer generated preview icons can now be turned off, for projects "
 "where such rendering may be slow"
 msgstr "अशा प्रकल्पासाठी अशा रेन्डरिंग मंद असू शकतात अशा प्रकल्पांसाठी आता रास्टर लेयर व्युत्पन्न पूर्वावलोकन चिन्ह बंद केले जाऊ शकतात"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:290
+#: ../../source/site/forusers/visualchangelog200/index.rst:292
 msgid "|image18|"
 msgstr "| इमेज 18 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:749
+#: ../../source/site/forusers/visualchangelog200/index.rst:751
 msgid "image18"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:293
+#: ../../source/site/forusers/visualchangelog200/index.rst:295
 msgid "Feature: Duplicate existing map layer"
 msgstr "वैशिष्ट्य: विद्यमान नकाशा स्तर डुप्लिकेट करा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:295
+#: ../../source/site/forusers/visualchangelog200/index.rst:297
 msgid ""
 "Duplicate selected vector and raster layers in the map layer legend. Similar"
 " to importing the same data source again, as a separate layer, then "
 "copy/pasting style and symbology attributes."
 msgstr "नकाशा स्तरातील आख्यायिकेमध्ये निवडलेले सदिश आणि रास्टर स्तरांची नक्कल करा. समान डेटा स्त्रोत पुन्हा आयात करण्यासाठी समान, स्वतंत्र स्तर म्हणून, नंतर कॉपी / पेस्ट करण्याची शैली आणि प्रतीकशास्त्र विशेषता."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:299
+#: ../../source/site/forusers/visualchangelog200/index.rst:301
 msgid "|image19|"
 msgstr "| प्रतिमा 19 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:750
+#: ../../source/site/forusers/visualchangelog200/index.rst:752
 msgid "image19"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:302
+#: ../../source/site/forusers/visualchangelog200/index.rst:304
 msgid "Feature: Multi-layer toggle editing commands"
 msgstr "वैशिष्ट्य: मल्टी-लेयर टॉगल एडिटिंग कमांड"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:304
+#: ../../source/site/forusers/visualchangelog200/index.rst:306
 msgid ""
 "User can now select multiple layers in legend and, if any of those are "
 "vector layers in edit mode, choose to save, rollback, or cancel current "
@@ -590,107 +597,107 @@ msgid ""
 "layers, regardless of selection."
 msgstr "वापरकर्ता आता आख्यायिकेमध्ये एकाधिक स्तर निवडू शकतो आणि त्यापैकी कोणतेही संपादन मोडमधील सदिश स्तर असल्यास, जतन न करणे, रोलबॅक किंवा विद्यमान बिनविरूद्ध संपादने रद्द करणे निवडू शकतात. वापरकर्त्याने त्या कृती सर्व स्तरांवर लागू करणे निवडीची पर्वा न करता देखील करू शकता."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:309
+#: ../../source/site/forusers/visualchangelog200/index.rst:311
 msgid "|image20|"
 msgstr "| प्रतिमा 20 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:751
+#: ../../source/site/forusers/visualchangelog200/index.rst:753
 msgid "image20"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:312
+#: ../../source/site/forusers/visualchangelog200/index.rst:314
 msgid "Map Composer"
 msgstr "नकाशा संगीतकार"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:315
+#: ../../source/site/forusers/visualchangelog200/index.rst:317
 msgid "Feature: HTML Map Items"
 msgstr "वैशिष्ट्य: एचटीएमएल नकाशा आयटम"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:317
+#: ../../source/site/forusers/visualchangelog200/index.rst:319
 msgid "You can now place html elements onto your map."
 msgstr "आपण आता आपल्या नकाशावर html घटक ठेवू शकता."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:319
+#: ../../source/site/forusers/visualchangelog200/index.rst:321
 msgid "|image21|"
 msgstr "| प्रतिमा 21 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:752
+#: ../../source/site/forusers/visualchangelog200/index.rst:754
 msgid "image21"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:322
+#: ../../source/site/forusers/visualchangelog200/index.rst:324
 msgid "Feature: Multipage support"
 msgstr "वैशिष्ट्य: मल्टीपेज समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:324
+#: ../../source/site/forusers/visualchangelog200/index.rst:326
 msgid "A single composer window can now contain more then one page."
 msgstr "एकाच संगीतकार विंडोमध्ये आता एक नंतर अधिक पृष्ठ असू शकते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:326
+#: ../../source/site/forusers/visualchangelog200/index.rst:328
 msgid "|image22|"
 msgstr "| प्रतिमा 22 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:753
+#: ../../source/site/forusers/visualchangelog200/index.rst:755
 msgid "image22"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:329
+#: ../../source/site/forusers/visualchangelog200/index.rst:331
 msgid "Feature: Expressions in composer labels"
 msgstr "वैशिष्ट्य: संगीतकार लेबलेमधील अभिव्यक्ती"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:331
+#: ../../source/site/forusers/visualchangelog200/index.rst:333
 msgid ""
 "The composer label item in 1.8 was quite limited and only allowed a single "
 "token $CURRENT\\_DATE to be used. In 2.0 full expression support has been "
 "added too greater power and control of the final labels."
 msgstr "1.8 मधील संगीतकार लेबल आयटम बर्‍याच मर्यादित होता आणि फक्त एकच टोकन UR CURRENT \\ _DATE वापरण्यास अनुमती दिली. 2.0 मध्ये पूर्ण अभिव्यक्ती समर्थन अंतिम लेबलांची अधिक शक्ती आणि नियंत्रण जोडले गेले आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:335
+#: ../../source/site/forusers/visualchangelog200/index.rst:337
 msgid "A label with an expression such as:"
 msgstr "अशा अभिव्यक्तीसह लेबलः"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:341
+#: ../../source/site/forusers/visualchangelog200/index.rst:343
 msgid "will be evaluated at print time (and display time) to generate:"
 msgstr "तयार करण्यासाठी मुद्रण वेळेत (आणि प्रदर्शन वेळ) मूल्यमापन केले जाईल:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:347
+#: ../../source/site/forusers/visualchangelog200/index.rst:349
 msgid ""
 "When atlas generation is enabled the currently active features' attribute "
 "values will also be accessible in the expressions allowing such things as:"
 msgstr "जेव्हा अ‍ॅटलस जनरेशन सक्षम केली जाते तेव्हा सध्याच्या सक्रिय वैशिष्ट्यांचे विशेषता मूल्ये यासारख्या गोष्टींना अनुमती देणार्‍या अभिव्यक्तींमध्ये देखील प्रवेशयोग्य असतील:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:355
+#: ../../source/site/forusers/visualchangelog200/index.rst:357
 msgid "|image23|"
 msgstr "| प्रतिमा 23 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:754
+#: ../../source/site/forusers/visualchangelog200/index.rst:756
 msgid "image23"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:358
+#: ../../source/site/forusers/visualchangelog200/index.rst:360
 msgid "Feature: Auto snap lines"
 msgstr "वैशिष्ट्य: स्वयं स्नॅप ओळी"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:360
+#: ../../source/site/forusers/visualchangelog200/index.rst:362
 msgid ""
 "Having nicely align map items is critical to making nice printed maps. Auto "
 "snapping lines have been added to allow for easy composer object alignment "
 "by simply dragging an object close to another."
 msgstr "छान संरेखित नकाशे तयार करण्यासाठी नकाशावर आयटम छान ठेवणे कठीण आहे. ऑब्जेक्टच्या जवळ असलेल्या वस्तू ड्रॅग करून सहज संगीतकार ऑब्जेक्ट संरेखनासाठी परवानगी देण्यासाठी स्वयं स्नॅपिंग लाइन जोडल्या गेल्या आहेत."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:364
+#: ../../source/site/forusers/visualchangelog200/index.rst:366
 msgid "|image24|"
 msgstr "| प्रतिमा 24 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:755
+#: ../../source/site/forusers/visualchangelog200/index.rst:757
 msgid "image24"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:367
+#: ../../source/site/forusers/visualchangelog200/index.rst:369
 msgid "Feature: Manual Snap Lines"
 msgstr "वैशिष्ट्यः मॅन्युअल स्नॅप लाईन्स"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:369
+#: ../../source/site/forusers/visualchangelog200/index.rst:371
 msgid ""
 "Sometimes you need to align objects a curtain distance on the composer. With"
 " the new manual snapping lines you are able to add manual snap lines which "
@@ -698,19 +705,19 @@ msgid ""
 "the top or side ruler to add new guide line."
 msgstr "कधीकधी आपल्याला संगीतकारांवर वस्तूंचे पडदे अंतर संरेखित करणे आवश्यक असते नवीन मॅन्युअल स्नॅपिंग लाइनसह आपण मॅन्युअल स्नॅप लाइन जोडू शकता ज्यामुळे सामान्य संरेखन वापरून ऑब्जेक्ट्स चांगल्या प्रकारे संरेखित करता येतील. नवीन मार्गदर्शक जोडण्यासाठी वरच्या किंवा बाजूच्या शासकाकडून फक्त ड्रॅग करा. ओळ"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:374
+#: ../../source/site/forusers/visualchangelog200/index.rst:376
 msgid "|image25|"
 msgstr "| प्रतिमा 25 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:756
+#: ../../source/site/forusers/visualchangelog200/index.rst:758
 msgid "image25"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:377
+#: ../../source/site/forusers/visualchangelog200/index.rst:379
 msgid "Feature: Map series generation"
 msgstr "वैशिष्ट्य: नकाशा मालिका निर्मिती"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:379
+#: ../../source/site/forusers/visualchangelog200/index.rst:381
 msgid ""
 "Ever needed to generate a map series? Of course you have. The composer now "
 "includes built in map series generation using the atlas feature. Coverage "
@@ -718,19 +725,19 @@ msgid ""
 "data is available in labels for on the fly value replacement."
 msgstr "नकाशा मालिका निर्मितीसाठी कधीही आवश्यक आहे? अर्थात आपल्याकडे आहे. संगीतकारात आता अ‍ॅटलास वैशिष्ट्य वापरून नकाशा मालिकेच्या निर्मितीमध्ये अंतर्भूत आहे. कव्हरेज लेयर्स पॉईंट्स, ओळी, बहुभुज असू शकतात आणि सध्याचे वैशिष्ट्य विशेषता डेटा लेबलमध्ये उपलब्ध आहे. फ्लाय व्हॅल्यू रिप्लेसमेंट"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:384
+#: ../../source/site/forusers/visualchangelog200/index.rst:386
 msgid "|image26|"
 msgstr "| प्रतिमा 26 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:757
+#: ../../source/site/forusers/visualchangelog200/index.rst:759
 msgid "image26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:387
+#: ../../source/site/forusers/visualchangelog200/index.rst:389
 msgid "Feature: Automatic overview support in map frame"
 msgstr "वैशिष्ट्य: नकाशा फ्रेममध्ये स्वयंचलित विहंगावलोकन समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:389
+#: ../../source/site/forusers/visualchangelog200/index.rst:391
 msgid ""
 "Need to show the current area of the main map frame in a smaller overview "
 "window. Now you can. The map frame now contains the ability to show the "
@@ -740,19 +747,19 @@ msgid ""
 "polygon object so your creativity is never restricted."
 msgstr "छोट्या विहंगावलोकन विंडोमध्ये मुख्य नकाशाच्या फ्रेमचे सद्य क्षेत्र दर्शविणे आवश्यक आहे आता आपण हे करू शकता नकाशा फ्रेममध्ये आता इतरांचे विस्तार दर्शविण्याची क्षमता आहे आणि हलविल्यावर अद्यतनित होईल. अ‍ॅटलास जनरेशन वैशिष्ट्यासह आता हे वापरुन कोर मधील संगीतकार काही चपळ नकाशा तयार करण्यास अनुमती देते. विहंगावलोकन फ्रेम शैली सामान्य नकाशा बहुभुज ऑब्जेक्ट सारखीच स्टाईलिंग वापरते जेणेकरून आपली सर्जनशीलता कधीही प्रतिबंधित नाही."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:396
+#: ../../source/site/forusers/visualchangelog200/index.rst:398
 msgid "|image27|"
 msgstr "| प्रतिमा 27 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:758
+#: ../../source/site/forusers/visualchangelog200/index.rst:760
 msgid "image27"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:399
+#: ../../source/site/forusers/visualchangelog200/index.rst:401
 msgid "Feature: Layer blending"
 msgstr "वैशिष्ट्य: थर मिश्रण"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:401
+#: ../../source/site/forusers/visualchangelog200/index.rst:403
 msgid ""
 "Layer blending makes it possible to combine layers in new and exciting ways."
 " While in older versions, all you could do was to make the layer "
@@ -760,7 +767,7 @@ msgid ""
 "\"multiply\", \"darken only\", and many more."
 msgstr "लेयर ब्लेंडिंगमुळे थरांना नवीन व उत्साहवर्धक मार्गाने एकत्र करणे शक्य होते. जुन्या आवृत्त्या असताना, आपण लेयरला पारदर्शक बनविणे इतकेच करू शकत होता, आपण आता \"गुणाकार\", \"फक्त अंधकारमय\" यासारखे प्रगत पर्याय निवडू शकता. आणि बरेच काही."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:406
+#: ../../source/site/forusers/visualchangelog200/index.rst:408
 msgid ""
 "Blending can be used in the normal map view as well as in print composer. "
 "For a short tutorial on how to use blending in print composer to make the "
@@ -768,38 +775,38 @@ msgid ""
 "<http://anitagraser.com/2013/07/29/vintage-map-design-using-qgis/>`__."
 msgstr "ब्लेंडिंगचा उपयोग सामान्य नकाशा दृश्यामध्ये तसेच मुद्रण संगीतकारातही केला जाऊ शकतो. पार्श्वभूमी प्रतिमांमधून जास्तीत जास्त फायदा घेण्यासाठी प्रिंट संगीतकारात मिश्रण कसे वापरावे या विषयीच्या छोट्या शिकवणीसाठी, `\" QGIS चा वापर करुन व्हिंटेज नकाशाची रचना \"<http://anitagraser.com/2013/07/29/vintage-map-design-using-qgis/>`__."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:412
+#: ../../source/site/forusers/visualchangelog200/index.rst:414
 msgid "|image28|"
 msgstr "| प्रतिमा 28 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:759
+#: ../../source/site/forusers/visualchangelog200/index.rst:761
 msgid "image28"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:415
+#: ../../source/site/forusers/visualchangelog200/index.rst:417
 msgid "Feature: HTML Label support"
 msgstr "वैशिष्ट्य: एचटीएमएल लेबल समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:417
+#: ../../source/site/forusers/visualchangelog200/index.rst:419
 msgid ""
 "HTML support has been added map composer label item to give you even more "
 "control over your final maps. HTML labels support full css styles sheets, "
 "html, and even javascript if you are that way inclined."
 msgstr "एचटीएमएल समर्थन आपल्याला आपल्या अंतिम नकाशांवर अधिक नियंत्रण देण्यासाठी नकाशा कंपोजर लेबल आयटम जोडला गेला आहे HTML लेबल पूर्ण सीएसएस शैली पत्रके, एचटीएमएल आणि जावास्क्रिप्टचे समर्थन करतात जर आपण त्या मार्गावर असाल तर."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:421
+#: ../../source/site/forusers/visualchangelog200/index.rst:423
 msgid "|image29|"
 msgstr "| चित्र 29 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:760
+#: ../../source/site/forusers/visualchangelog200/index.rst:762
 msgid "image29"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:424
+#: ../../source/site/forusers/visualchangelog200/index.rst:426
 msgid "Feature: Multicolumn composer legend"
 msgstr "वैशिष्ट्य: मल्टीकॉलॉम संगीतकार आख्यायिका"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:426
+#: ../../source/site/forusers/visualchangelog200/index.rst:428
 msgid ""
 "The composer legend now supports multiple columns. Splitting of a single "
 "layer with many classes into multiple columns is optional. Single symbol "
@@ -811,65 +818,65 @@ msgid ""
 " group (hiding titles) etc. Feature counts may be added to labels."
 msgstr "संगीतकार आख्यायिका आता एकाधिक स्तंभांना समर्थन देते. एका स्तराचे अनेक वर्गांमध्ये एकाधिक स्तंभांमध्ये विभाजन करणे वैकल्पिक आहे सिंगल प्रतीक स्तर आता डीफॉल्टनुसार एकल लाइन आयटम म्हणून जोडले जातील. तीन भिन्न शैली स्तर / गट शीर्षकास नियुक्त केल्या जाऊ शकतात: गट, उपसमूह किंवा लपविलेले. शीर्षक शैली आयटमचे अनियंत्रित व्हिज्युअल गटबद्ध करण्यास अनुमती देतात उदाहरणार्थ, एक प्रतीक थर सिंगल लाइन आयटम म्हणून दर्शविला जाऊ शकतो किंवा लेयर शीर्षक (1.8 प्रमाणे) एकल गटात चिन्हांकित केले जाऊ शकते (लपवत आहे ) शीर्षके) इ. वैशिष्ट्ये संख्या लेबलमध्ये जोडली जाऊ शकतात."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:436
+#: ../../source/site/forusers/visualchangelog200/index.rst:438
 msgid "|image30|"
 msgstr "| प्रतिमा 30 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:761
+#: ../../source/site/forusers/visualchangelog200/index.rst:763
 msgid "image30"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:439
+#: ../../source/site/forusers/visualchangelog200/index.rst:441
 msgid "Feature: Updates to map composer management"
 msgstr "वैशिष्ट्य: संगीतकार व्यवस्थापनाचे नकाशे अद्ययावत करा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:441
+#: ../../source/site/forusers/visualchangelog200/index.rst:443
 msgid "The following improvements have been made to map composer management:"
 msgstr "संगीतकार व्यवस्थापनाचे नकाशे तयार करण्यासाठी पुढील सुधारणा केल्या आहेत:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:443
+#: ../../source/site/forusers/visualchangelog200/index.rst:445
 msgid ""
 "Composer name can now be defined upon creation, optionally choosing to start"
 " from other composer names"
 msgstr "संगीतकाराच्या नावाची आता निर्मितीवर व्याख्या केली जाऊ शकते, वैकल्पिकरित्या इतर संगीतकारांच्या नावांपासून प्रारंभ करणे"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:445
+#: ../../source/site/forusers/visualchangelog200/index.rst:447
 msgid "Composers can now be duplicated"
 msgstr "संगीतकारांची आता डुप्लिकेट केली जाऊ शकते"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:446
+#: ../../source/site/forusers/visualchangelog200/index.rst:448
 msgid ""
 "``New from Template`` and from ``Specific`` (in Composer Manager) creates a "
 "composer from a template located anywhere on the filesystem"
 msgstr "`` `` टेम्पलेट वरून नवीन `` स्पेसिफिक`` (संगीतकार व्यवस्थापकात) वरून फाइलसिस्टमवर कोठेही असलेल्या टेम्पलेटमधून संगीतकार तयार करते"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:448
+#: ../../source/site/forusers/visualchangelog200/index.rst:450
 msgid "Parent project can now be saved directly from the composer work space"
 msgstr "मूळ प्रकल्प आता संगीतकारांच्या कार्यस्थानावरुन थेट वाचविला जाऊ शकतो"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:449
+#: ../../source/site/forusers/visualchangelog200/index.rst:451
 msgid ""
 "All composer management actions now accessible directly from the composer "
 "work space"
 msgstr "सर्व संगीतकार व्यवस्थापन क्रिया आता संगीतकार कार्य स्थानावरून थेट प्रवेश करण्यायोग्य आहेत"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:452
+#: ../../source/site/forusers/visualchangelog200/index.rst:454
 msgid "|image31|"
 msgstr "| प्रतिमा 31 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:762
+#: ../../source/site/forusers/visualchangelog200/index.rst:764
 msgid "image31"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:455
+#: ../../source/site/forusers/visualchangelog200/index.rst:457
 msgid "Plugins"
 msgstr "प्लगइन्स"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:458
+#: ../../source/site/forusers/visualchangelog200/index.rst:460
 msgid "Feature: Revamped plugin manager"
 msgstr "वैशिष्ट्य: सुधारित प्लगइन व्यवस्थापक"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:460
+#: ../../source/site/forusers/visualchangelog200/index.rst:462
 msgid ""
 "In QGIS 1.x managing plugins was somewhat confusing with two interfaces - "
 "one for managing already installed plugins and one for fetching python "
@@ -879,23 +886,23 @@ msgid ""
 "interface is gorgeous too with side tabs and easy to recognise icons!"
 msgstr "क्यूजीआयएस 1.x मध्ये प्लगइन्स व्यवस्थापित करणे दोन इंटरफेससह काहीसे गोंधळात टाकणारे होते - आधीपासून स्थापित प्लगइन व्यवस्थापित करण्यासाठी आणि एक केवळ प्लगइन रेपॉजिटरीमधून पायथन प्लगइन आणण्यासाठी एक. QGIS 2.0 मध्ये आम्ही ** एक नवीन, युनिफाइड, प्लगइन व्यवस्थापक ** सादर करतो जो आपण प्लगइन डाउनलोड, सक्षम / अक्षम आणि सामान्यपणे व्यवस्थापित करण्यासाठी * एक स्टॉप शॉप * प्रदान करतो अरे, आणि वापरकर्ता इंटरफेस साइड टॅबसह देखील सुंदर आहे आणि चिन्ह ओळखण्यास सुलभ आहे!"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:468
+#: ../../source/site/forusers/visualchangelog200/index.rst:470
 msgid "|image32|"
 msgstr "| image32 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:763
+#: ../../source/site/forusers/visualchangelog200/index.rst:765
 msgid "image32"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:471
+#: ../../source/site/forusers/visualchangelog200/index.rst:473
 msgid "Programmability"
 msgstr "कार्यक्रमक्षमता"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:474
+#: ../../source/site/forusers/visualchangelog200/index.rst:476
 msgid "Feature: New Python Console"
 msgstr "वैशिष्ट्य: नवीन पायथन कन्सोल"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:476
+#: ../../source/site/forusers/visualchangelog200/index.rst:478
 msgid ""
 "The new Python console gives you even more power. Now the with auto complete"
 " support, syntax highlighting, adjustable font settings. The side code "
@@ -903,19 +910,19 @@ msgid ""
 "open and run any Python file in the QGIS session."
 msgstr "नवीन पायथन कन्सोलने आपल्याला आणखी अधिक सामर्थ्य दिले आहे.आता ऑटो पूर्ण समर्थन, सिंटॅक्स हायलाइटिंग, समायोज्य फॉन्ट सेटिंग्ज सह. साइड कोड एडिटर क्यूजीआयएसमध्ये अजिबात पायथन फाईल उघडण्याची आणि चालविण्याची क्षमता असलेल्या कोडच्या मोठ्या ब्लॉक्समध्ये सुलभ प्रवेश करण्यास परवानगी देतो. सत्र."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:481
+#: ../../source/site/forusers/visualchangelog200/index.rst:483
 msgid "|image33|"
 msgstr "| प्रतिमा 33 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:764
+#: ../../source/site/forusers/visualchangelog200/index.rst:766
 msgid "image33"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:484
+#: ../../source/site/forusers/visualchangelog200/index.rst:486
 msgid "Feature: Even more expression functions"
 msgstr "वैशिष्ट्य: आणखी अभिव्यक्ती कार्ये"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:486
+#: ../../source/site/forusers/visualchangelog200/index.rst:488
 msgid ""
 "With the expression engine being used more and more though out QGIS to allow"
 " for things like expression based labels and symbol, many more functions "
@@ -924,37 +931,37 @@ msgid ""
 "guides for ease of use."
 msgstr "अभिव्यक्ति आधारीत लेबले आणि प्रतीक यासारख्या गोष्टींसाठी क्यूजीआयएस बाहेर जाण्यासाठी एक्सप्रेशन इंजिनचा अधिकाधिक वापर केला जात असल्याने अभिव्यक्ती बिल्डरमध्ये आणखी बरेच कार्य समाविष्ट केले गेले आहेत आणि अभिव्यक्ती बिल्डर असूनही ते सर्व प्रवेशजोगी आहेत. सर्व कार्यांमध्ये विस्तृत मदत आणि वापर मार्गदर्शक समाविष्ट आहेत. वापरण्याच्या सोयीसाठी."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:492
+#: ../../source/site/forusers/visualchangelog200/index.rst:494
 msgid "|image34|"
 msgstr "| प्रतिमा 34 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:765
+#: ../../source/site/forusers/visualchangelog200/index.rst:767
 msgid "image34"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:495
+#: ../../source/site/forusers/visualchangelog200/index.rst:497
 msgid "Feature: Custom expression functions"
 msgstr "वैशिष्ट्य: सानुकूल अभिव्यक्ती कार्ये"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:497
+#: ../../source/site/forusers/visualchangelog200/index.rst:499
 msgid ""
 "If the expression engine doesn't have the function that you need. Not to "
 "worry. New functions can be added via a plugin using a simple Python API."
 msgstr "जर आपल्याला अभिव्यक्ती इंजिनमध्ये आवश्यक असलेले फंक्शन नसेल तर काळजी करण्याची गरज नाही. साधे पायथन एपीआय वापरुन प्लगइनद्वारे नवीन कार्ये जोडली जाऊ शकतात."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:501
+#: ../../source/site/forusers/visualchangelog200/index.rst:503
 msgid "|image35|"
 msgstr "| प्रतिमा 35 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:766
+#: ../../source/site/forusers/visualchangelog200/index.rst:768
 msgid "image35"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:504
+#: ../../source/site/forusers/visualchangelog200/index.rst:506
 msgid "Feature: New cleaner Python API"
 msgstr "वैशिष्ट्य: नवीन क्लीनर पायथन एपीआय"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:506
+#: ../../source/site/forusers/visualchangelog200/index.rst:508
 msgid ""
 "The Python API has been revamped to allow for a more cleaner, more pythonic,"
 " programming experience. The QGIS 2.0 API uses SIP V2 which removes the "
@@ -964,25 +971,25 @@ msgid ""
 "lookup, no more index lookup and attribute maps."
 msgstr "अधिक क्लीनर, अधिक पायथनिक, प्रोग्रामिंग अनुभवासाठी पायथन एपीआय ची नूतनीकरण करण्यात आली आहे. क्यूजीआयएस 2.0 एपीआय एसआयपी व्ही 2 वापरते जे व्हॅल्यूजसह कार्य करताना आवश्यक असलेले गोंधळलेल्या टॉस्ट्रिंग (), टू इन्ट () लॉजिकला दूर करते. प्रकार आता रूपांतरित झाले आहेत साधे की लुकअपचा वापर करून, वैशिष्ट्यांवरच विशेषतांमध्ये प्रवेश केला जातो, शिवाय अनुक्रमणिका शोध आणि विशेषता नकाशे यापुढे वापरला जात नाही."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:519
+#: ../../source/site/forusers/visualchangelog200/index.rst:521
 msgid ""
 "The way features are read from a layer has also been improved allowing for "
 "multithreading in the future versions."
 msgstr "भविष्यातील आवृत्त्यांमध्ये मल्टीथ्रेडिंगला परवानगी देऊन लेयरमधून वैशिष्ट्ये वाचण्याचे मार्ग देखील सुधारित केले आहेत."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:527
+#: ../../source/site/forusers/visualchangelog200/index.rst:529
 msgid "|image36|"
 msgstr "| प्रतिमा 36 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:767
+#: ../../source/site/forusers/visualchangelog200/index.rst:769
 msgid "image36"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:530
+#: ../../source/site/forusers/visualchangelog200/index.rst:532
 msgid "Feature: Code compatibility with version 1.x releases"
 msgstr "वैशिष्ट्य: आवृत्ती 1.x रीलीझसह कोडची संगतता"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:532
+#: ../../source/site/forusers/visualchangelog200/index.rst:534
 msgid ""
 "As this is a major release, it is not completely API compatible with "
 "previous 1.x releases. In most cases porting your code should be fairly "
@@ -992,95 +999,95 @@ msgid ""
 "help."
 msgstr "हे एक प्रमुख रिलीज आहे म्हणून, हे मागील 1.x रीलिझसह पूर्णपणे API सुसंगत नाही. बर्‍याच प्रकरणांमध्ये आपला कोड पोर्ट करणे अगदी सरळ असावे - आपण हे मार्गदर्शक <https://github.com/qgis/QGIS वापरू शकता. / विकी / पायथन_प्लगिन_एपीआय_चेंज_फ्रॅम_rom_18_to_20>`__ प्रारंभ करण्यासाठी. कृपया आपल्याला आणखी मदतीची आवश्यकता असल्यास विकसक मेलिंग सूची वापरा."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:539
+#: ../../source/site/forusers/visualchangelog200/index.rst:541
 msgid "|image37|"
 msgstr "| चित्र 37 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:768
+#: ../../source/site/forusers/visualchangelog200/index.rst:770
 msgid "image37"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:542
+#: ../../source/site/forusers/visualchangelog200/index.rst:544
 msgid "Feature: Python project macros"
 msgstr "वैशिष्ट्य: पायथन प्रोजेक्ट मॅक्रो"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:544
+#: ../../source/site/forusers/visualchangelog200/index.rst:546
 msgid ""
 "A Python module, saved into a project.qgs file, can be loaded and have "
 "specific functions run on the following project events:"
 msgstr "पायथन मॉड्यूल, प्रोजेक्ट.कॅग्ज फाईलमध्ये सेव्ह केला, लोड केला जाऊ शकतो आणि पुढील प्रोजेक्ट इव्हेंटवर विशिष्ट कार्ये चालविली जाऊ शकतात:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:547
+#: ../../source/site/forusers/visualchangelog200/index.rst:549
 msgid "``openProject()``"
 msgstr "`` ओपनप्रोजेक्ट () ``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:548
+#: ../../source/site/forusers/visualchangelog200/index.rst:550
 msgid "``saveProject()``"
 msgstr "`` सेव्हप्रोजेक्ट () ``"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:549
+#: ../../source/site/forusers/visualchangelog200/index.rst:551
 msgid "``closeProject()``"
 msgstr "`व्ह सेव्हप्रोजेक्ट ()` `"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:551
+#: ../../source/site/forusers/visualchangelog200/index.rst:553
 msgid ""
 "Whether the macros are run can be configured in the application options."
 msgstr "मॅक्रो चालू आहेत की नाही हे अनुप्रयोग पर्यायांमध्ये कॉन्फिगर केले जाऊ शकते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:553
+#: ../../source/site/forusers/visualchangelog200/index.rst:555
 msgid "|image38|"
 msgstr "| प्रतिमा 38 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:769
+#: ../../source/site/forusers/visualchangelog200/index.rst:771
 msgid "image38"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:556
+#: ../../source/site/forusers/visualchangelog200/index.rst:558
 msgid "Symbology"
 msgstr "प्रतीकशास्त्र"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:559
+#: ../../source/site/forusers/visualchangelog200/index.rst:561
 msgid "Feature: Data defined properties"
 msgstr "वैशिष्ट्य: डेटा परिभाषित गुणधर्म"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:561
+#: ../../source/site/forusers/visualchangelog200/index.rst:563
 msgid ""
 "With the new data defined properties, it is possible to control symbol type,"
 " size, color, rotation, and many other properties through feature "
 "attributes."
 msgstr "नवीन डेटा परिभाषित गुणधर्मांसह, वैशिष्ट्य विशेषतांद्वारे प्रतीक प्रकार, आकार, रंग, फिरविणे आणि बर्‍याच इतर गुणधर्मांवर नियंत्रण ठेवणे शक्य आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:565
+#: ../../source/site/forusers/visualchangelog200/index.rst:567
 msgid "|image39|"
 msgstr "| प्रतिमा 39 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:770
+#: ../../source/site/forusers/visualchangelog200/index.rst:772
 msgid "image39"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:568
+#: ../../source/site/forusers/visualchangelog200/index.rst:570
 msgid "Feature: Improved symbol layer management"
 msgstr "वैशिष्ट्य: सुधारित प्रतीक स्तर व्यवस्थापन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:570
+#: ../../source/site/forusers/visualchangelog200/index.rst:572
 msgid ""
 "The new symbol layer overview uses a clear, tree-structured layout which "
 "allows for easy and fast access to all symbol layers."
 msgstr "नवीन प्रतीक थर विहंगावलोकन मध्ये एक स्पष्ट, वृक्ष-संरचित लेआउट वापरला गेला आहे जो सर्व प्रतीक स्तरांवर सहज आणि जलद प्रवेशास अनुमती देतो."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:573
+#: ../../source/site/forusers/visualchangelog200/index.rst:575
 msgid "|image40|"
 msgstr "|image40|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:771
+#: ../../source/site/forusers/visualchangelog200/index.rst:773
 msgid "image40"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:576
+#: ../../source/site/forusers/visualchangelog200/index.rst:578
 msgid "Feature: Support for transparency in colour definitions"
 msgstr "वैशिष्ट्य: रंग परिभाषांमध्ये पारदर्शकतेसाठी समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:578
+#: ../../source/site/forusers/visualchangelog200/index.rst:580
 msgid ""
 "In most places where you select colours, QGIS now allows you to specify the "
 "alpha channel (which determins how transparent the colour should be). This "
@@ -1088,19 +1095,19 @@ msgid ""
 "don't want users to see."
 msgstr "आपण रंग निवडत असलेल्या बर्‍याच ठिकाणी, QGIS आता आपल्याला अल्फा चॅनेल निर्दिष्ट करण्यास अनुमती देते (जे रंग किती पारदर्शक असावेत हे ठरवते). यामुळे आपल्याला चांगले दिसणारे नकाशे तयार करण्याची आणि वापरकर्त्यांनी पाहू इच्छित नसलेले डेटा सहज लपविण्याची परवानगी दिली. .."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:583
+#: ../../source/site/forusers/visualchangelog200/index.rst:585
 msgid "|image41|"
 msgstr "|image41|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:772
+#: ../../source/site/forusers/visualchangelog200/index.rst:774
 msgid "image41"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:586
+#: ../../source/site/forusers/visualchangelog200/index.rst:588
 msgid "Feature: Color Control for Raster Layers"
 msgstr "वैशिष्ट्य: रास्टर लेयर्ससाठी रंग नियंत्रण"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:588
+#: ../../source/site/forusers/visualchangelog200/index.rst:590
 msgid ""
 "QGIS 2.0 allows you to precisely control exactly how you'd like raster "
 "layers to appear. You now have complete control over the brightness, "
@@ -1108,19 +1115,19 @@ msgid ""
 "display of rasters in grayscale or by colorising with a specified color."
 msgstr "क्यूजीआयएस 2.0 आपल्याला रास्टर थर कसे दिसू इच्छितात हे अचूकपणे नियंत्रित करण्यास परवानगी देते आपल्याकडे आता रास्टर थरांच्या ब्राइटनेस, कॉन्ट्रास्ट आणि संतृप्तिवर पूर्ण नियंत्रण आहे. ग्रेस्केलमध्ये किंवा निर्दिष्ट केलेल्या रंगासह रास्टर्सच्या प्रदर्शनास अनुमती देण्याचे बरेच पर्याय आहेत. रंग."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:593
+#: ../../source/site/forusers/visualchangelog200/index.rst:595
 msgid "|image42|"
 msgstr "| प्रतिमा 42 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:773
+#: ../../source/site/forusers/visualchangelog200/index.rst:775
 msgid "image42"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:596
+#: ../../source/site/forusers/visualchangelog200/index.rst:598
 msgid "Feature: Copy symbology between layers"
 msgstr "वैशिष्ट्य: स्तर दरम्यान कॉपी प्रतीकशास्त्र"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:598
+#: ../../source/site/forusers/visualchangelog200/index.rst:600
 msgid ""
 "Its now super easy to copy symbology from one layer to another layer. If you"
 " are working with several similar layer, you can simply ``right-click`` on "
@@ -1128,38 +1135,38 @@ msgid ""
 "click`` on another layer and choose ``Paste-Style``."
 msgstr "एका लेयरपासून दुसर्‍या लेयरमध्ये प्रतीकात्मक प्रतीचे कॉपी करणे आतापर्यंत सोपे आहे. जर तुम्ही अनेक समान थरांसह काम करत असाल तर तुम्ही एका लेयरवर फक्त `` राइट-क्लिक 'करू शकता, कॉन्टेक्स्ट मेन्यूमधून `` `स्टाईल कॉपी करा' निवडू शकता. दुसर्‍या लेयरवर `` राइट-क्लिक करा and आणि पेस्ट-स्टाईल`` निवडा."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:604
+#: ../../source/site/forusers/visualchangelog200/index.rst:606
 msgid "|image43|"
 msgstr "| प्रतिमा 43 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:774
+#: ../../source/site/forusers/visualchangelog200/index.rst:776
 msgid "image43"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:607
+#: ../../source/site/forusers/visualchangelog200/index.rst:609
 msgid "Feature: Save styles in your database"
 msgstr "वैशिष्ट्य: आपल्या डेटाबेसमध्ये शैली जतन करा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:609
+#: ../../source/site/forusers/visualchangelog200/index.rst:611
 msgid ""
 "If you are using a database vector data store, you can now store the layer "
 "style definitions directly in the database. This makes it easy to share "
 "styled layers in an enterprise or multi-user environment."
 msgstr "आपण डेटाबेस वेक्टर डेटा स्टोअर वापरत असल्यास आपण आता थेट शैली डेटाबेसमध्ये स्तर शैली परिभाषित करू शकता यामुळे एंटरप्राइझ किंवा मल्टी-यूजर वातावरणात शैलीकृत स्तर सामायिक करणे सोपे करते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:613
+#: ../../source/site/forusers/visualchangelog200/index.rst:615
 msgid "|image44|"
 msgstr "| प्रतिमा 44 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:775
+#: ../../source/site/forusers/visualchangelog200/index.rst:777
 msgid "image44"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:616
+#: ../../source/site/forusers/visualchangelog200/index.rst:618
 msgid "Feature: Colour ramp support"
 msgstr "वैशिष्ट्य: रंग रॅम्प समर्थन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:618
+#: ../../source/site/forusers/visualchangelog200/index.rst:620
 msgid ""
 "Colour ramps are now available in many places in QGIS symbology settings and"
 " QGIS ships with a rich, extensible set of colour ramps. You can also design"
@@ -1168,19 +1175,19 @@ msgid ""
 " have full support for transparency!"
 msgstr "रंग रॅम्प आता क्यूजीआयएस प्रतीकात्मकता सेटिंग्ज आणि क्यूजीआयएस शिप्समध्ये बर्‍याच ठिकाणी रंगांच्या रॅम्पसमृद्ध, विस्तारित सेटसह उपलब्ध आहेत आपण स्वत: चे आणि बरेच सीपीटी-सिटी <http://soliton.vm.bytemark.co.uk/pub/cpt-city/> G __ थीम क्यूजीआयएस मध्ये आता समाविष्ट आहेत 'बॉक्स ऑफ आऊटआऊट'. कलर रॅम्पला पारदर्शकतेसाठी पूर्ण समर्थन आहे!"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:625
+#: ../../source/site/forusers/visualchangelog200/index.rst:627
 msgid "|image45|"
 msgstr "| प्रतिमा 45 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:776
+#: ../../source/site/forusers/visualchangelog200/index.rst:778
 msgid "image45"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:628
+#: ../../source/site/forusers/visualchangelog200/index.rst:630
 msgid "Feature: Set custom default styles for all layer types"
 msgstr "वैशिष्ट्यः सर्व स्तर प्रकारच्या सानुकूल डीफॉल्ट शैली सेट करा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:630
+#: ../../source/site/forusers/visualchangelog200/index.rst:632
 msgid ""
 "Now QGIS lets you control how new layers will be drawn when they do not have"
 " an existing ``.qml`` style defined. You can also set the default "
@@ -1188,61 +1195,61 @@ msgid ""
 "colours assigned to them."
 msgstr "क्यूजीआयएस आपल्याला विद्यमान q q .qml`` शैली परिभाषित नसताना नवीन स्तर कसे काढले जातील हे नियंत्रित करू देते. आपण नवीन स्तरांसाठी डीफॉल्ट पारदर्शकता स्तर देखील सेट करू शकता आणि प्रतीकांना यादृच्छिक रंग असावे का."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:635
+#: ../../source/site/forusers/visualchangelog200/index.rst:637
 msgid "|image46|"
 msgstr "| प्रतिमा 46 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:777
+#: ../../source/site/forusers/visualchangelog200/index.rst:779
 msgid "image46"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:638
+#: ../../source/site/forusers/visualchangelog200/index.rst:640
 msgid "User Interface"
 msgstr "वापरकर्ता इंटरफेस"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:641
+#: ../../source/site/forusers/visualchangelog200/index.rst:643
 msgid "Feature: New icon theme"
 msgstr "वैशिष्ट्य: नवीन चिन्ह थीम"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:643
+#: ../../source/site/forusers/visualchangelog200/index.rst:645
 msgid ""
 "We have updated out icon theme to use the 'GIS' theme which introduces an "
 "improved level of consistency and professionalism to the QGIS user "
 "interface."
 msgstr "आम्ही 'जीआयएस' थीम वापरण्यासाठी आयकॉन थीम अद्ययावत केली आहे जी क्यूजीआयएस वापरकर्त्याच्या इंटरफेसमध्ये सुसंगतता आणि व्यावसायिकतेच्या सुधारित स्तराची ओळख करुन देते."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:647
+#: ../../source/site/forusers/visualchangelog200/index.rst:649
 msgid "|image47|"
 msgstr "| प्रतिमा 47 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:778
+#: ../../source/site/forusers/visualchangelog200/index.rst:780
 msgid "image47"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:650
+#: ../../source/site/forusers/visualchangelog200/index.rst:652
 msgid "Feature: Side tabs, collapsable groups"
 msgstr "वैशिष्ट्य: साइड टॅब, कोलेक्शन करण्यायोग्य गट"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:652
+#: ../../source/site/forusers/visualchangelog200/index.rst:654
 msgid ""
 "We have standardised the layout of tabs and introduced collapsible group "
 "boxes into many of our dialogs to make navigating the various options more "
 "easy, and to make better use of screen real estate."
 msgstr "विविध पर्यायांना नॅव्हिगेट करणे अधिक सुलभ करण्यासाठी आणि स्क्रीन रीअल इस्टेटचा अधिक चांगला वापर करण्यासाठी आम्ही आमच्या बर्‍याच संवादांमध्ये टॅबचे लेआउट प्रमाणित केले आहे आणि कोलेप्सिबल ग्रुप बॉक्स समाविष्ट केले आहेत."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:656
+#: ../../source/site/forusers/visualchangelog200/index.rst:658
 msgid "|image48|"
 msgstr "| प्रतिमा 48 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:779
+#: ../../source/site/forusers/visualchangelog200/index.rst:781
 msgid "image48"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:659
+#: ../../source/site/forusers/visualchangelog200/index.rst:661
 msgid "Feature: Soft notifications"
 msgstr "वैशिष्ट्य: मऊ सूचना"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:661
+#: ../../source/site/forusers/visualchangelog200/index.rst:663
 msgid ""
 "In many cases we want to tell you something, but we don't want to stop your "
 "work or get in your way. With the new notification system QGIS can let you "
@@ -1252,19 +1259,19 @@ msgid ""
 "from a plugin) too using our python API."
 msgstr "बर्‍याच बाबतीत आम्ही आपल्याला काही सांगू इच्छितो, परंतु आम्ही आपले कार्य थांबवू किंवा आपल्या मार्गावर जाऊ इच्छित नाही. नवीन सूचना प्रणालीसह क्यूजीआयएस आपल्याला सर्वात महत्वाच्या माहितीबद्दल पिवळ्या संदेश बारद्वारे कळवू शकते जे शीर्षस्थानी दिसते. नकाशा कॅनव्हास परंतु आपण काहीतरी वेगळं करण्यात व्यस्त असल्यास त्यास सामोरे जाण्यास भाग पाडत नाही. प्रोग्रामर आमच्या पायथॉन एपीआयचा वापर करुन देखील ही सूचना तयार करू शकतात (उदा. प्लगइनमधून)."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:668
+#: ../../source/site/forusers/visualchangelog200/index.rst:670
 msgid "|image49|"
 msgstr "| प्रतिमा 49 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:780
+#: ../../source/site/forusers/visualchangelog200/index.rst:782
 msgid "image49"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:671
+#: ../../source/site/forusers/visualchangelog200/index.rst:673
 msgid "Feature: Application custom font and Qt stylesheet"
 msgstr "वैशिष्ट्य: अनुप्रयोग सानुकूल फॉन्ट आणि Qt शैली पत्रक"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:673
+#: ../../source/site/forusers/visualchangelog200/index.rst:675
 msgid ""
 "The system font used for the application's user interface can now be set. "
 "Any C++ or Python plugin that is a child of the QGIS GUI application or has "
@@ -1273,25 +1280,25 @@ msgid ""
 " widgets, like ``QgsCollapsibleGroupBox``."
 msgstr "अ‍ॅप्लिकेशनच्या यूजर इंटरफेससाठी वापरलेला सिस्टम फॉन्ट आता सेट केला जाऊ शकतो. कोणतीही सी ++ किंवा पायथन प्लगइन जी QGIS GUI ofप्लिकेशनचे मूल आहे किंवा Gप्लिकेशनच्या जीयूआय स्टाईलशीटने कॉपी केली / लागू केली असेल तर त्यास स्टाईल मिळू शकते जी जीयूआय निराकरणासाठी उपयुक्त आहे प्लॅटफॉर्मवर आणि सानुकूल QGIS Qt विजेट वापरताना, जसे की `gs ``QgsCollapsibleGroupBox``."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:679
+#: ../../source/site/forusers/visualchangelog200/index.rst:681
 msgid ""
 "The generated QGIS GUI application stylesheet for the current platform can "
 "be accessed after launching with (in PyQGIS):"
 msgstr "सद्य प्लॅटफॉर्मसाठी व्युत्पन्न केलेली QGIS GUI styप्लिकेशन स्टाईलशीट (पायक्यूजीआयएसमध्ये) सह सुरू केल्यावर प्रवेश करणे शक्य आहे:"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:686
+#: ../../source/site/forusers/visualchangelog200/index.rst:688
 msgid "|image50|"
 msgstr "| इमेज 50 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:781
+#: ../../source/site/forusers/visualchangelog200/index.rst:783
 msgid "image50"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:689
+#: ../../source/site/forusers/visualchangelog200/index.rst:691
 msgid "Feature: Live color chooser dialogs and buttons"
 msgstr "वैशिष्ट्य: थेट रंग निवडक संवाद आणि बटणे"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:691
+#: ../../source/site/forusers/visualchangelog200/index.rst:693
 msgid ""
 "Every color chooser button throughout the interface has been updated to give"
 " visual feedback on whether the current color has a transparent, or 'alpha,'"
@@ -1302,37 +1309,37 @@ msgid ""
 "the color button and for any item currently being edited, where applicable."
 msgstr "सध्याच्या रंगात पारदर्शक, किंवा 'अल्फा' घटक आहे की नाही याबद्दल व्हिज्युअल फीडबॅक देण्यासाठी इंटरफेसमधील प्रत्येक रंग निवडकर्ता बटण अद्यतनित केले गेले आहे.नवी रंग बटणांद्वारे उघडलेले रंग निवडकर्ता आता ऑपरेटिंग सिस्टमसाठी नेहमीच डीफॉल्ट असेल. वापरकर्त्याकडे `live लाइव्ह-अपडेटींग रंग निवडकर्ता संवाद वापरा- ``-पर्याय-> सामान्य-> अनुप्रयोग`` अंतर्गत तपासले असल्यास, रंग निवडकर्त्यामधील कोणताही बदल ताबडतोब रंग बटणावर दर्शविला जाईल आणि सध्या संपादित केलेल्या कोणत्याही आयटमसाठी , जिथे लागू."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:700
+#: ../../source/site/forusers/visualchangelog200/index.rst:702
 msgid "|image51|"
 msgstr "| image51 |"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:782
+#: ../../source/site/forusers/visualchangelog200/index.rst:784
 msgid "image51"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:703
+#: ../../source/site/forusers/visualchangelog200/index.rst:705
 msgid "Feature: SVG Annotations"
 msgstr "वैशिष्ट्यः एसव्हीजी भाष्ये"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:705
+#: ../../source/site/forusers/visualchangelog200/index.rst:707
 msgid ""
 "With QGIS 2.0 you can now add SVG annotations to your map - either pinned to"
 " a specific place or in a relative position over the map canvas."
 msgstr "क्यूजीआयएस 2.0 सह आता आपण आपल्या नकाशावर एसव्हीजी भाष्ये जोडू शकता - विशिष्ट ठिकाणी पिन केलेले किंवा नकाशा कॅनव्हासच्या तुलनेत संबंधित ठिकाणी."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:709
+#: ../../source/site/forusers/visualchangelog200/index.rst:711
 msgid "|image52|"
 msgstr "|image52|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:783
+#: ../../source/site/forusers/visualchangelog200/index.rst:785
 msgid "image52"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:712
+#: ../../source/site/forusers/visualchangelog200/index.rst:714
 msgid "Feature: Drag and drop form builder"
 msgstr "वैशिष्ट्य: फॉर्म बिल्डर ड्रॅग आणि ड्रॉप करा"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:714
+#: ../../source/site/forusers/visualchangelog200/index.rst:716
 msgid ""
 "QGIS 2.0 supports a great new system for creating data entry forms. With the"
 " drag and drop form designer you can create smart looking forms with tabs to"
@@ -1340,19 +1347,19 @@ msgid ""
 "entry experience for your users."
 msgstr "डेटा एंट्री फॉर्म तयार करण्यासाठी क्यूजीआयएस 2.0 एक उत्तम नवीन प्रणालीचे समर्थन करते. ड्रॅग dropन्ड ड्रॉप फॉर्म डिझायनरच्या सहाय्याने आपण एकत्रित शेतात एकत्रितपणे टॅबसह स्मार्ट लुकिंग फॉर्म तयार करू शकता.आता आपल्या वापरकर्त्यांसाठी डेटा एंट्री अनुभवावर नियंत्रण ठेवणे खूप सोपे आहे."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:719
+#: ../../source/site/forusers/visualchangelog200/index.rst:721
 msgid "|image53|"
 msgstr "|image53|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:784
+#: ../../source/site/forusers/visualchangelog200/index.rst:786
 msgid "image53"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:722
+#: ../../source/site/forusers/visualchangelog200/index.rst:724
 msgid "Feature: Default action tool"
 msgstr "वैशिष्ट्य: डीफॉल्ट क्रिया साधन"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:724
+#: ../../source/site/forusers/visualchangelog200/index.rst:726
 msgid ""
 "If you are a user of vector layer actions (small tasks that can run when you"
 " click on a feature), you will love the new action tool on the toolbar. With"
@@ -1360,15 +1367,15 @@ msgid ""
 "invoke that action."
 msgstr "If you are a user of vector layer actions (small tasks that can run when you click on a feature), you will love the new action tool on the toolbar. With it you can select an active action and then click on your features to invoke that action."
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:729
+#: ../../source/site/forusers/visualchangelog200/index.rst:731
 msgid "|image54|"
 msgstr "|image54|"
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:785
+#: ../../source/site/forusers/visualchangelog200/index.rst:787
 msgid "image54"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog200/index.rst:731
+#: ../../source/site/forusers/visualchangelog200/index.rst:733
 msgid "image0"
 msgstr ""
 
@@ -1379,20 +1386,3 @@ msgstr ""
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid "|image0|"
-#~ msgstr ""
-
-#~ msgid "Changelog for QGIS 2.0.0"
-#~ msgstr ""
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "As this is a major release, it is not completely API compatible with "
-#~ "previous 1.x releases. In most cases porting your code should be fairly "
-#~ "straightforward - you can use `this guide <http://hub.qgis.org/wiki/quantum-"
-#~ "gis/Python_plugin_API_changes_from_18_to_20>`__ to get started. Please use "
-#~ "the developer mailing list if you need further help."
-#~ msgstr ""

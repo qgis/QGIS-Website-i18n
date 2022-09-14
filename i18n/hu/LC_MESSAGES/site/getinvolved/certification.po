@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2022, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # 
 # Translators:
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2021
@@ -11,16 +11,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.6\n"
+"Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-09-14 15:08+0000\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
 "Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.10.3\n"
 "Language: hu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -152,19 +152,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid ""
-#~ "If approved you are required to make a €20 donation to the QGIS project for "
-#~ "each certificate. This creates a mechanism for financial support of the "
-#~ "project."
-#~ msgstr ""
-
-#~ msgid "You can apply through `this form <certification_link_>`_"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "If approved you are required to make a €20 donation to the QGIS project for "
-#~ "each certificate. This creates a mechanism for financial support of the "
-#~ "project. Payments for certificates are made using online credit card "
-#~ "transactions."
-#~ msgstr ""

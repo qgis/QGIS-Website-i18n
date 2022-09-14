@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Emilio Plaza García <emilpg@gmail.com>, 2016
@@ -10,14 +13,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-09-14 15:08+0000\n"
 "PO-Revision-Date: 2015-02-28 18:31+0000\n"
 "Last-Translator: Eric Armijo, 2016,2021\n"
 "Language-Team: Spanish (http://www.transifex.com/qgis/qgis-website/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.10.3\n"
 "Language: es\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -125,48 +128,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid "QGIS Finance"
-#~ msgstr ""
-
-#~ msgid "2014"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Financial report 2014 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2014.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Financial report 2015 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/PublicQGISfinancialreport2015.pdf>`,"
-#~ " :download:`Budget proposal 2016 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/BudgetProposal2016.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2017 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2017.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2018 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2018.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2019 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2019.pdf>`"
-#~ msgstr ""
-
-#~ msgid ""
-#~ ":download:`Budget 2020 (pdf) "
-#~ "<../../../../static/site/getinvolved/governance/finance/annual-"
-#~ "budgets/QGISBudget2020.pdf>`"
-#~ msgstr ""

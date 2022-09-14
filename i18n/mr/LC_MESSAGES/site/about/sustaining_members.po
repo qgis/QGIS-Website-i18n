@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2019, QGIS Contributors
+# Copyright (C) 2022, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # 
 # Translators:
 # Vijay Naphade <vijay.naphade@khagolam.com>, 2022
@@ -9,16 +9,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.8\n"
+"Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-09-14 15:08+0000\n"
 "PO-Revision-Date: 2019-07-12 14:43+0000\n"
 "Last-Translator: Vijay Naphade <vijay.naphade@khagolam.com>, 2022\n"
 "Language-Team: Marathi (https://www.transifex.com/qgis/teams/6144/mr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.10.3\n"
 "Language: mr\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
@@ -137,62 +137,3 @@ msgstr ""
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid "Sustaining members, sponsors and Donors"
-#~ msgstr "शाश्वत सदस्य, प्रायोजक आणि देणगीदार"
-
-#~ msgid ""
-#~ "We thank our sustaining members, sponsors and donors who support the QGIS "
-#~ "project and enable us to pay for our infrastructure and important "
-#~ "development work, as well as finance developer meetings and promotion of "
-#~ "QGIS in workshops and conferences. Note that we are currently in a "
-#~ "transition phase changing from a sponsor system to a system with sustaining "
-#~ "members. This should make it easier for public authorities to support the "
-#~ "QGIS.ORG project by becoming a sustaining member. For many public "
-#~ "organizations it was difficult or impossible to sponsor or donate to a "
-#~ "project."
-#~ msgstr ""
-#~ "आम्ही आमच्या टिकाव सभासद, प्रायोजक आणि देणगीदारांचे आभार मानतो जे क्यूजीआयएस"
-#~ " प्रकल्पाचे समर्थन करतात आणि आम्हाला आमच्या पायाभूत सुविधा आणि महत्त्वपूर्ण "
-#~ "विकास कामांसाठी पैसे देण्यास सक्षम करतात तसेच कार्यशाळा आणि परिषदांमध्ये "
-#~ "वित्त विकसकांच्या बैठका आणि क्यूजीआयएसची जाहिरात करतात. लक्षात ठेवा आम्ही "
-#~ "सध्या प्रायोजक प्रणालीपासून टिकाऊ सदस्यांसह सिस्टममध्ये बदलण्याच्या एका "
-#~ "संक्रमण टप्प्यात आहोत. हे कायमस्वरुपी सदस्य बनून सार्वजनिक अधिका "
-#~ "authorities्यांना QGIS.ORG प्रकल्पाचे समर्थन करणे सुलभ केले पाहिजे. बर्‍याच "
-#~ "सार्वजनिक संस्थांसाठी प्रकल्प प्रायोजित करणे किंवा देणगी देणे कठीण किंवा "
-#~ "अशक्य होते."
-
-#~ msgid ""
-#~ "Organizations who supported QGIS before March 17, 2019 are still sponsors, "
-#~ "after that date we introduce new supporters as sustaining members."
-#~ msgstr ""
-#~ "17 मार्च 2019 पूर्वी QGIS ला समर्थन देणारी संस्था अद्याप प्रायोजक आहेत, त्या"
-#~ " तारखेनंतर आम्ही टिकाऊ सदस्य म्हणून नवीन समर्थकांची ओळख करुन देतो."
-
-#~ msgid "List of current sustaining members or sponsors"
-#~ msgstr "सद्यस्थितीत टिकणारे सदस्य किंवा प्रायोजकांची यादी"
-
-#~ msgid ""
-#~ "Annually we also receive support from various organisations who appreciate "
-#~ "the work we do and would like to facilitate the sustained development effort"
-#~ " that goes into the project. These sustaining members and sponsors are "
-#~ "listed below with our thanks!"
-#~ msgstr ""
-#~ "दरवर्षी आम्हाला आमच्याकडून केलेल्या कार्याचे कौतुक करणा various्या विविध "
-#~ "संस्थांकडून पाठिंबा देखील मिळतो आणि प्रकल्पात जाणार्‍या सततच्या प्रयत्नांना "
-#~ "मदत करणे आवडेल. हे टिकणारे सदस्य आणि प्रायोजक खाली आमच्या आभारासह खाली "
-#~ "सूचीबद्ध आहेत!"
-
-#~ msgid "List of past sustaining members or sponsors"
-#~ msgstr "मागील टिकवणार्‍या सदस्यांची किंवा प्रायोजकांची यादी"
-
-#~ msgid ""
-#~ "Donations can be of any amount, via our bank account, Stripe or Paypal "
-#~ "(information available at :ref:`Donations <QGIS-donations>` page). Even a "
-#~ "small donation can make a difference and help to reach important project "
-#~ "goals!"
-#~ msgstr ""
-#~ "देणगी कोणत्याही रकमेची असू शकते, आमच्या बँक खात्याद्वारे, पट्टी किंवा पेपल "
-#~ "(येथे उपलब्ध माहिती: रेफरी: ations देणगी `पृष्ठ). अगदी लहान देणगीदेखील फरक "
-#~ "पडू शकते आणि प्रकल्पांच्या महत्त्वपूर्ण उद्दीष्टांवर पोहोचण्यासाठी मदत करू "
-#~ "शकते!"

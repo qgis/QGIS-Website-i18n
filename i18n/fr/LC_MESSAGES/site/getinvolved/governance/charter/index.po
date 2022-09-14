@@ -1,7 +1,7 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2020, QGIS Contributors
+# Copyright (C) 2022, QGIS Contributors
 # This file is distributed under the same license as the QGIS package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # 
 # Translators:
 # Benoît de Cabissole, 2020
@@ -14,16 +14,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.12\n"
+"Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-09-14 15:08+0000\n"
 "PO-Revision-Date: 2020-05-10 08:48+0000\n"
 "Last-Translator: Harrissou Sant-anna, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.10.3\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
@@ -890,56 +890,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr ""
-
-#~ msgid ""
-#~ "Board members shall also be members of the PSC and shall be nominated and "
-#~ "elected by the general meeting. In an election of board members, the nominee"
-#~ " receiving the greatest number of votes for each position (chair, vice "
-#~ "chair, treasurer) shall be appointed. A tied election shall trigger a re-"
-#~ "vote until one nominee has the majority. On expiration of a board member’s "
-#~ "term, nominees from within the QGIS PSC shall be put forward by the QGIS "
-#~ "Voting Members. The outgoing board member shall automatically receive a "
-#~ "nomination unless he/she no longer wishes to serve on the board."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "On expiration of a PSC member’s term, nominees from within the QGIS Voting "
-#~ "Membership shall be put forward by any QGIS Community Member. The outgoing "
-#~ "PSC member shall automatically receive a nomination unless he/she no longer "
-#~ "wishes to serve on the PSC. If an incoming PSC member is a Voting Member, "
-#~ "they will relinquish their voting membership in the general meeting on "
-#~ "joining the PSC."
-#~ msgstr ""
-#~ "À l'échéance du mandat d'un membre du PSC, des candidats parmi les membres "
-#~ "votant de QGIS seront nominés par un membre de la communauté QGIS. Le membre"
-#~ " sortant du PSC sera automatiquement nominé comme candidat à moins "
-#~ "qu'il/elle n'ait plus le désir de servir au PSC. Si un nouveau membre du PSC"
-#~ " fait parti des membres votant il devra renoncer à son droit de vote à "
-#~ "l'assemblée générale lorsqu'il joint le PSC."
-
-#~ msgid ""
-#~ "Prior to the election, the outgoing PSC determines the total number of seats"
-#~ " of the incoming committee. QGIS Voting Members shall be allowed a number of"
-#~ " votes equal to the number of PSC memberships up for election and shall be "
-#~ "asked to rank their votes in order of preference. The votes shall be "
-#~ "weighted based on the number of PSC positions being voted for. For example "
-#~ "if three PSC positions are available, each first choice vote shall be worth "
-#~ "3 points, second point vote 2 points and so on. PSC memberships shall be "
-#~ "awarded on the total weighted score of the vote, with the nominee receiving "
-#~ "the greatest score being awarded PSC membership first and so on in "
-#~ "descending order of score of votes received until all PSC memberships have "
-#~ "been allocated. A list of currently serving PSC members shall be maintained "
-#~ "at: https://www.qgis.org/en/site/getinvolved/governance/"
-#~ msgstr ""
-#~ "Avant l'élection, le PSC sortant détermine le nombre total de places dans le"
-#~ " nouveau comité. Les membres votant de QGIS auront chacun un nombre de votes"
-#~ " égal au nombre de membres du PSC qui sont à élire et devront classer leur "
-#~ "votes par ordre de préférence. Les votes seront alors pondérés par le nombre"
-#~ " de positions disponibles au PSC. Par exemple, si trois positions sont "
-#~ "disponibles au PSC, les premiers choix vaudront 3 points, les deuxièmes "
-#~ "choix vaudront 2 points et ainsi de suite. Les membres du PSC seront élus "
-#~ "par le score total pondéré des votes, le candidat recevant le plus haut "
-#~ "score étant le premier élu au PSC et ainsi de suite par ordre décroissant "
-#~ "des scores des votes jusqu'à ce que tous les membres du PSC aient été élus. "
-#~ "Une liste des membres actuels du PSC sera maintenue à : "
-#~ "https://www.qgis.org/en/site/getinvolved/governance/"

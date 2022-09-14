@@ -1,3 +1,6 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, QGIS Contributors
+# This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
 # Sorin Călinică <scalinica@gmail.com>, 2013-2016,2018,2020,2022
@@ -5,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30 05:04+0200\n"
+"POT-Creation-Date: 2022-09-14 15:08+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2016,2018,2020,2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.10.1\n"
+"Generated-By: Babel 2.10.3\n"
 "Language: ro\n"
 "Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
 
@@ -45,7 +48,7 @@ msgstr "În ordine lexicală:"
 
 #: ../../source/site/forusers/commercial_support.rst:21
 msgid "3liz"
-msgstr ""
+msgstr "3liz"
 
 #: ../../source/site/forusers/commercial_support.rst:24
 msgid ""
@@ -59,7 +62,7 @@ msgstr "|3liz| `3liz <http://www.3liz.com/>`_ (cu sediul în Franța) oferă o g
 
 #: ../../source/site/forusers/commercial_support.rst:33
 msgid "camptocamp"
-msgstr ""
+msgstr "camptocamp"
 
 #: ../../source/site/forusers/commercial_support.rst:36
 msgid ""
@@ -74,7 +77,7 @@ msgstr "|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-soluti
 
 #: ../../source/site/forusers/commercial_support.rst:46
 msgid "chartistech"
-msgstr ""
+msgstr "chartistech"
 
 #: ../../source/site/forusers/commercial_support.rst:49
 msgid ""
@@ -90,7 +93,7 @@ msgstr "|chartistech| `Chartis Technology <http://chartistechnology.com/products
 
 #: ../../source/site/forusers/commercial_support.rst:58
 msgid "faunalia"
-msgstr ""
+msgstr "faunalia"
 
 #: ../../source/site/forusers/commercial_support.rst:61
 msgid ""
@@ -102,7 +105,7 @@ msgstr "|faunalia| `Faunalia <http://www.faunalia.eu/>`_ (cu sediul în Italia, 
 
 #: ../../source/site/forusers/commercial_support.rst:67
 msgid "gbd-consult"
-msgstr ""
+msgstr "gbd-consult"
 
 #: ../../source/site/forusers/commercial_support.rst:70
 msgid ""
@@ -113,7 +116,7 @@ msgstr "|gbd-consult| `Geoinformatikbüro Dassau <http://www.gbd-consult.de/>`_ 
 
 #: ../../source/site/forusers/commercial_support.rst:76
 msgid "itopen"
-msgstr ""
+msgstr "itopen"
 
 #: ../../source/site/forusers/commercial_support.rst:79
 msgid ""
@@ -125,7 +128,7 @@ msgstr "|itopen| `It Open <http://www.itopen.it/>`_ (cu sediul în Italia) ofer�
 
 #: ../../source/site/forusers/commercial_support.rst:85
 msgid "kartoza"
-msgstr ""
+msgstr "kartoza"
 
 #: ../../source/site/forusers/commercial_support.rst:88
 msgid ""
@@ -138,7 +141,7 @@ msgstr "|kartoza| `Kartoza (Pty) Ltd. <http://kartoza.com>`_ (cu birouri în loc
 
 #: ../../source/site/forusers/commercial_support.rst:96
 msgid "lutra_consulting"
-msgstr ""
+msgstr "lutra_consulting"
 
 #: ../../source/site/forusers/commercial_support.rst:99
 msgid ""
@@ -149,7 +152,7 @@ msgstr "|lutra_consulting| `Lutra Consulting <http://www.lutraconsulting.co.uk/>
 
 #: ../../source/site/forusers/commercial_support.rst:105
 msgid "naturalgis"
-msgstr ""
+msgstr "naturalgis"
 
 #: ../../source/site/forusers/commercial_support.rst:108
 msgid ""
@@ -161,7 +164,7 @@ msgstr "|naturalgis| `NaturalGIS <http://www.naturalgis.pt/>`_ (cu sediul în Po
 
 #: ../../source/site/forusers/commercial_support.rst:115
 msgid "norbit"
-msgstr ""
+msgstr "norbit"
 
 #: ../../source/site/forusers/commercial_support.rst:118
 msgid ""
@@ -174,7 +177,7 @@ msgstr "|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (cu sediul în Norden,
 
 #: ../../source/site/forusers/commercial_support.rst:126
 msgid "north_road"
-msgstr ""
+msgstr "north_road"
 
 #: ../../source/site/forusers/commercial_support.rst:129
 msgid ""
@@ -188,7 +191,7 @@ msgstr "|north_road| `North Road <http://north-road.com/>`_ (cu sediul în Austr
 
 #: ../../source/site/forusers/commercial_support.rst:138
 msgid "opengisch"
-msgstr ""
+msgstr "opengisch"
 
 #: ../../source/site/forusers/commercial_support.rst:141
 msgid ""
@@ -201,7 +204,7 @@ msgstr "|opengisch| `OPENGIS.ch <http://opengis.ch/>`_ (cu sedii în Berna și C
 
 #: ../../source/site/forusers/commercial_support.rst:149
 msgid "oslandia"
-msgstr ""
+msgstr "oslandia"
 
 #: ../../source/site/forusers/commercial_support.rst:152
 msgid ""
@@ -212,7 +215,7 @@ msgstr "|oslandia| `Oslandia <http://www.oslandia.com/?page_id=20>`_ (cu sediul 
 
 #: ../../source/site/forusers/commercial_support.rst:158
 msgid "qcooperative"
-msgstr ""
+msgstr "qcooperative"
 
 #: ../../source/site/forusers/commercial_support.rst:161
 msgid ""
@@ -224,7 +227,7 @@ msgstr "|qcooperative| `QCooperative <https://www.qcooperative.net/>`_ (care ope
 
 #: ../../source/site/forusers/commercial_support.rst:169
 msgid "sourcepole"
-msgstr ""
+msgstr "sourcepole"
 
 #: ../../source/site/forusers/commercial_support.rst:172
 msgid ""
@@ -237,7 +240,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:180
 msgid "terglobo"
-msgstr ""
+msgstr "terglobo"
 
 #: ../../source/site/forusers/commercial_support.rst:183
 msgid ""
@@ -248,7 +251,7 @@ msgstr "|terglobo| `Terglobo <https://www.terglobo.nl/>`_ (cu sediul în 's-Hert
 
 #: ../../source/site/forusers/commercial_support.rst:188
 msgid "zuidtlogo"
-msgstr ""
+msgstr "zuidtlogo"
 
 #: ../../source/site/forusers/commercial_support.rst:191
 msgid ""
@@ -264,7 +267,7 @@ msgstr "Colaboratori"
 
 #: ../../source/site/forusers/commercial_support.rst:203
 msgid "cartoexpert"
-msgstr ""
+msgstr "cartoexpert"
 
 #: ../../source/site/forusers/commercial_support.rst:206
 msgid ""
@@ -279,7 +282,7 @@ msgstr "|cartoexpert| `CartoExpert <http://www.cartoexpert.com/index.php/formati
 
 #: ../../source/site/forusers/commercial_support.rst:216
 msgid "gaia3d"
-msgstr ""
+msgstr "gaia3d"
 
 #: ../../source/site/forusers/commercial_support.rst:219
 msgid ""
@@ -291,7 +294,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:226
 msgid "KaplanOpenSource"
-msgstr ""
+msgstr "KaplanOpenSource"
 
 #: ../../source/site/forusers/commercial_support.rst:229
 msgid ""
@@ -306,7 +309,7 @@ msgstr "|KaplanOpenSource| `Kaplan Open Source <https://kaplanopensource.co.il/>
 
 #: ../../source/site/forusers/commercial_support.rst:233
 msgid "LandGoed"
-msgstr ""
+msgstr "LandGoed"
 
 #: ../../source/site/forusers/commercial_support.rst:236
 msgid ""
@@ -319,7 +322,7 @@ msgstr "|LandGoed| `LandGoed <http://landgoed.it/>`_ (cu sediul în Olanda) ofer
 
 #: ../../source/site/forusers/commercial_support.rst:242
 msgid "nextgis"
-msgstr ""
+msgstr "nextgis"
 
 #: ../../source/site/forusers/commercial_support.rst:245
 msgid ""
@@ -330,7 +333,7 @@ msgstr "|nextgis| `NextGIS <http://nextgis.org/>`_ (cu sediul la Moscova, Rusia)
 
 #: ../../source/site/forusers/commercial_support.rst:250
 msgid "qtibia"
-msgstr ""
+msgstr "qtibia"
 
 #: ../../source/site/forusers/commercial_support.rst:253
 msgid ""
@@ -341,7 +344,7 @@ msgstr "|qtibia| `QTIBIA Engineering <https://qtibia.ro//>`_ (cu sediul în Rom�
 
 #: ../../source/site/forusers/commercial_support.rst:259
 msgid "septima"
-msgstr ""
+msgstr "septima"
 
 #: ../../source/site/forusers/commercial_support.rst:262
 msgid ""
@@ -358,7 +361,7 @@ msgstr "Alții"
 
 #: ../../source/site/forusers/commercial_support.rst:272
 msgid "agx"
-msgstr ""
+msgstr "agx"
 
 #: ../../source/site/forusers/commercial_support.rst:275
 msgid ""
@@ -368,7 +371,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:280
 msgid "arxit"
-msgstr ""
+msgstr "arxit"
 
 #: ../../source/site/forusers/commercial_support.rst:283
 msgid ""
@@ -384,7 +387,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:290
 msgid "astun"
-msgstr ""
+msgstr "astun"
 
 #: ../../source/site/forusers/commercial_support.rst:293
 msgid ""
@@ -400,7 +403,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:298
 msgid "bev"
-msgstr ""
+msgstr "bev"
 
 #: ../../source/site/forusers/commercial_support.rst:301
 msgid ""
@@ -411,7 +414,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:307
 msgid "champslibres"
-msgstr ""
+msgstr "champslibres"
 
 #: ../../source/site/forusers/commercial_support.rst:310
 msgid ""
@@ -424,7 +427,7 @@ msgstr "|champslibres| `Champs Libres Coopérative <https://www.champs-libres.co
 
 #: ../../source/site/forusers/commercial_support.rst:314
 msgid "clear_mapping_co"
-msgstr ""
+msgstr "clear_mapping_co"
 
 #: ../../source/site/forusers/commercial_support.rst:317
 msgid ""
@@ -439,7 +442,7 @@ msgstr "|clear_mapping_co| `Clear Mapping Co <http://www.clearmapping.co.uk/>`_ 
 
 #: ../../source/site/forusers/commercial_support.rst:322
 msgid "esdm"
-msgstr ""
+msgstr "esdm"
 
 #: ../../source/site/forusers/commercial_support.rst:325
 msgid ""
@@ -452,7 +455,7 @@ msgstr "|esdm| `exeGesIS SDM Ltd <https://www.esdm.co.uk/>`_ are sediul în Țar
 
 #: ../../source/site/forusers/commercial_support.rst:329
 msgid "fossacademy"
-msgstr ""
+msgstr "fossacademy"
 
 #: ../../source/site/forusers/commercial_support.rst:332
 msgid ""
@@ -465,7 +468,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:337
 msgid "geoicon"
-msgstr ""
+msgstr "geoicon"
 
 #: ../../source/site/forusers/commercial_support.rst:340
 msgid ""
@@ -477,7 +480,7 @@ msgstr "|geoicon| `GeoICON <http://www.geoicon.com/>`_ (are sediul în Singapore
 
 #: ../../source/site/forusers/commercial_support.rst:347
 msgid "gtsicon"
-msgstr ""
+msgstr "gtsicon"
 
 #: ../../source/site/forusers/commercial_support.rst:350
 msgid ""
@@ -493,7 +496,7 @@ msgstr "|gtsicon| `Geospatial Training Solutions (Dr Nick Bearman) <https://www.
 
 #: ../../source/site/forusers/commercial_support.rst:354
 msgid "gispoicon"
-msgstr ""
+msgstr "gispoicon"
 
 #: ../../source/site/forusers/commercial_support.rst:357
 msgid ""
@@ -506,7 +509,7 @@ msgstr "|gispoicon| `Gispo Ltd <https://www.gispo.fi/en/home/>`_ (cu sediul în 
 
 #: ../../source/site/forusers/commercial_support.rst:364
 msgid "gis3w"
-msgstr ""
+msgstr "gis3w"
 
 #: ../../source/site/forusers/commercial_support.rst:367
 msgid ""
@@ -516,7 +519,7 @@ msgstr "|gis3w| `gis3w <http://www.gis3w.it/>`_ (cu sediul în Italia) oferă se
 
 #: ../../source/site/forusers/commercial_support.rst:372
 msgid "claasleiner"
-msgstr ""
+msgstr "claasleiner"
 
 #: ../../source/site/forusers/commercial_support.rst:375
 msgid ""
@@ -528,7 +531,7 @@ msgstr "|claasleiner| `GKG Kassel, Germania (Dr.-Ing. Claas Leiner) <http://www.
 
 #: ../../source/site/forusers/commercial_support.rst:381
 msgid "geolis"
-msgstr ""
+msgstr "geolis"
 
 #: ../../source/site/forusers/commercial_support.rst:384
 msgid ""
@@ -538,7 +541,7 @@ msgstr "|geolis| `Geolis <https://www.geolis.ch/>`_ (cu sediul în Lucerna, Elve
 
 #: ../../source/site/forusers/commercial_support.rst:389
 msgid "imt"
-msgstr ""
+msgstr "imt"
 
 #: ../../source/site/forusers/commercial_support.rst:392
 msgid ""
@@ -549,7 +552,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:397
 msgid "karttakeskus"
-msgstr ""
+msgstr "karttakeskus"
 
 #: ../../source/site/forusers/commercial_support.rst:400
 msgid ""
@@ -560,7 +563,7 @@ msgstr "|karttakeskus| `Karttakeskus <http://www.karttakeskus.fi/>`_ (cu sediul 
 
 #: ../../source/site/forusers/commercial_support.rst:405
 msgid "mierune"
-msgstr ""
+msgstr "mierune"
 
 #: ../../source/site/forusers/commercial_support.rst:408
 msgid ""
@@ -573,7 +576,7 @@ msgstr "|mierune| `Mierune Inc. <http://www.mierune.co.jp/>`_ (cu sediul în Jap
 
 #: ../../source/site/forusers/commercial_support.rst:412
 msgid "ngnuity"
-msgstr ""
+msgstr "ngnuity"
 
 #: ../../source/site/forusers/commercial_support.rst:415
 msgid ""
@@ -587,7 +590,7 @@ msgstr "|ngnuity| `nGNUity.net- <http://ngnuity.net/>`_ susținători FOSS din F
 
 #: ../../source/site/forusers/commercial_support.rst:423
 msgid "northriver"
-msgstr ""
+msgstr "northriver"
 
 #: ../../source/site/forusers/commercial_support.rst:426
 msgid ""
@@ -600,7 +603,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:433
 msgid "opengeolabs"
-msgstr ""
+msgstr "opengeolabs"
 
 #: ../../source/site/forusers/commercial_support.rst:436
 msgid ""
@@ -612,7 +615,7 @@ msgstr "|opengeolabs| `OpenGeoLabs s.r.o <http://opengeolabs.cz/>`_ (cu sediul �
 
 #: ../../source/site/forusers/commercial_support.rst:443
 msgid "sigmoe"
-msgstr ""
+msgstr "sigmoe"
 
 #: ../../source/site/forusers/commercial_support.rst:446
 msgid ""
@@ -625,7 +628,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:454
 msgid "soltig"
-msgstr ""
+msgstr "soltig"
 
 #: ../../source/site/forusers/commercial_support.rst:457
 msgid ""
@@ -636,7 +639,7 @@ msgstr "|soltig| `Soluciones en Tecnologías de Información Geográfica (SOLTIG
 
 #: ../../source/site/forusers/commercial_support.rst:462
 msgid "sungis"
-msgstr ""
+msgstr "sungis"
 
 #: ../../source/site/forusers/commercial_support.rst:465
 msgid ""
@@ -647,7 +650,7 @@ msgstr "|sungis| `SunGIS <http://www.sungis.lv/>`_ (cu sediul în Valmiera, Leto
 
 #: ../../source/site/forusers/commercial_support.rst:471
 msgid "sygif"
-msgstr ""
+msgstr "sygif"
 
 #: ../../source/site/forusers/commercial_support.rst:474
 msgid ""
@@ -661,7 +664,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:478
 msgid "taxusit"
-msgstr ""
+msgstr "taxusit"
 
 #: ../../source/site/forusers/commercial_support.rst:481
 msgid ""
@@ -672,7 +675,7 @@ msgstr "|taxusit| `TAXUS IT <http://taxusit.com.pl>`_ (cu sediul în Varșovia, 
 
 #: ../../source/site/forusers/commercial_support.rst:486
 msgid "terraplan"
-msgstr ""
+msgstr "terraplan"
 
 #: ../../source/site/forusers/commercial_support.rst:489
 msgid ""
@@ -684,7 +687,7 @@ msgstr "|terraplan| `Terraplan <http://www.terraplan.com/>`_ (Schallstadt/Freibu
 
 #: ../../source/site/forusers/commercial_support.rst:494
 msgid "terrestris"
-msgstr ""
+msgstr "terrestris"
 
 #: ../../source/site/forusers/commercial_support.rst:497
 msgid ""
@@ -695,7 +698,7 @@ msgstr "|terrestris| `Terrestris <http://www.terrestris.de/dienstleistungen/schu
 
 #: ../../source/site/forusers/commercial_support.rst:502
 msgid "territoires"
-msgstr ""
+msgstr "territoires"
 
 #: ../../source/site/forusers/commercial_support.rst:505
 msgid ""
@@ -707,7 +710,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:510
 msgid "thinkwhere"
-msgstr ""
+msgstr "thinkwhere"
 
 #: ../../source/site/forusers/commercial_support.rst:513
 msgid ""
@@ -722,7 +725,7 @@ msgstr ""
 
 #: ../../source/site/forusers/commercial_support.rst:523
 msgid "whg"
-msgstr ""
+msgstr "whg"
 
 #: ../../source/site/forusers/commercial_support.rst:526
 msgid ""
@@ -754,151 +757,3 @@ msgstr "checkbox"
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
 msgstr "checkbox_unchecked"
-
-#~ msgid ""
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|norbit| `norBIT GmbH <http://www.norbit.de/64>`_ (based in Norden, Germany)"
-#~ " provides commercial support and custom programming for QGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|astun| `Astun Technology <http://astuntechnology.com/>`_ (based in UK) "
-#~ "provides training for QGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|camptocamp| `Camptocamp <http://www.camptocamp.com/en/geospatial-"
-#~ "solutions>`_ is an open source service company based in Europe offering "
-#~ "training, support and development around QGIS, mobiles apps, 3D, geoportails"
-#~ " and GeoBI using a high expertise."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|boundless| `Boundless Spatial <http://boundlessgeo.com/>`_ (based in "
-#~ "Washington, D.C., USA and operating worldwide) provides commercially "
-#~ "supported, open source, geospatial software. OpenGeo Suite and QGIS enable a"
-#~ " feature-rich, enterprise GIS without the high licensing costs associated "
-#~ "with proprietary software. The experts at Boundless reduce the cost and time"
-#~ " of deploying and managing spatial software with packaging, support, "
-#~ "maintenance, professional services, and expert training."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|dms| `Digital Mapping Solutions <http://www.mapsolutions.com.au/>`_ (based "
-#~ "in Australia) has been working with Government and Commercial organisations "
-#~ "for over 15 years and have the products, services and skills to help you "
-#~ "take full advantage of your GIS investment."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|north_road| `North Road <http://north-road.com/>`_ (based in Australia) "
-#~ "specialises in custom development solutions for QGIS features and fixes, and"
-#~ " also offers training and commercial support in the open source geospatial "
-#~ "stack. North Road has a established history in quality QGIS development, and"
-#~ " has been responsible for thousands of feature and fixes within the QGIS "
-#~ "codebase since 2013."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|LandGoed| `LandGoed <http://landgoed.nl/>`_ (based in the Netherlands) "
-#~ "provides commercial support, hosting services and training for all "
-#~ "opensource-GIS, including QGIS. With over ten years experience in training "
-#~ "and developing, LandGoed is the go-to supplier for opensource-GIS in the "
-#~ "Netherlands."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|whg| `WhereGroup <http://www.wheregroup.com/>`_ (Bonn, Germany) provides "
-#~ "commercial services and training for QGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|sourcepole| `Sourcepole <http://www.sourcepole.com/>`_ (based in Zurich, "
-#~ "Switzerland and operating worldwide) provides FOSSGIS training, commercial "
-#~ "support and maintenance contracts as well as cloud based geo hosting for "
-#~ "QGIS. With three leading core committers Sourcepole is able to offer "
-#~ "sophisticated developments for QGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|gaia3d| `Gaia3D, Inc. <http://www.gaia3d.com/>`_ (based in South Korea) is "
-#~ "a leading open source GIS company in Korea. Gaia3D offers professional "
-#~ "development services, training, consulting and supports for QGIS, PostGIS, "
-#~ "GeoServer and OpenLayers"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|astun| `Astun Technology <http://astuntechnology.com/>`_ was formed in 2005"
-#~ " to provide open source and web-based GIS services to local and central "
-#~ "governments.  Today, as all organisations realise the technical and "
-#~ "financial benefits of using cloud solutions to create, manage and deliver "
-#~ "their crucial GEO services, the demand for Astun's knowledge and experience "
-#~ "in delivering marketing leading, fully managed AWS-based GIS cloud "
-#~ "solutions, continues to grow. For more information, please visit "
-#~ "https://astuntechnology.com/"
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|agx| `AdventGX <http://www.adventgx.com/>`_ (based in College Station, TX) "
-#~ "provides installation, training, and implementation support for QGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|bev| `Bird's Eye View GIS <http://www.birdseyeviewgis.com/>`_ (Based in "
-#~ "Albuquerque, New Mexico) provides commercial GIS services and support and "
-#~ "training in QGIS, GRASS GIS and other FOSS GIS applications."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|fossacademy| `FOSS Academy <http://www.foss-academy.com/>`_ (Bonn, Germany)"
-#~ " FOSS Academy is a training institute and offers various courses, from "
-#~ "beginner lessons to advanced python programming courses for QGIS as well as "
-#~ "free online webinars regarding QGIS related topics. The institute is "
-#~ "operated by WhereGroup."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|imt| `The Institute For Mapping Technology <http://learninggis.com/>`_ "
-#~ "(based in Austin, TX) provides support and training for QGIS and PostGIS."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|sygif| `Le Groupe SYGIF Inc. <http://www.sygif.qc.ca/>`_ (based in Rimouski"
-#~ " (Quebec), Canada) specializes in the development of information "
-#~ "technologies (GIS) aimed at integrated land management. The company develops"
-#~ " and supports complementary tools for QGIS and MapServer and also holds a "
-#~ "recognition of the ESRI company as a developer and reseller of their "
-#~ "products."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|thinkwhere| `thinkWhere <http://www.thinkwhere.com/>`_ (Stirling, Scotland)"
-#~ " thinkWhere is one of the leading independent GIS consultancies in the UK.  "
-#~ "We provide a broad range of innovative GIS products and services including "
-#~ "\"Location Centre\" (a hosted Cloud-based GIS built from open source "
-#~ "technologies). As a QGIS site, our team of geospatial experts use QGIS on a "
-#~ "daily basis and provide QGIS Support to customers.  We also run regular QGIS"
-#~ " and PostGIS Training courses."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|northriver| `North River Geographic Systems, Inc "
-#~ "<http://www.northrivergeographic.com/>`_ is a small GIS Consulting firm "
-#~ "located in the Southeastern United States. We provide Geospatial services "
-#~ "such as data conversion, ESRI and FOSS4G software support, cartography, and "
-#~ "data analysis."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "Do you plan to use QGIS in your company or organization, but worry about "
-#~ "whether there is commercial support available? Here is an alphabetical list,"
-#~ " divided in categories, of support contractors."
-#~ msgstr ""
-
-#~ msgid ""
-#~ "|liviostump| `Livio Stump <http://www.liviostump.ch>`_ (based in Lucerne, "
-#~ "Switzerland) provides commercial GIS consulting, support and training in "
-#~ "QGIS."
-#~ msgstr ""

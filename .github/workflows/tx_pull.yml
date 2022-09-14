@@ -34,9 +34,7 @@ jobs:
         env:
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
-          git status
-          tx pull -a
-          git status
+          tx pull -a -f
 
       - name: Push repository
         run: |

@@ -4,6 +4,9 @@ on:
   schedule:
     # 7:45 every day
     - cron:  '45 7 * * *'
+  push:
+    branches:
+      - main
 
 # Allow one concurrent deployment
 concurrency:
@@ -38,6 +41,7 @@ jobs:
           git config --global user.name 'Transifex update'
           git config --global user.email 'tx-update@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git status
           git add .
           git commit -m "Automated update"
           git push

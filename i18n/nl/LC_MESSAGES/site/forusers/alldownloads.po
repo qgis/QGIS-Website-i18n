@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-15 06:26+0000\n"
+"POT-Creation-Date: 2022-09-15 23:07+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: DiGro, 2020-2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
@@ -143,9 +143,9 @@ msgstr "Bekijk ook `De download pagina <./download.html>`_."
 msgid ""
 "The weekly snapshots of the nightly qgis-dev package of OSGeo4W are for "
 "users that cannot use OSGeo4W (see below) for some reason or just prefer "
-"standalone installers.  In the feature freeze phase that also acts as "
+"standalone installers. In the feature freeze phase that also acts as "
 "**release candidate**."
-msgstr "De wekelijkse snapshots van het nachtelijke qgis-dev pakket van OSGeo4W zijn voor gebruikers die om de een of andere reden OSGeo4W (zie hieronder) niet kunnen gebruiken of juist zelfstandige installatieprogramma's prefereren. In de fase Mogelijkheden bevriezen die ook optreedt als **release candidate**."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:55
 msgid "OSGeo4W installer"
@@ -155,8 +155,8 @@ msgstr "OSGeo4W installatiepakket"
 msgid ""
 "More advanced QGIS users should use OSGeo4W packages, which for one make it "
 "possible to install several versions in parallel and also to do much more "
-"efficient updates as only changed components are downloaded and installed,"
-msgstr "Meer gevorderde gebruikers van QGIS zouden de pakketten van OSGeo4W willen gebruiken, die het, als één voordeel, mogelijk maken om verscheidene versies parallel te installeren en ook veel efficiëntere updates uit te voeren omdat alleen gewijzigde componenten worden gedownload en geïnstalleerd,"
+"efficient updates as only changed components are downloaded and installed."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:61
 msgid ""
@@ -164,8 +164,8 @@ msgid ""
 "and all dependencies are included, along with Python, GRASS, GDAL, etc. The "
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
-"future installations and could also be use to install offline."
-msgstr "De opslagplaats voor OSGeo4W bevat daarnaast veel software van andere OSGeo-projecten. QGIS en alle daarvoor noodzakelijke pakketten zijn aanwezig, naast Python, GRASS, GDAL enzovoort. Het installatiepakket geeft de mogelijkheid om direct vanaf internet te installeren of eerst de benodigde pakketten te downloaden en daarna te installeren. De gedownloade bestanden worden in een lokale map geplaatst voor toekomstige installaties. En zouden ook kunnen worden gebruikt om offline te installeren.:"
+"future installations and could also be used to install offline."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:68
 msgid "Steps are:"
@@ -264,10 +264,10 @@ msgstr "De meeste Linuxdistributies splitsen QGIS in verschillende installatiepa
 
 #: ../../source/site/forusers/alldownloads.rst:114
 msgid ""
-"Below you find instructions to install per distribution.  For most distro's "
+"Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
-msgstr "Hieronder vindt u instructies voor de installatie per distributie.  Voor de meeste distro's zijn er instructies om QGIS stabiel te installeren en instructies om een allernieuwste QGIS testversie te installeren (note the warning_)."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:120
 msgid "Debian/Ubuntu"

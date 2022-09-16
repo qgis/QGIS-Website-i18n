@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-15 06:26+0000\n"
+"POT-Creation-Date: 2022-09-15 23:07+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>, 2014-2017\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
@@ -138,7 +138,7 @@ msgstr ""
 msgid ""
 "The weekly snapshots of the nightly qgis-dev package of OSGeo4W are for "
 "users that cannot use OSGeo4W (see below) for some reason or just prefer "
-"standalone installers.  In the feature freeze phase that also acts as "
+"standalone installers. In the feature freeze phase that also acts as "
 "**release candidate**."
 msgstr ""
 
@@ -150,7 +150,7 @@ msgstr ""
 msgid ""
 "More advanced QGIS users should use OSGeo4W packages, which for one make it "
 "possible to install several versions in parallel and also to do much more "
-"efficient updates as only changed components are downloaded and installed,"
+"efficient updates as only changed components are downloaded and installed."
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:61
@@ -159,7 +159,7 @@ msgid ""
 "and all dependencies are included, along with Python, GRASS, GDAL, etc. The "
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
-"future installations and could also be use to install offline."
+"future installations and could also be used to install offline."
 msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:68
@@ -259,10 +259,10 @@ msgstr "У більшості дистрибутивів QGIS розбито н�
 
 #: ../../source/site/forusers/alldownloads.rst:114
 msgid ""
-"Below you find instructions to install per distribution.  For most distro's "
+"Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
-msgstr "Ниже наведено інструкції для різних дистрибутивів. Для більшості дистрибутивів доступні інструкції по встановленню як останнього стабільного випуску QGIS, так і поточної тестової версії (зверніть увагу на warning_)."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:120
 msgid "Debian/Ubuntu"

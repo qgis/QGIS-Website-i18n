@@ -4,14 +4,14 @@
 # 
 # Translators:
 # Tianhao Zhao <tianhaozhao99@gmail.com>, 2016
-# 徐保才 <1302638819@qq.com>, 2021
+# 徐保才 <1302638819@qq.com>, 2021-2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-17 09:31+0000\n"
+"POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2015-06-05 13:44+0000\n"
-"Last-Translator: 徐保才 <1302638819@qq.com>, 2021\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2021-2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,16 +33,16 @@ msgid ""
 msgstr "如果您是QGIS的粉丝，可能想访问我们的商店，以便购买一些纪念品来展示您最喜欢的桌面GIS。我们有一些很棒的T恤衫、杯子、连帽衫、帽子等，如果想购买请逛逛下面的商店吧！"
 
 msgid "QGIS mugs"
-msgstr ""
+msgstr "QGIS马克杯"
 
 #: ../../source/site/about/shop_goodies.rst:16
 msgid ""
 "Buying QGIS apparel not only lets you show off the fact that you use QGIS, "
 "for every t-shirt sold a commission is given to the QGIS project."
-msgstr ""
+msgstr "购买QGIS服装不仅可以向人展示您正在使用QGIS，而且每售出一件T恤衫，就会获得相应资金，用于QGIS项目的健康发展。"
 
 msgid "QGIS tshirt"
-msgstr ""
+msgstr "QGIS T恤"
 
 #: ../../source/site/about/shop_goodies.rst:25
 msgid "Shops"
@@ -56,10 +56,10 @@ msgstr "我们与Spreadshirt合作，他们在当地生产并将产品运往世�
 
 #: ../../source/site/about/shop_goodies.rst:30
 msgid "https://shop.spreadshirt.net/qgis/"
-msgstr ""
+msgstr "https://shop.spreadshirt.net/qgis/"
 
 msgid "QGIS Hoodie"
-msgstr ""
+msgstr "QGIS连帽衫"
 
 #: ../../source/site/about/shop_goodies.rst:37
 msgid ""

@@ -3,13 +3,14 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# 徐保才 <1302638819@qq.com>, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-16 11:51+0000\n"
+"POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2015-02-28 18:29+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,7 +36,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:11
 msgid "**Long Term Release**"
-msgstr ""
+msgstr "**长期发行版**"
 
 #: ../../source/site/forusers/visualchangelog28/index.rst:13
 msgid ""

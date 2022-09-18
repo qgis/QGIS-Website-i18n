@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-17 09:31+0000\n"
+"POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2013-09-17 13:25+0000\n"
 "Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
@@ -62,7 +62,7 @@ msgid ""
 msgstr "将您的QGIS工程和图层发布为与OGC标准兼容的WMS、WMTS、WFS和WCS服务，控制导出的图层、属性、布局和坐标系，QGIS服务器端以 WMS 1.3 为参考实施。"
 
 msgid "QGIS Server OGC certification badge"
-msgstr ""
+msgstr "QGIS Server OGC 认证徽章"
 
 #: ../../source/site/about/features.rst:33
 msgid "A screenshot of QGIS Server configuration in QGIS Desktop"
@@ -95,29 +95,29 @@ msgstr "QGIS体验并不局限于桌面版，各种第三方触摸优化应用�
 
 #: ../../source/site/about/features.rst:55
 msgid "`QField <https://qfield.org>`_"
-msgstr ""
+msgstr "`QField <https://qfield.org>`_"
 
 #: ../../source/site/about/features.rst:59
 msgid "QField"
-msgstr ""
+msgstr "QField"
 
 #: ../../source/site/about/features.rst:59
 msgid ""
 "A screenshot of QField (available for Android, iOS, Windows, macOS, Linux)"
-msgstr ""
+msgstr "QField 截图 (适用于 Android、iOS、Windows、macOS 和 Linux 平台)"
 
 #: ../../source/site/about/features.rst:62
 msgid "`Mergin Maps Input app <https://merginmaps.com>`_"
-msgstr ""
+msgstr "`Mergin Maps Input 应用程序 <https://merginmaps.com>`_"
 
 #: ../../source/site/about/features.rst:66
 msgid "Mergin Maps Input app"
-msgstr ""
+msgstr "Mergin Maps Input 应用程序"
 
 #: ../../source/site/about/features.rst:66
 msgid ""
 "A screenshot of Mergin Maps Input app (available for Android, iOS, Windows)"
-msgstr ""
+msgstr "Mergin Maps Input 应用程序截图 (适用于 Android、iOS 和 Windows 平台)"
 
 #: ../../source/site/about/features.rst:69
 msgid "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
@@ -125,7 +125,7 @@ msgstr "`IntraMaps Roam <https://roam-docs.readthedocs.io>`_"
 
 #: ../../source/site/about/features.rst:73
 msgid "Roam"
-msgstr ""
+msgstr "漫游"
 
 #: ../../source/site/about/features.rst:73
 msgid "A screenshot of IntraMaps Roam (available for Windows)"

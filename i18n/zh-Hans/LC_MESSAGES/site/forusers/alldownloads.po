@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-16 11:51+0000\n"
+"POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: 徐保才 <1302638819@qq.com>, 2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
@@ -32,7 +32,7 @@ msgstr "如何获取QGIS？"
 
 #: ../../source/site/forusers/alldownloads.rst:11
 msgid "QGIS is available on Windows, macOS, Linux, Android and iOS."
-msgstr ""
+msgstr "QGIS可以在 Windows、macOS、Linux、Android 和 iOS 平台上运行。"
 
 #: ../../source/site/forusers/alldownloads.rst:13
 msgid "We recommend installing the packages of the released software."
@@ -57,15 +57,15 @@ msgstr "Windows"
 
 #: ../../source/site/forusers/alldownloads.rst:28
 msgid "There are two options for installations on Windows:"
-msgstr ""
+msgstr "在Windows上安装有两种选项："
 
 #: ../../source/site/forusers/alldownloads.rst:31
 msgid "Standalone installers"
-msgstr ""
+msgstr "独立安装程序"
 
 #: ../../source/site/forusers/alldownloads.rst:33
 msgid "For beginners the easiest way is using the standalone installers:"
-msgstr ""
+msgstr "对于初学者，最简单的方法是使用独立安装程序："
 
 #: ../../source/site/forusers/alldownloads.rst:36
 #: ../../source/site/forusers/alldownloads.rst:78
@@ -107,7 +107,7 @@ msgstr ""
 #: ../../source/site/forusers/alldownloads.rst:41
 #: ../../source/site/forusers/alldownloads.rst:84
 msgid "Long Term Release"
-msgstr ""
+msgstr "长期发行版"
 
 #: ../../source/site/forusers/alldownloads.rst:41
 #: ../../source/site/forusers/alldownloads.rst:84
@@ -135,7 +135,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:47
 msgid "See also `The main installers page <./download.html>`_."
-msgstr ""
+msgstr "另请参阅 `主安装程序页面 <./download.html>`_ 。"
 
 #: ../../source/site/forusers/alldownloads.rst:49
 msgid ""
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:55
 msgid "OSGeo4W installer"
-msgstr ""
+msgstr "OSGeo4W安装程序"
 
 #: ../../source/site/forusers/alldownloads.rst:57
 msgid ""

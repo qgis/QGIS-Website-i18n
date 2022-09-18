@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-17 09:31+0000\n"
+"POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
 "Last-Translator: 徐保才 <1302638819@qq.com>, 2021-2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
@@ -202,7 +202,7 @@ msgstr "文档"
 #: ../../themes/qgis-theme/docs_index.html:32
 #: ../../themes/qgis-theme/docs_index.html:63
 msgid "QGIS 3.22"
-msgstr ""
+msgstr "QGIS 3.22"
 
 #: ../../themes/qgis-theme/docs_index.html:35
 #: ../../themes/qgis-theme/docs_index.html:98
@@ -211,7 +211,7 @@ msgstr "QGIS 3.16"
 
 #: ../../themes/qgis-theme/docs_index.html:38
 msgid "QGIS testing (>3.22)"
-msgstr ""
+msgstr "QGIS测试版 (>3.22)"
 
 #: ../../themes/qgis-theme/docs_index.html:41
 msgid "Documentation for older versions"
@@ -332,7 +332,7 @@ msgid ""
 "We are still updating (not translating yet) the documentation for releases "
 "newer than QGIS 3.22. We call this version 'QGIS testing' and the "
 "documentation can be found here: "
-msgstr ""
+msgstr "我们正在持续更新 QGIS 3.22 以后版本的文档 (未翻译)，称其为 \"QGIS测试版\"，文档可在此处找到："
 
 #: ../../themes/qgis-theme/docs_index.html:145
 msgid "QGIS Training Manual"
@@ -364,7 +364,7 @@ msgstr "旧版 QGIS 文档链接："
 
 #: ../../themes/qgis-theme/docs_index.html:164
 msgid "QGIS 3.10 Documentation"
-msgstr ""
+msgstr "QGIS 3.10 文档"
 
 #: ../../themes/qgis-theme/docs_index.html:165
 msgid "QGIS 3.4 Documentation"
@@ -416,7 +416,7 @@ msgstr "当前提供的QGIS长期支持版本为 %s '%s'."
 
 #: ../../themes/qgis-theme/forusers_download.html:7
 msgid "QGIS is available on Windows, macOS, Linux, Android and iOS."
-msgstr ""
+msgstr "QGIS可以在 Windows、macOS、Linux、Android 和 iOS 平台上运行。"
 
 #: ../../themes/qgis-theme/forusers_download.html:10
 #, python-format
@@ -449,13 +449,13 @@ msgstr "下载 Windows 版本"
 #: ../../themes/qgis-theme/forusers_download.html:77
 #, python-format
 msgid "Download QGIS %s"
-msgstr ""
+msgstr "下载 QGIS %s"
 
 #: ../../themes/qgis-theme/forusers_download.html:46
 #: ../../themes/qgis-theme/forusers_download.html:81
 #, python-format
 msgid "Looking for the most stable version? Get QGIS %s %s"
-msgstr ""
+msgstr "是否在寻找最稳定的版本？请下载 QGIS %s %s"
 
 #: ../../themes/qgis-theme/forusers_download.html:52
 msgid "OSGeo4W Network Installer"
@@ -467,13 +467,13 @@ msgid ""
 "deployments. <em>It allows to have several QGIS versions in one place, and "
 "to keep each component up-to-date individually without having to download "
 "the whole package.</em>"
-msgstr ""
+msgstr "建议普通用户或组织部署使用OSGeo4W安装程序。<em>它允许在一台设备上安装多个QGIS版本，并可使每个组件单独更新，而无需下载整个安装包。</em>"
 
 #: ../../themes/qgis-theme/forusers_download.html:60
 msgid ""
 "QGIS requires Windows 8 64 bit or higher because QGIS uses Python 3.9 or "
 "later, which is not available for Windows 7."
-msgstr ""
+msgstr "QGIS 需要在 Windows 8 64 位或更高版本下运行，这是因为 QGIS 使用的是 Python 3.9 或更高的版本，而 Windows 7 已不可用。"
 
 #: ../../themes/qgis-theme/forusers_download.html:69
 msgid "Download for macOS"
@@ -485,7 +485,7 @@ msgid ""
 " required by macOS Catalina (10.15) security rules. On first launch, please "
 "right-click on the QGIS app icon, hold down the Option key, then choose "
 "Open."
-msgstr ""
+msgstr "需要 macOS High Sierra (10.13) 或更高版本。QGIS 尚未按照 macOS Catalina (10.15) 安全规则的要求进行公证。首次启动时，请右键单击 QGIS 应用程序图标，按住选项键，然后选择 \"打开\"。"
 
 #: ../../themes/qgis-theme/forusers_download.html:91
 msgid "Download for Linux"
@@ -554,11 +554,11 @@ msgstr "第三方针对触摸屏优化的应用程序"
 
 #: ../../themes/qgis-theme/forusers_download.html:134
 msgid "QField (Android, iOS, Windows, macOS, Linux)"
-msgstr ""
+msgstr "QField (可在 Android、iOS、Windows、macOS 和 Linux 平台运行)"
 
 #: ../../themes/qgis-theme/forusers_download.html:141
 msgid "Mergin Maps Input app (available for Android, iOS and Windows devices)"
-msgstr ""
+msgstr "Mergin Maps Input 应用程序 (适用于 Android、iOS 和 Windows 等设备)"
 
 #: ../../themes/qgis-theme/forusers_download.html:153
 msgid "QGIS for Android"
@@ -580,7 +580,7 @@ msgstr "所有下载"
 msgid ""
 "More specific instructions about downloading QGIS stable vs QGIS development"
 " can be found in"
-msgstr "更加针对性的 QGIS 稳定版/开发版 下载选择指南可见于"
+msgstr "有关下载QGIS稳定版与开发版的更多具体说明，请参阅"
 
 #: ../../themes/qgis-theme/forusers_download.html:166
 msgid "Datasets"
@@ -588,7 +588,7 @@ msgstr "数据集"
 
 #: ../../themes/qgis-theme/forusers_download.html:167
 msgid "For testing and learning purposes, a "
-msgstr "为了测试和学习用途，一个"
+msgstr "用于测试及学习目的，一个"
 
 #: ../../themes/qgis-theme/forusers_download.html:167
 msgid "sample dataset is available"
@@ -598,7 +598,7 @@ msgstr "实例数据集可用"
 msgid ""
 "which contains collections of data from different sources and in different "
 "formats."
-msgstr "包含来自不同来源、不同格式的数据集合。"
+msgstr "包含来自不同来源和格式的数据集合。"
 
 #: ../../themes/qgis-theme/forusers_download.html:173
 msgid "Previous releases of QGIS are still available"
@@ -1057,7 +1057,7 @@ msgstr "自由开源的地理信息系统"
 
 #: ../../themes/qgis-theme/index.html:33
 msgid "New release: 3.26!"
-msgstr ""
+msgstr "最新发布: 3.26!"
 
 #: ../../themes/qgis-theme/index.html:35
 msgid "Get the"
@@ -1310,7 +1310,7 @@ msgid ""
 "using our labour of love and encourage you to share and spread your "
 "downloaded copy far and wide so that others may enjoy it too. Our very best "
 "regards!"
-msgstr ""
+msgstr "您正在下载最新的QGIS副本。如果是从 QGIS.org 下载QGIS，将始终免费使用。如果您有能力支持该项目和制作该软件的人员，请考虑提供<a href=\"https://donate.qgis.org/\">小额捐款</a>，以支持我们的工作。无论您是否选择捐赠，我们希望您喜欢使用我们爱的辛劳，并欢迎您将下载的副本广泛分享和传播，以便其他人也可以使用。向您致以最诚挚的问候！"
 
 #: ../../themes/qgis-theme/languageswitch.html:102
 msgid "The QGIS Team"
@@ -1339,7 +1339,7 @@ msgstr "若无另行说明，所有内容均按<a href=\"http://creativecommons.
 msgid ""
 "Select graphics from <a href=\"https://thenounproject.com\" "
 "target=\"_blank\">The Noun Project collection</a>"
-msgstr "从<a href=\"https://thenounproject.com\" target=\"_blank\">The Noun Project </a>网站选取图标素材"
+msgstr "从 <a href=\"https://thenounproject.com\" target=\"_blank\">The Noun Project </a> 网站选取图形素材"
 
 #: ../../themes/qgis-theme/page.html:47
 msgid " - Last updated on "

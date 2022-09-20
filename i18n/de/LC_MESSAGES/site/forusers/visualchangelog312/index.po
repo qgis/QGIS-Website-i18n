@@ -42,7 +42,7 @@ msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:9
 msgid "Release date: 2020-02-21"
-msgstr ""
+msgstr "Veröffentlichungsdatum: 2020-02-21"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:11
 msgid ""
@@ -1730,7 +1730,7 @@ msgstr "Beispiel:"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:707
 msgid "|imageQ4|"
-msgstr ""
+msgstr "|imageQ4|"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1621
 msgid "imageQ4"
@@ -3485,7 +3485,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog312/index.rst:1298
 #: ../../source/site/forusers/visualchangelog312/index.rst:1300
 msgid "not doable"
-msgstr ""
+msgstr "nicht machbar"
 
 #: ../../source/site/forusers/visualchangelog312/index.rst:1300
 msgid ""

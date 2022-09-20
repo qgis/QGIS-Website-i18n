@@ -8,7 +8,7 @@
 # cepesko <cepegoo@googlemail.com>, 2019
 # Christoph Hendrix, 2021
 # Joern G <j.gutzeit@umwelt-it.de>, 2020
-# Jürgen E. Fischer <jef@norbit.de>, 2013-2016
+# Jürgen E. Fischer <jef@norbit.de>, 2013-2016,2022
 # Klaus Affeldt <ka@ansperger.de>, 2019
 # Riccardo Klinger <riccardo.klinger@geolicious.de>, 2016
 # Richard Duivenvoorde <richard@duif.net>, 2016
@@ -19,7 +19,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
-"Last-Translator: Christoph Hendrix, 2021\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2013-2016,2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,7 +61,7 @@ msgid ""
 "any other related questions, please contact the :ref:`Translation Team "
 "Leader <gui-translation>` or subscribe to the `QGIS Translation mailing list"
 " <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_."
-msgstr ""
+msgstr "Wenn Sie vorhaben sich an der Übersetzung einer vorhandenen Sprache zu beteiligen oder QGIS in eine noch nicht vorhandene Sprache übersetzen wollen, schauen Sie unter :ref:`becoming-translator`. Für alle anderen diesbezügliche Fragen wenden Sie sich bitte an den :ref:`Leiter des Übersetzerteams <gui-translation>` oder abonieren Sie die `QGIS Translations Mailingliste <https://lists.osgeo.org/mailman/listinfo/qgis-tr>`_ ."
 
 #: ../../source/site/getinvolved/translate.rst:30
 msgid ""
@@ -173,7 +173,7 @@ msgstr "Einem Projekt beitreten"
 
 #: ../../source/site/getinvolved/translate.rst:100
 msgid "Go to https://www.transifex.com and create a new account"
-msgstr ""
+msgstr "Gehen Sie auf https://www.transifex.com und erstellen Sie ein neues Konto"
 
 #: ../../source/site/getinvolved/translate.rst:101
 msgid "Verify your account by the link in the email you will receive"
@@ -205,7 +205,7 @@ msgstr "**QGIS Desktop** für alle in QGIS-Anwendungen (Desktop, und Server) vor
 msgid ""
 "**QGIS Docs and Website** to translate both QGIS website and current "
 "documentation."
-msgstr ""
+msgstr "**QGIS-Dokumente und Website** zur Übersetzung der QGIS-Website und der aktuellen Dokumentation."
 
 #: ../../source/site/getinvolved/translate.rst:111
 msgid "Choose in which part of the project you would like to participate"
@@ -263,7 +263,7 @@ msgid ""
 "in the `QGIS Translation Guidelines "
 "<https://docs.qgis.org/testing/en/docs/documentation_guidelines/do_translations.html>`_."
 " We strongly recommend you to read them."
-msgstr ""
+msgstr "Um Ihnen dabei zu helfen, eine gute Übersetzung zu erstellen, finden Sie einige Anweisungen in den `QGIS-Übersetzungsrichtlinien  <https://docs.qgis.org/3.4/de/docs/documentation_guidelines/do_translations.html>`_. Wir empfehlen Ihnen dringend, sie zu lesen."
 
 #: ../../source/site/getinvolved/translate.rst:144
 msgid "**Quick access to translatable files in Transifex**"

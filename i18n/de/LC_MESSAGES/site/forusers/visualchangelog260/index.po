@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2014-2015
+# Jürgen E. Fischer <jef@norbit.de>, 2014-2015,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2014-11-01 16:56+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2014-2015\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2014-2015,2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:6
 msgid "Release date: 2014-10-31"
-msgstr ""
+msgstr "Veröffentlichungsdatum: 2014-10-31"
 
 #: ../../source/site/forusers/visualchangelog260/index.rst:8
 msgid ""

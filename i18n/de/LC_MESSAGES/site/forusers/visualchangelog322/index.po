@@ -40,7 +40,7 @@ msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog322/index.rst:8
 msgid "Release date: 2021-10-22"
-msgstr ""
+msgstr "Veröffentlichungsdatum: 2021-10-22"
 
 #: ../../source/site/forusers/visualchangelog322/index.rst:10
 #, python-format

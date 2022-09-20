@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:9
 msgid "Release date: 2018-10-26"
-msgstr ""
+msgstr "Veröffentlichungsdatum: 2018-10-26"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:11
 msgid ""

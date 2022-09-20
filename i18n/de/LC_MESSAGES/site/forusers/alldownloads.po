@@ -143,7 +143,7 @@ msgid ""
 "users that cannot use OSGeo4W (see below) for some reason or just prefer "
 "standalone installers. In the feature freeze phase that also acts as "
 "**release candidate**."
-msgstr ""
+msgstr "Die wöchentlichen Abzüge des nächtlichen OSGeo4W-Pakets qgis-dev sind für Anwender, die OSGeo4W (siehe unten) aus irgendeinem Grund nicht verwenden können oder Komplettinstallationen bevorzugen.  In der Feature-Freeze-Phase sind sie auch **Release-Kandidaten**."
 
 #: ../../source/site/forusers/alldownloads.rst:55
 msgid "OSGeo4W installer"
@@ -154,7 +154,7 @@ msgid ""
 "More advanced QGIS users should use OSGeo4W packages, which for one make it "
 "possible to install several versions in parallel and also to do much more "
 "efficient updates as only changed components are downloaded and installed."
-msgstr ""
+msgstr "Fortgeschrittene QGIS-Anwender sollten OSGeo4W-Pakete verwenden, welche einerseits die parallele Installation von mehreren Versione und zudem deutlich effizientere Aktualisierungen ermöglichen, weil nur geänderten Komponenten heruntergeladen und installiert werden."
 
 #: ../../source/site/forusers/alldownloads.rst:61
 msgid ""
@@ -163,7 +163,7 @@ msgid ""
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
 "future installations and could also be used to install offline."
-msgstr ""
+msgstr "Das OSGeo4W-Repositorium enthält eine Menge von Software von OSGeo-Projekten. QGIS und alle Abhängigkeiten sind enthalten, sowie auch Python, GRASS, GDAL usw. Die Installation kann aus dem Internet installieren oder die benötigten Pakete vorab herunterladen. Die heruntergeladenen Dateien werden in einem lokalen Verzeichnis für zukünftige Installationen gespeichert und könnten auch für Offline-Installationen verwendet werden."
 
 #: ../../source/site/forusers/alldownloads.rst:68
 msgid "Steps are:"
@@ -265,7 +265,7 @@ msgid ""
 "Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
-msgstr ""
+msgstr "Unten finden Sie nach Distributionen getrennte Anweisungen. Für die meisten Distributionen sind Anweisungen zur Installation der stabilen als auch der Testversionen enthalten (beachten Sie die warning_)."
 
 #: ../../source/site/forusers/alldownloads.rst:120
 msgid "Debian/Ubuntu"

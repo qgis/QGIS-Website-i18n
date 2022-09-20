@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Jürgen E. Fischer <jef@norbit.de>, 2014-2015
+# Jürgen E. Fischer <jef@norbit.de>, 2014-2015,2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-17 09:54+0000\n"
 "PO-Revision-Date: 2013-09-17 13:25+0000\n"
-"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2014-2015\n"
+"Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2014-2015,2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,7 +41,7 @@ msgstr "Das Labor experimenteller und angewandter Geographie (LEAG) is Teil der 
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects"
-msgstr ""
+msgstr "QGIS beim Modellieren von 3D-Objekten"
 
 #: ../../source/site/about/case_studies/czech_brno.rst:15
 msgid "QGIS while modeling 3D objects (interpolation), terrain analysis"

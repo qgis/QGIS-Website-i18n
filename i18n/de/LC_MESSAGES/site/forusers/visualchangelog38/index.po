@@ -41,7 +41,7 @@ msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:8
 msgid "Release date: 2019-06-21"
-msgstr ""
+msgstr "Veröffentlichungsdatum: 2019-06-21"
 
 #: ../../source/site/forusers/visualchangelog38/index.rst:10
 msgid ""

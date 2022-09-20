@@ -291,7 +291,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/italy_rome.rst:127
 msgid "Conclusions"
-msgstr ""
+msgstr "Conclusions"
 
 #: ../../source/site/about/case_studies/italy_rome.rst:129
 msgid ""

@@ -88,10 +88,12 @@ msgstr "QGIS-Bücher verfassen"
 msgid ""
 "To contact the certification team, please write to certification@qgis.org."
 msgstr ""
+"Mit dem Zertifizierungsteam kann man sich über certification@qgis.org in "
+"Verbindung setzen."
 
 #: ../../source/site/getinvolved/certification.rst:24
 msgid "Certification Process"
-msgstr ""
+msgstr "Zertifizierungsprozess"
 
 #: ../../source/site/getinvolved/certification.rst:27
 msgid "Application"
@@ -174,7 +176,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/certification.rst:47
 msgid "Course Certification Workflow"
-msgstr ""
+msgstr "Kurzzertifizierungsablauf"
 
 #: ../../source/site/getinvolved/certification.rst:52
 msgid "Workflow Certification"

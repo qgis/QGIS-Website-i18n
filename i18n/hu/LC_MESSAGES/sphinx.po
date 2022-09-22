@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-17 09:54+0000\n"
+"POT-Creation-Date: 2022-09-21 11:03+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
 "Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021-2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
@@ -417,7 +417,7 @@ msgstr "A hosszú távon támogatott tárolók jelenleg a QGIS %s '%s' verziót 
 
 #: ../../themes/qgis-theme/forusers_download.html:7
 msgid "QGIS is available on Windows, macOS, Linux, Android and iOS."
-msgstr ""
+msgstr "A QGIS elérhető Windowsra, macOS-re, Linux-ra, Androidra és iOS-re."
 
 #: ../../themes/qgis-theme/forusers_download.html:10
 #, python-format

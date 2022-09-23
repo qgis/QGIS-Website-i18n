@@ -3,7 +3,7 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Báthory Péter <bathory86p@gmail.com>, 2021
+# Báthory Péter <bathory86p@gmail.com>, 2021-2022
 # Csaba Sandor <sandor.csaba@gmail.com>, 2015
 # Richard Duivenvoorde <richard@duif.net>, 2016
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2015-2016
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-21 11:03+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
-"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021-2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -56,7 +56,7 @@ msgstr "A http://gis.stackexchange.com oldalon QGIS kérdéseket is feltehet. Ha
 
 #: ../../source/site/forusers/support.rst:24
 msgid "Communication channels"
-msgstr ""
+msgstr "Kommunikációs csatornák"
 
 #: ../../source/site/forusers/support.rst:27
 msgid "Telegram"

@@ -744,7 +744,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "36"
-msgstr ""
+msgstr "36"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
 msgid ":rm-future:`3.40.0`"

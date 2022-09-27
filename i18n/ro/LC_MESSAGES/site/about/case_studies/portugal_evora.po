@@ -21,7 +21,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:3
 msgid "QGIS and GRASS in Biogeographical Research in the Iberian Peninsula"
-msgstr "QGIS și GRASS, în cercetarea biogeografică din Peninsula Iberică"
+msgstr "QGIS și GRASS în cercetarea biogeografică din Peninsula Iberică"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:5
 msgid ""
@@ -32,11 +32,11 @@ msgid ""
 "rather annoying that we were constantly dealing with license renewal issues,"
 " and that I could not use the software away from the workplace unless I "
 "acquired my own license."
-msgstr "Am început să folosesc GIS în munca mea din biogeografie acum aproximativ 10 ani. Pe perioada stagiaturii, a tezei de doctorat și a altor două activități de cercetare, am folosit pachetele software proprietare care erau disponibile la locul de muncă - în principal CartaLinx, Idrisi, ArcView și ArcGIS. Dar am găsit destul de enervant faptul că, în mod constant, am avut de-a face cu probleme de reînnoire a licenței, și nu am putut folosi software-ul mai departe de locul de muncă, fără a nu cumpăra propria licență."
+msgstr "Am început să folosesc GIS în biogeografie cu aproximativ 10 ani în urmă. Pe perioada stagiaturii, a tezei de doctorat și a altor două activități de cercetare, am folosit pachetele software proprietare care erau disponibile la locul de muncă - în principal CartaLinx, Idrisi, ArcView și ArcGIS. Dar am găsit destul de supărător faptul că, în mod constant, aveam de-a face cu probleme de reînnoire a licenței, neputând folosi softurile în afara locului de muncă fără a-mi cumpăra propriile licențe."
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid "Distribution of Spanish algyroides"
-msgstr ""
+msgstr "Distribuția algyroidelor spaniole"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid ""
@@ -77,7 +77,7 @@ msgstr " Am început să folosesc ambele programe imediat după curs. Nu numai c
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid "Environmental suitability for the Pyrenean desman"
-msgstr ""
+msgstr "Compatibilitatea cu mediul a șobolanului-trompetă din Pirinei"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid ""

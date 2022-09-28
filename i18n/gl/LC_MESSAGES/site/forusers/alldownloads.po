@@ -33,7 +33,7 @@ msgstr "Como conseguir QGIS"
 
 #: ../../source/site/forusers/alldownloads.rst:11
 msgid "QGIS is available on Windows, macOS, Linux, Android and iOS."
-msgstr ""
+msgstr "QGIS está dispoñible en Windows, macOS, Linux, Android e iOS."
 
 #: ../../source/site/forusers/alldownloads.rst:13
 msgid "We recommend installing the packages of the released software."
@@ -850,7 +850,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:466
 msgid "Arch Linux"
-msgstr ""
+msgstr "Arch Linux"
 
 #: ../../source/site/forusers/alldownloads.rst:471
 msgid ""

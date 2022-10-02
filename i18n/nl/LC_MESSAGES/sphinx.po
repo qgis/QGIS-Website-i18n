@@ -483,7 +483,7 @@ msgid ""
 " required by macOS Catalina (10.15) security rules. On first launch, please "
 "right-click on the QGIS app icon, hold down the Option key, then choose "
 "Open."
-msgstr ""
+msgstr "MacOS High Sierra (10.13) of nieuwer zijn vereist. QGIS is nog niet genotariseerd, zoals vereist door beveiligingsregels van macOS Catalina (10.15). Gebruik, bij de eerste keer opstarten, een klik met rechts op het pictogram van de app QGIS, houdt de Optie-toets ingedrukt, en kies dan Openen."
 
 #: ../../themes/qgis-theme/forusers_download.html:91
 msgid "Download for Linux"

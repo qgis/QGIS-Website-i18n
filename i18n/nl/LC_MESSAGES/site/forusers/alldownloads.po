@@ -145,7 +145,7 @@ msgid ""
 "users that cannot use OSGeo4W (see below) for some reason or just prefer "
 "standalone installers. In the feature freeze phase that also acts as "
 "**release candidate**."
-msgstr ""
+msgstr "De wekelijkse snapshots van het nachtelijke qgis-dev pakket van OSGeo4W zijn voor gebruikers die om de een of andere reden OSGeo4W (zie hieronder) niet kunnen gebruiken of juist zelfstandige installatieprogramma's prefereren. In de fase Mogelijkheden bevriezen die ook optreedt als **release candidate**."
 
 #: ../../source/site/forusers/alldownloads.rst:55
 msgid "OSGeo4W installer"
@@ -156,7 +156,7 @@ msgid ""
 "More advanced QGIS users should use OSGeo4W packages, which for one make it "
 "possible to install several versions in parallel and also to do much more "
 "efficient updates as only changed components are downloaded and installed."
-msgstr ""
+msgstr "Meer gevorderde gebruikers van QGIS zouden de pakketten van OSGeo4W willen gebruiken, die het, als één voordeel, mogelijk maken om verscheidene versies parallel te installeren en ook veel efficiëntere updates uit te voeren omdat alleen gewijzigde componenten worden gedownload en geïnstalleerd."
 
 #: ../../source/site/forusers/alldownloads.rst:61
 msgid ""
@@ -165,7 +165,7 @@ msgid ""
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
 "future installations and could also be used to install offline."
-msgstr ""
+msgstr "De opslagplaats voor OSGeo4W bevat daarnaast veel software van andere OSGeo-projecten. QGIS en alle daarvoor noodzakelijke pakketten zijn aanwezig, naast Python, GRASS, GDAL enzovoort. Het installatiepakket geeft de mogelijkheid om direct vanaf internet te installeren of eerst de benodigde pakketten te downloaden en daarna te installeren. De gedownloade bestanden worden in een lokale map geplaatst voor toekomstige installaties. En zouden ook kunnen worden gebruikt om offline te installeren.:"
 
 #: ../../source/site/forusers/alldownloads.rst:68
 msgid "Steps are:"
@@ -267,7 +267,7 @@ msgid ""
 "Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
-msgstr ""
+msgstr "Hieronder vindt u instructies voor de installatie per distributie. Voor de meeste distro's zijn er instructies om QGIS stabiel te installeren en instructies om een allernieuwste QGIS testversie te installeren (note the warning_)."
 
 #: ../../source/site/forusers/alldownloads.rst:120
 msgid "Debian/Ubuntu"

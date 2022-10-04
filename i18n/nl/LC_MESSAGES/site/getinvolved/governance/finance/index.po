@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-30 13:21+0000\n"
+"POT-Creation-Date: 2022-10-03 20:44+0000\n"
 "PO-Revision-Date: 2015-02-28 18:31+0000\n"
 "Last-Translator: DiGro, 2021-2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
@@ -39,10 +39,15 @@ msgstr ":download:`Budget 2022 (pdf) <../../../../static/site/getinvolved/govern
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:10
 msgid ""
-":download:`Budget 2021 (pdf) "
-"<../../../../static/site/getinvolved/governance/finance/annual-"
+":download:`Financial report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/PublicQGISfinancialreport2021.pdf>`, :download:`Financial auditing "
+"report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/finance/annual-financial-"
+"reports/Financial-Auditing-Report_QGIS-ORG_2021.pdf>`, :download:`Budget "
+"2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-"
 "budgets/QGISBudget2021.pdf>`"
-msgstr ":download:`Budget 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2021.pdf>`"
+msgstr ":download:`Financial report 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/PublicQGISfinancialreport2021.pdf>`, :download:`Financial auditing report 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-financial-reports/Financial-Auditing-Report_QGIS-ORG_2021.pdf>`, :download:`Budget 2021 (pdf) <../../../../static/site/getinvolved/governance/finance/annual-budgets/QGISBudget2021.pdf>`"
 
 #: ../../source/site/getinvolved/governance/finance/index.rst:11
 msgid ""

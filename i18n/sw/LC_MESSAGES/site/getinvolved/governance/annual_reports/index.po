@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-30 13:21+0000\n"
+"POT-Creation-Date: 2022-10-03 20:44+0000\n"
 "PO-Revision-Date: 2018-05-20 14:25+0000\n"
 "Language-Team: Swahili (https://www.transifex.com/qgis/teams/6144/sw/)\n"
 "MIME-Version: 1.0\n"
@@ -37,33 +37,40 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/annual_reports/index.rst:12
 msgid ""
+":download:`QGIS Annual Report 2021 (pdf) "
+"<../../../../static/site/getinvolved/governance/annual-project-"
+"reports/QGISAnnualReport2021.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:13
+msgid ""
 ":download:`QGIS Annual Report 2020 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2020.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:13
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:14
 msgid ""
 ":download:`QGIS Annual Report 2019 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2019.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:14
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:15
 msgid ""
 ":download:`QGIS Annual Report 2018 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2018.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:15
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:16
 msgid ""
 ":download:`QGIS Annual Report 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"
 "reports/QGISAnnualReport2017.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_reports/index.rst:16
+#: ../../source/site/getinvolved/governance/annual_reports/index.rst:17
 msgid ""
 ":download:`QGIS Annual Report 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/annual-project-"

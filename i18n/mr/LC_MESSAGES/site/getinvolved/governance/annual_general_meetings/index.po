@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-30 13:21+0000\n"
+"POT-Creation-Date: 2022-10-03 20:44+0000\n"
 "PO-Revision-Date: 2018-05-20 14:24+0000\n"
 "Language-Team: Marathi (https://www.transifex.com/qgis/teams/6144/mr/)\n"
 "MIME-Version: 1.0\n"
@@ -33,40 +33,47 @@ msgstr ""
 
 #: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:10
 msgid ""
+":download:`QGIS AGM Minutes 2022 (pdf) "
+"<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
+"AGM2022-Minutes.pdf>`"
+msgstr ""
+
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:11
+msgid ""
 ":download:`QGIS AGM Minutes 2021 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2021-Minutes.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:11
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:12
 msgid ""
 ":download:`QGIS AGM Minutes 2020 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2020-Minutes.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:12
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:13
 msgid ""
 ":download:`QGIS AGM Minutes 2019 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2019-Minutes.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:13
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:14
 msgid ""
 ":download:`QGIS AGM Minutes 2018 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2018-Minutes.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:14
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:15
 msgid ""
 ":download:`QGIS AGM Minutes 2017 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"
 "AGM2017-Minutes.pdf>`"
 msgstr ""
 
-#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:15
+#: ../../source/site/getinvolved/governance/annual_general_meetings/index.rst:16
 msgid ""
 ":download:`QGIS AGM Minutes 2016 (pdf) "
 "<../../../../static/site/getinvolved/governance/agm-minutes/QGIS-"

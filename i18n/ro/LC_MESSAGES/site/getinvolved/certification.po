@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-30 13:21+0000\n"
+"POT-Creation-Date: 2022-10-03 20:44+0000\n"
 "PO-Revision-Date: 2019-03-13 19:40+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
@@ -86,10 +86,12 @@ msgstr "Scrierea unor cărți de QGIS"
 msgid ""
 "To contact the certification team, please write to certification@qgis.org."
 msgstr ""
+"Pentru a contacta echipa de certificare, vă rugăm să scrieți la "
+"certification@qgis.org."
 
 #: ../../source/site/getinvolved/certification.rst:24
 msgid "Certification Process"
-msgstr ""
+msgstr "Procesul de Certificare"
 
 #: ../../source/site/getinvolved/certification.rst:27
 msgid "Application"
@@ -169,7 +171,7 @@ msgstr ""
 
 #: ../../source/site/getinvolved/certification.rst:47
 msgid "Course Certification Workflow"
-msgstr ""
+msgstr "Fluxul de Lucru pentru Certificarea Cursului"
 
 #: ../../source/site/getinvolved/certification.rst:52
 msgid "Workflow Certification"

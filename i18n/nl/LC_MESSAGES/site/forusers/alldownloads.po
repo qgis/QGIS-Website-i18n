@@ -13,7 +13,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-03 20:44+0000\n"
+"POT-Creation-Date: 2022-10-04 16:56+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: DiGro, 2020-2022\n"
 "Language-Team: Dutch (http://www.transifex.com/qgis/qgis-website/language/nl/)\n"
@@ -359,8 +359,8 @@ msgstr "Standaard opslagplaatsen voor software van Debian en Ubuntu bevatten vaa
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your "
-"/etc/apt/sources.list.d/qgis.sources file."
-msgstr "U moet, om de nieuwere versies te verkrijgen, eerst alternatieve opslagplaatsen voor software toevoegen, door een van de deb-regels hieronder toe te voegen aan uw bestand /etc/apt/sources.list.d/qgis.sources."
+"``/etc/apt/sources.list.d/qgis.sources`` file."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid ""
@@ -624,9 +624,9 @@ msgstr "Als alternatief kunt u de sleutel direct downloaden zonder handmatige ve
 
 #: ../../source/site/forusers/alldownloads.rst:313
 msgid ""
-"With the keyring in place you can add the repository to as "
+"With the keyring in place you can add the repository as "
 "``/etc/apt/sources.list.d/qgis.sources`` with following content::"
-msgstr "Met de sleutelring op zijn plaats kunt u de opslagplaats toevoegen aan ``/etc/apt/sources.list.d/qgis.sources`` met de volgende inhoud::"
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:322
 msgid "Example for the latest long term release for Ubuntu 22.04 Jammy::"

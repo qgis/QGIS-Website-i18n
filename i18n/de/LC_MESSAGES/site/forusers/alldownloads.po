@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-03 20:44+0000\n"
+"POT-Creation-Date: 2022-10-04 16:56+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2013-2017,2019,2021-2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
@@ -357,8 +357,8 @@ msgstr "Die normalen Debian und Ubuntu-Softwarerepositorien enthalten meist nur 
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your "
-"/etc/apt/sources.list.d/qgis.sources file."
-msgstr "Um neuere Version zu installieren. müssen weitere alternative Repositorien hinzugefügt werden, indem eine der obigen deb-Zeilen /etc/apt/sources.list.d/qgis.sources hinzugefügt wird."
+"``/etc/apt/sources.list.d/qgis.sources`` file."
+msgstr "Um neuere Version zu installieren. müssen weitere alternative Repositorien hinzugefügt werden, indem eine der obigen deb-Zeilen ``/etc/apt/sources.list.d/qgis.sources`` hinzugefügt wird."
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid ""
@@ -622,7 +622,7 @@ msgstr "Alternativ kann der Schlüssel auch ohne manuelle Überprüfung herunter
 
 #: ../../source/site/forusers/alldownloads.rst:313
 msgid ""
-"With the keyring in place you can add the repository to as "
+"With the keyring in place you can add the repository as "
 "``/etc/apt/sources.list.d/qgis.sources`` with following content::"
 msgstr "Mit dem installierten Schlüsselring  kann das Repositorium als ``/etc/apt/sources.list.d/qgis.sources`` mit folgendem Inhalt ergänzt werden::"
 

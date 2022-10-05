@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-03 20:44+0000\n"
+"POT-Creation-Date: 2022-10-04 16:56+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
 "Last-Translator: alexbruy <alexander.bruy@gmail.com>, 2014,2017\n"
 "Language-Team: Ukrainian (http://www.transifex.com/qgis/qgis-website/language/uk/)\n"
@@ -1165,8 +1165,8 @@ msgid "Upcoming User & Developer Meetings"
 msgstr "Заплановані зустрічі користувачів та розробників"
 
 #: ../../themes/qgis-theme/index.html:182
-msgid "Latest Blog Posts"
-msgstr "Останні дописи"
+msgid "Latest Community Blog Posts"
+msgstr ""
 
 #: ../../themes/qgis-theme/index.html:231
 msgid "See More Maps and Screenshots"

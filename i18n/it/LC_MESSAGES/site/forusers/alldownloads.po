@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-03 20:44+0000\n"
+"POT-Creation-Date: 2022-10-04 16:56+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Andrea Giudiceandrea <andreaerdna@libero.it>, 2019-2022\n"
 "Language-Team: Italian (http://www.transifex.com/qgis/qgis-website/language/it/)\n"
@@ -364,8 +364,8 @@ msgstr "Spesso con i repository predefiniti di Debian e Ubuntu sono disponibili 
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your "
-"/etc/apt/sources.list.d/qgis.sources file."
-msgstr "Per poter installare le nuove versioni è necessario aggiungere alcuni repository esterni. Per farlo puoi aggiungere una delle stringhe che iniziano con deb al file /etc/apt/sources.list.d/qgis.sources."
+"``/etc/apt/sources.list.d/qgis.sources`` file."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid ""
@@ -629,7 +629,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:313
 msgid ""
-"With the keyring in place you can add the repository to as "
+"With the keyring in place you can add the repository as "
 "``/etc/apt/sources.list.d/qgis.sources`` with following content::"
 msgstr ""
 

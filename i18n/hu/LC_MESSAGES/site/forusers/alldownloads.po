@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-03 20:44+0000\n"
+"POT-Creation-Date: 2022-10-04 16:56+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2021-2022\n"
 "Language-Team: Hungarian (http://www.transifex.com/qgis/qgis-website/language/hu/)\n"
@@ -362,8 +362,8 @@ msgstr "Az alapértelmezett Debian és Ubuntu szoftvertárolók gyakran régebbi
 msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your "
-"/etc/apt/sources.list.d/qgis.sources file."
-msgstr "Egy újabb verzió beszerzéséhez, alternatív szoftvertárolót kell megadnia úgy, hogy az alábbi deb sorok közül az egyiket hozzáadja a /etc/apt/sources.list.d/qgis.sources fájljához."
+"``/etc/apt/sources.list.d/qgis.sources`` file."
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid ""
@@ -627,9 +627,9 @@ msgstr "Alternatív megoldásként a kulcsot közvetlenül is letöltheti, kézi
 
 #: ../../source/site/forusers/alldownloads.rst:313
 msgid ""
-"With the keyring in place you can add the repository to as "
+"With the keyring in place you can add the repository as "
 "``/etc/apt/sources.list.d/qgis.sources`` with following content::"
-msgstr "Ha a kulcstartó a helyén van, hozzáadhatja a tárolót a ``/etc/apt/sources.list.d/qgis.sources`` fájlhoz a következő tartalommal:"
+msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:322
 msgid "Example for the latest long term release for Ubuntu 22.04 Jammy::"

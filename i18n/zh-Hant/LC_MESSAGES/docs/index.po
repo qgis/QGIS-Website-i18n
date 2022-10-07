@@ -3,14 +3,15 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# EMC, 2022
 # Yi-Hao Qiu <yihao.qiu@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-04 16:56+0000\n"
+"POT-Creation-Date: 2022-10-06 08:23+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
-"Last-Translator: Yi-Hao Qiu <yihao.qiu@gmail.com>, 2017\n"
+"Last-Translator: EMC, 2022\n"
 "Language-Team: Chinese Traditional (http://www.transifex.com/qgis/qgis-website/language/zh-Hant/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,4 +30,4 @@ msgstr "核取方塊"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr "檢核框未檢核"
+msgstr "核取方塊未選取"

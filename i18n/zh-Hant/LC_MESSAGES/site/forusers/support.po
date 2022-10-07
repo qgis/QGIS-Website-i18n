@@ -3,15 +3,16 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
+# EMC, 2022
 # Mingye Wang <arthur200126@gmail.com>, 2015
 # Yi-Hao Qiu <yihao.qiu@gmail.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-04 16:56+0000\n"
+"POT-Creation-Date: 2022-10-06 08:23+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
-"Last-Translator: Yi-Hao Qiu <yihao.qiu@gmail.com>, 2017\n"
+"Last-Translator: EMC, 2022\n"
 "Language-Team: Chinese Traditional (http://www.transifex.com/qgis/qgis-website/language/zh-Hant/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,7 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:16
 msgid "StackExchange"
-msgstr ""
+msgstr "StackExchange"
 
 #: ../../source/site/forusers/support.rst:18
 msgid ""
@@ -94,7 +95,7 @@ msgid ""
 "an OSGeo account you can also use your OSGeo id as matrix id), install a "
 "client (Elements is easiest, but see https://matrix.org/docs/projects/try-"
 "matrix-now/#clients for more), OR point your browser to "
-"(https://matrix.to/#/!qgis:osgeo.org)"
+"(https://matrix.to/#/#qgis:osgeo.org)"
 msgstr ""
 
 #: ../../source/site/forusers/support.rst:43
@@ -116,7 +117,7 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:51
 msgid "User Groups"
-msgstr ""
+msgstr "使用者群組"
 
 #: ../../source/site/forusers/support.rst:53
 msgid "Local QGIS user groups are a great place to meet other users."
@@ -152,7 +153,7 @@ msgstr ""
 
 #: ../../source/site/forusers/support.rst:77
 msgid "Issue Tracker"
-msgstr ""
+msgstr "問題追蹤器"
 
 #: ../../source/site/forusers/support.rst:79
 msgid "If you want to file bugs or issues, see :ref:`QGIS-bugreporting`."

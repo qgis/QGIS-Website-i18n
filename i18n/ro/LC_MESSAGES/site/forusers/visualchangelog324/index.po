@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-04 16:56+0000\n"
+"POT-Creation-Date: 2022-10-06 08:23+0000\n"
 "PO-Revision-Date: 2022-03-02 13:45+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2022\n"
 "Language-Team: Romanian (https://www.transifex.com/qgis/teams/6144/ro/)\n"
@@ -2980,7 +2980,7 @@ msgstr "`#34395 <https://github.com/qgis/QGIS/issues/34395>`__"
 
 #: ../../source/site/forusers/visualchangelog324/index.rst:1031
 msgid "works for me (closed - not a bug)"
-msgstr ""
+msgstr "la mine funcționează (închisă - nu este o eroare)"
 
 #: ../../source/site/forusers/visualchangelog324/index.rst:1033
 msgid "(Un)force hide form in relation widget"
@@ -3006,7 +3006,7 @@ msgstr "`#46354 <https://github.com/qgis/QGIS/issues/46354>`__"
 
 #: ../../source/site/forusers/visualchangelog324/index.rst:1035
 msgid "works for me (left open)"
-msgstr ""
+msgstr "la mine funcționează (rămâne deschisă)"
 
 #: ../../source/site/forusers/visualchangelog324/index.rst:1037
 msgid ""
@@ -3034,7 +3034,7 @@ msgstr "`#45965 <https://github.com/qgis/QGIS/issues/45965>`__"
 
 #: ../../source/site/forusers/visualchangelog324/index.rst:1039
 msgid "works for me (closed)"
-msgstr ""
+msgstr "la mine funcționează (închisă)"
 
 #: ../../source/site/forusers/visualchangelog324/index.rst:1041
 msgid ""

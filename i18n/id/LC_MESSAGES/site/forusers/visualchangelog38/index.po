@@ -7,7 +7,7 @@
 # Dany Laksono <danylaksono@ugm.ac.id>, 2020
 # Tim Sutton <tim@kartoza.com>, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
-# Imron Fauzi <imronfauzi@gmail.com>, 2020
+# imron fauzi <imronfauzi@gmail.com>, 2020
 # Yudha Ha Te <yudha_ht@yahoo.com>, 2020
 # Achmad Firmansyah <achm.firmansyah@gmail.com>, 2020
 # Ridho Dwi Dharmawan <ridhodwidh@gmail.com>, 2020
@@ -18,7 +18,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.26\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-06 08:23+0000\n"
+"POT-Creation-Date: 2022-10-07 15:36+0000\n"
 "PO-Revision-Date: 2019-07-12 14:44+0000\n"
 "Last-Translator: Ali Mustopa <ali.m@amikom.ac.id>, 2022\n"
 "Language-Team: Indonesian (https://www.transifex.com/qgis/teams/6144/id/)\n"

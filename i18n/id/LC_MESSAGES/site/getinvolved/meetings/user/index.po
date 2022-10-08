@@ -3,14 +3,14 @@
 # This file is distributed under the same license as the QGIS package.
 # 
 # Translators:
-# Imron Fauzi <imronfauzi@gmail.com>, 2014
+# imron fauzi <imronfauzi@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-06 08:23+0000\n"
+"POT-Creation-Date: 2022-10-07 15:36+0000\n"
 "PO-Revision-Date: 2013-09-23 16:19+0000\n"
-"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>, 2014\n"
+"Last-Translator: imron fauzi <imronfauzi@gmail.com>, 2014\n"
 "Language-Team: Indonesian (http://www.transifex.com/qgis/qgis-website/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

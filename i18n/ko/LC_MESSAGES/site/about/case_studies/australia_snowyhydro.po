@@ -204,4 +204,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "checkbox_unchecked"

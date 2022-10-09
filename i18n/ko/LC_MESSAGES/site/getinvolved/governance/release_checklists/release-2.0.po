@@ -97,7 +97,7 @@ msgstr ""
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "checkbox_unchecked"
 
 #: ../../source/site/getinvolved/governance/release_checklists/release-2.0.rst:36
 msgid ""

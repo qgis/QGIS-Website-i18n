@@ -6,7 +6,7 @@
 # Armando Vulcano Junior <vulcano@uol.com.br>, 2015
 # QGISBrasil <comunidade@qgisbrasil.org>, 2015
 # Brenda de Andrade Feitosa <brenddandrad@gmail.com>, 2018
-# Gunther D <elvis@dahnert.com.br>, 2020
+# Elvis Dahnert <elvis@dahnert.com.br>, 2020
 # João Gaspar <joao.f.r.gaspar@gmail.com>, 2013
 # Leônidas Luiz Volcato Descovi Filho <leonprs2@gmail.com>, 2020
 # Mariana Muniz Blank <mariblank_1@hotmail.com>, 2016-2017
@@ -19,9 +19,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-07 15:36+0000\n"
+"POT-Creation-Date: 2022-10-13 19:18+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
-"Last-Translator: Gunther D <elvis@dahnert.com.br>, 2020\n"
+"Last-Translator: Elvis Dahnert <elvis@dahnert.com.br>, 2020\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/qgis/qgis-website/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

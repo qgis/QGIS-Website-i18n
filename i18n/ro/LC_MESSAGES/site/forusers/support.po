@@ -96,7 +96,7 @@ msgid ""
 "https://matrix.org/docs/projects/try-matrix-now/#clients for more), OR point"
 " your browser to `https://matrix.to/#/#qgis:osgeo.org "
 "<https://matrix.to/#/#qgis:osgeo.org>`_"
-msgstr ""
+msgstr "Pentru a utiliza Matrix: creați-vă un cont (la matrix.org este cel mai simplu, dar puteți `utiliza și id-ul de OSGeo, dacă aveți deja un cont la OSGeo <https://wiki.osgeo.org/wiki/Matrix#Connecting_to_the_OSGeo_Matrix_Homeserver>`_), apoi instalați un client (Elements este cel mai ușor, dar puteți consulta și https://matrix.org/docs/projects/try-matrix-now/#clients pentru alte variante), SAU apelați `https://matrix.to/#/#qgis:osgeo.org <https://matrix.to/#/#qgis:osgeo.org>`_ în browser."
 
 #: ../../source/site/forusers/support.rst:43
 msgid ""

@@ -5,13 +5,14 @@
 # Translators:
 # MarieSilvestre, 2014
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Mehdi SEMCHAOUI, 2022
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-15 11:38+0000\n"
+"POT-Creation-Date: 2022-10-18 17:11+0000\n"
 "PO-Revision-Date: 2014-10-19 11:13+0000\n"
-"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -55,7 +56,7 @@ msgstr "En Afghanistan, les activités de déminage sont coordonnées par le Min
 msgid ""
 "Digital elevation models allow DDG to get an idea of the location of a "
 "minefield."
-msgstr ""
+msgstr "Les modèles numériques d'élévation permettent au DDG d'avoir une idée de l'emplacement d'un champ de mines."
 
 #: ../../source/site/about/case_studies/afghanistan.rst:14
 msgid ""
@@ -154,4 +155,4 @@ msgstr "checkbox"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"
-msgstr ""
+msgstr "case décochée"

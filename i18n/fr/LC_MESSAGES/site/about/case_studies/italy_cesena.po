@@ -101,7 +101,7 @@ msgstr ""
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:36
 msgid "Concept Map of the QGIS project"
-msgstr ""
+msgstr "Carte conceptuelle du projet QGIS"
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:36
 msgid "Fig. 1 Concept Map of the QGIS project"
@@ -148,7 +148,7 @@ msgstr "Le développement urbain de Cesena du 16ième siècle au présent ;"
 #: ../../source/site/about/case_studies/italy_cesena.rst:50
 #: ../../source/site/about/case_studies/italy_cesena.rst:63
 msgid "Satellite Map overlapped with information"
-msgstr ""
+msgstr "Carte satellite recouverte d'informations"
 
 #: ../../source/site/about/case_studies/italy_cesena.rst:50
 msgid ""

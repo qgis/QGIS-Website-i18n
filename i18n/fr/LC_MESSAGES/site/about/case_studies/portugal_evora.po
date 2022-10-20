@@ -6,6 +6,7 @@
 # cheznouscarte <b.veler@laposte.net>, 2013
 # Harrissou Sant-anna, 2013
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
+# Mehdi SEMCHAOUI, 2022
 # Robin PREST, 2013
 msgid ""
 msgstr ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-18 17:11+0000\n"
 "PO-Revision-Date: 2013-09-17 13:26+0000\n"
-"Last-Translator: Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +40,7 @@ msgstr "J'ai commencé à utiliser les SIG dans mes travaux de biogéographie il
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid "Distribution of Spanish algyroides"
-msgstr ""
+msgstr "Répartition des algyroides espagnols"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:11
 msgid ""
@@ -80,7 +81,7 @@ msgstr "J'ai commencé à utiliser ces deux programmes immédiatement après la 
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid "Environmental suitability for the Pyrenean desman"
-msgstr ""
+msgstr "Adéquation environnementale du desman pyrénéen"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:21
 msgid ""
@@ -164,7 +165,7 @@ msgstr "Auteur"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:48
 msgid "A. Márcia Barbosa"
-msgstr ""
+msgstr "A. Márcia Barbosa"
 
 #: ../../source/site/about/case_studies/portugal_evora.rst:48
 msgid "A Márcia Barbosa"

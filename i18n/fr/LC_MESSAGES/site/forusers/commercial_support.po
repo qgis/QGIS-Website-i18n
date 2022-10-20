@@ -10,6 +10,7 @@
 # MarieSilvestre, 2014-2016,2021
 # Médéric RIBREUX <mederic.ribreux__translate@medspx.fr>, 2015
 # Mehdi SEMCHAOUI, 2013
+# Mehdi SEMCHAOUI, 2022
 # Richard Duivenvoorde <richard@duif.net>, 2016
 # a00fce65fdff2427915d78cd7ee0a4f6_c16c729 <a55eac686ada07eb8210deda0a39fa35_814277>, 2020
 # Robin PREST, 2013
@@ -21,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-18 17:11+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
-"Last-Translator: MarieSilvestre, 2014-2016,2021\n"
+"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
 "Language-Team: French (http://www.transifex.com/qgis/qgis-website/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,7 +41,7 @@ msgid ""
 "whether there is commercial support available? Are you looking for a "
 "developer to add features you need or fix bugs you encounter? Here is an "
 "alphabetical list, divided in categories, of support contractors."
-msgstr ""
+msgstr "Envisagez-vous d'utiliser QGIS dans votre entreprise ou organisation, mais vous vous demandez s'il existe un support commercial disponible ? Recherchez-vous un développeur pour ajouter les fonctionnalités dont vous avez besoin ou corriger les bugs que vous rencontrez ? Voici une liste alphabétique, divisée en catégories, des entrepreneurs de soutien."
 
 #: ../../source/site/forusers/commercial_support.rst:13
 msgid ""

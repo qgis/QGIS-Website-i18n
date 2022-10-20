@@ -221,7 +221,7 @@ msgstr ""
 "soit-disant contextes de travail."
 
 msgid "Workorder"
-msgstr ""
+msgstr "Demande de service"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:86
 msgid ""
@@ -281,7 +281,7 @@ msgstr ""
 "nécessaires aux étapes suivantes de l'algorithme."
 
 msgid "Step 1: input layer"
-msgstr ""
+msgstr "Etape 1: couche en entrée"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:113
 msgid ""
@@ -298,7 +298,7 @@ msgstr ""
 "distincte indiquant leur attribution à un groupement particulier."
 
 msgid "Step 1"
-msgstr ""
+msgstr "Etape 1"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:126
 msgid ""
@@ -312,7 +312,7 @@ msgstr ""
 "pour le réseau GPON."
 
 msgid "step 1: result"
-msgstr ""
+msgstr "Etape 1: résultat"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:135
 msgid ""
@@ -329,7 +329,7 @@ msgstr ""
 "nœuds."
 
 msgid "step 4: results"
-msgstr ""
+msgstr "Etape 4: résultats"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:145
 msgid ""
@@ -344,10 +344,10 @@ msgstr ""
 "les données calculées à partir de perspectives différentes."
 
 msgid "Report generated"
-msgstr ""
+msgstr "Rapport généré"
 
 msgid "Report generated and tranformed"
-msgstr ""
+msgstr "Rapport généré et transformé"
 
 #: ../../source/site/about/case_studies/poland_ffth.rst:162
 msgid "Conclusion"

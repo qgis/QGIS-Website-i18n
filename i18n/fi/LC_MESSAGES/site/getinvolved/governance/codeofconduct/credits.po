@@ -48,7 +48,7 @@ msgstr "Jos sinulla on kysymyksiä, ota meihin yhteyttä: pcs@qgis.org"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
-msgstr ""
+msgstr "Valintaruutu"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"

@@ -52,7 +52,7 @@ msgstr "QGIS PSC (Projektin ohjausryhmä: psc@qgis.org)"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
-msgstr ""
+msgstr "Valintaruutu"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"

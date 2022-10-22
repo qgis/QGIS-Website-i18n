@@ -30,7 +30,7 @@ msgstr "Löydät alta muutoslokit alkaen versiosta 2.0"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
-msgstr ""
+msgstr "Valintaruutu"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"

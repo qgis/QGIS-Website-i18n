@@ -853,7 +853,7 @@ msgstr ":ref:`Mac OS <QGIS-macos-testing>`"
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
-msgstr ""
+msgstr "Valintaruutu"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"

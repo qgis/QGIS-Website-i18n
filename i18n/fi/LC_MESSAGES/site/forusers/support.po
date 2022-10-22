@@ -172,7 +172,7 @@ msgstr "Voit saada tuke lähellä sijaitsevilta yrityksiltä, ole ystävällinen
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"
-msgstr ""
+msgstr "Valintaruutu"
 
 #: ../../<rst_epilog>:3
 msgid "checkbox_unchecked"

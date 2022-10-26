@@ -14,15 +14,16 @@
 # benoitdm_oslandia <benoit.de.mezzo@oslandia.com>, 2022
 # Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022
 # Mehdi SEMCHAOUI, 2022
+# fiuzzy <fiuzzy1@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: QGIS 3.26\n"
+"Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-18 17:11+0000\n"
+"POT-Creation-Date: 2022-10-25 20:09+0000\n"
 "PO-Revision-Date: 2022-06-30 03:11+0000\n"
-"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
+"Last-Translator: fiuzzy <fiuzzy1@gmail.com>, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -113,6 +114,14 @@ msgid ""
 "money, or otherwise get involved in making QGIS more awesome, please wander "
 "along to `QGIS.ORG <https://qgis.org>`__ and lend a hand!"
 msgstr ""
+"Nous aimerions aussi adresser un grand merci aux développeurs, rédacteurs de"
+" documentation, testeurs ainsi que les nombreuses personnes autour qui "
+"donnent de leur temps et de leur énergie (ou financent des gens pour le "
+"faire) pour rendre possible la publication de cette nouvelle version. De la "
+"part de la communauté QGIS, nous espérons que vous apprécierez celle-ci ! Si"
+" vous souhaitez donner du temps, de l'argent ou vous impliquer de quelque "
+"manière que ce soit pour rendre QGIS meilleur, n'hésitez pas à aller voir du"
+" côté de `QGIS.ORG <https://qgis.org>`__ pour prêter main-forte !"
 
 #: ../../source/site/forusers/visualchangelog326/index.rst:20
 msgid ""
@@ -197,6 +206,8 @@ msgid ""
 "This feature was developed by `Ismail Sunni "
 "<https://github.com/ismailsunni>`__"
 msgstr ""
+"Cette fonctionnalité a été développée par `Ismail Sunni "
+"<https://github.com/ismailsunni>`__"
 
 #: ../../source/site/forusers/visualchangelog326/index.rst:52
 msgid "User Interface"
@@ -318,6 +329,8 @@ msgstr ""
 msgid ""
 "This feature was funded by `Camptocamp <https://www.camptocamp.com/>`__"
 msgstr ""
+"Cette fonctionnalité a été financée par `Camptocamp "
+"<https://www.camptocamp.com/>`__"
 
 #: ../../source/site/forusers/visualchangelog326/index.rst:90
 msgid "Feature: Option to synchronize statistics panel with layer selection"
@@ -1479,6 +1492,8 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog326/index.rst:552
 msgid "This feature was funded by Provincie Gelderland"
 msgstr ""
+"Cette fonctionnalité a été financée par la province de la Gueldre (Pays-"
+"Bas), Provincie Gelderland"
 
 #: ../../source/site/forusers/visualchangelog326/index.rst:557
 msgid "Feature: Buffered Transactional Editing"
@@ -1919,6 +1934,8 @@ msgid ""
 "This feature was developed by `Andrea Giudiceandrea "
 "<https://github.com/agiudiceandrea>`__"
 msgstr ""
+"Cette fonctionnalité a été développée par `Andrea Giudiceandrea "
+"<https://github.com/agiudiceandrea>`__"
 
 #: ../../source/site/forusers/visualchangelog326/index.rst:759
 msgid ""

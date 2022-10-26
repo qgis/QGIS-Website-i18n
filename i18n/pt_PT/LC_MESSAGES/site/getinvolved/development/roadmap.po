@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-18 17:11+0000\n"
+"POT-Creation-Date: 2022-10-25 20:09+0000\n"
 "PO-Revision-Date: 2016-03-05 14:48+0000\n"
 "Last-Translator: Rui <xymarior@yandex.com>, 2019\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/qgis/qgis-website/language/pt_PT/)\n"
@@ -436,15 +436,11 @@ msgid "33"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-current:`PR/FF`"
+msgid ":rm-past:`3.26.3`"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-current:`3.26.3`"
-msgstr ""
-
-#: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-current:`3.22.11`"
+msgid ":rm-past:`3.22.11`"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
@@ -464,11 +460,15 @@ msgid "6"
 msgstr "6"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-next:`3.28.0`"
+msgid ":rm-current:`LTR/PR`"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-next:`3.22.12`"
+msgid ":rm-current:`3.28.0`"
+msgstr ""
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-current:`3.22.12`"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
@@ -476,11 +476,11 @@ msgid "2022-10-21"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-future:`3.28.1`"
+msgid ":rm-next:`3.28.1`"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-future:`3.22.13`"
+msgid ":rm-next:`3.22.13`"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-18 17:11+0000\n"
+"POT-Creation-Date: 2022-10-25 20:09+0000\n"
 "PO-Revision-Date: 2016-03-05 14:48+0000\n"
 "Last-Translator: Jürgen E. Fischer <jef@norbit.de>, 2016,2018,2022\n"
 "Language-Team: German (http://www.transifex.com/qgis/qgis-website/language/de/)\n"
@@ -435,16 +435,12 @@ msgid "33"
 msgstr "33"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-current:`PR/FF`"
-msgstr ":rm-current:`PR/FF`"
+msgid ":rm-past:`3.26.3`"
+msgstr ":rm-past:`3.26.3`"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-current:`3.26.3`"
-msgstr ":rm-current:`3.26.3`"
-
-#: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-current:`3.22.11`"
-msgstr ":rm-current:`3.22.11`"
+msgid ":rm-past:`3.22.11`"
+msgstr ":rm-past:`3.22.11`"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "3.27"
@@ -463,24 +459,28 @@ msgid "6"
 msgstr "6"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-next:`3.28.0`"
-msgstr ":rm-next:`3.28.0`"
+msgid ":rm-current:`LTR/PR`"
+msgstr ":rm-current:`LTR/PR`"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-next:`3.22.12`"
-msgstr ":rm-next:`3.22.12`"
+msgid ":rm-current:`3.28.0`"
+msgstr ":rm-current:`3.28.0`"
+
+#: ../../source/site/getinvolved/development/schedule.inc:1
+msgid ":rm-current:`3.22.12`"
+msgstr ":rm-current:`3.22.12`"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "2022-10-21"
 msgstr ""
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-future:`3.28.1`"
-msgstr ""
+msgid ":rm-next:`3.28.1`"
+msgstr ":rm-next:`3.28.1`"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
-msgid ":rm-future:`3.22.13`"
-msgstr ""
+msgid ":rm-next:`3.22.13`"
+msgstr ":rm-next:`3.22.13`"
 
 #: ../../source/site/getinvolved/development/schedule.inc:1
 msgid "2022-11-18"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-18 17:11+0000\n"
+"POT-Creation-Date: 2022-10-25 20:09+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
 "Last-Translator: Milena Nowotarska <do.milenki@gmail.com>, 2014-2016\n"
 "Language-Team: Polish (http://www.transifex.com/qgis/qgis-website/language/pl/)\n"
@@ -1049,7 +1049,7 @@ msgid "A Free and Open Source Geographic Information System"
 msgstr "Wolny i Otwarty System Informacji Geograficznej"
 
 #: ../../themes/qgis-theme/index.html:33
-msgid "New release: 3.26!"
+msgid "New release: 3.28!"
 msgstr ""
 
 #: ../../themes/qgis-theme/index.html:35

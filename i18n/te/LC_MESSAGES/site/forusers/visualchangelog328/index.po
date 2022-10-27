@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-10-25 20:09+0000\n"
+"POT-Creation-Date: 2022-10-27 07:41+0000\n"
 "PO-Revision-Date: 2022-10-25 16:09+0000\n"
 "Language-Team: Telugu (https://www.transifex.com/qgis/teams/6144/te/)\n"
 "MIME-Version: 1.0\n"
@@ -26,12 +26,12 @@ msgstr ""
 msgid "|image1|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:941
+#: ../../source/site/forusers/visualchangelog328/index.rst:952
 msgid "image1"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:8
-msgid "Release date: 2022-10-22"
+msgid "Release date: 2022-10-21"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:10
@@ -160,7 +160,7 @@ msgstr ""
 msgid "|image3|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:943
+#: ../../source/site/forusers/visualchangelog328/index.rst:954
 msgid "image3"
 msgstr ""
 
@@ -172,18 +172,18 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog328/index.rst:162
 #: ../../source/site/forusers/visualchangelog328/index.rst:271
 #: ../../source/site/forusers/visualchangelog328/index.rst:280
-#: ../../source/site/forusers/visualchangelog328/index.rst:368
-#: ../../source/site/forusers/visualchangelog328/index.rst:435
-#: ../../source/site/forusers/visualchangelog328/index.rst:449
-#: ../../source/site/forusers/visualchangelog328/index.rst:462
-#: ../../source/site/forusers/visualchangelog328/index.rst:471
+#: ../../source/site/forusers/visualchangelog328/index.rst:379
+#: ../../source/site/forusers/visualchangelog328/index.rst:446
+#: ../../source/site/forusers/visualchangelog328/index.rst:460
+#: ../../source/site/forusers/visualchangelog328/index.rst:473
 #: ../../source/site/forusers/visualchangelog328/index.rst:482
-#: ../../source/site/forusers/visualchangelog328/index.rst:514
-#: ../../source/site/forusers/visualchangelog328/index.rst:523
-#: ../../source/site/forusers/visualchangelog328/index.rst:530
-#: ../../source/site/forusers/visualchangelog328/index.rst:558
-#: ../../source/site/forusers/visualchangelog328/index.rst:571
-#: ../../source/site/forusers/visualchangelog328/index.rst:632
+#: ../../source/site/forusers/visualchangelog328/index.rst:493
+#: ../../source/site/forusers/visualchangelog328/index.rst:525
+#: ../../source/site/forusers/visualchangelog328/index.rst:534
+#: ../../source/site/forusers/visualchangelog328/index.rst:541
+#: ../../source/site/forusers/visualchangelog328/index.rst:569
+#: ../../source/site/forusers/visualchangelog328/index.rst:582
+#: ../../source/site/forusers/visualchangelog328/index.rst:643
 msgid ""
 "This feature was developed by `Nyall Dawson "
 "<https://github.com/nyalldawson>`__"
@@ -238,8 +238,8 @@ msgid ""
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:64
-#: ../../source/site/forusers/visualchangelog328/index.rst:433
-#: ../../source/site/forusers/visualchangelog328/index.rst:569
+#: ../../source/site/forusers/visualchangelog328/index.rst:444
+#: ../../source/site/forusers/visualchangelog328/index.rst:580
 msgid ""
 "This feature was funded by Toitū Te Whenua Land Information New Zealand"
 msgstr ""
@@ -270,7 +270,7 @@ msgstr ""
 msgid "|image4|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:945
+#: ../../source/site/forusers/visualchangelog328/index.rst:956
 msgid "image4"
 msgstr ""
 
@@ -294,14 +294,14 @@ msgstr ""
 msgid "|image5|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:947
+#: ../../source/site/forusers/visualchangelog328/index.rst:958
 msgid "image5"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:89
-#: ../../source/site/forusers/visualchangelog328/index.rst:317
-#: ../../source/site/forusers/visualchangelog328/index.rst:419
-#: ../../source/site/forusers/visualchangelog328/index.rst:642
+#: ../../source/site/forusers/visualchangelog328/index.rst:328
+#: ../../source/site/forusers/visualchangelog328/index.rst:430
+#: ../../source/site/forusers/visualchangelog328/index.rst:653
 msgid ""
 "This feature was developed by `Mathieu Pellerin "
 "<https://github.com/nirvn>`__"
@@ -321,18 +321,18 @@ msgstr ""
 msgid "|image6|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:949
+#: ../../source/site/forusers/visualchangelog328/index.rst:960
 msgid "image6"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:98
-#: ../../source/site/forusers/visualchangelog328/index.rst:580
+#: ../../source/site/forusers/visualchangelog328/index.rst:591
 msgid ""
 "This feature was funded by `Camptocamp <https://www.camptocamp.com/>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:100
-#: ../../source/site/forusers/visualchangelog328/index.rst:582
+#: ../../source/site/forusers/visualchangelog328/index.rst:593
 msgid ""
 "This feature was developed by `Ismail Sunni "
 "<https://github.com/ismailsunni>`__"
@@ -358,7 +358,7 @@ msgstr ""
 msgid "|image7|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:951
+#: ../../source/site/forusers/visualchangelog328/index.rst:962
 msgid "image7"
 msgstr ""
 
@@ -406,7 +406,7 @@ msgstr ""
 msgid "|image8|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:953
+#: ../../source/site/forusers/visualchangelog328/index.rst:964
 msgid "image8"
 msgstr ""
 
@@ -460,7 +460,7 @@ msgstr ""
 msgid "|image9|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:955
+#: ../../source/site/forusers/visualchangelog328/index.rst:966
 msgid "image9"
 msgstr ""
 
@@ -484,7 +484,7 @@ msgstr ""
 msgid "|image10|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:957
+#: ../../source/site/forusers/visualchangelog328/index.rst:968
 msgid "image10"
 msgstr ""
 
@@ -518,7 +518,7 @@ msgstr ""
 msgid "|image11|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:959
+#: ../../source/site/forusers/visualchangelog328/index.rst:970
 msgid "image11"
 msgstr ""
 
@@ -575,7 +575,7 @@ msgstr ""
 msgid "|image12|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:961
+#: ../../source/site/forusers/visualchangelog328/index.rst:972
 msgid "image12"
 msgstr ""
 
@@ -656,7 +656,7 @@ msgstr ""
 msgid "|image13|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:963
+#: ../../source/site/forusers/visualchangelog328/index.rst:974
 msgid "image13"
 msgstr ""
 
@@ -685,7 +685,7 @@ msgstr ""
 msgid "|image14|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:965
+#: ../../source/site/forusers/visualchangelog328/index.rst:976
 msgid "image14"
 msgstr ""
 
@@ -722,12 +722,12 @@ msgstr ""
 msgid "|image15|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:967
+#: ../../source/site/forusers/visualchangelog328/index.rst:978
 msgid "image15"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:249
-#: ../../source/site/forusers/visualchangelog328/index.rst:397
+#: ../../source/site/forusers/visualchangelog328/index.rst:408
 msgid ""
 "This feature was developed by `Andrea Giudiceandrea "
 "<https://github.com/agiudiceandrea>`__"
@@ -786,7 +786,7 @@ msgstr ""
 msgid "|image16|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:969
+#: ../../source/site/forusers/visualchangelog328/index.rst:980
 msgid "image16"
 msgstr ""
 
@@ -807,7 +807,7 @@ msgstr ""
 msgid "|image17|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:971
+#: ../../source/site/forusers/visualchangelog328/index.rst:982
 msgid "image17"
 msgstr ""
 
@@ -835,7 +835,7 @@ msgstr ""
 msgid "|image18|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:973
+#: ../../source/site/forusers/visualchangelog328/index.rst:984
 msgid "image18"
 msgstr ""
 
@@ -857,26 +857,59 @@ msgstr ""
 msgid "|image19|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:975
+#: ../../source/site/forusers/visualchangelog328/index.rst:986
 msgid "image19"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:301
-#: ../../source/site/forusers/visualchangelog328/index.rst:359
+#: ../../source/site/forusers/visualchangelog328/index.rst:370
 msgid ""
 "This feature was developed by `Loïc Bartoletti "
 "<https://github.com/lbartoletti>`__"
 msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:304
+msgid "Feature: Ask for confirmation when discarding expression changes"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog328/index.rst:306
+msgid ""
+"A new confirmation dialog is now safeguarding users against accidentally "
+"discarding their unapplied changes in expression editor dialogs. This "
+"safeguard is used in the Expression String Builder, the Expression Dialog "
+"(Epsilon icon, e. g. for Geometry Generators or for Pre-calculated Values in"
+" the model builder) and the Expression Based Filter (Attribute Table -> "
+"Advanced filter expression)."
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog328/index.rst:308
+msgid "|image36|"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog328/index.rst:1019
+msgid "image36"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog328/index.rst:310
+msgid ""
+"This feature was funded by `WhereGroup GmbH <https://wheregroup.com/>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog328/index.rst:312
+msgid ""
+"This feature was developed by `Johannes Kröger "
+"<https://github.com/kannes>`__"
+msgstr ""
+
+#: ../../source/site/forusers/visualchangelog328/index.rst:315
 msgid "Data Management"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:307
+#: ../../source/site/forusers/visualchangelog328/index.rst:318
 msgid "Feature: Ask for confirmation when deleting features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:309
+#: ../../source/site/forusers/visualchangelog328/index.rst:320
 msgid ""
 "A new confirmation dialog appears by default when users perform an action "
 "that would delete records, such as using the DEL key or toolbar actions, to "
@@ -886,7 +919,7 @@ msgid ""
 "deleted more clear to users."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:311
+#: ../../source/site/forusers/visualchangelog328/index.rst:322
 msgid ""
 "In previous releases, similar confirmation prompts would only be displayed "
 "when some features fell out of the extent of the map canvas, or the deletion"
@@ -895,29 +928,29 @@ msgid ""
 "this message again\" checkbox."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:313
+#: ../../source/site/forusers/visualchangelog328/index.rst:324
 msgid "|image20|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:977
+#: ../../source/site/forusers/visualchangelog328/index.rst:988
 msgid "image20"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:315
+#: ../../source/site/forusers/visualchangelog328/index.rst:326
 msgid ""
 "This feature was funded by `QGIS user group Switzerland "
 "<https://www.qgis.ch/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:320
+#: ../../source/site/forusers/visualchangelog328/index.rst:331
 msgid "Metadata and Metasearch"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:323
+#: ../../source/site/forusers/visualchangelog328/index.rst:334
 msgid "Feature: Layer metadata data provider search and storage"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:325
+#: ../../source/site/forusers/visualchangelog328/index.rst:336
 msgid ""
 "Implementation of elements from the `QEP #250 \"Database metadata storage\" "
 "<https://github.com/qgis/QGIS-Enhancement-Proposals/issues/250>`__ "
@@ -925,61 +958,61 @@ msgid ""
 "of a new layer metadata API and GUI components."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:327
+#: ../../source/site/forusers/visualchangelog328/index.rst:338
 msgid ""
 "The following data providers/formats are supported for storing and managing "
 "layer metadata in QGIS:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:329
+#: ../../source/site/forusers/visualchangelog328/index.rst:340
 msgid "GPKG (it was implemented already, I just wrapped it into the new API)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:330
+#: ../../source/site/forusers/visualchangelog328/index.rst:341
 msgid "Postgres"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:331
+#: ../../source/site/forusers/visualchangelog328/index.rst:342
 msgid "Postgres Raster"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:333
+#: ../../source/site/forusers/visualchangelog328/index.rst:344
 msgid ""
 "In addition, a new layer metadata search tab is available from the data "
 "source manager, and an interactive layer metadata search is available using "
 "the QGIS locator."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:335
+#: ../../source/site/forusers/visualchangelog328/index.rst:346
 msgid "|image21|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:979
+#: ../../source/site/forusers/visualchangelog328/index.rst:990
 msgid "image21"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:337
-#: ../../source/site/forusers/visualchangelog328/index.rst:386
+#: ../../source/site/forusers/visualchangelog328/index.rst:348
+#: ../../source/site/forusers/visualchangelog328/index.rst:397
 msgid "This feature was funded by ARPA Piemonte"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:339
-#: ../../source/site/forusers/visualchangelog328/index.rst:388
-#: ../../source/site/forusers/visualchangelog328/index.rst:603
+#: ../../source/site/forusers/visualchangelog328/index.rst:350
+#: ../../source/site/forusers/visualchangelog328/index.rst:399
+#: ../../source/site/forusers/visualchangelog328/index.rst:614
 msgid ""
 "This feature was developed by `Alessandro Pasotti "
 "<https://github.com/elpaso>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:342
+#: ../../source/site/forusers/visualchangelog328/index.rst:353
 msgid "Processing"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:345
+#: ../../source/site/forusers/visualchangelog328/index.rst:356
 msgid "Feature: Fixed precision support for select processing tools"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:347
+#: ../../source/site/forusers/visualchangelog328/index.rst:358
 msgid ""
 "A new advanced parameter is available for some processing tools which allows"
 " the use of the `fixed precision "
@@ -989,63 +1022,63 @@ msgid ""
 "supported in the following tools:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:349
+#: ../../source/site/forusers/visualchangelog328/index.rst:360
 msgid "Overlap"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:350
+#: ../../source/site/forusers/visualchangelog328/index.rst:361
 msgid "Intersection"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:351
+#: ../../source/site/forusers/visualchangelog328/index.rst:362
 msgid "Difference"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:352
+#: ../../source/site/forusers/visualchangelog328/index.rst:363
 msgid "Symmetrical Difference"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:353
+#: ../../source/site/forusers/visualchangelog328/index.rst:364
 msgid "Union"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:355
+#: ../../source/site/forusers/visualchangelog328/index.rst:366
 msgid "|image22|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:981
+#: ../../source/site/forusers/visualchangelog328/index.rst:992
 msgid "image22"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:357
+#: ../../source/site/forusers/visualchangelog328/index.rst:368
 msgid "This feature was funded by Orange Telecom FR"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:362
+#: ../../source/site/forusers/visualchangelog328/index.rst:373
 msgid "Feature: Improved \"Make Valid\" Algorithms"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:364
+#: ../../source/site/forusers/visualchangelog328/index.rst:375
 msgid ""
 "QGIS can now use the newer refined GEOS 3.10+ methods for validating and "
 "repairing geometry features."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:366
+#: ../../source/site/forusers/visualchangelog328/index.rst:377
 msgid "|image23|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:983
+#: ../../source/site/forusers/visualchangelog328/index.rst:994
 msgid "image23"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:371
+#: ../../source/site/forusers/visualchangelog328/index.rst:382
 msgid ""
 "Feature: Default option to show feature count for vector outputs from "
 "processing"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:373
+#: ../../source/site/forusers/visualchangelog328/index.rst:384
 msgid ""
 "A new ``Show feature count for output vector layers`` setting is available "
 "(but disabled by default for performance reasons), which will automatically "
@@ -1054,91 +1087,91 @@ msgid ""
 "an output from a Processing algorithm."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:375
+#: ../../source/site/forusers/visualchangelog328/index.rst:386
 msgid "|image24|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:985
+#: ../../source/site/forusers/visualchangelog328/index.rst:996
 msgid "image24"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:377
+#: ../../source/site/forusers/visualchangelog328/index.rst:388
 msgid ""
 "This feature was developed by `Germap <https://github.com/gacarrillor>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:380
+#: ../../source/site/forusers/visualchangelog328/index.rst:391
 msgid "Feature: Add relations export option to package layers algorithm"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:382
+#: ../../source/site/forusers/visualchangelog328/index.rst:393
 msgid ""
 "The \"Package Layers\" processing tool now supports optionally following "
 "project relations and exporting related tables following the hierarchy both "
 "upstream and downstream, whilst also taking selected features into account."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:384
+#: ../../source/site/forusers/visualchangelog328/index.rst:395
 msgid "|image25|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:987
+#: ../../source/site/forusers/visualchangelog328/index.rst:998
 msgid "image25"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:391
+#: ../../source/site/forusers/visualchangelog328/index.rst:402
 msgid "Feature: Add \"Offset\" parameter to \"Drape\" algorithms"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:393
+#: ../../source/site/forusers/visualchangelog328/index.rst:404
 msgid ""
 "Adds the \"Offset\" parameter to the \"Drape (set Z value from raster)\" and"
 " \"Set M value from raster\" algorithms. The \"Offset\" value is "
 "algebraically added to the band values after applying the \"Scale factor\"."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:395
+#: ../../source/site/forusers/visualchangelog328/index.rst:406
 msgid "|image26|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:989
+#: ../../source/site/forusers/visualchangelog328/index.rst:1000
 msgid "image26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:400
+#: ../../source/site/forusers/visualchangelog328/index.rst:411
 msgid "Application and Project Options"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:403
+#: ../../source/site/forusers/visualchangelog328/index.rst:414
 msgid "Feature: Modified project coordinate and bearing display settings"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:405
+#: ../../source/site/forusers/visualchangelog328/index.rst:416
 msgid ""
 "The Coordinate and Bearing Display options in the project settings have been"
 " updated in line with the following:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:407
+#: ../../source/site/forusers/visualchangelog328/index.rst:418
 msgid "Map Units (behavior is the same as previous releases)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:408
+#: ../../source/site/forusers/visualchangelog328/index.rst:419
 msgid "Map Geographic (modified behavior)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:409
+#: ../../source/site/forusers/visualchangelog328/index.rst:420
 msgid "Custom Projection Units (new type)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:411
+#: ../../source/site/forusers/visualchangelog328/index.rst:422
 msgid ""
 "The legacy Geographic (Latitude/ Longitude) option would display values in "
 "the map CRS coordinates *if* the CRS was geographic, otherwise, it would "
 "transform coordinates to a hard-coded WGS84 CRS value."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:413
+#: ../../source/site/forusers/visualchangelog328/index.rst:424
 msgid ""
 "The updated Map Geographic (degrees) option, which supersedes the legacy "
 "approach, will display values in the map CRS coordinates *if* the CRS is "
@@ -1149,33 +1182,33 @@ msgid ""
 "bodies."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:415
+#: ../../source/site/forusers/visualchangelog328/index.rst:426
 msgid ""
 "The Custom Projection Units type is a new addition that defaults to WGS84 "
 "and allows users to set any CRS they desire as display coordinates."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:417
+#: ../../source/site/forusers/visualchangelog328/index.rst:428
 msgid "|image27|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:991
+#: ../../source/site/forusers/visualchangelog328/index.rst:1002
 msgid "image27"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:422
+#: ../../source/site/forusers/visualchangelog328/index.rst:433
 msgid ""
 "Feature: Add support for \"user\" fonts, and automatic downloading of freely"
 " licensed fonts"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:424
+#: ../../source/site/forusers/visualchangelog328/index.rst:435
 msgid ""
 "A new \"Fonts\" panel has been added to the settings dialog, which provides "
 "support for the following functionalities:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:426
+#: ../../source/site/forusers/visualchangelog328/index.rst:437
 msgid ""
 "The ability for users to populate a list of automatic font replacements to "
 "apply when loading projects or styles, allowing better support for projects "
@@ -1183,7 +1216,7 @@ msgid ""
 "\"Arial\" with \"Helvetica\")."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:427
+#: ../../source/site/forusers/visualchangelog328/index.rst:438
 msgid ""
 "Users can now place TTF or OTF fonts in the \"fonts\" subfolder of their "
 "user profile. These fonts will automatically be loaded at QGIS startup time."
@@ -1193,14 +1226,14 @@ msgid ""
 "allows users to manage (i.e. remove) previously installed user fonts"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:428
+#: ../../source/site/forusers/visualchangelog328/index.rst:439
 msgid ""
 "An API is provided for other tools, such as plugins and other clients, to "
 "specify additional user font folders which should be scanned during QGIS "
 "startup"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:429
+#: ../../source/site/forusers/visualchangelog328/index.rst:440
 msgid ""
 "Automatic downloading of missing fonts is now supported in certain "
 "circumstances. If a user opens a project or style, or they try to load a "
@@ -1212,57 +1245,57 @@ msgid ""
 "desired."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:431
+#: ../../source/site/forusers/visualchangelog328/index.rst:442
 msgid "|image28|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:993
+#: ../../source/site/forusers/visualchangelog328/index.rst:1004
 msgid "image28"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:438
+#: ../../source/site/forusers/visualchangelog328/index.rst:449
 msgid "Browser"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:441
+#: ../../source/site/forusers/visualchangelog328/index.rst:452
 msgid ""
 "Feature: Implement relationship discovery for OGR layers, and show "
 "relationships in browser"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:443
+#: ../../source/site/forusers/visualchangelog328/index.rst:454
 msgid ""
 "The Project Properties → Relations → Discover Relations feature is now able "
 "to support OGR layers that support relationships, such GeoPackage (via the "
 "related tables extension) and ESRI FileGeodatabases."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:445
+#: ../../source/site/forusers/visualchangelog328/index.rst:456
 msgid ""
 "The QGIS Browser Panel now includes the ability to show detailed "
 "relationship information for these data sources."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:447
+#: ../../source/site/forusers/visualchangelog328/index.rst:458
 msgid "|image29|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:995
+#: ../../source/site/forusers/visualchangelog328/index.rst:1006
 msgid "image29"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:452
+#: ../../source/site/forusers/visualchangelog328/index.rst:463
 msgid "Feature: Modified UX for Geopackage and ESRI File Geodatabase creation"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:454
+#: ../../source/site/forusers/visualchangelog328/index.rst:465
 msgid ""
 "A \"New ESRI File Geodatabase\" action has been added to the QGIS Browser "
 "right-click context menu on directories, and a new \"vacuum\" action is "
 "available for GDB files. (requires GDAL 3.6+)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:456
+#: ../../source/site/forusers/visualchangelog328/index.rst:467
 msgid ""
 "Additionally, creating a new Geopackage from the same menu will now "
 "immediately create an empty GPKG, rather than the legacy behavior of opening"
@@ -1270,47 +1303,47 @@ msgid ""
 "to input dummy data)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:458
+#: ../../source/site/forusers/visualchangelog328/index.rst:469
 msgid ""
 "https://user-"
 "images.githubusercontent.com/1829991/178902332-0e112e73-0140-45b9-84bf-"
 "fc7875cb7b98.gif"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:460
+#: ../../source/site/forusers/visualchangelog328/index.rst:471
 msgid "|image30|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:997
+#: ../../source/site/forusers/visualchangelog328/index.rst:1008
 msgid "image30"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:465
+#: ../../source/site/forusers/visualchangelog328/index.rst:476
 msgid ""
 "Feature: Allow drag and drop of vector layers to non-GPKG OGR database "
 "datasets"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:467
+#: ../../source/site/forusers/visualchangelog328/index.rst:478
 msgid ""
 "QGIS now allows drag and drop of vector layers between OGR database datasets"
 " that are not stored in GPKG format, for instance, the dragging of a layer "
 "onto a GDB to import that dataset into the geodatabase"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:469
+#: ../../source/site/forusers/visualchangelog328/index.rst:480
 msgid "|image31|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:999
+#: ../../source/site/forusers/visualchangelog328/index.rst:1010
 msgid "image31"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:474
+#: ../../source/site/forusers/visualchangelog328/index.rst:485
 msgid "Feature: Expose field domain management for non-gpkg OGR sources"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:476
+#: ../../source/site/forusers/visualchangelog328/index.rst:487
 msgid ""
 "The QGIS browser now supports more advanced functionalities for OGR "
 "databases that are not in GPKG format, including Field domain management "
@@ -1319,34 +1352,34 @@ msgid ""
 "ESRI FileGeodatabase database from the QGIS Browser interface."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:478
+#: ../../source/site/forusers/visualchangelog328/index.rst:489
 msgid "|image32|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:1001
+#: ../../source/site/forusers/visualchangelog328/index.rst:1012
 msgid "image32"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:480
+#: ../../source/site/forusers/visualchangelog328/index.rst:491
 msgid "This feature was funded by Provincie Gelderland"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:485
+#: ../../source/site/forusers/visualchangelog328/index.rst:496
 msgid "Data Providers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:488
+#: ../../source/site/forusers/visualchangelog328/index.rst:499
 msgid "Feature: Define session role for PostgreSQL connections"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:490
+#: ../../source/site/forusers/visualchangelog328/index.rst:501
 msgid ""
 "A ``session_role`` setting can now be specified for PostgreSQL connections "
 "to set the user identifier of the active SQL session. Permissions checking "
 "for SQL commands are then carried out with the associated named role."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:492
+#: ../../source/site/forusers/visualchangelog328/index.rst:503
 msgid ""
 "This is highly useful in instances where it is desirable to automatically "
 "give ownership of new objects (Tables/ Views/ Functions etc.) to the "
@@ -1354,29 +1387,29 @@ msgid ""
 "all members of the ``session_role`` group."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:494
+#: ../../source/site/forusers/visualchangelog328/index.rst:505
 msgid ""
 "The specified ``session_role`` must be a role that the current session user "
 "is a member of, or if the session user is a superuser, any role can be "
 "selected."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:496
+#: ../../source/site/forusers/visualchangelog328/index.rst:507
 msgid "This feature was funded by `3liz <https://3liz.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:498
-#: ../../source/site/forusers/visualchangelog328/index.rst:614
+#: ../../source/site/forusers/visualchangelog328/index.rst:509
+#: ../../source/site/forusers/visualchangelog328/index.rst:625
 msgid "This feature was developed by `rldhont <https://github.com/rldhont>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:501
+#: ../../source/site/forusers/visualchangelog328/index.rst:512
 msgid ""
 "Feature: Automatically add related tables when adding layers from GDAL "
 "datasets with embedded relationship information"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:503
+#: ../../source/site/forusers/visualchangelog328/index.rst:514
 msgid ""
 "For GDAL data formats with embedded relationship information, whenever a "
 "table is added QGIS is now able to discover relationships and immediately "
@@ -1385,52 +1418,52 @@ msgid ""
 "automatically configure the corresponding QGIS relationships."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:505
+#: ../../source/site/forusers/visualchangelog328/index.rst:516
 msgid ""
 "This works for all formats which support the GDAL relationship API, which "
 "include:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:507
+#: ../../source/site/forusers/visualchangelog328/index.rst:518
 msgid "Geopackage (via the related tables extension)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:508
+#: ../../source/site/forusers/visualchangelog328/index.rst:519
 msgid "ESRI FileGDB/ OpenFileGDB"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:509
+#: ../../source/site/forusers/visualchangelog328/index.rst:520
 msgid "ESRI Personal Geodatabase"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:510
+#: ../../source/site/forusers/visualchangelog328/index.rst:521
 msgid "SQLite/ Spatialite formats."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:512
+#: ../../source/site/forusers/visualchangelog328/index.rst:523
 msgid "This feature was funded by University of Uppsala"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:517
+#: ../../source/site/forusers/visualchangelog328/index.rst:528
 msgid "Feature: Add subset string (filter) support for arcgis REST layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:519
+#: ../../source/site/forusers/visualchangelog328/index.rst:530
 msgid "This can **greatly** improve the performance on large layers!"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:521
-#: ../../source/site/forusers/visualchangelog328/index.rst:556
+#: ../../source/site/forusers/visualchangelog328/index.rst:532
+#: ../../source/site/forusers/visualchangelog328/index.rst:567
 msgid ""
 "This feature was funded by `Naturstyrelsen and Miljøstyrelsen, Danish "
 "Ministry of Environment <https://eng.naturstyrelsen.dk/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:526
+#: ../../source/site/forusers/visualchangelog328/index.rst:537
 msgid "Feature: Abstract database provider for renaming fields"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:528
+#: ../../source/site/forusers/visualchangelog328/index.rst:539
 msgid ""
 "A ``QgsAbstractDatabaseProviderConnection`` interface has been added for "
 "supporting renaming fields, and implemented for OGR connections along with "
@@ -1438,12 +1471,12 @@ msgid ""
 " the QGIS Browser interface."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:533
+#: ../../source/site/forusers/visualchangelog328/index.rst:544
 msgid ""
 "Feature: WFS performing binary spatial operations in expressions on server"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:535
+#: ../../source/site/forusers/visualchangelog328/index.rst:546
 msgid ""
 "QGIS used to be able to perform the expression filters of binary spatial "
 "operations on the server when the geometry was provided as WKT or in the GML"
@@ -1452,33 +1485,33 @@ msgid ""
 "bounding box rectangle, layer filter, and the filtering expression."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:537
+#: ../../source/site/forusers/visualchangelog328/index.rst:548
 msgid ""
 "A feature request computes the expression in advance to find out if it can "
 "be performed on the server, then it's stored in "
 "``QgsBackgroundCachedSharedData`` where a new download is triggered."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:539
+#: ../../source/site/forusers/visualchangelog328/index.rst:550
 msgid ""
 "When a filter request is not a pure binary spatial operation, it will not be"
 " evaluated on the server."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:541
+#: ../../source/site/forusers/visualchangelog328/index.rst:552
 msgid "This feature was funded by Kanton Schaffhausen"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:543
+#: ../../source/site/forusers/visualchangelog328/index.rst:554
 msgid ""
 "This feature was developed by `signedav <https://github.com/signedav>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:546
+#: ../../source/site/forusers/visualchangelog328/index.rst:557
 msgid "Feature: Editing ArcGIS REST Layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:548
+#: ../../source/site/forusers/visualchangelog328/index.rst:559
 msgid ""
 "QGIS now supports the editing of ArcGIS feature server layers, such as those"
 " hosted on ArcGIS online. Assuming the user has appropriate permissions "
@@ -1487,59 +1520,59 @@ msgid ""
 "following operations:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:550
+#: ../../source/site/forusers/visualchangelog328/index.rst:561
 msgid "Deleting features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:551
+#: ../../source/site/forusers/visualchangelog328/index.rst:562
 msgid "Adding new features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:552
+#: ../../source/site/forusers/visualchangelog328/index.rst:563
 msgid ""
 "Curved geometries (only supported for enterprise ArcGIS server, as `ArcGIS "
 "online currently has no support for curves "
 "<https://support.esri.com/en/technical-article/000014684>`__)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:553
+#: ../../source/site/forusers/visualchangelog328/index.rst:564
 msgid "Modifying existing features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:554
+#: ../../source/site/forusers/visualchangelog328/index.rst:565
 msgid ""
 "Modifying attributes (creating fields, deleting fields, creating attribute "
 "indexes)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:561
+#: ../../source/site/forusers/visualchangelog328/index.rst:572
 msgid "Feature: Load raster sublayers from vector tile styles automatically"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:563
+#: ../../source/site/forusers/visualchangelog328/index.rst:574
 msgid ""
 "When loading a new vector tile source into a project, if the associated "
 "MapBox GL style includes any raster sublayers, then also load those into the"
 " project with converted styles."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:565
+#: ../../source/site/forusers/visualchangelog328/index.rst:576
 msgid "Fixes https://github.com/qgis/QGIS/issues/46593"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:567
+#: ../../source/site/forusers/visualchangelog328/index.rst:578
 msgid "|Peek 2022-06-20 12-31|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:1003
+#: ../../source/site/forusers/visualchangelog328/index.rst:1014
 msgid "Peek 2022-06-20 12-31"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:574
+#: ../../source/site/forusers/visualchangelog328/index.rst:585
 msgid "Feature: Add WMS layers individually"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:576
+#: ../../source/site/forusers/visualchangelog328/index.rst:587
 msgid ""
 "In previous releases, the selection of layers from WMS Servers would be "
 "loaded into QGIS as a single project layer. This new functionality provides "
@@ -1547,45 +1580,45 @@ msgid ""
 "distinct project layers."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:578
+#: ../../source/site/forusers/visualchangelog328/index.rst:589
 msgid "|image34|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:1004
+#: ../../source/site/forusers/visualchangelog328/index.rst:1015
 msgid "image34"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:585
+#: ../../source/site/forusers/visualchangelog328/index.rst:596
 msgid "Feature: Save projects to Oracle Database Provider"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:587
+#: ../../source/site/forusers/visualchangelog328/index.rst:598
 msgid "QGIS now supports saving projects to Oracle databases."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:589
+#: ../../source/site/forusers/visualchangelog328/index.rst:600
 msgid "|image35|"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:1006
+#: ../../source/site/forusers/visualchangelog328/index.rst:1017
 msgid "image35"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:591
+#: ../../source/site/forusers/visualchangelog328/index.rst:602
 msgid ""
 "This feature was developed by `Julien Cabieces "
 "<https://github.com/troopa81>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:594
+#: ../../source/site/forusers/visualchangelog328/index.rst:605
 msgid "QGIS Server"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:597
+#: ../../source/site/forusers/visualchangelog328/index.rst:608
 msgid "Feature: QGIS\\_SERVER\\_ALLOWED\\_EXTRA\\_SQL\\_TOKENS settings variable"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:599
+#: ../../source/site/forusers/visualchangelog328/index.rst:610
 msgid ""
 "This new feature allows specifying extra tokens which may be used for a WMS "
 "FILTER definition. The current list of accepted tokens is rather small and "
@@ -1593,54 +1626,54 @@ msgid ""
 "allowed tokens."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:601
+#: ../../source/site/forusers/visualchangelog328/index.rst:612
 msgid "This feature was funded by Zweckverband Grevesmühlen"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:606
+#: ../../source/site/forusers/visualchangelog328/index.rst:617
 msgid "Feature: Open layers in a read only mode with QGIS Server"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:608
+#: ../../source/site/forusers/visualchangelog328/index.rst:619
 msgid ""
 "A new ``QGIS_SERVER_FORCE_READONLY_LAYERS`` environment variable to force "
 "QGIS Server to open layers in read-only mode."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:610
+#: ../../source/site/forusers/visualchangelog328/index.rst:621
 msgid ""
 "This includes various underlying API changes to support read-only "
 "configuration for data provider construction, project structure, and layer "
 "properties."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:612
+#: ../../source/site/forusers/visualchangelog328/index.rst:623
 msgid "This feature was funded by `Ifremer <https://wwz.ifremer.fr/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:617
+#: ../../source/site/forusers/visualchangelog328/index.rst:628
 msgid "Plugins"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:620
+#: ../../source/site/forusers/visualchangelog328/index.rst:631
 msgid "Feature: Changes to plugin automatic updates behaviour"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:622
+#: ../../source/site/forusers/visualchangelog328/index.rst:633
 msgid ""
 "This change moves the old ``app/plugin_installer/checkOnStart`` setting key "
 "to a new ``plugins/automatically-check-for-updates`` key, and switches the "
 "default value to enable automatic checks."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:624
+#: ../../source/site/forusers/visualchangelog328/index.rst:635
 msgid ""
 "This is designed to switch all existing QGIS users to the new default "
 "behavior of checking for plugin updates at startup (at a maximum of once "
 "every 3 days)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:626
+#: ../../source/site/forusers/visualchangelog328/index.rst:637
 msgid ""
 "It is intended to offer a better QGIS experience to our users, by "
 "proactively informing all users when plugins should be updated, ensuring "
@@ -1648,52 +1681,52 @@ msgid ""
 "plugins promptly."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:628
+#: ../../source/site/forusers/visualchangelog328/index.rst:639
 msgid ""
 "**Enterprise users who have customised this setting in their deployments "
 "will need to adapt their scripts for the new setting key.**"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:630
+#: ../../source/site/forusers/visualchangelog328/index.rst:641
 msgid ""
 "Additionally, the option to control the number of days between plugin "
 "startup checks has been removed and is hardcoded at 3 days."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:635
+#: ../../source/site/forusers/visualchangelog328/index.rst:646
 msgid "Programmability"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:638
+#: ../../source/site/forusers/visualchangelog328/index.rst:649
 msgid "Feature: Add temporal handling to maps in QGIS Quick"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:640
+#: ../../source/site/forusers/visualchangelog328/index.rst:651
 msgid ""
 "A new implementation has been added to allow the Canvas and Map Settings in "
 "`QGIS Quick <https://api.qgis.org/api/qgsquick.html>`__ to handle temporal "
 "functionality."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:645
+#: ../../source/site/forusers/visualchangelog328/index.rst:656
 msgid "Feature: Addition of py-args command line parameter"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:647
+#: ../../source/site/forusers/visualchangelog328/index.rst:658
 msgid ""
 "When running QGIS from the command line with the ``--code`` parameter, a new"
 " ``--py-args`` utility allows the passing of arguments to the python "
 "interpreter."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:649
+#: ../../source/site/forusers/visualchangelog328/index.rst:660
 msgid ""
 "Arguments between ``--py-args`` and ``--`` are passed to the python "
 "interpreter and ignored by QGIS, so for example, when using the following "
 "command:"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:655
+#: ../../source/site/forusers/visualchangelog328/index.rst:666
 msgid ""
 "The ``example.py`` script will have ``--specialScriptArguments``, ``arg1``, "
 "and ``arg2`` passed as system arguments to the python interpreter, whilst "
@@ -1701,1399 +1734,1399 @@ msgid ""
 " layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:657
+#: ../../source/site/forusers/visualchangelog328/index.rst:668
 msgid ""
 "This feature was funded by Landesamt für Vermessung und Geoinformation "
 "Vorarlberg"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:659
+#: ../../source/site/forusers/visualchangelog328/index.rst:670
 msgid ""
 "This feature was developed by `Damiano Lombardi "
 "<https://github.com/domi4484>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:662
+#: ../../source/site/forusers/visualchangelog328/index.rst:673
 msgid "Notable Fixes"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:665
+#: ../../source/site/forusers/visualchangelog328/index.rst:676
 msgid "Feature: Bug fixes by Alessandro Pasotti"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:668
-#: ../../source/site/forusers/visualchangelog328/index.rst:719
-#: ../../source/site/forusers/visualchangelog328/index.rst:776
-#: ../../source/site/forusers/visualchangelog328/index.rst:821
-#: ../../source/site/forusers/visualchangelog328/index.rst:848
-#: ../../source/site/forusers/visualchangelog328/index.rst:865
-#: ../../source/site/forusers/visualchangelog328/index.rst:930
+#: ../../source/site/forusers/visualchangelog328/index.rst:679
+#: ../../source/site/forusers/visualchangelog328/index.rst:730
+#: ../../source/site/forusers/visualchangelog328/index.rst:787
+#: ../../source/site/forusers/visualchangelog328/index.rst:832
+#: ../../source/site/forusers/visualchangelog328/index.rst:859
+#: ../../source/site/forusers/visualchangelog328/index.rst:876
+#: ../../source/site/forusers/visualchangelog328/index.rst:941
 msgid "Bug Title"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:668
-#: ../../source/site/forusers/visualchangelog328/index.rst:719
-#: ../../source/site/forusers/visualchangelog328/index.rst:776
-#: ../../source/site/forusers/visualchangelog328/index.rst:821
-#: ../../source/site/forusers/visualchangelog328/index.rst:848
-#: ../../source/site/forusers/visualchangelog328/index.rst:865
-#: ../../source/site/forusers/visualchangelog328/index.rst:930
+#: ../../source/site/forusers/visualchangelog328/index.rst:679
+#: ../../source/site/forusers/visualchangelog328/index.rst:730
+#: ../../source/site/forusers/visualchangelog328/index.rst:787
+#: ../../source/site/forusers/visualchangelog328/index.rst:832
+#: ../../source/site/forusers/visualchangelog328/index.rst:859
+#: ../../source/site/forusers/visualchangelog328/index.rst:876
+#: ../../source/site/forusers/visualchangelog328/index.rst:941
 msgid "URL issues.qgis.org (if reported)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:668
-#: ../../source/site/forusers/visualchangelog328/index.rst:719
-#: ../../source/site/forusers/visualchangelog328/index.rst:776
-#: ../../source/site/forusers/visualchangelog328/index.rst:821
-#: ../../source/site/forusers/visualchangelog328/index.rst:848
-#: ../../source/site/forusers/visualchangelog328/index.rst:865
-#: ../../source/site/forusers/visualchangelog328/index.rst:930
+#: ../../source/site/forusers/visualchangelog328/index.rst:679
+#: ../../source/site/forusers/visualchangelog328/index.rst:730
+#: ../../source/site/forusers/visualchangelog328/index.rst:787
+#: ../../source/site/forusers/visualchangelog328/index.rst:832
+#: ../../source/site/forusers/visualchangelog328/index.rst:859
+#: ../../source/site/forusers/visualchangelog328/index.rst:876
+#: ../../source/site/forusers/visualchangelog328/index.rst:941
 msgid "URL Commit (Github)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:668
-#: ../../source/site/forusers/visualchangelog328/index.rst:719
-#: ../../source/site/forusers/visualchangelog328/index.rst:776
-#: ../../source/site/forusers/visualchangelog328/index.rst:821
-#: ../../source/site/forusers/visualchangelog328/index.rst:848
-#: ../../source/site/forusers/visualchangelog328/index.rst:865
-#: ../../source/site/forusers/visualchangelog328/index.rst:930
+#: ../../source/site/forusers/visualchangelog328/index.rst:679
+#: ../../source/site/forusers/visualchangelog328/index.rst:730
+#: ../../source/site/forusers/visualchangelog328/index.rst:787
+#: ../../source/site/forusers/visualchangelog328/index.rst:832
+#: ../../source/site/forusers/visualchangelog328/index.rst:859
+#: ../../source/site/forusers/visualchangelog328/index.rst:876
+#: ../../source/site/forusers/visualchangelog328/index.rst:941
 msgid "3.22 backport commit (GitHub)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:670
+#: ../../source/site/forusers/visualchangelog328/index.rst:681
 msgid "GetPrint request of Atlas Template doesn't respect Project scales"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:670
+#: ../../source/site/forusers/visualchangelog328/index.rst:681
 msgid "`#49900 <https://github.com/qgis/QGIS/issues/49900>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:670
+#: ../../source/site/forusers/visualchangelog328/index.rst:681
 msgid "`PR #50199 <https://github.com/qgis/QGIS/pull/50199>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:670
+#: ../../source/site/forusers/visualchangelog328/index.rst:681
 msgid "`PR #50214 <https://github.com/qgis/QGIS/pull/50214>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:672
+#: ../../source/site/forusers/visualchangelog328/index.rst:683
 msgid "Attribute Table Integer entries not showing due to window size"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:672
+#: ../../source/site/forusers/visualchangelog328/index.rst:683
 msgid "`#50181 <https://github.com/qgis/QGIS/issues/50181>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:672
+#: ../../source/site/forusers/visualchangelog328/index.rst:683
 msgid "`PR #50201 <https://github.com/qgis/QGIS/pull/50201>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:672
-#: ../../source/site/forusers/visualchangelog328/index.rst:674
-#: ../../source/site/forusers/visualchangelog328/index.rst:694
-#: ../../source/site/forusers/visualchangelog328/index.rst:827
+#: ../../source/site/forusers/visualchangelog328/index.rst:683
+#: ../../source/site/forusers/visualchangelog328/index.rst:685
+#: ../../source/site/forusers/visualchangelog328/index.rst:705
+#: ../../source/site/forusers/visualchangelog328/index.rst:838
 msgid "Not recommended"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:674
+#: ../../source/site/forusers/visualchangelog328/index.rst:685
 msgid "WFS3 collections field name/displayName mix in request/response"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:674
+#: ../../source/site/forusers/visualchangelog328/index.rst:685
 msgid "`#49399 <https://github.com/qgis/QGIS/issues/49399>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:674
+#: ../../source/site/forusers/visualchangelog328/index.rst:685
 msgid "`PR #50203 <https://github.com/qgis/QGIS/pull/50203>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:676
+#: ../../source/site/forusers/visualchangelog328/index.rst:687
 msgid ""
 "QGIS Server WMS GetFeatureInfo does not evaluate represent\\_value "
 "expression in maptip"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:676
+#: ../../source/site/forusers/visualchangelog328/index.rst:687
 msgid "`#30719 <https://github.com/qgis/QGIS/issues/30719>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:676
+#: ../../source/site/forusers/visualchangelog328/index.rst:687
 msgid "`PR #50216 <https://github.com/qgis/QGIS/pull/50216>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:676
+#: ../../source/site/forusers/visualchangelog328/index.rst:687
 msgid "`PR #50223 <https://github.com/qgis/QGIS/pull/50223>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:678
+#: ../../source/site/forusers/visualchangelog328/index.rst:689
 msgid ""
 "\"evaluate default value on providers side\" block insert on table in the "
 "schema with autoincrement"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:678
+#: ../../source/site/forusers/visualchangelog328/index.rst:689
 msgid "`#50168 <https://github.com/qgis/QGIS/issues/50168>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:678
+#: ../../source/site/forusers/visualchangelog328/index.rst:689
 msgid "`PR #50230 <https://github.com/qgis/QGIS/pull/50230>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:678
+#: ../../source/site/forusers/visualchangelog328/index.rst:689
 msgid "`PR #50333 <https://github.com/qgis/QGIS/pull/50333>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:680
+#: ../../source/site/forusers/visualchangelog328/index.rst:691
 msgid ""
 "QGIS not responding when entering page size using custom width or height "
 "fields"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:680
+#: ../../source/site/forusers/visualchangelog328/index.rst:691
 msgid "`#50104 <https://github.com/qgis/QGIS/issues/50104>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:680
-#: ../../source/site/forusers/visualchangelog328/index.rst:684
-#: ../../source/site/forusers/visualchangelog328/index.rst:690
-#: ../../source/site/forusers/visualchangelog328/index.rst:825
+#: ../../source/site/forusers/visualchangelog328/index.rst:691
+#: ../../source/site/forusers/visualchangelog328/index.rst:695
+#: ../../source/site/forusers/visualchangelog328/index.rst:701
+#: ../../source/site/forusers/visualchangelog328/index.rst:836
 msgid "Cannot reproduce"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:682
+#: ../../source/site/forusers/visualchangelog328/index.rst:693
 msgid ""
 "\"Add Directory...\" inputs files from previous selected directory at first "
 "instance, then the corret."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:682
+#: ../../source/site/forusers/visualchangelog328/index.rst:693
 msgid "`#50055 <https://github.com/qgis/QGIS/issues/50055>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:682
+#: ../../source/site/forusers/visualchangelog328/index.rst:693
 msgid "`PR #50232 <https://github.com/qgis/QGIS/pull/50232>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:682
+#: ../../source/site/forusers/visualchangelog328/index.rst:693
 msgid "`PR #50241 <https://github.com/qgis/QGIS/pull/50241>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:684
+#: ../../source/site/forusers/visualchangelog328/index.rst:695
 msgid ""
 "Layer style panel and Layer panel do not show same visibility settings for "
 "layer style"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:684
+#: ../../source/site/forusers/visualchangelog328/index.rst:695
 msgid "`#49998 <https://github.com/qgis/QGIS/issues/49998>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:686
+#: ../../source/site/forusers/visualchangelog328/index.rst:697
 msgid "Crash while opening Options dialog after switching locale"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:686
+#: ../../source/site/forusers/visualchangelog328/index.rst:697
 msgid "`#50239 <https://github.com/qgis/QGIS/issues/50239>`__\\ 9"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:686
+#: ../../source/site/forusers/visualchangelog328/index.rst:697
 msgid "`PR #50263 <https://github.com/qgis/QGIS/pull/50263>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:686
-#: ../../source/site/forusers/visualchangelog328/index.rst:704
-#: ../../source/site/forusers/visualchangelog328/index.rst:723
-#: ../../source/site/forusers/visualchangelog328/index.rst:739
-#: ../../source/site/forusers/visualchangelog328/index.rst:747
-#: ../../source/site/forusers/visualchangelog328/index.rst:763
-#: ../../source/site/forusers/visualchangelog328/index.rst:831
+#: ../../source/site/forusers/visualchangelog328/index.rst:697
+#: ../../source/site/forusers/visualchangelog328/index.rst:715
+#: ../../source/site/forusers/visualchangelog328/index.rst:734
+#: ../../source/site/forusers/visualchangelog328/index.rst:750
+#: ../../source/site/forusers/visualchangelog328/index.rst:758
+#: ../../source/site/forusers/visualchangelog328/index.rst:774
+#: ../../source/site/forusers/visualchangelog328/index.rst:842
 msgid "Not needed"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:688
+#: ../../source/site/forusers/visualchangelog328/index.rst:699
 msgid "unreported MSSQL connections API error"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:688
-#: ../../source/site/forusers/visualchangelog328/index.rst:694
-#: ../../source/site/forusers/visualchangelog328/index.rst:729
-#: ../../source/site/forusers/visualchangelog328/index.rst:739
-#: ../../source/site/forusers/visualchangelog328/index.rst:753
-#: ../../source/site/forusers/visualchangelog328/index.rst:763
-#: ../../source/site/forusers/visualchangelog328/index.rst:831
-#: ../../source/site/forusers/visualchangelog328/index.rst:837
-#: ../../source/site/forusers/visualchangelog328/index.rst:854
+#: ../../source/site/forusers/visualchangelog328/index.rst:699
+#: ../../source/site/forusers/visualchangelog328/index.rst:705
+#: ../../source/site/forusers/visualchangelog328/index.rst:740
+#: ../../source/site/forusers/visualchangelog328/index.rst:750
+#: ../../source/site/forusers/visualchangelog328/index.rst:764
+#: ../../source/site/forusers/visualchangelog328/index.rst:774
+#: ../../source/site/forusers/visualchangelog328/index.rst:842
+#: ../../source/site/forusers/visualchangelog328/index.rst:848
+#: ../../source/site/forusers/visualchangelog328/index.rst:865
 msgid "Unreported"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:688
+#: ../../source/site/forusers/visualchangelog328/index.rst:699
 msgid "`PR #50194 <https://github.com/qgis/QGIS/pull/50194>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:688
+#: ../../source/site/forusers/visualchangelog328/index.rst:699
 msgid "`PR #50454 <https://github.com/qgis/QGIS/pull/50454>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:690
+#: ../../source/site/forusers/visualchangelog328/index.rst:701
 msgid "Identify and select tools don't work with geometry-based query layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:690
+#: ../../source/site/forusers/visualchangelog328/index.rst:701
 msgid "`#50242 <https://github.com/qgis/QGIS/issues/50242>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:692
+#: ../../source/site/forusers/visualchangelog328/index.rst:703
 msgid "Problem with Reloading SLD file in QGIS"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:692
+#: ../../source/site/forusers/visualchangelog328/index.rst:703
 msgid "`#50152 <https://github.com/qgis/QGIS/issues/50152>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:692
+#: ../../source/site/forusers/visualchangelog328/index.rst:703
 msgid "`PR #50266 <https://github.com/qgis/QGIS/pull/50266>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:692
-#: ../../source/site/forusers/visualchangelog328/index.rst:708
+#: ../../source/site/forusers/visualchangelog328/index.rst:703
+#: ../../source/site/forusers/visualchangelog328/index.rst:719
 msgid "queued"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:694
+#: ../../source/site/forusers/visualchangelog328/index.rst:705
 msgid "Unreported endless alg splitwithlines"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:694
+#: ../../source/site/forusers/visualchangelog328/index.rst:705
 msgid "`PR #50279 <https://github.com/qgis/QGIS/pull/50279>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:696
+#: ../../source/site/forusers/visualchangelog328/index.rst:707
 msgid "Processing algorithm \"Split with lines\" does not split polygon"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:696
+#: ../../source/site/forusers/visualchangelog328/index.rst:707
 msgid "`#50227 <https://github.com/qgis/QGIS/issues/50227>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:696
-#: ../../source/site/forusers/visualchangelog328/index.rst:702
+#: ../../source/site/forusers/visualchangelog328/index.rst:707
+#: ../../source/site/forusers/visualchangelog328/index.rst:713
 msgid "Not a bug"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:698
+#: ../../source/site/forusers/visualchangelog328/index.rst:709
 msgid "Expression do not split string in multiple lines"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:698
+#: ../../source/site/forusers/visualchangelog328/index.rst:709
 msgid "`#49666 <https://github.com/qgis/QGIS/issues/49666>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:698
+#: ../../source/site/forusers/visualchangelog328/index.rst:709
 msgid "`PR #50295 <https://github.com/qgis/QGIS/pull/50295>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:698
+#: ../../source/site/forusers/visualchangelog328/index.rst:709
 msgid "`PR #50455 <https://github.com/qgis/QGIS/pull/50455>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:700
+#: ../../source/site/forusers/visualchangelog328/index.rst:711
 msgid "Problem with exportation of complex SLD"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:700
+#: ../../source/site/forusers/visualchangelog328/index.rst:711
 msgid "`#42348 <https://github.com/qgis/QGIS/issues/42348>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:700
+#: ../../source/site/forusers/visualchangelog328/index.rst:711
 msgid "`PR #50342 <https://github.com/qgis/QGIS/pull/50342>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:700
+#: ../../source/site/forusers/visualchangelog328/index.rst:711
 msgid "`PR #50354 <https://github.com/qgis/QGIS/pull/50354>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:702
+#: ../../source/site/forusers/visualchangelog328/index.rst:713
 msgid "Wrong interpretation of SLD color opacity"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:702
+#: ../../source/site/forusers/visualchangelog328/index.rst:713
 msgid "`#44657 <https://github.com/qgis/QGIS/issues/44657>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:704
+#: ../../source/site/forusers/visualchangelog328/index.rst:715
 msgid "Wrong label size for SLD export/import"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:704
+#: ../../source/site/forusers/visualchangelog328/index.rst:715
 msgid "`#35561 <https://github.com/qgis/QGIS/issues/35561>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:704
+#: ../../source/site/forusers/visualchangelog328/index.rst:715
 msgid "`PR #50347 <https://github.com/qgis/QGIS/pull/50347>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:706
+#: ../../source/site/forusers/visualchangelog328/index.rst:717
 msgid "Exporting SLD doesnt include fill-opacity"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:706
+#: ../../source/site/forusers/visualchangelog328/index.rst:717
 msgid "`#33376 <https://github.com/qgis/QGIS/issues/33376>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:706
+#: ../../source/site/forusers/visualchangelog328/index.rst:717
 msgid "`PR #50349 <https://github.com/qgis/QGIS/pull/50349>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:706
+#: ../../source/site/forusers/visualchangelog328/index.rst:717
 msgid "`PR #50436 <https://github.com/qgis/QGIS/pull/50436>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:708
+#: ../../source/site/forusers/visualchangelog328/index.rst:719
 msgid ""
 "SpatiaLite - Added feature vanishes, attribute dialog does not show required"
 " fields"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:708
+#: ../../source/site/forusers/visualchangelog328/index.rst:719
 msgid "`#50523 <https://github.com/qgis/QGIS/issues/50523>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:708
+#: ../../source/site/forusers/visualchangelog328/index.rst:719
 msgid "`PR #50573 <https://github.com/qgis/QGIS/pull/50573>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:711
-#: ../../source/site/forusers/visualchangelog328/index.rst:768
-#: ../../source/site/forusers/visualchangelog328/index.rst:813
-#: ../../source/site/forusers/visualchangelog328/index.rst:840
-#: ../../source/site/forusers/visualchangelog328/index.rst:857
-#: ../../source/site/forusers/visualchangelog328/index.rst:922
-#: ../../source/site/forusers/visualchangelog328/index.rst:937
+#: ../../source/site/forusers/visualchangelog328/index.rst:722
+#: ../../source/site/forusers/visualchangelog328/index.rst:779
+#: ../../source/site/forusers/visualchangelog328/index.rst:824
+#: ../../source/site/forusers/visualchangelog328/index.rst:851
+#: ../../source/site/forusers/visualchangelog328/index.rst:868
+#: ../../source/site/forusers/visualchangelog328/index.rst:933
+#: ../../source/site/forusers/visualchangelog328/index.rst:948
 msgid ""
 "This feature was funded by `QGIS.ORG (through donations and sustaining "
 "memberships) <https://qgis.org/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:713
+#: ../../source/site/forusers/visualchangelog328/index.rst:724
 msgid ""
 "This feature was developed by `Alessandro Pasotti "
 "<https://www.qcooperative.net/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:716
+#: ../../source/site/forusers/visualchangelog328/index.rst:727
 msgid "Feature: Bug fixes by Even Rouault"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:721
-#: ../../source/site/forusers/visualchangelog328/index.rst:745
+#: ../../source/site/forusers/visualchangelog328/index.rst:732
+#: ../../source/site/forusers/visualchangelog328/index.rst:756
 msgid "GML import is missing one feature without geometry"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:721
-#: ../../source/site/forusers/visualchangelog328/index.rst:745
+#: ../../source/site/forusers/visualchangelog328/index.rst:732
+#: ../../source/site/forusers/visualchangelog328/index.rst:756
 msgid "`#50215 <https://github.com/qgis/QGIS/issues/50215>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:721
-#: ../../source/site/forusers/visualchangelog328/index.rst:745
+#: ../../source/site/forusers/visualchangelog328/index.rst:732
+#: ../../source/site/forusers/visualchangelog328/index.rst:756
 msgid "`PR #50231 <https://github.com/qgis/QGIS/pull/50231>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:721
-#: ../../source/site/forusers/visualchangelog328/index.rst:735
-#: ../../source/site/forusers/visualchangelog328/index.rst:745
-#: ../../source/site/forusers/visualchangelog328/index.rst:759
+#: ../../source/site/forusers/visualchangelog328/index.rst:732
+#: ../../source/site/forusers/visualchangelog328/index.rst:746
+#: ../../source/site/forusers/visualchangelog328/index.rst:756
+#: ../../source/site/forusers/visualchangelog328/index.rst:770
 msgid "Not appropriate"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:723
-#: ../../source/site/forusers/visualchangelog328/index.rst:747
+#: ../../source/site/forusers/visualchangelog328/index.rst:734
+#: ../../source/site/forusers/visualchangelog328/index.rst:758
 msgid ""
 "WFS/QgsOapifProvider does not take the pageSize from the dialog into account"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:723
-#: ../../source/site/forusers/visualchangelog328/index.rst:747
+#: ../../source/site/forusers/visualchangelog328/index.rst:734
+#: ../../source/site/forusers/visualchangelog328/index.rst:758
 msgid "`#49404 <https://github.com/qgis/QGIS/issues/49404>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:723
-#: ../../source/site/forusers/visualchangelog328/index.rst:747
+#: ../../source/site/forusers/visualchangelog328/index.rst:734
+#: ../../source/site/forusers/visualchangelog328/index.rst:758
 msgid "`PR #50236 <https://github.com/qgis/QGIS/pull/50236>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:725
-#: ../../source/site/forusers/visualchangelog328/index.rst:749
+#: ../../source/site/forusers/visualchangelog328/index.rst:736
+#: ../../source/site/forusers/visualchangelog328/index.rst:760
 msgid "[WFS] Layer is added incorrectly as mixed geometry collection"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:725
-#: ../../source/site/forusers/visualchangelog328/index.rst:749
+#: ../../source/site/forusers/visualchangelog328/index.rst:736
+#: ../../source/site/forusers/visualchangelog328/index.rst:760
 msgid "`#49335 <https://github.com/qgis/QGIS/issues/49335>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:725
-#: ../../source/site/forusers/visualchangelog328/index.rst:749
+#: ../../source/site/forusers/visualchangelog328/index.rst:736
+#: ../../source/site/forusers/visualchangelog328/index.rst:760
 msgid "`PR #50237 <https://github.com/qgis/QGIS/pull/50237>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:725
-#: ../../source/site/forusers/visualchangelog328/index.rst:749
+#: ../../source/site/forusers/visualchangelog328/index.rst:736
+#: ../../source/site/forusers/visualchangelog328/index.rst:760
 msgid "`PR #50353 <https://github.com/qgis/QGIS/pull/50353>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:727
-#: ../../source/site/forusers/visualchangelog328/index.rst:751
+#: ../../source/site/forusers/visualchangelog328/index.rst:738
+#: ../../source/site/forusers/visualchangelog328/index.rst:762
 msgid ""
 "WFS: missing namespace prefix on geometry and attribute elements in FILTER "
 "for WFS GetFeature reques"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:727
-#: ../../source/site/forusers/visualchangelog328/index.rst:751
+#: ../../source/site/forusers/visualchangelog328/index.rst:738
+#: ../../source/site/forusers/visualchangelog328/index.rst:762
 msgid "`#49121 <https://github.com/qgis/QGIS/issues/49121>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:727
-#: ../../source/site/forusers/visualchangelog328/index.rst:751
+#: ../../source/site/forusers/visualchangelog328/index.rst:738
+#: ../../source/site/forusers/visualchangelog328/index.rst:762
 msgid "`PR #50249 <https://github.com/qgis/QGIS/pull/50249>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:727
-#: ../../source/site/forusers/visualchangelog328/index.rst:751
+#: ../../source/site/forusers/visualchangelog328/index.rst:738
+#: ../../source/site/forusers/visualchangelog328/index.rst:762
 msgid "`PR #50351 <https://github.com/qgis/QGIS/pull/50351>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:729
-#: ../../source/site/forusers/visualchangelog328/index.rst:753
+#: ../../source/site/forusers/visualchangelog328/index.rst:740
+#: ../../source/site/forusers/visualchangelog328/index.rst:764
 msgid ""
 "[Processing] Fix typo in smoothing parameter name of gdal\\_grid algorithms"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:729
-#: ../../source/site/forusers/visualchangelog328/index.rst:753
+#: ../../source/site/forusers/visualchangelog328/index.rst:740
+#: ../../source/site/forusers/visualchangelog328/index.rst:764
 msgid "`PR #50261 <https://github.com/qgis/QGIS/pull/50261>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:729
-#: ../../source/site/forusers/visualchangelog328/index.rst:753
+#: ../../source/site/forusers/visualchangelog328/index.rst:740
+#: ../../source/site/forusers/visualchangelog328/index.rst:764
 msgid "`PR #50331 <https://github.com/qgis/QGIS/pull/50331>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:731
-#: ../../source/site/forusers/visualchangelog328/index.rst:755
+#: ../../source/site/forusers/visualchangelog328/index.rst:742
+#: ../../source/site/forusers/visualchangelog328/index.rst:766
 msgid "WFS client shows wrong CRS"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:731
-#: ../../source/site/forusers/visualchangelog328/index.rst:755
+#: ../../source/site/forusers/visualchangelog328/index.rst:742
+#: ../../source/site/forusers/visualchangelog328/index.rst:766
 msgid "`#42627 <https://github.com/qgis/QGIS/issues/42627>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:731
-#: ../../source/site/forusers/visualchangelog328/index.rst:755
+#: ../../source/site/forusers/visualchangelog328/index.rst:742
+#: ../../source/site/forusers/visualchangelog328/index.rst:766
 msgid "`PR #50272 <https://github.com/qgis/QGIS/pull/50272>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:731
-#: ../../source/site/forusers/visualchangelog328/index.rst:755
-#: ../../source/site/forusers/visualchangelog328/index.rst:765
+#: ../../source/site/forusers/visualchangelog328/index.rst:742
+#: ../../source/site/forusers/visualchangelog328/index.rst:766
+#: ../../source/site/forusers/visualchangelog328/index.rst:776
 msgid "`PR #50328 <https://github.com/qgis/QGIS/pull/50328>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:733
-#: ../../source/site/forusers/visualchangelog328/index.rst:757
+#: ../../source/site/forusers/visualchangelog328/index.rst:744
+#: ../../source/site/forusers/visualchangelog328/index.rst:768
 msgid ""
 "QGIS doesn't work properly with WFS 2.0.0 combined with OGC HTTP URI srsName"
 " style (e.g. http://www.opengis.net/def/crs/EPSG/0/xxxx)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:733
-#: ../../source/site/forusers/visualchangelog328/index.rst:757
+#: ../../source/site/forusers/visualchangelog328/index.rst:744
+#: ../../source/site/forusers/visualchangelog328/index.rst:768
 msgid "`#29391 <https://github.com/qgis/QGIS/issues/29391>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:733
-#: ../../source/site/forusers/visualchangelog328/index.rst:757
+#: ../../source/site/forusers/visualchangelog328/index.rst:744
+#: ../../source/site/forusers/visualchangelog328/index.rst:768
 msgid "`PR #50281 <https://github.com/qgis/QGIS/pull/50281>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:733
-#: ../../source/site/forusers/visualchangelog328/index.rst:757
+#: ../../source/site/forusers/visualchangelog328/index.rst:744
+#: ../../source/site/forusers/visualchangelog328/index.rst:768
 msgid "`PR #50386 <https://github.com/qgis/QGIS/pull/50386>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:735
-#: ../../source/site/forusers/visualchangelog328/index.rst:759
+#: ../../source/site/forusers/visualchangelog328/index.rst:746
+#: ../../source/site/forusers/visualchangelog328/index.rst:770
 msgid ""
 "QGIS ignores field inherited from parent feature type in WFS 2.0 services"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:735
-#: ../../source/site/forusers/visualchangelog328/index.rst:759
+#: ../../source/site/forusers/visualchangelog328/index.rst:746
+#: ../../source/site/forusers/visualchangelog328/index.rst:770
 msgid "`#42660 <https://github.com/qgis/QGIS/issues/42660>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:735
-#: ../../source/site/forusers/visualchangelog328/index.rst:759
+#: ../../source/site/forusers/visualchangelog328/index.rst:746
+#: ../../source/site/forusers/visualchangelog328/index.rst:770
 msgid "`PR #50300 <https://github.com/qgis/QGIS/pull/50300>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:737
-#: ../../source/site/forusers/visualchangelog328/index.rst:761
+#: ../../source/site/forusers/visualchangelog328/index.rst:748
+#: ../../source/site/forusers/visualchangelog328/index.rst:772
 msgid "Loading and displaying CADRG/NITF data is slower than it used to be"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:737
-#: ../../source/site/forusers/visualchangelog328/index.rst:761
+#: ../../source/site/forusers/visualchangelog328/index.rst:748
+#: ../../source/site/forusers/visualchangelog328/index.rst:772
 msgid "`#49439 <https://github.com/qgis/QGIS/issues/49439>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:737
-#: ../../source/site/forusers/visualchangelog328/index.rst:761
+#: ../../source/site/forusers/visualchangelog328/index.rst:748
+#: ../../source/site/forusers/visualchangelog328/index.rst:772
 msgid "`PR #50302 <https://github.com/qgis/QGIS/pull/50302>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:737
-#: ../../source/site/forusers/visualchangelog328/index.rst:761
+#: ../../source/site/forusers/visualchangelog328/index.rst:748
+#: ../../source/site/forusers/visualchangelog328/index.rst:772
 msgid "`PR #50352 <https://github.com/qgis/QGIS/pull/50352>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:739
-#: ../../source/site/forusers/visualchangelog328/index.rst:763
+#: ../../source/site/forusers/visualchangelog328/index.rst:750
+#: ../../source/site/forusers/visualchangelog328/index.rst:774
 msgid "world\\_map.gpkg: little fix to avoid warning with recent GDAL versions"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:739
-#: ../../source/site/forusers/visualchangelog328/index.rst:763
+#: ../../source/site/forusers/visualchangelog328/index.rst:750
+#: ../../source/site/forusers/visualchangelog328/index.rst:774
 msgid "`PR #50304 <https://github.com/qgis/QGIS/pull/50304>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:741
-#: ../../source/site/forusers/visualchangelog328/index.rst:765
+#: ../../source/site/forusers/visualchangelog328/index.rst:752
+#: ../../source/site/forusers/visualchangelog328/index.rst:776
 msgid "QGIS 3.24.1 (Windows) destroys my VRT raster mosaic"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:741
-#: ../../source/site/forusers/visualchangelog328/index.rst:765
+#: ../../source/site/forusers/visualchangelog328/index.rst:752
+#: ../../source/site/forusers/visualchangelog328/index.rst:776
 msgid "`#48052 <https://github.com/qgis/QGIS/issues/48052>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:741
-#: ../../source/site/forusers/visualchangelog328/index.rst:765
+#: ../../source/site/forusers/visualchangelog328/index.rst:752
+#: ../../source/site/forusers/visualchangelog328/index.rst:776
 msgid "https://github.com/OSGeo/gdal/pull/6426"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:741
+#: ../../source/site/forusers/visualchangelog328/index.rst:752
 msgid "`PR #50328 <https://github.com/qgis/QGIS/pull/50328>`__\\ Bug Title"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:743
+#: ../../source/site/forusers/visualchangelog328/index.rst:754
 msgid "--"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:770
+#: ../../source/site/forusers/visualchangelog328/index.rst:781
 msgid ""
 "This feature was developed by `Even Rouault <https://www.spatialys.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:773
+#: ../../source/site/forusers/visualchangelog328/index.rst:784
 msgid "Feature: Bug fixes by Julien Cabieces"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:778
+#: ../../source/site/forusers/visualchangelog328/index.rst:789
 msgid "QGIS not retrieving sequence from postgis in 3.26"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:778
+#: ../../source/site/forusers/visualchangelog328/index.rst:789
 msgid "`#49463 <https://github.com/qgis/QGIS/issues/49463>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:778
+#: ../../source/site/forusers/visualchangelog328/index.rst:789
 msgid "`PR #50247 <https://github.com/qgis/QGIS/pull/50247>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:778
+#: ../../source/site/forusers/visualchangelog328/index.rst:789
 msgid "no need to bp"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:780
+#: ../../source/site/forusers/visualchangelog328/index.rst:791
 msgid "SVG is not rendered for SVG Marker symbol"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:780
+#: ../../source/site/forusers/visualchangelog328/index.rst:791
 msgid "`#50208 <https://github.com/qgis/QGIS/issues/50208>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:780
-#: ../../source/site/forusers/visualchangelog328/index.rst:806
-#: ../../source/site/forusers/visualchangelog328/index.rst:808
+#: ../../source/site/forusers/visualchangelog328/index.rst:791
+#: ../../source/site/forusers/visualchangelog328/index.rst:817
+#: ../../source/site/forusers/visualchangelog328/index.rst:819
 msgid "Cannot fix, Qt issue"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:782
+#: ../../source/site/forusers/visualchangelog328/index.rst:793
 msgid ""
 "If \"estimated metadata\" option is checked, feature count for "
 "tables/postgis do not work"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:782
+#: ../../source/site/forusers/visualchangelog328/index.rst:793
 msgid "`#46790 <https://github.com/qgis/QGIS/issues/46790>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:782
+#: ../../source/site/forusers/visualchangelog328/index.rst:793
 msgid "`PR #50256 <https://github.com/qgis/QGIS/pull/50256>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:782
+#: ../../source/site/forusers/visualchangelog328/index.rst:793
 msgid "`PR #50425 <https://github.com/qgis/QGIS/pull/50425>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:784
+#: ../../source/site/forusers/visualchangelog328/index.rst:795
 msgid "Variable raster image source in composer not working"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:784
+#: ../../source/site/forusers/visualchangelog328/index.rst:795
 msgid "`#47981 <https://github.com/qgis/QGIS/issues/47981>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:784
-#: ../../source/site/forusers/visualchangelog328/index.rst:786
-#: ../../source/site/forusers/visualchangelog328/index.rst:788
+#: ../../source/site/forusers/visualchangelog328/index.rst:795
+#: ../../source/site/forusers/visualchangelog328/index.rst:797
+#: ../../source/site/forusers/visualchangelog328/index.rst:799
 msgid "`PR #50277 <https://github.com/qgis/QGIS/pull/50277>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:784
-#: ../../source/site/forusers/visualchangelog328/index.rst:786
-#: ../../source/site/forusers/visualchangelog328/index.rst:788
+#: ../../source/site/forusers/visualchangelog328/index.rst:795
+#: ../../source/site/forusers/visualchangelog328/index.rst:797
+#: ../../source/site/forusers/visualchangelog328/index.rst:799
 msgid "`PR #50332 <https://github.com/qgis/QGIS/pull/50332>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:786
+#: ../../source/site/forusers/visualchangelog328/index.rst:797
 msgid "Print Layout Picture Box reverting to SVG"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:786
+#: ../../source/site/forusers/visualchangelog328/index.rst:797
 msgid "`#38031 <https://github.com/qgis/QGIS/issues/38031>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:788
+#: ../../source/site/forusers/visualchangelog328/index.rst:799
 msgid "Layout picture can not change SVG image to Raster image"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:788
+#: ../../source/site/forusers/visualchangelog328/index.rst:799
 msgid "`#37804 <https://github.com/qgis/QGIS/issues/37804>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:790
+#: ../../source/site/forusers/visualchangelog328/index.rst:801
 msgid "QgsOptionsPageWidget - helpKey and helpSearchPath are not working"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:790
+#: ../../source/site/forusers/visualchangelog328/index.rst:801
 msgid "`#49421 <https://github.com/qgis/QGIS/issues/49421>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:790
+#: ../../source/site/forusers/visualchangelog328/index.rst:801
 msgid "`PR #50282 <https://github.com/qgis/QGIS/pull/50282>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:790
+#: ../../source/site/forusers/visualchangelog328/index.rst:801
 msgid "`PR #50330 <https://github.com/qgis/QGIS/pull/50330>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:792
+#: ../../source/site/forusers/visualchangelog328/index.rst:803
 msgid ""
 "Freeze when opening WFS attribute table from HTTPS server with SSL exception"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:792
+#: ../../source/site/forusers/visualchangelog328/index.rst:803
 msgid "`#42615 <https://github.com/qgis/QGIS/issues/42615>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:792
-#: ../../source/site/forusers/visualchangelog328/index.rst:794
-#: ../../source/site/forusers/visualchangelog328/index.rst:796
+#: ../../source/site/forusers/visualchangelog328/index.rst:803
+#: ../../source/site/forusers/visualchangelog328/index.rst:805
+#: ../../source/site/forusers/visualchangelog328/index.rst:807
 msgid "`PR #50443 <https://github.com/qgis/QGIS/pull/50443>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:792
-#: ../../source/site/forusers/visualchangelog328/index.rst:794
-#: ../../source/site/forusers/visualchangelog328/index.rst:800
+#: ../../source/site/forusers/visualchangelog328/index.rst:803
+#: ../../source/site/forusers/visualchangelog328/index.rst:805
+#: ../../source/site/forusers/visualchangelog328/index.rst:811
 msgid "no bp"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:794
+#: ../../source/site/forusers/visualchangelog328/index.rst:805
 msgid "News feed not loading when using MSI installer"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:794
+#: ../../source/site/forusers/visualchangelog328/index.rst:805
 msgid "`#49097 <https://github.com/qgis/QGIS/issues/49097>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:796
+#: ../../source/site/forusers/visualchangelog328/index.rst:807
 msgid ".ci/run\\_tests.sh: test\\_core\\_networkaccessmanager (Timeout)"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:796
+#: ../../source/site/forusers/visualchangelog328/index.rst:807
 msgid "`#50234 <https://github.com/qgis/QGIS/issues/50234>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:798
+#: ../../source/site/forusers/visualchangelog328/index.rst:809
 msgid ""
 "SVG Symbol on newer version of QGIS (3.22.7/8/10 tested) make the software "
 "lag a lot (and not on 3.4 version)."
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:798
+#: ../../source/site/forusers/visualchangelog328/index.rst:809
 msgid "`#49818 <https://github.com/qgis/QGIS/issues/49818>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:798
+#: ../../source/site/forusers/visualchangelog328/index.rst:809
 msgid "Feedback, not sure it’s a bug"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:800
+#: ../../source/site/forusers/visualchangelog328/index.rst:811
 msgid "Empty Options drop-down menu in Query Logger tab"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:800
+#: ../../source/site/forusers/visualchangelog328/index.rst:811
 msgid "`#50403 <https://github.com/qgis/QGIS/issues/50403>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:800
+#: ../../source/site/forusers/visualchangelog328/index.rst:811
 msgid "`PR #50527 <https://github.com/qgis/QGIS/pull/50527>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:802
+#: ../../source/site/forusers/visualchangelog328/index.rst:813
 msgid "Build fails with WITH\\_POSTGRESQL=OFF"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:802
+#: ../../source/site/forusers/visualchangelog328/index.rst:813
 msgid "`#50075 <https://github.com/qgis/QGIS/issues/50075>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:802
+#: ../../source/site/forusers/visualchangelog328/index.rst:813
 msgid "Feedback"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:804
+#: ../../source/site/forusers/visualchangelog328/index.rst:815
 msgid "Build fails with WITH\\_GSL=OFF"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:804
+#: ../../source/site/forusers/visualchangelog328/index.rst:815
 msgid "`#50076 <https://github.com/qgis/QGIS/issues/50076>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:804
+#: ../../source/site/forusers/visualchangelog328/index.rst:815
 msgid "`PR #50555 <https://github.com/qgis/QGIS/pull/50555>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:806
+#: ../../source/site/forusers/visualchangelog328/index.rst:817
 msgid "QGIS master exports out of bounds in layout"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:806
+#: ../../source/site/forusers/visualchangelog328/index.rst:817
 msgid "`#48624 <https://github.com/qgis/QGIS/issues/48624>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:808
+#: ../../source/site/forusers/visualchangelog328/index.rst:819
 msgid "Layout bleeding to edge outside map window"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:808
+#: ../../source/site/forusers/visualchangelog328/index.rst:819
 msgid "`#49638 <https://github.com/qgis/QGIS/issues/49638>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:810
+#: ../../source/site/forusers/visualchangelog328/index.rst:821
 msgid "Freeze with virtual field on $area used as parameter in sum"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:810
+#: ../../source/site/forusers/visualchangelog328/index.rst:821
 msgid "`#49589 <https://github.com/qgis/QGIS/issues/49589>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:810
+#: ../../source/site/forusers/visualchangelog328/index.rst:821
 msgid "`PR #50533 <https://github.com/qgis/QGIS/pull/50533>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:810
+#: ../../source/site/forusers/visualchangelog328/index.rst:821
 msgid "`PR #50565 <https://github.com/qgis/QGIS/pull/50565>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:815
+#: ../../source/site/forusers/visualchangelog328/index.rst:826
 msgid ""
 "This feature was developed by `Julien Cabieces <https://oslandia.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:818
+#: ../../source/site/forusers/visualchangelog328/index.rst:829
 msgid "Feature: Bug fixes by Paul Blottiere"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:823
+#: ../../source/site/forusers/visualchangelog328/index.rst:834
 msgid ""
 "QGIS Server WFS 1.1.0 GetFeature response - properties with xsi:nil=\"true\""
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:823
+#: ../../source/site/forusers/visualchangelog328/index.rst:834
 msgid "`#45243 <https://github.com/qgis/QGIS/issues/45243>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:823
+#: ../../source/site/forusers/visualchangelog328/index.rst:834
 msgid "`PR #50495 <https://github.com/qgis/QGIS/pull/50495>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:825
+#: ../../source/site/forusers/visualchangelog328/index.rst:836
 msgid "Cannot move labels"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:825
+#: ../../source/site/forusers/visualchangelog328/index.rst:836
 msgid "`#47542 <https://github.com/qgis/QGIS/issues/47542>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:827
+#: ../../source/site/forusers/visualchangelog328/index.rst:838
 msgid "Auxiliary storage and removed layers"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:827
+#: ../../source/site/forusers/visualchangelog328/index.rst:838
 msgid "`#44667 <https://github.com/qgis/QGIS/issues/44667>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:827
+#: ../../source/site/forusers/visualchangelog328/index.rst:838
 msgid "`PR #50479 <https://github.com/qgis/QGIS/pull/50479>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:829
+#: ../../source/site/forusers/visualchangelog328/index.rst:840
 msgid ""
 "OPACITIES parameter not handled with Vector Tile layer in GetMap/GetPrint"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:829
+#: ../../source/site/forusers/visualchangelog328/index.rst:840
 msgid "`#50364 <https://github.com/qgis/QGIS/issues/50364>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:829
+#: ../../source/site/forusers/visualchangelog328/index.rst:840
 msgid "`PR #50374 <https://github.com/qgis/QGIS/pull/50374>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:829
+#: ../../source/site/forusers/visualchangelog328/index.rst:840
 msgid "`PR #50539 <https://github.com/qgis/QGIS/pull/50539>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:831
+#: ../../source/site/forusers/visualchangelog328/index.rst:842
 msgid "Fixes log messages when a job error is not related to a specific layer"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:831
+#: ../../source/site/forusers/visualchangelog328/index.rst:842
 msgid "`PR #50372 <https://github.com/qgis/QGIS/pull/50372>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:833
+#: ../../source/site/forusers/visualchangelog328/index.rst:844
 msgid ""
 "Labels: Data defined override of \"Show Label\" always wants the auxiliary "
 "storage option"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:833
+#: ../../source/site/forusers/visualchangelog328/index.rst:844
 msgid "`#47993 <https://github.com/qgis/QGIS/issues/47993>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:833
+#: ../../source/site/forusers/visualchangelog328/index.rst:844
 msgid "`PR #50496 <https://github.com/qgis/QGIS/pull/50496>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:833
+#: ../../source/site/forusers/visualchangelog328/index.rst:844
 msgid "`PR #50538 <https://github.com/qgis/QGIS/pull/50538>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:835
+#: ../../source/site/forusers/visualchangelog328/index.rst:846
 msgid ""
 "Auxiliary storage rotation or offset fields for symbols are visible by "
 "default while labels are not"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:835
+#: ../../source/site/forusers/visualchangelog328/index.rst:846
 msgid "`#28548 <https://github.com/qgis/QGIS/issues/28548>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:835
+#: ../../source/site/forusers/visualchangelog328/index.rst:846
 msgid "`PR #50498 <https://github.com/qgis/QGIS/pull/50498>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:837
+#: ../../source/site/forusers/visualchangelog328/index.rst:848
 msgid "Improve selection of PostGIS raster overviews"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:837
+#: ../../source/site/forusers/visualchangelog328/index.rst:848
 msgid "`PR #50554 <https://github.com/qgis/QGIS/pull/50554>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:837
+#: ../../source/site/forusers/visualchangelog328/index.rst:848
 msgid "`PR #50575 <https://github.com/qgis/QGIS/pull/50575>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:842
+#: ../../source/site/forusers/visualchangelog328/index.rst:853
 msgid ""
 "This feature was developed by `Paul Blottiere <https://hytech-"
 "imaging.fr/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:845
+#: ../../source/site/forusers/visualchangelog328/index.rst:856
 msgid "Feature: Bug fixes by Sandro Santilli"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:850
+#: ../../source/site/forusers/visualchangelog328/index.rst:861
 msgid ""
 "Crash with offline-editing-core-plugin converting to offline project layer "
 "with empty polygon"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:850
+#: ../../source/site/forusers/visualchangelog328/index.rst:861
 msgid "`#50466 <https://github.com/qgis/QGIS/issues/50466>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:850
+#: ../../source/site/forusers/visualchangelog328/index.rst:861
 msgid "`PR #50577 <https://github.com/qgis/QGIS/pull/50577>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:852
+#: ../../source/site/forusers/visualchangelog328/index.rst:863
 msgid "Cleanup temporary python test config path when requested"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:852
+#: ../../source/site/forusers/visualchangelog328/index.rst:863
 msgid "`#48884 <https://github.com/qgis/QGIS/issues/48884>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:852
+#: ../../source/site/forusers/visualchangelog328/index.rst:863
 msgid "`PR #50608 <https://github.com/qgis/QGIS/pull/50608>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:854
+#: ../../source/site/forusers/visualchangelog328/index.rst:865
 msgid "Include type name in message about unsupported qfield validations"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:854
+#: ../../source/site/forusers/visualchangelog328/index.rst:865
 msgid "`PR #50589 <https://github.com/qgis/QGIS/pull/50589>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:859
+#: ../../source/site/forusers/visualchangelog328/index.rst:870
 msgid ""
 "This feature was developed by `Sandro Santilli (strk) "
 "<https://strk.kbt.io/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:862
+#: ../../source/site/forusers/visualchangelog328/index.rst:873
 msgid "Feature: Bug fixes by Nyall Dawson"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:867
+#: ../../source/site/forusers/visualchangelog328/index.rst:878
 msgid "Fix regression in column break calculations in legends"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:867
+#: ../../source/site/forusers/visualchangelog328/index.rst:878
 msgid "`#42672 <https://github.com/qgis/QGIS/issues/42672>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:867
+#: ../../source/site/forusers/visualchangelog328/index.rst:878
 msgid "`PR #50597 <https://github.com/qgis/QGIS/pull/50597>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:867
-#: ../../source/site/forusers/visualchangelog328/index.rst:895
-#: ../../source/site/forusers/visualchangelog328/index.rst:901
-#: ../../source/site/forusers/visualchangelog328/index.rst:905
+#: ../../source/site/forusers/visualchangelog328/index.rst:878
+#: ../../source/site/forusers/visualchangelog328/index.rst:906
+#: ../../source/site/forusers/visualchangelog328/index.rst:912
+#: ../../source/site/forusers/visualchangelog328/index.rst:916
 msgid "Not suitable -- too risky"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:869
+#: ../../source/site/forusers/visualchangelog328/index.rst:880
 msgid "Fix tracing fails when layer crs differs from map crs"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:869
+#: ../../source/site/forusers/visualchangelog328/index.rst:880
 msgid "`#49247 <https://github.com/qgis/QGIS/issues/49247>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:869
+#: ../../source/site/forusers/visualchangelog328/index.rst:880
 msgid "`PR #50612 <https://github.com/qgis/QGIS/pull/50612>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:869
-#: ../../source/site/forusers/visualchangelog328/index.rst:871
-#: ../../source/site/forusers/visualchangelog328/index.rst:875
-#: ../../source/site/forusers/visualchangelog328/index.rst:877
-#: ../../source/site/forusers/visualchangelog328/index.rst:879
-#: ../../source/site/forusers/visualchangelog328/index.rst:881
-#: ../../source/site/forusers/visualchangelog328/index.rst:883
-#: ../../source/site/forusers/visualchangelog328/index.rst:885
-#: ../../source/site/forusers/visualchangelog328/index.rst:899
-#: ../../source/site/forusers/visualchangelog328/index.rst:909
-#: ../../source/site/forusers/visualchangelog328/index.rst:911
-#: ../../source/site/forusers/visualchangelog328/index.rst:913
+#: ../../source/site/forusers/visualchangelog328/index.rst:880
+#: ../../source/site/forusers/visualchangelog328/index.rst:882
+#: ../../source/site/forusers/visualchangelog328/index.rst:886
+#: ../../source/site/forusers/visualchangelog328/index.rst:888
+#: ../../source/site/forusers/visualchangelog328/index.rst:890
+#: ../../source/site/forusers/visualchangelog328/index.rst:892
+#: ../../source/site/forusers/visualchangelog328/index.rst:894
+#: ../../source/site/forusers/visualchangelog328/index.rst:896
+#: ../../source/site/forusers/visualchangelog328/index.rst:910
+#: ../../source/site/forusers/visualchangelog328/index.rst:920
+#: ../../source/site/forusers/visualchangelog328/index.rst:922
+#: ../../source/site/forusers/visualchangelog328/index.rst:924
 msgid "Not required"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:871
+#: ../../source/site/forusers/visualchangelog328/index.rst:882
 msgid "Show only available CRS in WMS layer selection widget"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:871
+#: ../../source/site/forusers/visualchangelog328/index.rst:882
 msgid "`#45918 <https://github.com/qgis/QGIS/issues/45918>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:871
+#: ../../source/site/forusers/visualchangelog328/index.rst:882
 msgid "`PR #50572 <https://github.com/qgis/QGIS/pull/50572>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:873
+#: ../../source/site/forusers/visualchangelog328/index.rst:884
 msgid ""
 "Fix some overlay algorithms output multipoint geometries but output layer is"
 " single point, causing insertion errors"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:873
+#: ../../source/site/forusers/visualchangelog328/index.rst:884
 msgid "`#49456 <https://github.com/qgis/QGIS/issues/49456>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:873
+#: ../../source/site/forusers/visualchangelog328/index.rst:884
 msgid "`PR #50567 <https://github.com/qgis/QGIS/pull/50567>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:873
+#: ../../source/site/forusers/visualchangelog328/index.rst:884
 msgid "`PR #50641 <https://github.com/qgis/QGIS/pull/50641>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:875
+#: ../../source/site/forusers/visualchangelog328/index.rst:886
 msgid "Fix missing information in crash reports on Windows"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:875
+#: ../../source/site/forusers/visualchangelog328/index.rst:886
 msgid "`#50472 <https://github.com/qgis/QGIS/issues/50472>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:875
+#: ../../source/site/forusers/visualchangelog328/index.rst:886
 msgid "`PR #50595 <https://github.com/qgis/QGIS/pull/50595>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:877
+#: ../../source/site/forusers/visualchangelog328/index.rst:888
 msgid ""
 "Fix regression where attribute table dialogs do not open as proper top level"
 " windows with their own taskbar entries"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:877
+#: ../../source/site/forusers/visualchangelog328/index.rst:888
 msgid "`#49286 <https://github.com/qgis/QGIS/issues/49286>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:877
+#: ../../source/site/forusers/visualchangelog328/index.rst:888
 msgid "`PR #50594 <https://github.com/qgis/QGIS/pull/50594>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:879
+#: ../../source/site/forusers/visualchangelog328/index.rst:890
 msgid ""
 "[georeferencer] Fix options ignored when \"create world file only\" is "
 "active"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:879
+#: ../../source/site/forusers/visualchangelog328/index.rst:890
 msgid "`#49331 <https://github.com/qgis/QGIS/issues/49331>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:879
+#: ../../source/site/forusers/visualchangelog328/index.rst:890
 msgid "`PR #50566 <https://github.com/qgis/QGIS/pull/50566>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:881
+#: ../../source/site/forusers/visualchangelog328/index.rst:892
 msgid ""
 "Ensure identify tool uses correct labels for x/y values when coordinate axis"
 " order for project is y/x"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:881
-#: ../../source/site/forusers/visualchangelog328/index.rst:883
+#: ../../source/site/forusers/visualchangelog328/index.rst:892
+#: ../../source/site/forusers/visualchangelog328/index.rst:894
 msgid "`#50540 <https://github.com/qgis/QGIS/issues/50540>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:881
-#: ../../source/site/forusers/visualchangelog328/index.rst:883
+#: ../../source/site/forusers/visualchangelog328/index.rst:892
+#: ../../source/site/forusers/visualchangelog328/index.rst:894
 msgid "`PR #50548 <https://github.com/qgis/QGIS/pull/50548>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:883
+#: ../../source/site/forusers/visualchangelog328/index.rst:894
 msgid ""
 "Ensure coordinate display in status bar updates immediately when related "
 "settings change, and update the tooltip to match the actual values displayed"
 " in the widget"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:885
+#: ../../source/site/forusers/visualchangelog328/index.rst:896
 msgid "Fix rendering of linestrings with nan z values"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:885
+#: ../../source/site/forusers/visualchangelog328/index.rst:896
 msgid "`#50510 <https://github.com/qgis/QGIS/issues/50510>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:885
+#: ../../source/site/forusers/visualchangelog328/index.rst:896
 msgid "`PR #50549 <https://github.com/qgis/QGIS/pull/50549>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:887
+#: ../../source/site/forusers/visualchangelog328/index.rst:898
 msgid "Fix broken logic in clearing python console history"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:887
-#: ../../source/site/forusers/visualchangelog328/index.rst:889
-#: ../../source/site/forusers/visualchangelog328/index.rst:891
-#: ../../source/site/forusers/visualchangelog328/index.rst:893
-#: ../../source/site/forusers/visualchangelog328/index.rst:897
-#: ../../source/site/forusers/visualchangelog328/index.rst:903
-#: ../../source/site/forusers/visualchangelog328/index.rst:915
+#: ../../source/site/forusers/visualchangelog328/index.rst:898
+#: ../../source/site/forusers/visualchangelog328/index.rst:900
+#: ../../source/site/forusers/visualchangelog328/index.rst:902
+#: ../../source/site/forusers/visualchangelog328/index.rst:904
+#: ../../source/site/forusers/visualchangelog328/index.rst:908
+#: ../../source/site/forusers/visualchangelog328/index.rst:914
+#: ../../source/site/forusers/visualchangelog328/index.rst:926
 msgid "Not reported"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:887
+#: ../../source/site/forusers/visualchangelog328/index.rst:898
 msgid "`PR #50504 <https://github.com/qgis/QGIS/pull/50504>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:887
+#: ../../source/site/forusers/visualchangelog328/index.rst:898
 msgid "`PR #50515 <https://github.com/qgis/QGIS/pull/50515>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:889
+#: ../../source/site/forusers/visualchangelog328/index.rst:900
 msgid ""
 "Fix QgsFileWidget does not reactivate widget's window after selecting a "
 "file/folder via the browse button on mac"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:889
+#: ../../source/site/forusers/visualchangelog328/index.rst:900
 msgid "`PR #50501 <https://github.com/qgis/QGIS/pull/50501>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:889
+#: ../../source/site/forusers/visualchangelog328/index.rst:900
 msgid "`PR #50502 <https://github.com/qgis/QGIS/pull/50502>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:891
+#: ../../source/site/forusers/visualchangelog328/index.rst:902
 msgid "Fix code folding not shown for non-python code editor classes"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:891
+#: ../../source/site/forusers/visualchangelog328/index.rst:902
 msgid "`PR #50492 <https://github.com/qgis/QGIS/pull/50492>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:893
+#: ../../source/site/forusers/visualchangelog328/index.rst:904
 msgid "Fix leak in GEOS geometry library use"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:893
+#: ../../source/site/forusers/visualchangelog328/index.rst:904
 msgid "`PR #50379 <https://github.com/qgis/QGIS/pull/50379>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:895
+#: ../../source/site/forusers/visualchangelog328/index.rst:906
 msgid "Fix raster contour renderer ignores opacity setting"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:895
+#: ../../source/site/forusers/visualchangelog328/index.rst:906
 msgid "`#41663 <https://github.com/qgis/QGIS/issues/41663>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:895
+#: ../../source/site/forusers/visualchangelog328/index.rst:906
 msgid "`PR #50382 <https://github.com/qgis/QGIS/pull/50382>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:897
+#: ../../source/site/forusers/visualchangelog328/index.rst:908
 msgid ""
 "Fix truncation of recent project list removes too many items, raises a "
 "warning"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:897
+#: ../../source/site/forusers/visualchangelog328/index.rst:908
 msgid "`PR #50394 <https://github.com/qgis/QGIS/pull/50394>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:897
+#: ../../source/site/forusers/visualchangelog328/index.rst:908
 msgid "`PR #50397 <https://github.com/qgis/QGIS/pull/50397>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:899
+#: ../../source/site/forusers/visualchangelog328/index.rst:910
 msgid "Fix dizzy easter egg"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:899
+#: ../../source/site/forusers/visualchangelog328/index.rst:910
 msgid "`#50345 <https://github.com/qgis/QGIS/issues/50345>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:899
+#: ../../source/site/forusers/visualchangelog328/index.rst:910
 msgid "`PR #50380 <https://github.com/qgis/QGIS/pull/50380>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:901
+#: ../../source/site/forusers/visualchangelog328/index.rst:912
 msgid "Fix point pattern fill sometimes ignores symbol opacity setting"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:901
+#: ../../source/site/forusers/visualchangelog328/index.rst:912
 msgid "`#48031 <https://github.com/qgis/QGIS/issues/48031>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:901
+#: ../../source/site/forusers/visualchangelog328/index.rst:912
 msgid "`PR #50384 <https://github.com/qgis/QGIS/pull/50384>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:903
+#: ../../source/site/forusers/visualchangelog328/index.rst:914
 msgid "Fix broken path in svg raises Qt warnings while rendering"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:903
+#: ../../source/site/forusers/visualchangelog328/index.rst:914
 msgid "`PR #50383 <https://github.com/qgis/QGIS/pull/50383>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:905
+#: ../../source/site/forusers/visualchangelog328/index.rst:916
 msgid ""
 "Ensure correct expression context is used when generating symbol preview "
 "icons"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:905
+#: ../../source/site/forusers/visualchangelog328/index.rst:916
 msgid "`#49106 <https://github.com/qgis/QGIS/issues/49106>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:905
+#: ../../source/site/forusers/visualchangelog328/index.rst:916
 msgid "`PR #50393 <https://github.com/qgis/QGIS/pull/50393>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:907
+#: ../../source/site/forusers/visualchangelog328/index.rst:918
 msgid ""
 "[spatialite] Fix corrupted default attribute values when fields are loaded "
 "using gaiaVectorLayer"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:907
+#: ../../source/site/forusers/visualchangelog328/index.rst:918
 msgid "Privately reported"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:907
+#: ../../source/site/forusers/visualchangelog328/index.rst:918
 msgid "`PR #50360 <https://github.com/qgis/QGIS/pull/50360>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:907
+#: ../../source/site/forusers/visualchangelog328/index.rst:918
 msgid "`PR #50361 <https://github.com/qgis/QGIS/pull/50361>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:909
+#: ../../source/site/forusers/visualchangelog328/index.rst:920
 msgid "Fix handling of vector tiles when zoom level 0 is not available"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:909
+#: ../../source/site/forusers/visualchangelog328/index.rst:920
 msgid "`#47934 <https://github.com/qgis/QGIS/issues/47934>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:909
+#: ../../source/site/forusers/visualchangelog328/index.rst:920
 msgid "`PR #50337 <https://github.com/qgis/QGIS/pull/50337>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:911
+#: ../../source/site/forusers/visualchangelog328/index.rst:922
 msgid "Fix drag and drop of files to georeferencer window"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:911
+#: ../../source/site/forusers/visualchangelog328/index.rst:922
 msgid "`#49175 <https://github.com/qgis/QGIS/issues/49175>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:911
+#: ../../source/site/forusers/visualchangelog328/index.rst:922
 msgid "`PR #50338 <https://github.com/qgis/QGIS/pull/50338>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:913
+#: ../../source/site/forusers/visualchangelog328/index.rst:924
 msgid ""
 "Never try to handle base parameter type values as map layers in "
 "QgsProcessingParameterDefinition::valueAs\\* methods"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:913
+#: ../../source/site/forusers/visualchangelog328/index.rst:924
 msgid "`#48598 <https://github.com/qgis/QGIS/issues/48598>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:913
+#: ../../source/site/forusers/visualchangelog328/index.rst:924
 msgid "`PR #50327 <https://github.com/qgis/QGIS/pull/50327>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:915
+#: ../../source/site/forusers/visualchangelog328/index.rst:926
 msgid ""
 "Avoid a redundant calculation of visible layer extent in overview canvas"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:915
+#: ../../source/site/forusers/visualchangelog328/index.rst:926
 msgid "`PR #50329 <https://github.com/qgis/QGIS/pull/50329>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:915
+#: ../../source/site/forusers/visualchangelog328/index.rst:926
 msgid "`PR #50336 <https://github.com/qgis/QGIS/pull/50336>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:917
-#: ../../source/site/forusers/visualchangelog328/index.rst:919
+#: ../../source/site/forusers/visualchangelog328/index.rst:928
+#: ../../source/site/forusers/visualchangelog328/index.rst:930
 msgid ""
 "Show standard Rendering tab in point cloud layer properties, add missing "
 "scale range widget to mesh layer properties"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:917
-#: ../../source/site/forusers/visualchangelog328/index.rst:919
+#: ../../source/site/forusers/visualchangelog328/index.rst:928
+#: ../../source/site/forusers/visualchangelog328/index.rst:930
 msgid "`#50268 <https://github.com/qgis/QGIS/issues/50268>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:917
-#: ../../source/site/forusers/visualchangelog328/index.rst:919
+#: ../../source/site/forusers/visualchangelog328/index.rst:928
+#: ../../source/site/forusers/visualchangelog328/index.rst:930
 msgid "`PR #50326 <https://github.com/qgis/QGIS/pull/50326>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:917
-#: ../../source/site/forusers/visualchangelog328/index.rst:919
+#: ../../source/site/forusers/visualchangelog328/index.rst:928
+#: ../../source/site/forusers/visualchangelog328/index.rst:930
 msgid "Not suitable"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:924
+#: ../../source/site/forusers/visualchangelog328/index.rst:935
 msgid ""
 "This feature was developed by `Nyall Dawson <https://north-road.com/>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:927
+#: ../../source/site/forusers/visualchangelog328/index.rst:938
 msgid "Feature: Bug fixes by Loïc Bartoletti"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:932
+#: ../../source/site/forusers/visualchangelog328/index.rst:943
 msgid "Fix \"Add Ring\" tool doesn't consider all the overlapping features"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:932
+#: ../../source/site/forusers/visualchangelog328/index.rst:943
 msgid "`#23113 <https://github.com/qgis/QGIS/issues/23113>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:932
+#: ../../source/site/forusers/visualchangelog328/index.rst:943
 msgid "`#50447 <https://github.com/qgis/QGIS/pull/50447>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:932
+#: ../../source/site/forusers/visualchangelog328/index.rst:943
 msgid "Not suitable - add new methods"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:934
+#: ../../source/site/forusers/visualchangelog328/index.rst:945
 msgid "Fix wkbType cast from OGR 25D Type"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:934
+#: ../../source/site/forusers/visualchangelog328/index.rst:945
 msgid "`#50218 <https://github.com/qgis/QGIS/issues/50218>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:934
+#: ../../source/site/forusers/visualchangelog328/index.rst:945
 msgid "`#50233 <https://github.com/qgis/QGIS/pull/50233>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:934
+#: ../../source/site/forusers/visualchangelog328/index.rst:945
 msgid "`#50251 <https://github.com/qgis/QGIS/pull/50251>`__"
 msgstr ""
 
-#: ../../source/site/forusers/visualchangelog328/index.rst:939
+#: ../../source/site/forusers/visualchangelog328/index.rst:950
 msgid ""
 "This feature was developed by `Loïc Bartoletti <https://oslandia.com/>`__"
 msgstr ""

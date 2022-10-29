@@ -134,7 +134,7 @@ msgstr ""
 
 #: ../../source/site/forusers/alldownloads.rst:47
 msgid "See also `The main installers page <./download.html>`_."
-msgstr ""
+msgstr "Vizitați, de asemenea, `Pagina principalelor kit-uri de instalare <./download.html>`_."
 
 #: ../../source/site/forusers/alldownloads.rst:49
 msgid ""
@@ -142,18 +142,18 @@ msgid ""
 "users that cannot use OSGeo4W (see below) for some reason or just prefer "
 "standalone installers. In the feature freeze phase that also acts as "
 "**release candidate**."
-msgstr ""
+msgstr "Versiunile săptămânale ale pachetului qgis-dev de noapte din OSGeo4W sunt recomandabile utilizatorilor care preferă pachetele de instalare independente sau celor care, dintr-un motiv oarecare, nu pot folosi kitul OSGeo4W (de mai jos). În faza de înghețare a funcționalităților, poartă titulatura de **release candidate**."
 
 #: ../../source/site/forusers/alldownloads.rst:55
 msgid "OSGeo4W installer"
-msgstr ""
+msgstr "Pachetul de instalare OSGeo4W"
 
 #: ../../source/site/forusers/alldownloads.rst:57
 msgid ""
 "More advanced QGIS users should use OSGeo4W packages, which for one make it "
 "possible to install several versions in parallel and also to do much more "
 "efficient updates as only changed components are downloaded and installed."
-msgstr ""
+msgstr "Utilizatorii QGIS avansați ar trebui să folosească pachetele OSGeo4W care, întrucât descarcă și instalează doar componentele modificate, realizează actualizări mult mai eficiente și permit instalarea mai multor versiuni în paralel."
 
 #: ../../source/site/forusers/alldownloads.rst:61
 msgid ""
@@ -162,11 +162,11 @@ msgid ""
 "installer is able to install from internet or just download all needed "
 "packages beforehand. The downloaded files are kept in a local directory for "
 "future installations and could also be used to install offline."
-msgstr ""
+msgstr "Depozitul OSGeo4W conține o mulțime de softuri din proiectele OSGeo. QGIS și toate dependențele sunt incluse, alături de Python, GRASS, GDAL etc. Aplicația permite efectuarea instalării direct de pe internet sau descărcarea prealabilă a tuturor pachetelor necesare. Fișierele descărcate sunt păstrate, pentru o instalare offline ulterioară, într-un director local."
 
 #: ../../source/site/forusers/alldownloads.rst:68
 msgid "Steps are:"
-msgstr ""
+msgstr "Pașii sunt:"
 
 #: ../../source/site/forusers/alldownloads.rst:70
 msgid ""
@@ -178,13 +178,13 @@ msgstr "Descărcați kitul `OSGeo4W <https://download.osgeo.org/osgeo4w/v2/osgeo
 msgid ""
 "Choose *Express Install* and select *QGIS* to install the *latest release* "
 "and/or *QGIS LTR* to install the *long term release*."
-msgstr ""
+msgstr "Alegeți *Instalare Expres*, apoi selectați *QGIS* pentru a instala *cea mai nouă versiune* și/sau *QGIS LTR* pentru a instala *ediția cu suport pe termen lung*."
 
 #: ../../source/site/forusers/alldownloads.rst:74
 msgid ""
 "Alternatively to *Express* you also use the *Advanced Install*, navigate to "
 "the *Desktop* section and pick one or more of the following packages:"
-msgstr ""
+msgstr "Alternativa la *Express* o reprezintă *Instalarea avansată*, care este disponibilă în secțiunea *Desktop* și permite alegerea unuia sau mai multora din următoarele pachete:"
 
 #: ../../source/site/forusers/alldownloads.rst:78
 #: ../../source/site/forusers/alldownloads.rst:217
@@ -235,13 +235,13 @@ msgid ""
 "optional dependencies that some popular - not included - plugins use and the"
 " latter include the former and also add proprietary extensions like Oracle, "
 "ECW and MrSID."
-msgstr ""
+msgstr "Versiunile enumerate în tabel instalează doar pachetele necesare rulării QGIS. Corespunzător acestor pachete există și pachete meta cu postfixul ``-full-free`` și ``-full``. Primul conține dependențe suplimentare opționale, utilizate de unele plugin-uri populare, iar cel din urmă le includ pe primele, și adăugându-le extensii proprietare precum Oracle, ECW și MrSID."
 
 #: ../../source/site/forusers/alldownloads.rst:100
 msgid ""
 "The Express installs reference the corresponding ``-full`` variant and the "
 "standalone installers are also made from these OSGeo4W package sets."
-msgstr ""
+msgstr "Instalările Express fac referire la variantele corespunzătoare ``-full``, pachetele de instalare independente fiind, de asemenea, realizate din seturile OSGeo4W."
 
 #: ../../source/site/forusers/alldownloads.rst:103
 msgid "Before installing any of the nightly builds note the warning_."
@@ -264,7 +264,7 @@ msgid ""
 "Below you find instructions to install per distribution. For most distro's "
 "there are instructions to install QGIS stable and instructions to install a "
 "cutting edge QGIS testing build (note the warning_)."
-msgstr ""
+msgstr "In continuare veți găsi instrucțiuni pentru instalarea specifică fiecărei distribuții. Majoritatea distribuțiilor dispun de instrucțiuni de instalare atât pentru QGIS stabil cât și pentru un QGIS de ultimă oră, pentru testare (rețineți avertismentul_)."
 
 #: ../../source/site/forusers/alldownloads.rst:120
 msgid "Debian/Ubuntu"
@@ -282,7 +282,7 @@ msgid ""
 "supported as the repositories also contain older **unsupported** "
 "distributions with the last QGIS version that was supported. Beware that "
 "those might have meanwhile ceased to work."
-msgstr ""
+msgstr "În secțiunea următoare, veți găsi TOATE opțiunile de instalare a diverselor versiuni de QGIS pe mai multe versiuni de Debian/Ubuntu. Dacă aveți probleme, verificați dacă distribuția dvs. este încă acceptată, întrucât depozitele conțin și distribuții mai vechi, **fără suport**, dar care acceptau anterior anumite versiuni de QGIS. Rețineți că acestea ar putea ca, între timp, să nu mai funcționeze."
 
 #: ../../source/site/forusers/alldownloads.rst:132
 msgid ""
@@ -294,44 +294,44 @@ msgstr "În această secțiune veți instala cea mai recentă versiune stabilă 
 msgid ""
 "Although you see 'Debian' in some places, this also works for 'Ubuntu', as "
 "one is actually a symlink to the other on our server."
-msgstr ""
+msgstr "Deși vedeți „Debian” în unele instrucțiuni, acesta funcționează și pentru „Ubuntu”."
 
 #: ../../source/site/forusers/alldownloads.rst:138
 msgid "First install some tools you will need for this instructions::"
-msgstr ""
+msgstr "Mai întâi instalați câteva instrumente necesare::"
 
 #: ../../source/site/forusers/alldownloads.rst:142
 msgid ""
 "Now install the QGIS Signing Key, so QGIS software from the QGIS repo will "
 "be trusted and installed::"
-msgstr ""
+msgstr "Acum instalați QGIS Signing Key, pentru ca softul din depozitul QGIS să fie de încredere și să se poată instala::"
 
 #: ../../source/site/forusers/alldownloads.rst:148
 msgid ""
 "Add the QGIS repo for the latest stable QGIS (|version|.x |codename|) to "
 "``/etc/apt/sources.list.d/qgis.sources``::"
-msgstr ""
+msgstr "Adăugare depozit QGIS pentru cel mai recent QGIS stabil  (|version|.x |codename|) în ``/etc/apt/sources.list.d/qgis.sources``::"
 
 #: ../../source/site/forusers/alldownloads.rst:157
 msgid ""
 "``Suites`` in above lines depends on your distribution. ``lsb_release -cs`` "
 "will show your distribution name."
-msgstr ""
+msgstr "``Rezultatele`` din rândurile de mai sus depind de distribuția dvs. ``lsb_release -cs`` va afișa numele distribuției dvs."
 
 #: ../../source/site/forusers/alldownloads.rst:159
 msgid ""
 "In some distributions (like Linux Mint), ``. /etc/os-release; echo "
 "\"$UBUNTU_CODENAME\"`` will show the correct distibution name."
-msgstr ""
+msgstr "În unele distribuții (cum ar fi Linux Mint), ``. /etc/os-release; echo „$UBUNTU_CODENAME”`` va afișa numele corect al distribuției."
 
 #: ../../source/site/forusers/alldownloads.rst:161
 msgid "See `Available codenames`_."
-msgstr ""
+msgstr "Vedeți `Numele de cod disponibile`_."
 
 #: ../../source/site/forusers/alldownloads.rst:163
 msgid ""
 "Update your repository information to reflect also the just added QGIS one::"
-msgstr ""
+msgstr "Actualizați informațiile despre depozitele dvs. pentru a-l reflecta și pe cel de QGIS, recent adăugat::"
 
 #: ../../source/site/forusers/alldownloads.rst:167
 msgid "Now, install QGIS::"
@@ -357,7 +357,7 @@ msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your "
 "``/etc/apt/sources.list.d/qgis.sources`` file."
-msgstr ""
+msgstr "Pentru a obține versiunile noi, trebuie să apelați la depozite software alternative, prin adăugarea uneia din liniile-deb de mai jos, în fișierul ``/etc/apt/sources.list.d/qgis.sources``."
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid ""
@@ -597,13 +597,13 @@ msgstr "focal [6]_"
 
 #: ../../source/site/forusers/alldownloads.rst:288
 msgid "only up to QGIS 3.26 (Qt 5.13 required for 3.27)"
-msgstr ""
+msgstr "doar până la QGIS 3.26 (Qt 5.13 necesar pentru 3.27)"
 
 #: ../../source/site/forusers/alldownloads.rst:290
 msgid ""
 "To use the qgis archive you have to first add the archive's repository "
 "public key::"
-msgstr ""
+msgstr "Pentru a utiliza arhiva qgis, trebuie mai întâi să adăugați cheia publică a arhivei::"
 
 #: ../../source/site/forusers/alldownloads.rst:295
 msgid "Should output::"
@@ -611,23 +611,23 @@ msgstr "Rezultatul așteptat::"
 
 #: ../../source/site/forusers/alldownloads.rst:303
 msgid "After you have verified the output you can install the key with::"
-msgstr ""
+msgstr "După ce ați verificat rezultatul puteți adăuga cheia cu::"
 
 #: ../../source/site/forusers/alldownloads.rst:308
 msgid ""
 "Alternatively you can download the key directly without manual "
 "verification::"
-msgstr ""
+msgstr "Alternativ, puteți descărca direct cheia, fără verificare manuală::"
 
 #: ../../source/site/forusers/alldownloads.rst:313
 msgid ""
 "With the keyring in place you can add the repository as "
 "``/etc/apt/sources.list.d/qgis.sources`` with following content::"
-msgstr ""
+msgstr "Folosind inelul de chei puteți adăuga depozitul ca ``/etc/apt/sources.list.d/qgis.sources`` cu următorul conținut::"
 
 #: ../../source/site/forusers/alldownloads.rst:322
 msgid "Example for the latest long term release for Ubuntu 22.04 Jammy::"
-msgstr ""
+msgstr "Exemplu pentru cea mai recentă versiune cu suport  pe termen lung  Ubuntu 22.04 Jammy::"
 
 #: ../../source/site/forusers/alldownloads.rst:331
 #: ../../source/site/forusers/alldownloads.rst:367
@@ -755,7 +755,7 @@ msgstr "SUSE / openSUSE"
 msgid ""
 "Latest stable and LTR packages called qgis and qgis-ltr are available in the"
 " following repositories:"
-msgstr ""
+msgstr "Cele mai recente pachete Stabil și LTR, denumite qgis și qgis-ltr, sunt disponibile în următoarele depozite:"
 
 #: ../../source/site/forusers/alldownloads.rst:427
 msgid "Tumbleweed"
@@ -828,7 +828,7 @@ msgstr "Toate pachetele includ suport GRASS și Python."
 msgid ""
 "All openSUSE Geo repositories can be found here: "
 "https://download.opensuse.org/repositories/Application:/Geo/"
-msgstr ""
+msgstr "Toate depozitele openSUSE Geo se găsesc aici: https://download.opensuse.org/repositories/Application:/Geo/"
 
 #: ../../source/site/forusers/alldownloads.rst:448
 msgid "Mandriva"
@@ -844,7 +844,7 @@ msgstr "Slackware"
 
 #: ../../source/site/forusers/alldownloads.rst:463
 msgid "Packages on https://slackbuilds.org/result/?search=qgis"
-msgstr ""
+msgstr "Pachetele de la https://slackbuilds.org/result/?search=qgis"
 
 #: ../../source/site/forusers/alldownloads.rst:466
 msgid "Arch Linux"
@@ -854,11 +854,11 @@ msgstr "Arch Linux"
 msgid ""
 "Arch Linux is available in official repository : "
 "https://www.archlinux.org/packages/community/x86_64/qgis/"
-msgstr ""
+msgstr "Arch Linux este disponibil în depozitul oficial: https://www.archlinux.org/packages/community/x86_64/qgis/"
 
 #: ../../source/site/forusers/alldownloads.rst:473
 msgid "Install with::"
-msgstr ""
+msgstr "Instalați-l folosind::"
 
 #: ../../source/site/forusers/alldownloads.rst:479
 #: ../../source/site/forusers/alldownloads.rst:570
@@ -867,12 +867,12 @@ msgstr "QGIS LTR"
 
 #: ../../source/site/forusers/alldownloads.rst:481
 msgid "QGIS Long Term Release is available in AUR (Arch User Repository)."
-msgstr ""
+msgstr "QGIS cu Suport pe Termen Lung este disponibil în AUR (Arch User Repository)."
 
 #: ../../source/site/forusers/alldownloads.rst:483
 #: ../../source/site/forusers/alldownloads.rst:495
 msgid "Install with yaourt or other package manager which support AUR::"
-msgstr ""
+msgstr "Instalați cu yaourt sau cu un alt manager de pachete care acceptă AUR::"
 
 #: ../../source/site/forusers/alldownloads.rst:487
 msgid ""
@@ -886,7 +886,7 @@ msgstr "QGIS pentru testare"
 
 #: ../../source/site/forusers/alldownloads.rst:493
 msgid "QGIS testing is available in AUR (Arch User Repository)."
-msgstr ""
+msgstr "QGIS pentru testare este disponibil în AUR (Arch User Repository)."
 
 #: ../../source/site/forusers/alldownloads.rst:499
 msgid ""
@@ -902,12 +902,12 @@ msgstr "Flatpak"
 msgid ""
 "There is an QGIS flatpak for QGIS Stable available, maintained by the "
 "flathub community."
-msgstr ""
+msgstr "Este disponibil un QGIS flatpak pentru QGIS Stable, întreținut de comunitatea flathub."
 
 #: ../../source/site/forusers/alldownloads.rst:506
 msgid ""
 "For general Linux Flatpak install notes, see https://flatpak.org/setup/"
-msgstr ""
+msgstr "Pentru notele generale de instalare Linux Flatpak, consultați https://flatpak.org/setup/"
 
 #: ../../source/site/forusers/alldownloads.rst:508
 msgid "QGIS on Flathub: https://flathub.org/apps/details/org.qgis.qgis"
@@ -919,30 +919,30 @@ msgstr "Pentru instalare::"
 
 #: ../../source/site/forusers/alldownloads.rst:514
 msgid "Then to run::"
-msgstr ""
+msgstr "Apoi, tastați::"
 
 #: ../../source/site/forusers/alldownloads.rst:518
 msgid "To update your flatpak QGIS::"
-msgstr ""
+msgstr "Pentru a actualiza QGIS flatpak::"
 
 #: ../../source/site/forusers/alldownloads.rst:522
 msgid ""
 "On certain distributions, you may also need to install xdg-desktop-portal or"
 " xdg-desktop-portal-gtk packages in order for file dialogs to appear."
-msgstr ""
+msgstr "Pe anumite distribuții, poate fi necesar să instalați și pachetele xdg-desktop-portal sau xdg-desktop-portal-gtk pentru a apărea ferestrele de dialog ale fișierelor."
 
 #: ../../source/site/forusers/alldownloads.rst:524
 msgid ""
 "Flathub files: https://github.com/flathub/org.qgis.qgis and report issues "
 "here: https://github.com/flathub/org.qgis.qgis/issues"
-msgstr ""
+msgstr "Fișierele flathub: https://github.com/flathub/org.qgis.qgis și raportarea problemelor are loc aici: https://github.com/flathub/org.qgis.qgis/issues"
 
 #: ../../source/site/forusers/alldownloads.rst:526
 msgid ""
 "Note: if you need to install additional Python modules, because they are "
 "needed by a plugin, you can install the module with (here installing the "
 "scipy module)::"
-msgstr ""
+msgstr "Notă: dacă trebuie să instalați module Python suplimentare, atât timp cât acestea sunt necesare unui plugin, puteți instala modulul cu (modulul scipy de instalare)::"
 
 #: ../../source/site/forusers/alldownloads.rst:532
 msgid "Mac OS X / macOS"
@@ -953,13 +953,13 @@ msgid ""
 "Official All-in-one, signed installers for macOS High Sierra (10.13) and "
 "newer can be downloaded from the `QGIS download page "
 "<https://qgis.org/en/site/forusers/download.html>`_."
-msgstr ""
+msgstr "Programele de instalare oficiale All-in-one, semnate pentru macOS High Sierra (10.13) și mai noi, pot fi descărcate de pe `pagina de descărcare a QGIS  <https://qgis.org/en/site/forusers/download.html>`_."
 
 #: ../../source/site/forusers/alldownloads.rst:536
 msgid ""
 "Alternative builds supporting macOS High Sierra (10.13) and newer are "
 "available from `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_"
-msgstr ""
+msgstr "Sunt disponibile versiuni alternative care acceptă minim macOS High Sierra (10.13), la adresa `kyngchaos.com <https://www.kyngchaos.com/software/qgis/>`_"
 
 #: ../../source/site/forusers/alldownloads.rst:541
 msgid "QGIS nightly release"
@@ -969,7 +969,7 @@ msgstr ""
 msgid ""
 "A nightly updated standalone installer from QGIS master can be downloaded "
 "from `here <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_."
-msgstr ""
+msgstr "Un program de instalare independent, pentru QGIS master, actualizat în cursul nopții,  poate fi descărcat de `aici  <https://qgis.org/downloads/macos/qgis-macos-nightly.dmg>`_."
 
 #: ../../source/site/forusers/alldownloads.rst:545
 msgid "Old releases"
@@ -979,14 +979,14 @@ msgstr "Versiuni învechite"
 msgid ""
 "Previous releases of the official installer can be downloaded from "
 "https://qgis.org/downloads/macos/."
-msgstr ""
+msgstr "Versiunile anterioare ale programului de instalare oficial pot fi descărcate de la https://qgis.org/downloads/macos/."
 
 #: ../../source/site/forusers/alldownloads.rst:548
 msgid ""
 "Previous releases of the kyngchaos installer can be downloaded from "
 "https://www.kyngchaos.com/software/archive/. The oldest installers support "
 "macOS 10.4 Tiger."
-msgstr ""
+msgstr "Versiunile anterioare ale programului de instalare kyngchaos pot fi descărcate de la https://www.kyngchaos.com/software/archive/. Cele mai vechi programe de instalare acceptă macOS 10.4 Tiger."
 
 #: ../../source/site/forusers/alldownloads.rst:552
 msgid "FreeBSD"
@@ -1001,7 +1001,7 @@ msgstr "Pentru a instala QGIS din pachetele binare tastați ::"
 #: ../../source/site/forusers/alldownloads.rst:577
 msgid ""
 "Or to customize compilation options, you can build it from FreeBSD ports ::"
-msgstr ""
+msgstr "Sau pentru a personaliza opțiunile de compilare, îl puteți construi din portările FreeBSD ::"
 
 #: ../../source/site/forusers/alldownloads.rst:585
 msgid "Android"
@@ -1050,7 +1050,7 @@ msgstr "Instalarea de la sursă"
 msgid ""
 "Refer to INSTALL_ on how to build and install QGIS from source for the "
 "different platforms."
-msgstr ""
+msgstr "Consultați INSTALAREA_ pentru modul de compilare a sursei QGIS pe diverse platforme."
 
 #: ../../<rst_epilog>:2
 msgid "checkbox"

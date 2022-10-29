@@ -1406,6 +1406,12 @@ msgid ""
 "that users can manage field domains and create new tables in an existing "
 "ESRI FileGeodatabase database from the QGIS Browser interface."
 msgstr ""
+"Navigatorul QGIS acceptă de acum funcționalități mai avansate pentru bazele "
+"de date OGR care nu au formatul GPKG, inclusiv capabilități de gestionare a "
+"domeniilor câmpurilor (creare și listare de domenii) și crearea tabelelor. "
+"Aceasta înseamnă că, prin intermediul interfeței QGIS Browser, utilizatorii "
+"pot gestiona domeniile câmpurilor și pot crea noile tabele într-o bază de "
+"date ESRI FileGeodatabase existentă."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:489
 msgid "|image32|"

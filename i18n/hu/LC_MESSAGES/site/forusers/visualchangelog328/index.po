@@ -8,8 +8,8 @@
 # Róbert Aleksza <raleksza@gmail.com>, 2022
 # Jürgen E. Fischer <jef@norbit.de>, 2022
 # Zoltán Toldi <ifj.toldi.zoltan@gmail.com>, 2022
-# Báthory Péter <bathory86p@gmail.com>, 2022
 # Zoltan Siki <siki.zoltan@epito.bme.hu>, 2022
+# Báthory Péter <bathory86p@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -18,7 +18,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 18:06+0000\n"
 "PO-Revision-Date: 2022-10-25 16:09+0000\n"
-"Last-Translator: Zoltan Siki <siki.zoltan@epito.bme.hu>, 2022\n"
+"Last-Translator: Báthory Péter <bathory86p@gmail.com>, 2022\n"
 "Language-Team: Hungarian (https://www.transifex.com/qgis/teams/6144/hu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:4
 msgid "Changelog for QGIS 3.28"
-msgstr ""
+msgstr "A QGIS 3.28 verzió változásnaplója"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:6
 msgid "|image1|"
@@ -41,7 +41,7 @@ msgstr "image1"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:8
 msgid "Release date: 2022-10-21"
-msgstr ""
+msgstr "Megjelenés dátuma: 2022-10-21"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:10
 msgid ""
@@ -73,6 +73,8 @@ msgid ""
 "For a whirlwind tour of all the new functionalities introduced, you can view"
 " the highlight reel video on YouTube at https://youtu.be/IEkOhQezQMk"
 msgstr ""
+"A bevezetett új funkciók gyors bemutatását megtekintheti az alábbi, youtube-"
+"on elérhető videoklipben: https://youtu.be/IEkOhQezQMk"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:16
 msgid ""
@@ -83,6 +85,12 @@ msgid ""
 "allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
 "gyroscope;\" allowfullscreen></iframe></div>`"
 msgstr ""
+":raw-html:`<div style=\"position:relative;width:100%;height:0;padding-"
+"bottom:56.25%\"><iframe "
+"style=\"position:absolute;top:0;left:0;width:100%;height:100%\" "
+"src=\"https://www.youtube.com/embed/IEkOhQezQMk\" frameborder=\"0\" "
+"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
+"gyroscope;\" allowfullscreen></iframe></div>`"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:18
 msgid ""
@@ -113,6 +121,16 @@ msgid ""
 "fund bug-fixing efforts. A complete list of current sponsors is provided "
 "below - our very great thank you to all of our sponsors!"
 msgstr ""
+"A QGIS-t adományozók és pártoló tagok támogatják. Az adományozók aktuális "
+"listája, akik kisebb-nagyobb pénzbeli támogatást nyújtottak a projektnek, "
+"megtalálhatók az `adományozók listáján "
+"<https://www.qgis.org/hu/site/about/sustaining_members.html#list-of-"
+"donors>`__. Ha a projekt hivatalos pártoló tagjává szeretne válni, a "
+"tudnivalókért látogasson el a pártoló tagság oldalunkra. A QGIS szponzorálás"
+" segít a rendszeres fejlesztői találkozók, a projekt infrastruktúrájának "
+"üzemeltetése és a hibajavítási erőfeszítések finanszírozásában. A szponzorok"
+" aktuális teljes listáját lentebb közreadjuk – nagyon nagy köszönet az "
+"összes szponzorunknak!"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:22
 msgid ""
@@ -130,6 +148,11 @@ msgid ""
 "with spatial decision-making tools will result in a better society for all "
 "of humanity."
 msgstr ""
+"A QGIS szabad szoftver és semmi sem kötelezi arra, hogy fizessen "
+"használatáért. Valójában a QGIS használatára bátorítjuk az embereket, "
+"legyenek bárhol a világon, pénzügyi és társadalmi helyzettől függetlenül. "
+"Úgy hisszük azzal, hogy térbeli döntéstámogatási eszközöket adunk az emberek"
+" kezébe, annak jobb társadalom építő ereje van az egész emberiségre nézve."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:30
 msgid "Temporal"
@@ -211,7 +234,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:48
 msgid "Map Tools"
-msgstr "Térkép eszközök"
+msgstr "Térképeszközök"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:51
 msgid "Feature: Allow selecting features in vector tile layers"

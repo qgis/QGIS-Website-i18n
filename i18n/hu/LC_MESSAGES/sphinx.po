@@ -1058,7 +1058,7 @@ msgstr "Egy szabad és nyílt forráskódú térinformatikai rendszer"
 
 #: ../../themes/qgis-theme/index.html:33
 msgid "New release: 3.28!"
-msgstr ""
+msgstr "Új kiadás: 3.28!"
 
 #: ../../themes/qgis-theme/index.html:35
 msgid "Get the"
@@ -1130,7 +1130,7 @@ msgstr "Adományozzon most!"
 
 #: ../../themes/qgis-theme/index.html:100
 msgid "Project News"
-msgstr "Projekt hírek"
+msgstr "A projekt hírei"
 
 #: ../../themes/qgis-theme/index.html:106
 msgid "Latest Project Blog Posts (blog.qgis.org)"
@@ -1175,7 +1175,7 @@ msgstr "Következő QGIS felhasználói és fejlesztői találkozók"
 
 #: ../../themes/qgis-theme/index.html:182
 msgid "Latest Community Blog Posts"
-msgstr ""
+msgstr "Legfrissebb közösségi blogbejegyzések"
 
 #: ../../themes/qgis-theme/index.html:231
 msgid "See More Maps and Screenshots"

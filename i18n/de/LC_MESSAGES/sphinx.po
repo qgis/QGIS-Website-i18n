@@ -4,7 +4,7 @@
 # 
 # Translators:
 # Andre Kreller <andre.kreller@posteo.de>, 2021-2022
-# Call me Benny <geograph@protonmail.ch>, 2021
+# Furao Sentu <geograph@protonmail.ch>, 2021
 # Daniel Kastl, 2013
 # Jürgen E. Fischer <jef@norbit.de>, 2013
 # Jochen Huber, 2019

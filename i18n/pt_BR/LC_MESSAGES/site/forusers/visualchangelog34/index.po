@@ -13,6 +13,7 @@
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
 # Brenda de Andrade Feitosa <brenddandrad@gmail.com>, 2020
 # Aline Furlanetto Viero <afviero@gmail.com>, 2020
+# Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -21,7 +22,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 18:06+0000\n"
 "PO-Revision-Date: 2018-12-19 16:27+0000\n"
-"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2020\n"
+"Last-Translator: Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -122,7 +123,7 @@ msgstr "|imagem1|"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:1095
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:32
 msgid "General"
@@ -352,7 +353,7 @@ msgstr "imagem 3"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:105
 msgid "This feature was funded by `OPENGIS.ch <https://www.opengis.ch/>`__"
@@ -391,7 +392,7 @@ msgstr "imagem 4"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog34/index.rst:119
 msgid "This feature was funded by Leicestershire County Council"

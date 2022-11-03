@@ -36,7 +36,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:1924
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog214/index.rst:9
 msgid "Release date: 2016-02-26"

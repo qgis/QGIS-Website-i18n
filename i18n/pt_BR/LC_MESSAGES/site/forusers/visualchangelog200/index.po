@@ -55,7 +55,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:734
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:28
 msgid "Feature: Heatmap Plugin Improvements"
@@ -97,7 +97,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:736
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:50
 msgid "Feature: Processing Modeller"
@@ -119,7 +119,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:737
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog200/index.rst:62
 msgid "Application and Project Options"

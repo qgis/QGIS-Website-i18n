@@ -15,6 +15,7 @@
 # Aumir da Silva Viana <silvaaumir@gmail.com>, 2020
 # Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # Harrissou Sant-anna, 2021
+# Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -23,7 +24,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 18:06+0000\n"
 "PO-Revision-Date: 2020-07-09 10:52+0000\n"
-"Last-Translator: Harrissou Sant-anna, 2021\n"
+"Last-Translator: Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog314/index.rst:2416
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog314/index.rst:8
 msgid "Release date: 2020-06-19"
@@ -408,7 +409,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog314/index.rst:2420
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog314/index.rst:94
 msgid "|image4|"
@@ -416,7 +417,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog314/index.rst:2421
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog314/index.rst:96
 msgid "This feature was funded by ARPA Piemonte"

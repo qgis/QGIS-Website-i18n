@@ -19,6 +19,7 @@
 # Aline Furlanetto Viero <afviero@gmail.com>, 2020
 # Harrissou Sant-anna, 2021
 # Vanessa Stelzer, 2022
+# Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -27,7 +28,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 18:06+0000\n"
 "PO-Revision-Date: 2019-03-13 19:43+0000\n"
-"Last-Translator: Vanessa Stelzer, 2022\n"
+"Last-Translator: Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,7 +47,7 @@ msgstr "|imagem1|"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1511
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:9
 msgid "Release date: 2019-02-22"
@@ -369,7 +370,7 @@ msgstr "imagem 3"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1515
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:116
 #: ../../source/site/forusers/visualchangelog36/index.rst:476
@@ -557,7 +558,7 @@ msgstr "imagem 4"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:1517
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog36/index.rst:183
 msgid "Feature: Multiline selections and editing in code/expression editors"

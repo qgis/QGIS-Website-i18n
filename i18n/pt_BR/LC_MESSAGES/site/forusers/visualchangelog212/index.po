@@ -33,7 +33,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:1000
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:8
 msgid "Release date: 2015-10-23"
@@ -701,7 +701,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:1002
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:323
 msgid "Application and Project Options"
@@ -836,7 +836,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:1003
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog212/index.rst:388
 msgid "Browser"

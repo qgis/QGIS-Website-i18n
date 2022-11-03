@@ -141,7 +141,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:306
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:78
 msgid "Feature: Applying scale and offset to raster data"
@@ -180,7 +180,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:308
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:97
 msgid "Feature: Colour preview modes in composer and map canvas"
@@ -202,7 +202,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:309
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog240/index.rst:109
 msgid "Feature: QLR QGIS Layer files"

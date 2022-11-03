@@ -16,6 +16,7 @@
 # Narcélio de Sá Pereira Filho <narceliosapereira@gmail.com>, 2020
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2020
 # Aline Furlanetto Viero <afviero@gmail.com>, 2021
+# Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -24,7 +25,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 18:06+0000\n"
 "PO-Revision-Date: 2020-10-26 10:58+0000\n"
-"Last-Translator: Aline Furlanetto Viero <afviero@gmail.com>, 2021\n"
+"Last-Translator: Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,7 +44,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog316/index.rst:1641
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog316/index.rst:8
 msgid "Release date: 2020-10-23"
@@ -275,7 +276,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog316/index.rst:1645
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog316/index.rst:74
 #: ../../source/site/forusers/visualchangelog316/index.rst:387
@@ -312,7 +313,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog316/index.rst:1647
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog316/index.rst:86
 msgid ""

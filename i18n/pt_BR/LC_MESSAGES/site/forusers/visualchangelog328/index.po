@@ -15,6 +15,7 @@
 # Brenda de Andrade Feitosa <brenddandrad@gmail.com>, 2022
 # Dêmian Francisco Neto Castro Pereira <demian.castro.13@gmail.com>, 2022
 # Francisco Rodrigo Cunha de Sousa <rodrigofrcs@hotmail.com>, 2022
+# Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022
 # 
 #, fuzzy
 msgid ""
@@ -23,7 +24,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-31 18:06+0000\n"
 "PO-Revision-Date: 2022-10-25 16:09+0000\n"
-"Last-Translator: Francisco Rodrigo Cunha de Sousa <rodrigofrcs@hotmail.com>, 2022\n"
+"Last-Translator: Kyle Felipe Vieira Roberto <kylefelipe@gmail.com>, 2022\n"
 "Language-Team: Portuguese (Brazil) (https://www.transifex.com/qgis/teams/6144/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,11 +43,11 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:952
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:8
 msgid "Release date: 2022-10-21"
-msgstr ""
+msgstr "Data de lançamento: 21-10-2022"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:10
 msgid ""
@@ -57,6 +58,12 @@ msgid ""
 "as outlined in the `QGIS Roadmap "
 "<https://www.qgis.org/en/site/getinvolved/development/roadmap.html>`__."
 msgstr ""
+"QGIS 3.28 Frienze apresenta várias funções atualizadas. Modifiações na UX, "
+"melhorias na usabilitade, e melhorias na integração com vários serviços "
+"proprietários e backend de dados. Também está definido para introduzir os "
+"recursos há muito esperados fornecidos por versões anteriores na versão de "
+"suporte de longo prazo, conforme descrito no `QGIS Roadmap "
+"<https://www.qgis.org/en/site/getinvolved/development/roadmap.html>`__."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:12
 msgid ""
@@ -72,12 +79,25 @@ msgid ""
 "responding to political demonstrations throughout Florence, granted Tuscany "
 "its first constitution."
 msgstr ""
+"A tela inicial apresenta um mapa raro e extraordinário de 1847 de Firenze, "
+"ou Florença, Itália, de Giuseppe Molini. Este mapa magnificamente gravado "
+"foi originalmente desenhado em 1731 pelo arquiteto florentino Ferdinando "
+"Ruggieri. Orientado para o sul, o mapa cobre o antigo centro murado de "
+"Florença, que se estende em ambos os lados do rio Arno. O quadrante superior"
+" direito apresenta o símbolo do lírio de Florença. Embora impresso em 1847, "
+"este mapa foi preparado no estilo do século XVII por gravura em chapa de "
+"cobre em papel grosso. Firenze em 1847 estava à beira da transformação "
+"política. Um ano após a produção deste mapa raro, o Grão-Duque da Toscana, "
+"respondendo às manifestações políticas em Florença, concedeu à Toscana sua "
+"primeira constituição."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:14
 msgid ""
 "For a whirlwind tour of all the new functionalities introduced, you can view"
 " the highlight reel video on YouTube at https://youtu.be/IEkOhQezQMk"
 msgstr ""
+"Para um tour rápido de todas as novas funcionalidades introduzidas, você "
+"pode ver o vídeo de destaque no YouTube em https://youtu.be/IEkOhQezQMk"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:16
 msgid ""
@@ -88,6 +108,12 @@ msgid ""
 "allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
 "gyroscope;\" allowfullscreen></iframe></div>`"
 msgstr ""
+":raw-html:`<div style=\"position:relative;width:100%;height:0;padding-"
+"bottom:56.25%\"><iframe "
+"style=\"position:absolute;top:0;left:0;width:100%;height:100%\" "
+"src=\"https://www.youtube.com/embed/IEkOhQezQMk\" frameborder=\"0\" "
+"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
+"gyroscope;\" allowfullscreen></iframe></div>`"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:18
 msgid ""
@@ -98,6 +124,12 @@ msgid ""
 "money, or otherwise get involved in making QGIS more awesome, please wander "
 "along to `QGIS.ORG <https://qgis.org>`__ and lend a hand!"
 msgstr ""
+"Também gostaríamos de estender um grande agradecimento aos desenvolvedores, "
+"documentadores, testadores e muitas pessoas por aí que oferecem seu tempo e "
+"esforço (ou financiam pessoas para fazê-lo) para tornar esses lançamentos "
+"possíveis. Da comunidade QGIS, esperamos que você aproveite este lançamento!"
+" Se você deseja doar tempo, dinheiro ou se envolver em tornar o QGIS mais "
+"incrível, visite `QGIS.ORG <https://qgis.org>`__ and lend a hand!"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:20
 msgid ""
@@ -111,6 +143,16 @@ msgid ""
 "fund bug-fixing efforts. A complete list of current sponsors is provided "
 "below - our very great thank you to all of our sponsors!"
 msgstr ""
+"O QGIS é apoiado por doadores e membros mantenedores. Uma lista atual de "
+"doadores que fizeram contribuições financeiras grandes e pequenas para o "
+"projeto pode ser vista em nossa `lista de doadores "
+"<https://qgis.org/en/site/about/sustaining_members.html#list-of-donors>`__. "
+"Se você deseja se tornar um membro mantenedor oficial do projeto, visite "
+"nossa página de membro mantenedor para obter detalhes. Patrocinar o QGIS nos"
+" ajuda a financiar nossas reuniões regulares de desenvolvedores, manter a "
+"infraestrutura do projeto e financiar os esforços de correção de bugs. Uma "
+"lista completa dos patrocinadores atuais é fornecida abaixo - nosso muito "
+"obrigado a todos os nossos patrocinadores!"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:22
 msgid ""
@@ -128,6 +170,11 @@ msgid ""
 "with spatial decision-making tools will result in a better society for all "
 "of humanity."
 msgstr ""
+"O QGIS é um software livre e você não tem obrigação de pagar nada para usá-"
+"lo - na verdade, queremos incentivar as pessoas em todo o mundo a usá-lo, "
+"independentemente de seu status financeiro ou social - acreditamos que "
+"capacitar as pessoas com ferramentas de tomada de decisão espacial resultará"
+" em uma sociedade melhor para toda a humanidade."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:30
 msgid "Temporal"
@@ -137,6 +184,8 @@ msgstr "Temporal"
 msgid ""
 "Feature: Add temporal manager support for WMTS layers with TIME dimension"
 msgstr ""
+"Função: Adiciona suporte a gerenciador temporal para camadas WMTS com a "
+"dimensão TIME"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:35
 msgid ""
@@ -144,6 +193,9 @@ msgid ""
 "temporal framework, including allowing these layers to be animated and "
 "controlled via the temporal controller."
 msgstr ""
+"Esse aprimoramento expõe todas as dimensões de \"tempo\" do WMTS para uso na"
+" estrutura temporal, inclusive permitindo que essas camadas sejam animadas e"
+" controladas por meio do controlador temporal."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:37
 msgid ""
@@ -154,6 +206,13 @@ msgid ""
 "these layers are indicated with a new \"time capable raster layer\" icon, "
 "and are added to a project without the user specifying a time value."
 msgstr ""
+" Quando detectamos uma dimensão de tempo em uma camada WMTS, não a expomos "
+"mais da mesma forma que outras dimensões não temporais. O painel do "
+"navegador não mostra os valores de dimensão e adicionar a camada por meio do"
+" Data Source Manager não solicita mais que o usuário escolha entre os "
+"valores de tempo disponíveis. Em vez disso, essas camadas são indicadas com "
+"um novo ícone \"camada raster com capacidade de tempo\" e são adicionadas a "
+"um projeto sem que o usuário especifique um valor de tempo."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:39
 msgid ""
@@ -165,12 +224,23 @@ msgid ""
 "Temporal Control\" and picking a specific available time range from the "
 "\"Predefined date\" option."
 msgstr ""
+"Assim como uma camada WMS(T), quando uma camada WMTS habilitada para "
+"dimensão de tempo é adicionada ao projeto, ela assumirá o modo temporal "
+"\"automático\", o que significa que a camada seguirá o intervalo de tempo "
+"atual do controlador temporal por padrão. Um usuário pode então optar por "
+"mostrar um valor de tempo estático específico para a camada através da "
+"página de propriedades Temporais da camada, desmarcando \"Controle Temporal "
+"Dinâmico\" e escolhendo um intervalo de tempo específico disponível na opção"
+" \"Data predefinida\"."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:41
 msgid ""
 "This should unify the user experience so that the usage of WMTS time-enabled"
 " layers is essentially identical to the usage of WMS(T) layers."
 msgstr ""
+"Isso deve unificar a experiência do usuário para que o uso de camadas "
+"habilitadas para tempo WMTS seja essencialmente idêntico ao uso de camadas "
+"WMS(T)."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:43
 msgid "|image3|"
@@ -178,7 +248,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:954
 msgid "image3"
-msgstr ""
+msgstr "Imagem3"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:45
 #: ../../source/site/forusers/visualchangelog328/index.rst:66
@@ -204,6 +274,8 @@ msgid ""
 "This feature was developed by `Nyall Dawson "
 "<https://github.com/nyalldawson>`__"
 msgstr ""
+"Essa função foi desenvolvida por `Nyall Dawson "
+"<https://github.com/nyalldawson>`__"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:48
 msgid "Map Tools"
@@ -211,7 +283,7 @@ msgstr "Ferramentas de mapa"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:51
 msgid "Feature: Allow selecting features in vector tile layers"
-msgstr ""
+msgstr "Função: Permite seleção em feições tile layers vetoriais"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:53
 msgid ""
@@ -219,22 +291,31 @@ msgid ""
 " allows users to use the standard map-based selection tools to interactively"
 " select features from these sources."
 msgstr ""
+"Foi adicionado suporte para selecionar feições de camadas de mosaicos "
+"vetoriais, o que permite que os usuários usem as ferramentas de seleção "
+"padrão baseadas em mapa para selecionar interativamente feições dessas "
+"fontes."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:55
 msgid "When a vector tile layer has a selection, a user can:"
 msgstr ""
+"Quanto uma camada vetorial tile layer tem uma seleção, o usuário pode:"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:57
 msgid ""
 "Copy the features and paste them to other layers, or paste them into a "
 "scratch layer"
 msgstr ""
+"Copiar as feições e colar elas em outras camadas, ou colar elas em uma "
+"camada de rascunho"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:58
 msgid ""
 "Use other (non-editing) tools which operate on selections, such as \"zoom to"
 " selected features\"/\"pan to selected features\""
 msgstr ""
+"Utilizar outras ferramentas (não editoras) que operam com seleções, como "
+"\"aproximar à feições selecionadas\"/\"Mover para feições selecionadas\""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:60
 msgid ""
@@ -243,6 +324,10 @@ msgid ""
 "shortcuts which apply to vector selections for "
 "adding/subtracting/intersecting selections also apply."
 msgstr ""
+"As seleções podem ser feitas usando qualquer uma das ferramentas de seleção "
+"baseadas em mapas interativos, por exemplo. selecione por retângulo, à mão "
+"livre, polígono ou raio. Todos os atalhos que se aplicam às seleções de "
+"vetor para adicionar/subtrair/interseccionar seleções também se aplicam."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:62
 msgid ""
@@ -262,7 +347,7 @@ msgstr ""
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:69
 msgid "User Interface"
-msgstr "uso interface"
+msgstr "Interfaçe de usuário"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:72
 msgid "Feature: Exclusive window based UX for data source manager"
@@ -288,7 +373,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:956
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:83
 msgid ""

@@ -128,7 +128,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:453
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:71
 msgid "Data Providers"
@@ -171,7 +171,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:455
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:95
 msgid "Feature: Paste as new vector layer"
@@ -197,7 +197,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:456
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog220/index.rst:111
 msgid "Feature: WMS legend graphic in table of contents and composer"

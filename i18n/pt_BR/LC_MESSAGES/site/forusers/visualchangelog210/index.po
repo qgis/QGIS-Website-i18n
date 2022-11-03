@@ -420,7 +420,7 @@ msgstr "|image1|"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:637
 msgid "image1"
-msgstr ""
+msgstr "imagem1"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:213
 msgid "Feature: Use logarithmic functions in the raster calculator"
@@ -481,7 +481,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:639
 msgid "image3"
-msgstr ""
+msgstr "Imagem2"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:242
 msgid "Browser"
@@ -507,7 +507,7 @@ msgstr "|image4|"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:640
 msgid "image4"
-msgstr ""
+msgstr "imagem4"
 
 #: ../../source/site/forusers/visualchangelog210/index.rst:258
 msgid "Feature: New browser icon"

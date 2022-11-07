@@ -12,21 +12,21 @@
 # VxTedxV <viple.ted@gmx.fr>, 2022
 # b31994bd26b04612946259081d1c915e_a9dfd7a <d72ed20533cb6a25d79c85f870072e7e_873411>, 2022
 # Etienne MORO <em@sigmoe.fr>, 2022
-# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022
 # Francis Gasc <francisgasc@gmail.com>, 2022
 # fiuzzy <fiuzzy1@gmail.com>, 2022
 # Harrissou Sant-anna, 2022
 # MarieSilvestre, 2022
 # Mehdi SEMCHAOUI, 2022
+# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-05 20:48+0000\n"
+"POT-Creation-Date: 2022-11-06 17:40+0000\n"
 "PO-Revision-Date: 2022-10-25 16:09+0000\n"
-"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
+"Last-Translator: Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -113,6 +113,12 @@ msgid ""
 "allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
 "gyroscope;\" allowfullscreen></iframe></div>`"
 msgstr ""
+":raw-html:`<div style=\"position:relative;width:100%;height:0;padding-"
+"bottom:56.25%\"><iframe "
+"style=\"position:absolute;top:0;left:0;width:100%;height:100%\" "
+"src=\"https://www.youtube.com/embed/IEkOhQezQMk\" frameborder=\"0\" "
+"allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; "
+"gyroscope;\" allowfullscreen></iframe></div>`"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:18
 msgid ""
@@ -186,6 +192,8 @@ msgstr "Temporel"
 msgid ""
 "Feature: Add temporal manager support for WMTS layers with TIME dimension"
 msgstr ""
+"Fonctionnalité : Ajout du support du gestionnaire temporel pour les couches "
+"WMTS avec la dimension TIME"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:35
 msgid ""
@@ -193,6 +201,9 @@ msgid ""
 "temporal framework, including allowing these layers to be animated and "
 "controlled via the temporal controller."
 msgstr ""
+"Cette amélioration expose toutes les dimensions \"temps\" de WMTS pour une "
+"utilisation dans le cadre temporel, y compris la possibilité d'animer et de "
+"contrôler ces couches via le contrôleur temporel."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:37
 msgid ""
@@ -203,6 +214,14 @@ msgid ""
 "these layers are indicated with a new \"time capable raster layer\" icon, "
 "and are added to a project without the user specifying a time value."
 msgstr ""
+"Lorsque nous détectons une dimension temporelle sur une couche WMTS, nous ne"
+" l'exposons plus de la même manière que les autres dimensions non "
+"temporelles. Le panneau du navigateur n'affiche pas les valeurs de la "
+"dimension, et l'ajout de la couche via le gestionnaire de sources de données"
+" n'invite plus l'utilisateur à choisir parmi les valeurs temporelles "
+"disponibles. Au lieu de cela, ces couches sont indiquées par une nouvelle "
+"icône \"Time capable raster layer\", et sont ajoutées à un projet sans que "
+"l'utilisateur ne spécifie une valeur temporelle."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:39
 msgid ""
@@ -214,12 +233,23 @@ msgid ""
 "Temporal Control\" and picking a specific available time range from the "
 "\"Predefined date\" option."
 msgstr ""
+"Tout comme une couche WMS(T), lorsqu'une couche WMTS \"activée par la "
+"dimension temporelle\" est ajoutée au projet, elle sera par défaut en mode "
+"temporel \"automatique\", ce qui signifie que la couche suivra par défaut la"
+" plage de temps actuelle du contrôleur temporel. L'utilisateur peut alors "
+"choisir d'afficher une valeur temporelle statique spécifique pour la couche "
+"via la page des propriétés temporelles de la couche, en décochant \"Dynamic "
+"Temporal Control\" et en choisissant une plage temporelle spécifique "
+"disponible dans l'option \"Predefined date\"."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:41
 msgid ""
 "This should unify the user experience so that the usage of WMTS time-enabled"
 " layers is essentially identical to the usage of WMS(T) layers."
 msgstr ""
+"Cela devrait unifier l'expérience de l'utilisateur de sorte que "
+"l'utilisation des couches temporelles WMTS soit essentiellement identique à "
+"l'utilisation des couches WMS(T)."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:43
 msgid "|image3|"
@@ -227,7 +257,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:954
 msgid "image3"
-msgstr ""
+msgstr "image3"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:45
 #: ../../source/site/forusers/visualchangelog328/index.rst:66
@@ -263,6 +293,8 @@ msgstr "Outils cartographiques"
 #: ../../source/site/forusers/visualchangelog328/index.rst:51
 msgid "Feature: Allow selecting features in vector tile layers"
 msgstr ""
+"Fonctionnalité : Permettre la sélection des entités dans les couches de "
+"tuiles vectorielles"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:53
 msgid ""
@@ -270,22 +302,33 @@ msgid ""
 " allows users to use the standard map-based selection tools to interactively"
 " select features from these sources."
 msgstr ""
+"La prise en charge de la sélection des entités à partir de couches de tuiles"
+" vectorielles a été ajoutée, ce qui permet aux utilisateurs d'utiliser les "
+"outils de sélection standard basés sur la carte pour sélectionner de manière"
+" interactive des entités à partir de ces sources."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:55
 msgid "When a vector tile layer has a selection, a user can:"
 msgstr ""
+"Lorsqu'une couche de tuiles vectorielles a une sélection, un utilisateur "
+"peut :"
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:57
 msgid ""
 "Copy the features and paste them to other layers, or paste them into a "
 "scratch layer"
 msgstr ""
+"Copiez les entités et les collez sur d'autres couches, ou les collez dans "
+"une couche temporaire."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:58
 msgid ""
 "Use other (non-editing) tools which operate on selections, such as \"zoom to"
 " selected features\"/\"pan to selected features\""
 msgstr ""
+"Utilisez d'autres outils (non liés à l'édition) qui opèrent sur les "
+"sélections, tels que \"zoom sur les éléments sélectionnés\"/\"panoramique "
+"sur les éléments sélectionnés\"."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:60
 msgid ""
@@ -294,6 +337,11 @@ msgid ""
 "shortcuts which apply to vector selections for "
 "adding/subtracting/intersecting selections also apply."
 msgstr ""
+"Les sélections peuvent être effectuées à l'aide de n'importe quel outil de "
+"sélection interactif basé sur la carte, par exemple la sélection par "
+"rectangle, à main levée, par polygone ou par rayon. Tous les raccourcis qui "
+"s'appliquent aux sélections vectorielles pour ajouter/soustraire/intersecter"
+" des sélections s'appliquent également."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:62
 msgid ""
@@ -303,6 +351,12 @@ msgid ""
 "in and select a small/ detailed feature, then zoom out and still see the "
 "selected feature on the map."
 msgstr ""
+"La sélection des éléments se fait en utilisant le niveau de zoom des tuiles "
+"du canevas, et les éléments sélectionnés à ce niveau de zoom persistent même"
+" si l'utilisateur change l'échelle de la carte pour un autre niveau de zoom "
+"des tuiles vectorielles. Cela signifie qu'un utilisateur peut faire un zoom "
+"avant et sélectionner une entité petite ou détaillée, puis faire un zoom "
+"arrière et toujours voir l'entité sélectionnée sur la carte."
 
 #: ../../source/site/forusers/visualchangelog328/index.rst:64
 #: ../../source/site/forusers/visualchangelog328/index.rst:444

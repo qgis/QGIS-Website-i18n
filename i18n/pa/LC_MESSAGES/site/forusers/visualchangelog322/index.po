@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the QGIS package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 # 
+# Translators:
+# bgo_eiu, 2022
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-05 20:48+0000\n"
+"POT-Creation-Date: 2022-11-06 17:40+0000\n"
 "PO-Revision-Date: 2021-11-03 19:23+0000\n"
+"Last-Translator: bgo_eiu, 2022\n"
 "Language-Team: Panjabi (Punjabi) (https://www.transifex.com/qgis/teams/6144/pa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2587,7 +2591,7 @@ msgstr ""
 #: ../../source/site/forusers/visualchangelog322/index.rst:1100
 #: ../../source/site/forusers/visualchangelog322/index.rst:1112
 msgid "No"
-msgstr ""
+msgstr "نہیں"
 
 #: ../../source/site/forusers/visualchangelog322/index.rst:1037
 msgid ""

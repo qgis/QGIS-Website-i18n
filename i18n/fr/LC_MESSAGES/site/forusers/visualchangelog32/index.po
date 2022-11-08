@@ -17,15 +17,16 @@
 # Harrissou Sant-anna, 2022
 # Régis Haubourg <regis.haubourg@gmail.com>, 2022
 # Mehdi SEMCHAOUI, 2022
+# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-06 17:40+0000\n"
+"POT-Creation-Date: 2022-11-08 08:15+0000\n"
 "PO-Revision-Date: 2018-07-11 16:48+0000\n"
-"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
+"Last-Translator: Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -361,7 +362,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:884
 msgid "image3"
-msgstr ""
+msgstr "image3"
 
 #: ../../source/site/forusers/visualchangelog32/index.rst:104
 #: ../../source/site/forusers/visualchangelog32/index.rst:207

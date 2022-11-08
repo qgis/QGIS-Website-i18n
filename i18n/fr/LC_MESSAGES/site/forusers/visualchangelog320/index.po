@@ -11,21 +11,21 @@
 # Marc-André Saia <masaia@cmm.qc.ca>, 2021
 # VxTedxV <viple.ted@gmx.fr>, 2021
 # Francis Gasc <francisgasc@gmail.com>, 2021
-# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2021
 # Thomas_M <thomas.michel@idgeo.fr>, 2021
 # b31994bd26b04612946259081d1c915e_a9dfd7a <d72ed20533cb6a25d79c85f870072e7e_873411>, 2022
 # Harrissou Sant-anna, 2022
 # Morreale Jean-Roc <jr.morreale@enoreth.net>, 2022
 # Mehdi SEMCHAOUI, 2022
+# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-06 17:40+0000\n"
+"POT-Creation-Date: 2022-11-07 21:24+0000\n"
 "PO-Revision-Date: 2021-07-19 17:41+0000\n"
-"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
+"Last-Translator: Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -300,7 +300,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:1196
 msgid "image3"
-msgstr ""
+msgstr "image3"
 
 #: ../../source/site/forusers/visualchangelog320/index.rst:52
 msgid ""

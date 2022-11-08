@@ -6,22 +6,22 @@
 # Translators:
 # DanBing <daniel.binggeli@pully.ch>, 2019
 # Francis Gasc <francisgasc@gmail.com>, 2019
-# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2020
 # Arnaud Poncet-Montanges, 2020
 # Jürgen E. Fischer <jef@norbit.de>, 2020
 # Vincent Bré <vincent.bre@outlook.fr>, 2020
 # MarieSilvestre, 2020
 # Harrissou Sant-anna, 2022
 # Mehdi SEMCHAOUI, 2022
+# Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: QGIS 3.28\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-06 17:40+0000\n"
+"POT-Creation-Date: 2022-11-07 21:24+0000\n"
 "PO-Revision-Date: 2019-11-02 11:50+0000\n"
-"Last-Translator: Mehdi SEMCHAOUI, 2022\n"
+"Last-Translator: Michel Zevort <michel.zevort@developpement-durable.gouv.fr>, 2022\n"
 "Language-Team: French (https://www.transifex.com/qgis/teams/6144/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -249,7 +249,7 @@ msgstr "|image3|"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:1350
 msgid "image3"
-msgstr ""
+msgstr "image3"
 
 #: ../../source/site/forusers/visualchangelog310/index.rst:51
 #: ../../source/site/forusers/visualchangelog310/index.rst:137

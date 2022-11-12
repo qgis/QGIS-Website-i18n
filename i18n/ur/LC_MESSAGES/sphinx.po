@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-11 07:19+0000\n"
+"POT-Creation-Date: 2022-11-12 05:07+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Urdu (http://www.transifex.com/qgis/qgis-website/language/ur/)\n"
@@ -461,8 +461,8 @@ msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:60
 msgid ""
-"QGIS requires Windows 8 64 bit or higher because QGIS uses Python 3.9 or "
-"later, which is not available for Windows 7."
+"Starting from 3.20, QGIS requires Windows 8 64 bit or higher because QGIS "
+"uses Python 3.9 or later, which is not available for Windows 7."
 msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:69

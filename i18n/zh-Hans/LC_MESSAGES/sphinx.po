@@ -17,7 +17,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-11 07:19+0000\n"
+"POT-Creation-Date: 2022-11-12 05:07+0000\n"
 "PO-Revision-Date: 2013-09-17 13:27+0000\n"
 "Last-Translator: 徐保才 <1302638819@qq.com>, 2021-2022\n"
 "Language-Team: Chinese Simplified (http://www.transifex.com/qgis/qgis-website/language/zh-Hans/)\n"
@@ -471,9 +471,9 @@ msgstr "建议普通用户或组织部署使用OSGeo4W安装程序。<em>它允�
 
 #: ../../themes/qgis-theme/forusers_download.html:60
 msgid ""
-"QGIS requires Windows 8 64 bit or higher because QGIS uses Python 3.9 or "
-"later, which is not available for Windows 7."
-msgstr "QGIS 需要在 Windows 8 64 位或更高版本下运行，这是因为 QGIS 使用的是 Python 3.9 或更高的版本，而 Windows 7 已不可用。"
+"Starting from 3.20, QGIS requires Windows 8 64 bit or higher because QGIS "
+"uses Python 3.9 or later, which is not available for Windows 7."
+msgstr ""
 
 #: ../../themes/qgis-theme/forusers_download.html:69
 msgid "Download for macOS"

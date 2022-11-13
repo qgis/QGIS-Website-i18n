@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Website\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-12 05:07+0000\n"
+"POT-Creation-Date: 2022-11-13 03:52+0000\n"
 "PO-Revision-Date: 2013-09-17 13:24+0000\n"
 "Last-Translator: Sorin Călinică <scalinica@gmail.com>, 2013-2022\n"
 "Language-Team: Romanian (http://www.transifex.com/qgis/qgis-website/language/ro/)\n"
@@ -172,19 +172,19 @@ msgstr "Pașii sunt:"
 msgid ""
 "Download `OSGeo4W Installer "
 "<https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe>`_ and start it"
-msgstr "Descărcați kitul `OSGeo4W <https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe>`_ apoi rulați-l"
+msgstr "Descărcare kit `OSGeo4W <https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe>`_ urmat de lansare în execuție"
 
 #: ../../source/site/forusers/alldownloads.rst:71
 msgid ""
 "Choose *Express Install* and select *QGIS* to install the *latest release* "
 "and/or *QGIS LTR* to install the *long term release*."
-msgstr "Alegeți *Instalare Expres*, apoi selectați *QGIS* pentru a instala *cea mai nouă versiune* și/sau *QGIS LTR* pentru a instala *ediția cu suport pe termen lung*."
+msgstr "Alegere *Instalare Expres*, apoi selectare *QGIS* pentru *cea mai nouă versiune* și/sau *QGIS LTR* pentru *ediția cu suport pe termen lung*."
 
 #: ../../source/site/forusers/alldownloads.rst:74
 msgid ""
 "Alternatively to *Express* you also use the *Advanced Install*, navigate to "
 "the *Desktop* section and pick one or more of the following packages:"
-msgstr "Alternativa la *Express* o reprezintă *Instalarea avansată*, care este disponibilă în secțiunea *Desktop* și permite alegerea unuia sau mai multora din următoarele pachete:"
+msgstr "Alternativa la *Expres* o reprezintă *Instalarea avansată*, care este disponibilă în secțiunea *Desktop* și permite alegerea unuia sau mai multora din următoarele pachete:"
 
 #: ../../source/site/forusers/alldownloads.rst:78
 #: ../../source/site/forusers/alldownloads.rst:217
@@ -235,7 +235,7 @@ msgid ""
 "optional dependencies that some popular - not included - plugins use and the"
 " latter include the former and also add proprietary extensions like Oracle, "
 "ECW and MrSID."
-msgstr "Versiunile enumerate în tabel instalează doar pachetele necesare rulării QGIS. Corespunzător acestor pachete există și pachete meta cu postfixul ``-full-free`` și ``-full``. Primul conține dependențe suplimentare opționale, utilizate de unele plugin-uri populare, iar cel din urmă le includ pe primele, și adăugându-le extensii proprietare precum Oracle, ECW și MrSID."
+msgstr "Versiunile enumerate în tabel instalează doar pachetele necesare rulării QGIS. Corespunzător acestor pachete există și pachete meta cu postfixul ``-full-free`` și ``-full``. Primul conține dependențe suplimentare opționale, utilizate de unele plugin-uri populare, iar cel din urmă le include pe primele, cărora la adaugă extensii proprietare precum Oracle, ECW și MrSID."
 
 #: ../../source/site/forusers/alldownloads.rst:100
 msgid ""
@@ -282,19 +282,19 @@ msgid ""
 "supported as the repositories also contain older **unsupported** "
 "distributions with the last QGIS version that was supported. Beware that "
 "those might have meanwhile ceased to work."
-msgstr "În secțiunea următoare, veți găsi TOATE opțiunile de instalare a diverselor versiuni de QGIS pe mai multe versiuni de Debian/Ubuntu. Dacă aveți probleme, verificați dacă distribuția dvs. este încă acceptată, întrucât depozitele conțin și distribuții mai vechi, **fără suport**, dar care acceptau anterior anumite versiuni de QGIS. Rețineți că acestea ar putea ca, între timp, să nu mai funcționeze."
+msgstr "În secțiunea următoare, veți găsi TOATE opțiunile de instalare ale diverselor versiuni de QGIS pe mai multe variante de Debian/Ubuntu. Dacă aveți probleme, verificați dacă distribuția dvs. este încă acceptată, întrucât depozitele conțin și distribuții mai vechi, **fără suport**, dar care acceptau anterior anumite versiuni de QGIS. Rețineți că acestea ar putea ca, între timp, să nu mai funcționeze."
 
 #: ../../source/site/forusers/alldownloads.rst:132
 msgid ""
 "Here you will simply install the latest stable QGIS (|version|.x |codename|)"
 " in your Debian or Ubuntu without having to edit config files."
-msgstr "În această secțiune veți instala cea mai recentă versiune stabilă de QGIS (|version|.x |codename|)  în Debian sau Ubuntu fără a fi nevoie să editați fișierele de configurare."
+msgstr "În această secțiune veți instala cea mai recentă versiune stabilă de QGIS (|version|.x |codename|)  în Debian sau Ubuntu, fără a fi nevoie să editați fișierele de configurare."
 
 #: ../../source/site/forusers/alldownloads.rst:135
 msgid ""
 "Although you see 'Debian' in some places, this also works for 'Ubuntu', as "
 "one is actually a symlink to the other on our server."
-msgstr "Deși vedeți „Debian” în unele instrucțiuni, acesta funcționează și pentru „Ubuntu”."
+msgstr "Deși vedeți „Debian” în unele instrucțiuni, acestea funcționează și pentru „Ubuntu”."
 
 #: ../../source/site/forusers/alldownloads.rst:138
 msgid "First install some tools you will need for this instructions::"
@@ -304,19 +304,19 @@ msgstr "Mai întâi instalați câteva instrumente necesare::"
 msgid ""
 "Now install the QGIS Signing Key, so QGIS software from the QGIS repo will "
 "be trusted and installed::"
-msgstr "Acum instalați QGIS Signing Key, pentru ca softul din depozitul QGIS să fie de încredere și să se poată instala::"
+msgstr "Apoi instalați QGIS Signing Key, pentru ca softul din depozitul QGIS să fie de încredere și să se poată instala::"
 
 #: ../../source/site/forusers/alldownloads.rst:148
 msgid ""
 "Add the QGIS repo for the latest stable QGIS (|version|.x |codename|) to "
 "``/etc/apt/sources.list.d/qgis.sources``::"
-msgstr "Adăugare depozit QGIS pentru cel mai recent QGIS stabil  (|version|.x |codename|) în ``/etc/apt/sources.list.d/qgis.sources``::"
+msgstr "Adăugați depozitul QGIS pentru cel mai recent QGIS stabil  (|version|.x |codename|) în ``/etc/apt/sources.list.d/qgis.sources``::"
 
 #: ../../source/site/forusers/alldownloads.rst:157
 msgid ""
 "``Suites`` in above lines depends on your distribution. ``lsb_release -cs`` "
 "will show your distribution name."
-msgstr "``Rezultatele`` din rândurile de mai sus depind de distribuția dvs. ``lsb_release -cs`` va afișa numele distribuției dvs."
+msgstr "``Rezultatele`` din rândurile de mai sus depind de distribuția dvs. ``lsb_release -cs`` va afișa numele distribuției."
 
 #: ../../source/site/forusers/alldownloads.rst:159
 msgid ""
@@ -326,21 +326,21 @@ msgstr "În unele distribuții (cum ar fi Linux Mint), ``. /etc/os-release; echo
 
 #: ../../source/site/forusers/alldownloads.rst:161
 msgid "See `Available codenames`_."
-msgstr "Vedeți `Numele de cod disponibile`_."
+msgstr "Parcurgeți `Numele de cod disponibile`_."
 
 #: ../../source/site/forusers/alldownloads.rst:163
 msgid ""
 "Update your repository information to reflect also the just added QGIS one::"
-msgstr "Actualizați informațiile despre depozitele dvs. pentru a-l reflecta și pe cel de QGIS, recent adăugat::"
+msgstr "Actualizați informațiile depozitelor dvs. pentru a-l reflecta și pe cel de QGIS, nou adăugat::"
 
 #: ../../source/site/forusers/alldownloads.rst:167
 msgid "Now, install QGIS::"
-msgstr "Acum, instalați QGIS::"
+msgstr "La final, instalați QGIS::"
 
 #: ../../source/site/forusers/alldownloads.rst:171
 msgid ""
 "Add ``qgis-server`` to this line if you also want to install QGIS Server"
-msgstr ""
+msgstr "Adăugați ``qgis-server`` liniei dacă doriți să instalați și QGIS Server"
 
 #: ../../source/site/forusers/alldownloads.rst:175
 msgid "Repositories"
@@ -357,14 +357,14 @@ msgid ""
 "To have newer versions, you have to add alternative software repositories, "
 "by adding one of the deb-lines below to your "
 "``/etc/apt/sources.list.d/qgis.sources`` file."
-msgstr "Pentru a obține versiunile noi, trebuie să apelați la depozite software alternative, prin adăugarea uneia din liniile-deb de mai jos, în fișierul ``/etc/apt/sources.list.d/qgis.sources``."
+msgstr "Pentru a obține versiunile noi, apelați la depozitele software alternative, adăugând una dintre liniile-deb de mai jos în fișierul ``/etc/apt/sources.list.d/qgis.sources``."
 
 #: ../../source/site/forusers/alldownloads.rst:183
 msgid ""
 "Our main repository contains multiple lines of packages for several versions"
 " of **Debian and Ubuntu** based on the dependencies the individual "
 "distributions provide."
-msgstr "Depozitul nostru principal conține multiple linii către diverse versiuni de **Debian și Ubuntu**, în funcție de dependențele existente în distribuțiile individuale."
+msgstr "Depozitul nostru principal conține multiple linii pentru diverse variante de **Debian și Ubuntu**, în funcție de dependențele existente în distribuțiile individuale."
 
 #: ../../source/site/forusers/alldownloads.rst:187
 msgid ""
@@ -384,7 +384,7 @@ msgid ""
 "later be broken for these targets, when the development in debian, ubuntu or"
 " ubuntugis-unstable moves on and their packages used as dependencies in qgis"
 " change.  In that event you can either"
-msgstr "Pachetele sunt generate la scurt timp după lansarea unei noi versiuni. Fiind instabile, versiunile nedefinitive (de testare) de debian și ubuntugis-unstable pot suferi modificări care le pot afecta funcționalitatea, pe măsură ce dezvoltarea debian, ubuntu sau ubuntugis evoluează, sau când le se schimbă pachetele, utilizate ca dependențe în qgis. În acest caz, aveți posibilitatea"
+msgstr "Pachetele sunt generate la scurt timp după lansarea unei noi versiuni. Fiind instabile, versiunile nedefinitive (de testare) de debian și ubuntugis-unstable pot suferi modificări care le pot afecta funcționalitatea, pe măsură ce dezvoltarea debian, ubuntu sau ubuntugis evoluează sau când le se schimbă pachetele utilizate ca dependențe în qgis. În acest caz, aveți posibilitatea"
 
 #: ../../source/site/forusers/alldownloads.rst:202
 msgid "move to a stable debian version and use the released packages for it,"
@@ -623,7 +623,7 @@ msgstr "Alternativ, puteți descărca direct cheia, fără verificare manuală::
 msgid ""
 "With the keyring in place you can add the repository as "
 "``/etc/apt/sources.list.d/qgis.sources`` with following content::"
-msgstr "Folosind inelul de chei puteți adăuga depozitul ca ``/etc/apt/sources.list.d/qgis.sources`` cu următorul conținut::"
+msgstr "Folosind inelul de chei puteți adăuga depozitul în fișierul ``/etc/apt/sources.list.d/qgis.sources``, conținutul acestuia fiind următorul::"
 
 #: ../../source/site/forusers/alldownloads.rst:322
 msgid "Example for the latest long term release for Ubuntu 22.04 Jammy::"
@@ -1040,7 +1040,7 @@ msgid ""
 " been introduced.  Although we carefully try to avoid breakages, it may at "
 "any given time not work, or may do bad things to your data. Take care. You "
 "have been warned!"
-msgstr "Versiunile de testare QGIS sunt elaborate pentru câteva platforme în plus față de versiunea QGIS stabilă. QGIS de testare conține software nelansat oficial, la care încă mai e de lucru. Aceste versiuni sunt furnizate numai în scop de testare timpurie, pentru a se verifica dacă problemele au fost rezolvate și dacă nu au fost introduse noi erori. Deși lucrăm cu atenție, în orice moment ele ar putea să nu mai funcționeze sau chiar să afecteze într-un mod nedorit datele dumneavoastră. Acționați cu prudență. Vi s-a adus la cunoștință!"
+msgstr "Versiunile de testare QGIS sunt elaborate pentru câteva platforme în plus față de versiunea QGIS stabilă. QGIS de testare conține software nelansat oficial, la care încă mai e de lucru. Aceste versiuni sunt furnizate numai în scop de testare timpurie, pentru a se verifica dacă problemele au fost rezolvate și dacă nu au fost introduse noi erori. Deși lucrăm cu atenție, în orice moment ele ar putea să nu mai funcționeze sau chiar să afecteze într-un mod nedorit datele dumneavoastră. Acționați cu prudență. V-am avertizat!"
 
 #: ../../source/site/forusers/alldownloads.rst:617
 msgid "Installing from Source"

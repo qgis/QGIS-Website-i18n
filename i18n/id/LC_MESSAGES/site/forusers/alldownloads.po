@@ -32,7 +32,7 @@ msgstr "Bagaimana cara mendapatkan QGIS?"
 
 #: ../../source/site/forusers/alldownloads.rst:11
 msgid "QGIS is available on Windows, macOS, Linux, Android and iOS."
-msgstr ""
+msgstr "QGIS tersedia di Windows, macOS, Linux, Android dan iOS."
 
 #: ../../source/site/forusers/alldownloads.rst:13
 msgid "We recommend installing the packages of the released software."
